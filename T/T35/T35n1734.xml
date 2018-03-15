@@ -662,7 +662,7 @@ Added comment  for Emacs
 <lb n="0498a24" ed="T"/>二。一或先列聲聞。後列菩薩。此通始終頓三
 <lb n="0498a25" ed="T"/>教。如淨名等經辨。二或先列菩薩。後列聲聞。
 <lb n="0498a26" ed="T"/>此通頓教及同教。如羅摩伽經惟樓王經和
-<lb n="0498a27" ed="T"/>休經等辨。三唯列菩薩。<note n="0498008" resp="Taisho" place="foot text" type="orig">中＋（亦）【知】【甲】</note><note n="0498008" resp="CBETA" type="mod">中【大】，中亦【知】【甲】</note><app n="0498008"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【知】【甲】">中亦</rdg></app>二。一雖<note n="0498009" resp="Taisho" place="foot text" type="orig">（唯）ィ＋列【甲】</note><note n="0498009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（唯）ィ＋列【甲】</note><app n="0498009"><lem wit="【大】">列</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">唯列</rdg></app>菩
+<lb n="0498a27" ed="T"/>休經等辨。三唯列菩薩。<note n="0498008" resp="Taisho" place="foot text" type="orig">中＋（亦）【知】【甲】</note><note n="0498008" resp="CBETA" type="mod">中【大】，中亦【知】【甲】</note><app n="0498008"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【知】【甲】">中亦</rdg></app>二。一雖<note n="0498009" resp="Taisho" place="foot text" type="orig">（唯）ィ＋列【甲】</note><note n="0498009" resp="CBETA" type="mod">列【大】，唯列【校異-甲】</note><app n="0498009"><lem wit="【大】">列</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">唯列</rdg></app>菩
 <lb n="0498a28" ed="T"/>薩主伴不具。是同教一乘。如十一面經等辨。
 <lb n="0498a29" ed="T"/>二若主伴具足即別教一乘。如此經說。七權
 <pb n="0498b" xml:id="T35.1734.0498b" ed="T"/>
@@ -890,7 +890,7 @@ Added comment  for Emacs
 <lb n="0500c12" ed="T"/>城東文殊一會。令善財入法界信位。次於可
 <lb n="0500c13" ed="T"/>樂國和合山功德雲比丘令善財得普門光明
 <lb n="0500c14" ed="T"/>三昧觀察正念諸佛法門。乃至第十師子奮
-<lb n="0500c15" ed="T"/>迅城中彌多羅女令善財得般若波羅<choice><corr>蜜</corr><sic>密</sic></choice>普莊
+<lb n="0500c15" ed="T"/>迅城中彌多羅女令善財得般若波羅<note n="0500c1501" resp="CBETA" type="add">蜜【CB】，密【大】</note><app n="0500c1501"><lem wit="【CB】" resp="CBETA">蜜</lem><rdg wit="【大】">密</rdg></app>普莊
 <lb n="0500c16" ed="T"/>嚴法門。已上十位令善財各得一種法門滿
 <lb n="0500c17" ed="T"/>足十住之位。次從救度國善現比丘令善財
 <lb n="0500c18" ed="T"/>得隨順菩薩燈明法門。乃至第十知足城中

@@ -233,7 +233,7 @@ Added comment  for Emacs
 <lb n="0715b20" ed="T"/>垂神禪悅彌入其道妙。雖古之帝王百代未
 <lb n="0715b21" ed="T"/>有如陛下窮理盡性之如此也。是亦佛氏之
 <lb n="0715b22" ed="T"/>徒。際會遭遇陛下萬世之一時也。臣所以拳
-<lb n="0715b23" ed="T"/>拳懇懇不避其<choice><corr>僭</corr><sic>僣</sic></choice>越冒犯之誅。輒以其書與
+<lb n="0715b23" ed="T"/>拳懇懇不避其<note n="0715b2301" resp="CBETA" type="add">僭【CB】，僣【大】</note><app n="0715b2301"><lem wit="【CB】" resp="CBETA">僭</lem><rdg wit="【大】">僣</rdg></app>越冒犯之誅。輒以其書與
 <lb n="0715b24" ed="T"/>圖<note n="0715004" resp="Taisho" place="foot text" type="orig">〔偕〕－【宮】</note><note n="0715004" resp="CBETA" type="mod">偕【大】，〔－〕【宮】</note><app n="0715004"><lem wit="【大】">偕</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>上進。欲幸陛下垂于大藏與經律<note n="0715005" resp="Taisho" place="foot text" type="orig">皆＝偕【宮】</note><note n="0715005" resp="CBETA" type="mod">皆【大】，偕【宮】</note><app n="0715005"><lem wit="【大】">皆</lem><rdg resp="Taisho" wit="【宮】">偕</rdg></app>
 <lb n="0715b25" ed="T"/>傳。臣螻蟻之生已及遲暮。於世固無所待。
 <lb n="0715b26" ed="T"/>其區區但欲教法不微不昧而流播無窮。人
@@ -1031,7 +1031,7 @@ Added comment  for Emacs
 <lb n="0724b07" ed="T"/>壇之上現其瑞相。空中復雨舍利三七粒。然
 <lb n="0724b08" ed="T"/>尊者修行精苦未嘗寢寐。雖晝夜而脇不至
 <lb n="0724b09" ed="T"/>席。以故得號脇尊者。既預付法。乃遊化他土。
-<lb n="0724b10" ed="T"/>尋至花氏國。而憩於<note n="0724003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避字）夾註【宮】</note><note n="0724003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹避字【宮】</note><app n="0724003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>下。遽以右手指地
+<lb n="0724b10" ed="T"/>尋至花氏國。而憩於<note n="0724003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避字）夾註【宮】</note><note n="0724003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹(避字)【宮】</note><app n="0724003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>下。遽以右手指地
 <lb n="0724b11" ed="T"/>而謂眾曰。此地變金色。當有聖者入。會少頃
 <lb n="0724b12" ed="T"/>其地果為金色。俄有一長者之子。曰富那夜
 <lb n="0724b13" ed="T"/>奢。遽至其前合掌而立。脇尊者遂問曰。汝從
@@ -1164,7 +1164,7 @@ Added comment  for Emacs
 <lb n="0725c19" ed="T"/><item xml:id="itemT51p0725c1901">天竺第十九祖鳩摩羅多大士傳</item>
 <lb n="0725c20" ed="T"/><item xml:id="itemT51p0725c2001">天竺第二十祖闍夜多大士傳</item></list>
 <lb n="0725c21" ed="T"/><cb:mulu level="1" type="其他">天竺第十二祖馬鳴大士傳</cb:mulu><head>天竺第十二祖馬鳴大士傳</head>
-<lb n="0725c22" ed="T"/><p xml:id="pT51p0725c2201"><choice><corr>馬</corr><sic>鳥</sic></choice>鳴大士者。波羅柰國人也。未詳其姓氏。亦
+<lb n="0725c22" ed="T"/><p xml:id="pT51p0725c2201"><note n="0725c2201" resp="CBETA" type="add">馬【CB】，鳥【大】</note><app n="0725c2201"><lem wit="【CB】" resp="CBETA">馬</lem><rdg wit="【大】">鳥</rdg></app>鳴大士者。波羅柰國人也。未詳其姓氏。亦
 <lb n="0725c23" ed="T"/>名功勝。蓋以其夙有功德殊勝而命之。然初
 <lb n="0725c24" ed="T"/>詣富那夜奢尊者。以問答有所合。乃慕其道。
 <lb n="0725c25" ed="T"/>遂從之出家受戒。夜奢因謂之曰。汝夙世以
@@ -1252,7 +1252,7 @@ Added comment  for Emacs
 <lb n="0726c17" ed="T"/><l>悟此隱顯法</l><l>非愚亦非智</l></lg>
 <lb n="0726c18" ed="T"/><p xml:id="pT51p0726c1801">大士付法已。遽超身太虛。逞其神變。乃趣寂
 <lb n="0726c19" ed="T"/>滅。以化火自焚。是時當此周𧹞王之世也。龍
-<lb n="0726c20" ed="T"/><app type="star" corresp="#0725005"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木</rdg></app>遂<choice><corr>斂</corr><sic>歛</sic></choice>其五色舍利。建寶塔以閟之。</p>
+<lb n="0726c20" ed="T"/><app type="star" corresp="#0725005"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木</rdg></app>遂<note n="0726c2001" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0726c2001"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>其五色舍利。建寶塔以閟之。</p>
 <lb n="0726c21" ed="T"/><p xml:id="pT51p0726c2101">評曰。寶林傳燈二書。皆書天竺諸祖入滅之
 <lb n="0726c22" ed="T"/>時。以合華夏周秦之歲甲。然周自宣王已前
 <lb n="0726c23" ed="T"/>未始有年。又支竺相遠數萬餘里。其人化滅
@@ -1441,7 +1441,7 @@ Added comment  for Emacs
 <lb n="0728c26" ed="T"/>其眾心未伏於已。乃謂羅多曰。世尊在日。世
 <lb n="0728c27" ed="T"/>界平正無有堆阜江河溝洫。水皆甘美草木
 <lb n="0728c28" ed="T"/>滋茂國土豐盈。人無八苦而行十善。及乎雙
-<lb n="0728c29" ed="T"/>林示滅。今將欲千年。而世界丘墟<note n="0728003" resp="Taisho" place="foot text" type="orig">樹＝林【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0728003" resp="CBETA" type="mod">樹【大】，林【宮】，樹本字避御名【宮】</note><app n="0728003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">林<note place="inline">本字避御名</note></rdg></app>木枯
+<lb n="0728c29" ed="T"/>林示滅。今將欲千年。而世界丘墟<note n="0728003" resp="Taisho" place="foot text" type="orig">樹＝林【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0728003" resp="CBETA" type="mod">樹【大】，林【宮】，樹(本字避御名)【宮】</note><app n="0728003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">林<note place="inline">本字避御名</note></rdg></app>木枯
 <pb n="0729a" xml:id="T51.2078.0729a" ed="T"/>
 <lb n="0729a01" ed="T"/>悴。人寡至信正念輕微。不務妙悟但樂神力。
 <lb n="0729a02" ed="T"/>然我自不為。為亦何難。即展右手入地至于
@@ -1513,7 +1513,7 @@ Added comment  for Emacs
 <lb n="0729c08" ed="T"/>之世也。其眾議曰。大士滅度於茂木之下。其
 <lb n="0729c09" ed="T"/>亦垂蔭於後裔乎。或者欲遷於高原而闍維
 <lb n="0729c10" ed="T"/>之。雖盡力舉之。終不能動。遂即其處而焚之。
-<lb n="0729c11" ed="T"/><choice><corr>斂</corr><sic>歛</sic></choice>舍利復塔于彼。</p></cb:div>
+<lb n="0729c11" ed="T"/><note n="0729c1101" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0729c1101"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>舍利復塔于彼。</p></cb:div>
 <lb n="0729c12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">天竺第十八祖伽耶舍多大士傳</cb:mulu><head>天竺第十八祖伽耶舍多大士傳</head>
 <lb n="0729c13" ed="T"/><p xml:id="pT51p0729c1301">伽耶舍多者。摩提國人也。姓欝頭藍氏。父曰
 <lb n="0729c14" ed="T"/>天蓋。母曰方聖。初方聖得孕之時。夢有人
@@ -1782,7 +1782,7 @@ Added comment  for Emacs
 <lb n="0732c15" ed="T"/><l>達法在其中</l><l>非今亦非古</l></lg>
 <lb n="0732c16" ed="T"/><p xml:id="pT51p0732c1601">大士付法已。即座超身。高半由旬凝然而居。
 <lb n="0732c17" ed="T"/>四眾遽告曰。我輩欲奉舍利。願尊者無為神
-<lb n="0732c18" ed="T"/>化。乃頹然復其座而滅。焚已眾<choice><corr>斂</corr><sic>歛</sic></choice>舍利。建寶
+<lb n="0732c18" ed="T"/>化。乃頹然復其座而滅。焚已眾<note n="0732c1801" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0732c1801"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>舍利。建寶
 <lb n="0732c19" ed="T"/>塔而供養之。其時當後漢孝安帝之世也。</p></cb:div>
 <lb n="0732c20" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">天竺第二十二祖摩拏羅大士傳</cb:mulu><head>天竺第二十二祖摩拏羅大士傳</head>
 <lb n="0732c21" ed="T"/><p xml:id="pT51p0732c2101">摩拏羅尊者。那提國人也。姓剎帝利。父曰常
@@ -2377,7 +2377,7 @@ Added comment  for Emacs
 <lb n="0739b13" ed="T"/><lg xml:id="lgT51p0739b1301"><l>心地生諸種</l><l>因事復生理</l>
 <lb n="0739b14" ed="T"/><l>果滿菩提圓</l><l>花開世界起</l></lg>
 <lb n="0739b15" ed="T"/><p xml:id="pT51p0739b1501">已而般若多羅於其座展左右手。各放五色
-<lb n="0739b16" ed="T"/>祥光。七十餘道。尋超身高七多羅<note n="0739003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避御名）夾註【宮】＊</note><note n="0739003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹避御名【宮】＊</note><app n="0739003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避御名</note></rdg></app>。即以
+<lb n="0739b16" ed="T"/>祥光。七十餘道。尋超身高七多羅<note n="0739003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避御名）夾註【宮】＊</note><note n="0739003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹(避御名)【宮】＊</note><app n="0739003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避御名</note></rdg></app>。即以
 <lb n="0739b17" ed="T"/>化火自焚。雨舍利不可勝數。四眾斂之。與其
 <lb n="0739b18" ed="T"/>國之王月淨建浮圖而閟之。是時當此宋孝
 <lb n="0739b19" ed="T"/>武帝之世也<note place="inline">以達磨六十七年後方東來。算之當在宋孝建元年甲午也</note>。</p>
@@ -2689,7 +2689,7 @@ Added comment  for Emacs
 <lb n="0742c25" ed="T"/>信。緇白之眾皆靡然趨於尊者。然其聲既振。
 <lb n="0742c26" ed="T"/>遂聞於魏朝。孝明帝嘗三詔不動。帝亦高之。
 <lb n="0742c27" ed="T"/>遂就錫二摩納袈裟金銀器物若干。尊者皆
-<lb n="0742c28" ed="T"/><note n="0742003" resp="Taisho" place="foot text" type="orig">讓＝遜【宮】，讓＋（字避國諱）夾註【宮】</note><note n="0742003" resp="CBETA" type="mod">讓【大】，遜【宮】，讓字避國諱【宮】</note><app n="0742003"><lem wit="【大】">讓</lem><rdg resp="Taisho" wit="【宮】">遜<note place="inline">字避國諱</note></rdg></app>去凡三返。帝終授之。居魏方九年。尊者
+<lb n="0742c28" ed="T"/><note n="0742003" resp="Taisho" place="foot text" type="orig">讓＝遜【宮】，讓＋（字避國諱）夾註【宮】</note><note n="0742003" resp="CBETA" type="mod">讓【大】，遜【宮】，讓(字避國諱)【宮】</note><app n="0742003"><lem wit="【大】">讓</lem><rdg resp="Taisho" wit="【宮】">遜<note place="inline">字避國諱</note></rdg></app>去凡三返。帝終授之。居魏方九年。尊者
 <lb n="0742c29" ed="T"/>一旦遽謂其徒曰。吾西返之時至矣。汝輩宜
 <pb n="0743a" xml:id="T51.2078.0743a" ed="T"/>
 <lb n="0743a01" ed="T"/>各言所詣。時有謂道副者。先之曰。如我所
@@ -2863,7 +2863,7 @@ Added comment  for Emacs
 <lb n="0744c21" ed="T"/>骨非常痛也。以告其師。即罷不敢治。及曉
 <lb n="0744c22" ed="T"/>視其元骨果五處峯起。其師曰。異乎汝必有
 <lb n="0744c23" ed="T"/>勝遇行矣。無失其時。然其為人曠達有遠量。
-<lb n="0744c24" ed="T"/>雖有所出<choice><corr>入</corr><sic>人</sic></choice>。而未甞輒發。混然自隱。故久於
+<lb n="0744c24" ed="T"/>雖有所出<note n="0744c2401" resp="CBETA" type="add">入【CB】，人【大】</note><app n="0744c2401"><lem wit="【CB】" resp="CBETA">入</lem><rdg wit="【大】">人</rdg></app>。而未甞輒發。混然自隱。故久於
 <lb n="0744c25" ed="T"/>京洛而世莫之知。及會菩提達磨授道易名。
 <lb n="0744c26" ed="T"/>當為法師宗。學者乃知其有大德。競歸如水
 <lb n="0744c27" ed="T"/>沛然趨下。一日俄有號居士者。年四十許以
@@ -3011,7 +3011,7 @@ Added comment  for Emacs
 <lb n="0746b19" ed="T"/>號有博學。眾方尊為冠首。莫敢先之者。神秀
 <lb n="0746b20" ed="T"/>自以為眾所推。一夕遂作偈。書於寺廊之壁
 <lb n="0746b21" ed="T"/>曰。</p>
-<lb n="0746b22" ed="T"/><lg xml:id="lgT51p0746b2201"><l>身是菩提<note n="0746003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避御名）夾註【宮】</note><note n="0746003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹避御名【宮】</note><app n="0746003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避御名</note></rdg></app></l><l>心如明鏡臺</l>
+<lb n="0746b22" ed="T"/><lg xml:id="lgT51p0746b2201"><l>身是菩提<note n="0746003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避御名）夾註【宮】</note><note n="0746003" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹(避御名)【宮】</note><app n="0746003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避御名</note></rdg></app></l><l>心如明鏡臺</l>
 <lb n="0746b23" ed="T"/><l>時時勤拂拭</l><l>莫使惹塵埃</l></lg>
 <lb n="0746b24" ed="T"/><p xml:id="pT51p0746b2401">尊者見賞之曰。後世若依。此修行亦得勝果。
 <lb n="0746b25" ed="T"/>勉眾誦之。慧能適聞。乃問其誦者曰。此誰所
@@ -3406,7 +3406,7 @@ Added comment  for Emacs
 <lb n="0750c21" ed="T"/>者。一曰忻州打地和尚者。一曰秀溪和尚者。
 <lb n="0750c22" ed="T"/>一曰馬頭峯神藏者。一曰華林善覺者。一曰
 <lb n="0750c23" ed="T"/>水塘和尚者。一曰古寺和尚者。一曰江西椑
-<lb n="0750c24" ed="T"/><note n="0750004" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0750004" resp="CBETA" type="mod">樹【大】，木【宮】，樹本字避御名【宮】</note><app n="0750004"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">本字避御名</note></rdg></app>和尚者。一曰京兆草堂和尚者。一曰陽岐
+<lb n="0750c24" ed="T"/><note n="0750004" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0750004" resp="CBETA" type="mod">樹【大】，木【宮】，樹(本字避御名)【宮】</note><app n="0750004"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">本字避御名</note></rdg></app>和尚者。一曰京兆草堂和尚者。一曰陽岐
 <lb n="0750c25" ed="T"/>甄叔者。一曰濛溪和尚者。一曰黑㵎和尚者。
 <lb n="0750c26" ed="T"/>一曰興平和尚者。一曰逍遙和尚者。一曰福
 <lb n="0750c27" ed="T"/>溪和尚者。一曰水老和尚者。一曰浮盃和尚
@@ -3441,7 +3441,7 @@ Added comment  for Emacs
 <lb n="0751a26" ed="T"/>者。一曰丹霞慧勤者。</p>
 <lb n="0751a27" ed="T"/><p xml:id="pT51p0751a2701">大鑒之四世。曰藥山惟儼禪師。其所出法嗣
 <lb n="0751a28" ed="T"/>九人。一曰道吾圓智者。一曰雲巖曇晟者。一
-<lb n="0751a29" ed="T"/>曰華亭船子德誠者。一曰宣州椑<note n="0751001" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避字）夾註【宮】＊</note><note n="0751001" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹避字【宮】＊</note><app n="0751001"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>慧省者。
+<lb n="0751a29" ed="T"/>曰華亭船子德誠者。一曰宣州椑<note n="0751001" resp="Taisho" place="foot text" type="orig">樹＝木【宮】＊，樹＋（避字）夾註【宮】＊</note><note n="0751001" resp="CBETA" type="mod">樹【大】＊，木【宮】＊，樹(避字)【宮】＊</note><app n="0751001"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>慧省者。
 <pb n="0751b" xml:id="T51.2078.0751b" ed="T"/>
 <lb n="0751b01" ed="T"/>一曰藥山高沙彌者。一曰鄂州百顏明哲者。
 <lb n="0751b02" ed="T"/>一曰郢州涇源光宓者。一曰藥山蘷禪師者。
@@ -3753,7 +3753,7 @@ Added comment  for Emacs
 <lb n="0754c08" ed="T"/><p xml:id="pT51p0754c0801">大鑒之六世。曰舒州投子山大同禪師。其所
 <lb n="0754c09" ed="T"/>出法嗣凡一十三人。一曰第二世投子溫禪
 <lb n="0754c10" ed="T"/>師者。一曰福州牛頭微禪師者。一曰西川香
-<lb n="0754c11" ed="T"/>山澄照者。一曰<choice><corr>陝</corr><sic>陜</sic></choice>府天福和尚者。一曰濠州
+<lb n="0754c11" ed="T"/>山澄照者。一曰<note n="0754c1101" resp="CBETA" type="add">陝【CB】，陜【大】</note><app n="0754c1101"><lem wit="【CB】" resp="CBETA">陝</lem><rdg wit="【大】">陜</rdg></app>府天福和尚者。一曰濠州
 <lb n="0754c12" ed="T"/>思明者。一曰鳳翔招福者。一曰興元中梁山
 <lb n="0754c13" ed="T"/>遵古者。一曰襄州谷隱和尚者。一曰安州九
 <lb n="0754c14" ed="T"/>𡽀山和尚者。一曰幽州盤山第二世和尚者。
@@ -3817,7 +3817,7 @@ Added comment  for Emacs
 <lb n="0755b12" ed="T"/>龍興和尚者。一曰潭州伏龍山第一世和尚
 <lb n="0755b13" ed="T"/>者。一曰潭州伏龍山第二世和尚者。一曰京
 <lb n="0755b14" ed="T"/>兆白雲善藏者。一曰潭州伏龍山第三世和
-<lb n="0755b15" ed="T"/>尚者。一曰<choice><corr>陝</corr><sic>陜</sic></choice>府龍陵山和尚者。一曰大光山
+<lb n="0755b15" ed="T"/>尚者。一曰<note n="0755b1501" resp="CBETA" type="add">陝【CB】，陜【大】</note><app n="0755b1501"><lem wit="【CB】" resp="CBETA">陝</lem><rdg wit="【大】">陜</rdg></app>府龍陵山和尚者。一曰大光山
 <lb n="0755b16" ed="T"/>玄禪師者。一曰漳州藤霞和尚者。一曰宋州
 <lb n="0755b17" ed="T"/>淨覺和尚者。一曰華州證和尚者。一曰鄂州
 <lb n="0755b18" ed="T"/>永壽和尚者。一曰鄂州靈竹和尚者。</p>
@@ -3921,7 +3921,7 @@ Added comment  for Emacs
 <lb n="0756b26" ed="T"/>兆白雲無休者。</p>
 <lb n="0756b27" ed="T"/><p xml:id="pT51p0756b2701">大鑒之七世。曰袁州盤龍山可文禪師。其所
 <lb n="0756b28" ed="T"/>出法嗣五人。一曰江州廬山永安淨悟者。一
-<lb n="0756b29" ed="T"/>曰袁州木平山善道者。一曰<choice><corr>陝</corr><sic>陜</sic></choice>府龍谿和尚
+<lb n="0756b29" ed="T"/>曰袁州木平山善道者。一曰<note n="0756b2901" resp="CBETA" type="add">陝【CB】，陜【大】</note><app n="0756b2901"><lem wit="【CB】" resp="CBETA">陝</lem><rdg wit="【大】">陜</rdg></app>府龍谿和尚
 <pb n="0756c" xml:id="T51.2078.0756c" ed="T"/>
 <lb n="0756c01" ed="T"/>者。一曰桂陽志通者。一曰廬州壽昌淨寂
 <lb n="0756c02" ed="T"/>者。</p>
@@ -4001,7 +4001,7 @@ Added comment  for Emacs
 <lb n="0757b15" ed="T"/>家得戒。學經律論未幾皆通。及參訪善知識。
 <lb n="0757b16" ed="T"/>一見睦州陳尊宿。大達宗旨。尋印可於雪峯
 <lb n="0757b17" ed="T"/>存禪師。自是匿曜一混於眾。因南游至韶陽
-<lb n="0757b18" ed="T"/>靈<note n="0757003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0757003" resp="CBETA" type="mod">樹【大】，木【宮】，樹本字避御名【宮】</note><app n="0757003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">本字避御名</note></rdg></app>敏禪師法會。敏異人也。號能懸知。見
+<lb n="0757b18" ed="T"/>靈<note n="0757003" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（本字避御名）夾註【宮】</note><note n="0757003" resp="CBETA" type="mod">樹【大】，木【宮】，樹(本字避御名)【宮】</note><app n="0757003"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">本字避御名</note></rdg></app>敏禪師法會。敏異人也。號能懸知。見
 <lb n="0757b19" ed="T"/>偃特相器重。遂命為<note n="0757004" resp="Taisho" place="foot text" type="orig">（其）＋眾【宮】</note><note n="0757004" resp="CBETA" type="mod">眾【大】，其眾【宮】</note><app n="0757004"><lem wit="【大】">眾</lem><rdg resp="Taisho" wit="【宮】">其眾</rdg></app>之第一座。及逝因遺
 <lb n="0757b20" ed="T"/>書薦於廣主劉氏。命禪師繼領其所居。其後
 <lb n="0757b21" ed="T"/>劉氏復治雲門大伽藍。遷偃居之。其聲遂大
@@ -4738,7 +4738,7 @@ Added comment  for Emacs
 <pb n="0765c" xml:id="T51.2078.0765c" ed="T"/>
 <lb n="0765c01" ed="T"/>凡十有九人。一曰五臺山巨方者。一曰河中
 <lb n="0765c02" ed="T"/>智封者。一曰兗州降魔藏禪師者。一曰壽州
-<lb n="0765c03" ed="T"/>道<note n="0765013" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（避字）夾註【宮】</note><note n="0765013" resp="CBETA" type="mod">樹【大】，木【宮】，樹避字【宮】</note><app n="0765013"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>者。一曰淮南全植者。一曰荊州辭朗
+<lb n="0765c03" ed="T"/>道<note n="0765013" resp="Taisho" place="foot text" type="orig">樹＝木【宮】，樹＋（避字）夾註【宮】</note><note n="0765013" resp="CBETA" type="mod">樹【大】，木【宮】，樹(避字)【宮】</note><app n="0765013"><lem wit="【大】">樹</lem><rdg resp="Taisho" wit="【宮】">木<note place="inline">避字</note></rdg></app>者。一曰淮南全植者。一曰荊州辭朗
 <lb n="0765c04" ed="T"/>者。一曰嵩山普寂者。一曰大佛香育者。一曰
 <lb n="0765c05" ed="T"/>西京義福者。一曰忽雷澄禪師者。一曰東京
 <lb n="0765c06" ed="T"/>日禪師者。一曰太原遍淨者。一曰南岳元觀
@@ -4773,7 +4773,7 @@ Added comment  for Emacs
 <lb n="0766a05" ed="T"/>南嶽澄心者。一曰南嶽日照者。一曰洛京幹
 <lb n="0766a06" ed="T"/>禪師者。一曰蘇州真亮者。一曰瓦官<g ref="#CB04636"/>禪師
 <lb n="0766a07" ed="T"/>者。一曰弋陽法融者。一曰廣陵演禪師者。一
-<lb n="0766a08" ed="T"/>曰<choice><corr>陝</corr><sic>陜</sic></choice>州慧空者。一曰洛京真亮者。一曰澤州
+<lb n="0766a08" ed="T"/>曰<note n="0766a0801" resp="CBETA" type="add">陝【CB】，陜【大】</note><app n="0766a0801"><lem wit="【CB】" resp="CBETA">陝</lem><rdg wit="【大】">陜</rdg></app>州慧空者。一曰洛京真亮者。一曰澤州
 <lb n="0766a09" ed="T"/>亘月者。一曰<note n="0766a0901" resp="CBETA" type="add">亳【CB】，毫【大】</note><app n="0766a0901"><lem wit="【CB】" resp="CBETA.maha">亳</lem><rdg wit="【大】">毫</rdg></app>州曇真者。一曰都梁山崇演
 <lb n="0766a10" ed="T"/>者。一曰京兆澄禪師者。一曰嵩陽寺一行者。
 <lb n="0766a11" ed="T"/>一曰京兆融禪師者。一曰曹州定陶丁居<note n="0766001" resp="Taisho" place="foot text" type="orig">十＝士【宮】</note><note n="0766001" resp="CBETA" type="mod">十【大】，士【宮】</note><app n="0766001"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宮】">士</rdg></app>
@@ -4824,7 +4824,7 @@ Added comment  for Emacs
 <lb n="0766b26" ed="T"/>那之弟子也。性素聰晤。能通大小乘學。其國
 <lb n="0766b27" ed="T"/>號為三藏。以漢獻帝之世至乎雒邑。嘗與沙
 <lb n="0766b28" ed="T"/>門康孟詳。譯正二本起經。一日所館有白光
-<lb n="0766b29" ed="T"/>一道忽發於前。大力<choice><corr>斂</corr><sic>歛</sic></choice>容曰。此光乃我師鶴
+<lb n="0766b29" ed="T"/>一道忽發於前。大力<note n="0766b2901" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0766b2901"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>容曰。此光乃我師鶴
 <pb n="0766c" xml:id="T51.2078.0766c" ed="T"/>
 <lb n="0766c01" ed="T"/>勒那入滅之相也。眾異之遂以聞帝。帝即命
 <lb n="0766c02" ed="T"/>誌之。其時已丑歲也。尋游江南。適值孫權

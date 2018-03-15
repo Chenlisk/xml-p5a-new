@@ -232,7 +232,7 @@ add cvs log
 <lb n="0826b21" ed="T"/><p xml:id="pT08p0826b2101">白佛言：「世尊！護十地行菩薩云何行可行？
 <lb n="0826b22" ed="T"/>云何行化眾生？以何相眾生可化？」佛言：「大
 <lb n="0826b23" ed="T"/>王！五忍是菩薩法：伏忍上中下、信忍上中下、
-<lb n="0826b24" ed="T"/>順忍上中下、無生忍上中下、寂滅忍<note n="0826008" resp="Taisho" place="foot text" type="orig">上＋（中）【三】</note><note n="0826008" resp="CBETA" type="mod">上中【宋】【元】【明】【CB】，上【大】</note><app n="0826008"><lem resp="CBETA.maha" wit="【CBETA】">上中</lem><rdg wit="【大】">上</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">上中</rdg></app>下，
+<lb n="0826b24" ed="T"/>順忍上中下、無生忍上中下、寂滅忍<note n="0826008" resp="Taisho" place="foot text" type="orig">上＋（中）【三】</note><note n="0826008" resp="CBETA" type="mod">上中【CB】【宋】【元】【明】，上【大】</note><app n="0826008"><lem resp="CBETA.maha" wit="【CBETA】">上中</lem><rdg wit="【大】">上</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">上中</rdg></app>下，
 <lb n="0826b25" ed="T"/>名為諸佛菩薩修般若波羅蜜。</p><p xml:id="pT08p0826b2513" rend="inline">「善男子！初
 <lb n="0826b26" ed="T"/>發<note n="0826009" resp="Taisho" place="foot text" type="orig">想＝相【三】＊</note><note n="0826009" resp="CBETA" type="mod">想【大】＊，相【宋】＊【元】＊【明】＊</note><app n="0826009"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【宋】【元】【明】">相</rdg></app>信，恒河沙眾生修行伏忍，於三寶中
 <lb n="0826b27" ed="T"/>生習種性十心：信心、精進心、念心、慧心、定心、
@@ -348,7 +348,7 @@ add cvs log
 <lb n="0827c16" ed="T"/><l>三界愛習順道定，</l><l>遠達正士獨諦了，</l>
 <lb n="0827c17" ed="T"/><l>等觀菩薩二禪王，</l><l>變生法身無量光。</l>
 <lb n="0827c18" ed="T"/><l>入百恒土化一切，</l><l>圓照三世恒劫事，</l>
-<lb n="0827c19" ed="T"/><l><note n="0827022" resp="Taisho" place="foot text" type="orig">返＝反【三】</note><note n="0827022" resp="CBETA" type="mod">返【大】，反【宋】【元】【明】</note><app n="0827022"><lem wit="【大】">返</lem><rdg resp="Taisho" wit="【宋】【元】【明】">反</rdg></app>照樂虛無盡<choice><corr><space quantity="0"/></corr><sic>[＊]</sic></choice>原，</l><l>於第三諦常寂然。</l>
+<lb n="0827c19" ed="T"/><l><note n="0827022" resp="Taisho" place="foot text" type="orig">返＝反【三】</note><note n="0827022" resp="CBETA" type="mod">返【大】，反【宋】【元】【明】</note><app n="0827022"><lem wit="【大】">返</lem><rdg resp="Taisho" wit="【宋】【元】【明】">反</rdg></app>照樂虛無盡<note n="0827c1901" resp="CBETA" type="add">［－］【CB】，[＊]【大】</note><app n="0827c1901"><lem wit="【CB】" resp="CBETA"><space quantity="0"/></lem><rdg wit="【大】">[＊]</rdg></app>原，</l><l>於第三諦常寂然。</l>
 <lb n="0827c20" ed="T"/><l>慧光開士三禪王，</l><l>能於千恒一時現，</l>
 <lb n="0827c21" ed="T"/><l><note n="0827023" resp="Taisho" place="foot text" type="orig">常＝當【宋】</note><note n="0827023" resp="CBETA" type="mod">常【大】，當【宋】</note><app n="0827023"><lem wit="【大】">常</lem><rdg resp="Taisho" wit="【宋】">當</rdg></app>在無為空寂行，</l><l>恒沙佛藏一念了。</l>
 <lb n="0827c22" ed="T"/><l><note n="0827c2201" resp="CBETA" type="add">灌【CB】【麗-CB】【磧砂-CB】，漢【大】</note><app n="0827c2201"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">灌<note type="cf1">K05n0019_p1025a13</note><note type="cf2">Q05_p0392b05</note></lem><rdg wit="【大】">漢</rdg></app>頂菩薩四禪王，</l><l>於億恒土化群生，</l>
@@ -358,7 +358,7 @@ add cvs log
 <lb n="0827c26" ed="T"/><l>無明習相故煩惱，</l><l>二諦理窮一切盡，</l>
 <lb n="0827c27" ed="T"/><l>圓智無相三界王，</l><l>三十生盡等大覺。</l>
 <lb n="0827c28" ed="T"/><l>大寂無為金剛藏，</l><l>一切報盡無極悲，</l>
-<lb n="0827c29" ed="T"/><l>第一義諦常安隱，</l><l>窮<choice><corr><space quantity="0"/></corr><sic>[＊]</sic></choice>原盡性妙智存。</l>
+<lb n="0827c29" ed="T"/><l>第一義諦常安隱，</l><l>窮<note n="0827c2901" resp="CBETA" type="add">［－］【CB】，[＊]【大】</note><app n="0827c2901"><lem wit="【CB】" resp="CBETA"><space quantity="0"/></lem><rdg wit="【大】">[＊]</rdg></app>原盡性妙智存。</l>
 <pb n="0828a" xml:id="T08.0245.0828a" ed="T"/>
 <lb n="0828a01" ed="T"/><l>三賢十聖住果報，</l><l><app type="star" corresp="#0827016"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惟</rdg></app>佛一人居淨土，</l>
 <lb n="0828a02" ed="T"/><l>一切眾生暫住報，</l><l>登金剛原居淨土。</l>
@@ -830,7 +830,7 @@ add cvs log
 <lb n="0833a18" ed="T"/>一切諸王：憍薩羅國、<note n="0833006" resp="Taisho" place="foot text" type="orig">（毘舍離國）＋舍【三】</note><note n="0833006" resp="CBETA" type="mod">舍【大】，毘舍離國舍【宋】【元】【明】</note><app n="0833006"><lem wit="【大】">舍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">毘舍離國舍</rdg></app>衛國、摩竭提國、波
 <lb n="0833a19" ed="T"/>羅㮈國、迦夷羅衛國、鳩尸那國、鳩睒彌國、鳩
 <lb n="0833a20" ed="T"/>留國、𦋺賓國、<note n="0833007" resp="Taisho" place="foot text" type="orig">〔彌提國〕－【三】</note><note n="0833007" resp="CBETA" type="mod">彌提國【大】，〔－〕【宋】【元】【明】</note><app n="0833007"><lem wit="【大】">彌提國</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>、伽羅乾國、乾陀衛國、
-<lb n="0833a21" ed="T"/>沙陀國、僧伽陀國、<note n="0833a2101" resp="CBETA" type="add">健【CB】【麗-CB】，揵【大】</note><app n="0833a2101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">健<note type="cf1">K05n0019_p1032c03</note></lem><rdg wit="【大】">揵</rdg></app><note n="0833008" resp="Taisho" place="foot text" type="orig">拏＝挐【三】</note><note n="0833008" resp="CBETA" type="mod">挐【宋】【元】【明】【麗-CB】【CB】，拏【大】</note><app n="0833008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">挐<note type="cf1">K05n0019_p1032c03</note></lem><rdg wit="【大】">拏</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">挐</rdg></app>掘闍國、波提國，如
+<lb n="0833a21" ed="T"/>沙陀國、僧伽陀國、<note n="0833a2101" resp="CBETA" type="add">健【CB】【麗-CB】，揵【大】</note><app n="0833a2101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">健<note type="cf1">K05n0019_p1032c03</note></lem><rdg wit="【大】">揵</rdg></app><note n="0833008" resp="Taisho" place="foot text" type="orig">拏＝挐【三】</note><note n="0833008" resp="CBETA" type="mod">挐【CB】【麗-CB】【宋】【元】【明】，拏【大】</note><app n="0833008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">挐<note type="cf1">K05n0019_p1032c03</note></lem><rdg wit="【大】">拏</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">挐</rdg></app>掘闍國、波提國，如
 <lb n="0833a22" ed="T"/>是一切<note n="0833009" resp="Taisho" place="foot text" type="orig">〔諸〕－【三】</note><note n="0833009" resp="CBETA" type="mod">諸【大】，〔－〕【宋】【元】【明】</note><app n="0833009"><lem wit="【大】">諸</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>國<note n="0833010" resp="Taisho" place="foot text" type="orig">〔王等皆應〕－【三】</note><note n="0833010" resp="CBETA" type="mod">王等皆應【大】，〔－〕【宋】【元】【明】</note><app n="0833010"><lem wit="【大】">王等皆應</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>受持般若波羅蜜。」</p>
 <lb n="0833a23" ed="T"/><p xml:id="pT08p0833a2301">時諸大眾<note n="0833011" resp="Taisho" place="foot text" type="orig">〔及〕－【三】</note><note n="0833011" resp="CBETA" type="mod">及【大】，〔－〕【宋】【元】【明】</note><app n="0833011"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>阿須輪王，聞佛說未來世七
 <lb n="0833a24" ed="T"/>可畏，身毛為竪，呼聲大叫而言：「願不生彼

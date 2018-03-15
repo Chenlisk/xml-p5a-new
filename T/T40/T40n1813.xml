@@ -2587,7 +2587,7 @@ Added comment  for Emacs
 <lb n="0629b09" ed="T"/>外。況由讚毀非理得耶。是故菩薩理不應為。
 <lb n="0629b10" ed="T"/>護國菩薩經云。有四種法應當
 <note n="0629003" resp="Taisho" place="foot text" type="orig">奇＝棄【甲】＊</note>
-<note n="0629003" resp="CBETA" type="mod">棄【甲】＊【CB】＊，奇【大】＊</note><app n="0629003"><lem resp="CBETA.maha" wit="【CBETA】">棄<note type="cf1">T11n0310_p0459c13-15</note></lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>捨。一者菩
+<note n="0629003" resp="CBETA" type="mod">棄【CB】＊【甲】＊，奇【大】＊</note><app n="0629003"><lem resp="CBETA.maha" wit="【CBETA】">棄<note type="cf1">T11n0310_p0459c13-15</note></lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>捨。一者菩
 <lb n="0629b11" ed="T"/>薩<app type="star" corresp="#0629003"><lem resp="CBETA.maha" wit="【CBETA】">棄</lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>捨居家。二者既出家已不貪利養。三者
 <lb n="0629b12" ed="T"/>離諸檀越。四者不惜身命。是為四法。應當<app type="star" corresp="#0629003"><lem resp="CBETA.maha" wit="【CBETA】">棄</lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>
 <lb n="0629b13" ed="T"/>捨。如是准也。</p><p xml:id="pT40p0629b1306" rend="inline">第九通局中有二。先通後局。
@@ -2859,7 +2859,7 @@ Added comment  for Emacs
 <lb n="0632b08" ed="T"/>於前四內於尊境因小事起重瞋作大損為最
 <lb n="0632b09" ed="T"/>重。餘如次相合。及非次等各有輕重。准思可
 <lb n="0632b10" ed="T"/>知見。</p><p xml:id="pT40p0632b1003" rend="inline">第七得報者略顯十種。一瞋恚得十
-<lb n="0632b11" ed="T"/>罪。如智論。二由瞋故入八大地<choice><corr>獄</corr><sic>嶽</sic></choice>。如善戒經
+<lb n="0632b11" ed="T"/>罪。如智論。二由瞋故入八大地<note n="0632b1101" resp="CBETA" type="add">獄【CB】，嶽【大】</note><app n="0632b1101"><lem wit="【CB】" resp="CBETA">獄</lem><rdg wit="【大】">嶽</rdg></app>。如善戒經
 <lb n="0632b12" ed="T"/>第一卷說。三亦墮餓鬼畜生。華嚴經云。瞋恚
 <lb n="0632b13" ed="T"/>罪上者地獄因。中者畜生。下者餓鬼。此上是
 <lb n="0632b14" ed="T"/>報果。四等流果者。經云。若生人中得二種果
@@ -3323,7 +3323,7 @@ Added comment  for Emacs
 <lb n="0637b22" ed="T"/>誡而不驅擯。是名有犯。有所違越是染污犯。
 <lb n="0637b23" ed="T"/>若由懶墮懈怠放逸而不呵嘖乃至驅擯非染
 <lb n="0637b24" ed="T"/>違犯。<note n="0637012" resp="Taisho" place="foot text" type="orig">無＋（違）【甲】</note><note n="0637012" resp="CBETA" type="mod">無【大】，無違【甲】</note><app n="0637012"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【甲】">無違</rdg></app>犯者若了知彼不可療治。不可與
-<lb n="0637b25" ed="T"/>語。喜出麁言。多生嫌恨故應<note n="0637013" resp="Taisho" place="foot text" type="orig">奇＝棄【甲】</note><note n="0637013" resp="CBETA" type="mod">棄【甲】【CB】，奇【大】</note><app n="0637013"><lem resp="CBETA.maha" wit="【CBETA】">棄<note type="cf1">T24n1501_p1115b14</note></lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>捨。若觀待
+<lb n="0637b25" ed="T"/>語。喜出麁言。多生嫌恨故應<note n="0637013" resp="Taisho" place="foot text" type="orig">奇＝棄【甲】</note><note n="0637013" resp="CBETA" type="mod">棄【CB】【甲】，奇【大】</note><app n="0637013"><lem resp="CBETA.maha" wit="【CBETA】">棄<note type="cf1">T24n1501_p1115b14</note></lem><rdg wit="【大】">奇</rdg><rdg resp="Taisho" wit="【甲】">棄</rdg></app>捨。若觀待
 <lb n="0637b26" ed="T"/>時。若觀因此闕訟諍競。若觀因此令僧諠雜
 <lb n="0637b27" ed="T"/>令僧破壞。知彼有情不懷諂曲成就增上猛
 <lb n="0637b28" ed="T"/>利慚愧疾疾還<note n="0637014" resp="Taisho" place="foot text" type="orig">淨＋（而）【甲】</note><note n="0637014" resp="CBETA" type="mod">淨【大】，淨而【甲】</note><app n="0637014"><lem wit="【大】">淨</lem><rdg resp="Taisho" wit="【甲】">淨而</rdg></app>。不呵嘖乃至驅擯皆無違
@@ -4278,7 +4278,7 @@ Added comment  for Emacs
 <lb n="0648a15" ed="T"/>得二罪也。二自手作食者。是惡觸非法也。三
 <lb n="0648a16" ed="T"/>自磨舂者。是壞生及惡觸。此二亦是世所譏
 <lb n="0648a17" ed="T"/>嫌也。四占相男女者。占男女婚嫁相宜。又相
-<lb n="0648a18" ed="T"/>其身中黑子<note n="0648001" resp="Taisho" place="foot text" type="orig">（手）ヵ＋文【原】</note><note n="0648001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（手）ヵ＋文【原】</note><app n="0648001"><lem resp="Taisho" wit="【大】">文</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">手文</rdg></app>等。又解其夢有<note n="0648002" resp="Taisho" place="foot text" type="orig">善＝凶【甲】</note><note n="0648002" resp="CBETA" type="mod">善【大】，凶【甲】</note><app n="0648002"><lem wit="【大】">善</lem><rdg resp="Taisho" wit="【甲】">凶</rdg></app>凶等。五
+<lb n="0648a18" ed="T"/>其身中黑子<note n="0648001" resp="Taisho" place="foot text" type="orig">（手）ヵ＋文【原】</note><note n="0648001" resp="CBETA" type="mod">文【大】，手文【考偽-原】</note><app n="0648001"><lem resp="Taisho" wit="【大】">文</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">手文</rdg></app>等。又解其夢有<note n="0648002" resp="Taisho" place="foot text" type="orig">善＝凶【甲】</note><note n="0648002" resp="CBETA" type="mod">善【大】，凶【甲】</note><app n="0648002"><lem wit="【大】">善</lem><rdg resp="Taisho" wit="【甲】">凶</rdg></app>凶等。五
 <lb n="0648a19" ed="T"/>是男是女者。占胎辨於男女等也。六呪者。為
 <lb n="0648a20" ed="T"/>呪咀等。又以惡呪呪龍等。七術者。<g ref="#CB02234"/>禱等符
 <lb n="0648a21" ed="T"/>書等。又幻術眩惑等。八工巧者。為匠傭作以

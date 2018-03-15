@@ -772,7 +772,7 @@ Added comment  for Emacs
 <lb n="0710c21" ed="T"/>其葉，應聲即為說伽陀曰：</p>
 <lb n="0710c22" ed="T"/><lg xml:id="lgT11p0710c2201" rend="margin-left:2em;text-indent:-2em"><l>「『八千那庾多數量，</l><l>俱胝復有九十二，</l>
 <lb n="0710c23" ed="T"/><l>六十阿閦婆應知，</l><l>十六齊等其枝數；</l>
-<lb n="0710c24" ed="T"/><l>又復三十那庾多，</l><l>九十六數<note n="0710008" resp="Taisho" type="orig" place="foot text">殑＝兢【明】</note><note n="0710008" resp="CBETA" type="mod">兢【明】【麗-CB】【CB】，殑【大】</note><app n="0710008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">兢<note type="cf1">K06n0022_p0268b23</note></lem><rdg wit="【大】">殑</rdg><rdg resp="Taisho" wit="【明】">兢</rdg></app>羯羅，</l>
+<lb n="0710c24" ed="T"/><l>又復三十那庾多，</l><l>九十六數<note n="0710008" resp="Taisho" type="orig" place="foot text">殑＝兢【明】</note><note n="0710008" resp="CBETA" type="mod">兢【CB】【麗-CB】【明】，殑【大】</note><app n="0710008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">兢<note type="cf1">K06n0022_p0268b23</note></lem><rdg wit="【大】">殑</rdg><rdg resp="Taisho" wit="【明】">兢</rdg></app>羯羅，</l>
 <lb n="0710c25" ed="T"/><l>尾播舍量有十三，</l><l>此等皆為彼葉數。</l>
 <lb n="0710c26" ed="T"/><l>其樹所有枝及葉，</l><l>如前數量無增減，</l>
 <lb n="0710c27" ed="T"/><l>我隨智力如實言，</l><l>疑者自數應無失。』</l></lg>
@@ -1111,7 +1111,7 @@ Added comment  for Emacs
 <lb n="0714b28" ed="T"/>此二名由斯而立。彼法思童子，於其無毀宮
 <lb n="0714b29" ed="T"/>女坐中化生；彼法慧童子，於其無比宮女坐
 <pb n="0714c" ed="T" xml:id="T11.0312.0714c"/>
-<lb n="0714c01" ed="T"/>中化生。時二童子，在虛空中亦<note n="0714005" resp="Taisho" type="orig" place="foot text">加＝跏【明】＊</note><note n="0714005" resp="CBETA" type="mod">加【大】＊，跏【明】＊</note><app n="0714005"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【明】">跏</rdg></app><choice><corr>趺</corr><sic>跌</sic></choice>坐，異
+<lb n="0714c01" ed="T"/>中化生。時二童子，在虛空中亦<note n="0714005" resp="Taisho" type="orig" place="foot text">加＝跏【明】＊</note><note n="0714005" resp="CBETA" type="mod">加【大】＊，跏【明】＊</note><app n="0714005"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【明】">跏</rdg></app><note n="0714c0101" resp="CBETA" type="add">趺【CB】，跌【大】</note><app n="0714c0101"><lem wit="【CB】" resp="CBETA">趺</lem><rdg wit="【大】">跌</rdg></app>坐，異
 <lb n="0714c02" ed="T"/>口同音說伽陀曰：</p>
 <lb n="0714c03" ed="T"/><lg xml:id="lgT11p0714c0301" rend="margin-left:2em;text-indent:-2em"><l>「『仁者我今得善利，</l><l>所謂發生菩提心，</l>
 <lb n="0714c04" ed="T"/><l>既發心已遇世尊，</l><l>起清淨心而信禮。</l>
@@ -3303,7 +3303,7 @@ Added comment  for Emacs
 <lb n="0738c23" ed="T"/>頂禮佛足合掌而住。佛即略為四天王等眷
 <lb n="0738c24" ed="T"/>屬眾會宣說法要。</p>
 <lb n="0738c25" ed="T"/><p xml:id="pT11p0738c2501">是時會中即有十千夜叉、羅剎、龍、乾闥婆、鳩盤
-<lb n="0738c26" ed="T"/>茶等，覩佛勝相，悉發阿耨多羅三藐三菩<choice><corr>提</corr><sic>堤</sic></choice>
+<lb n="0738c26" ed="T"/>茶等，覩佛勝相，悉發阿耨多羅三藐三菩<note n="0738c2601" resp="CBETA" type="add">提【CB】，堤【大】</note><app n="0738c2601"><lem wit="【CB】" resp="CBETA">提</lem><rdg wit="【大】">堤</rdg></app>
 <lb n="0738c27" ed="T"/>心。彼四大天王宮嬪眷屬中有十千天女，發
 <lb n="0738c28" ed="T"/>阿耨多羅三藐三菩提心。</p>
 <lb n="0738c29" ed="T"/><p xml:id="pT11p0738c2901">爾時金剛手菩薩大祕密主與自眷屬，各各
@@ -4073,7 +4073,7 @@ Added comment  for Emacs
 <lb n="0747b09" ed="T"/>故、離辯才故。所以者何？無辯才者，此說即是
 <lb n="0747b10" ed="T"/>無和合義。離辯才者，此說即是離戲論義。復
 <lb n="0747b11" ed="T"/>次善男子！如所說故，何有辯才可得？若為他
-<lb n="0747b12" ed="T"/>表了識即不轉，若<note n="0747003" resp="Taisho" type="orig" place="foot text">白＝自【明】</note><note n="0747003" resp="CBETA" type="mod">自【明】【CB】，白【大】</note><app n="0747003"><lem resp="CBETA.maha" wit="【CBETA】">自</lem><rdg wit="【大】">白</rdg><rdg resp="Taisho" wit="【明】">自</rdg></app>表了識亦無住，以如是
+<lb n="0747b12" ed="T"/>表了識即不轉，若<note n="0747003" resp="Taisho" type="orig" place="foot text">白＝自【明】</note><note n="0747003" resp="CBETA" type="mod">自【CB】【明】，白【大】</note><app n="0747003"><lem resp="CBETA.maha" wit="【CBETA】">自</lem><rdg wit="【大】">白</rdg><rdg resp="Taisho" wit="【明】">自</rdg></app>表了識亦無住，以如是
 <lb n="0747b13" ed="T"/>故乃得辯才。若於諸所緣以意表了者又無
 <lb n="0747b14" ed="T"/>障礙，法性之中而無所住，故得辯才。又一切
 <lb n="0747b15" ed="T"/>法中智無所轉，無有少法智可知解，故得辯
@@ -4173,7 +4173,7 @@ Added comment  for Emacs
 <lb n="0748b18" ed="T"/>鑿以井，由勤力故方獲其水；若無坑井水乃
 <lb n="0748b19" ed="T"/>何得？勤行方便之者亦復如是，以勤力故於
 <lb n="0748b20" ed="T"/>一切處勝智通達；若無勤力智從何得？是故
-<lb n="0748b21" ed="T"/>求菩提者，常勤方便發<choice><corr>起</corr><sic>記</sic></choice>精進，即能現前獲
+<lb n="0748b21" ed="T"/>求菩提者，常勤方便發<note n="0748b2101" resp="CBETA" type="add">起【CB】，記【大】</note><app n="0748b2101"><lem wit="【CB】" resp="CBETA">起</lem><rdg wit="【大】">記</rdg></app>精進，即能現前獲
 <lb n="0748b22" ed="T"/>得聖法。又如世間生盲之人，所生色<note n="0748004" resp="Taisho" type="orig" place="foot text">象＝像【明】＊</note><note n="0748004" resp="CBETA" type="mod">象【大】＊，像【明】＊</note><app n="0748004"><lem wit="【大】">象</lem><rdg resp="Taisho" wit="【明】">像</rdg></app>而不
 <lb n="0748b23" ed="T"/>能見。眾生煩惱暗蔽亦然，於所生法而不能
 <lb n="0748b24" ed="T"/>見。又如世間有目之人於黑暗中，若無明炬
@@ -4308,7 +4308,7 @@ Added comment  for Emacs
 <lb n="0750a04" ed="T"/><p xml:id="pT11p0750a0401" cb:type="dharani">「阿囉尼<note place="inline">引</note><note place="inline">一<app type="star" corresp="#0749004"><lem wit="【大】">句</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></note>　嚩囉尼<note place="inline">二</note>　珂溪<note place="inline">三</note>　阿牟<note place="inline">引</note>梨<note place="inline">四</note>　牟<note place="inline">引</note>
 <lb n="0750a05" ed="T"/>羅輸<note place="inline">引</note>駄儞<note place="inline">引</note><note place="inline">五</note></p>
 <lb n="0750a06" ed="T"/><p xml:id="pT11p0750a0601">「此是攝伏諸魔大明章句。」</p>
-<lb n="0750a07" ed="T"/><p xml:id="pT11p0750a0701">說伽<choice><corr>陀</corr><sic>佗</sic></choice>曰：</p>
+<lb n="0750a07" ed="T"/><p xml:id="pT11p0750a0701">說伽<note n="0750a0701" resp="CBETA" type="add">陀【CB】，佗【大】</note><app n="0750a0701"><lem wit="【CB】" resp="CBETA">陀</lem><rdg wit="【大】">佗</rdg></app>曰：</p>
 <lb n="0750a08" ed="T"/><lg xml:id="lgT11p0750a0801" rend="margin-left:1em;text-indent:-1em"><l>「今此祕密大明句，</l><l>振動降伏一切魔，</l>
 <lb n="0750a09" ed="T"/><l>人中聖主力加持，</l><l>善說斯經廣流演。</l>
 <lb n="0750a10" ed="T"/><l>如來所說此正法，</l><l>當知於後末世時，</l>

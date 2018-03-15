@@ -870,7 +870,7 @@ Added comment  for Emacs
 <lb n="0131c17" ed="T"/>須，菩薩隨意稱心給與。</p><p xml:id="pT03p0131c1710" rend="inline">「菩薩若見有眾生
 <lb n="0131c18" ed="T"/>愛樂佛法，而來親近供養，承事奉侍，洗足
 <lb n="0131c19" ed="T"/>按摩，浣濯乾曬，楊枝澡水，拂拭床敷，<note n="0131020" resp="Taisho" type="orig" place="foot text">卷＝捲【三】</note><note n="0131020" resp="CBETA" type="mod">卷【大】，捲【宋】【元】【明】</note><app n="0131020"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">捲</rdg></app>
-<lb n="0131c20" ed="T"/><note n="0131021" resp="Taisho" type="orig" place="foot text"><g ref="#CB02366"/>＝牒【宋】</note><note n="0131021" resp="CBETA" type="mod">褺【麗-CB】【CB】，<g ref="#CB02366"/>【大】，牒【宋】</note><app n="0131021"><lem resp="CBETA.maha" wit="【CBETA】【麗】">褺<note type="cf1">K13n0402_p0177b11</note><note type="cf2">T54n2128_p0740b09</note></lem><rdg wit="【大】"><g ref="#CB02366"/></rdg><rdg resp="Taisho" wit="【宋】">牒</rdg></app>被枕。初夜後夜供給燈燭、前食、後食、怛
+<lb n="0131c20" ed="T"/><note n="0131021" resp="Taisho" type="orig" place="foot text"><g ref="#CB02366"/>＝牒【宋】</note><note n="0131021" resp="CBETA" type="mod">褺【CB】【麗-CB】，<g ref="#CB02366"/>【大】，牒【宋】</note><app n="0131021"><lem resp="CBETA.maha" wit="【CBETA】【麗】">褺<note type="cf1">K13n0402_p0177b11</note><note type="cf2">T54n2128_p0740b09</note></lem><rdg wit="【大】"><g ref="#CB02366"/></rdg><rdg resp="Taisho" wit="【宋】">牒</rdg></app>被枕。初夜後夜供給燈燭、前食、後食、怛
 <lb n="0131c21" ed="T"/>鉢那食、蒲闍尼食、佉陀尼食，及諸漿飲——
 <lb n="0131c22" ed="T"/>所謂<note n="0131022" resp="Taisho" type="orig" place="foot text">與＝興【三】</note><note n="0131022" resp="CBETA" type="mod">與【大】，興【宋】【元】【明】</note><app n="0131022"><lem wit="【大】">與</lem><rdg resp="Taisho" wit="【宋】【元】【明】">興</rdg></app>利師漿、馥勒奢<note n="0131023" resp="Taisho" type="orig" place="foot text">菓＝果【三】</note><note n="0131023" resp="CBETA" type="mod">菓【大】，果【宋】【元】【明】</note><app n="0131023"><lem wit="【大】">菓</lem><rdg resp="Taisho" wit="【宋】【元】【明】">果</rdg></app>漿、蒲<note n="0131024" resp="Taisho" type="orig" place="foot text">萄＝桃【三】</note><note n="0131024" resp="CBETA" type="mod">萄【大】，桃【宋】【元】【明】</note><app n="0131024"><lem wit="【大】">萄</lem><rdg resp="Taisho" wit="【宋】【元】【明】">桃</rdg></app>漿、黑
 <lb n="0131c23" ed="T"/>石蜜漿。如是承事，乃至一七至九<note n="0131025" resp="Taisho" type="orig" place="foot text">十＝七【三】</note><note n="0131025" resp="CBETA" type="mod">十【大】，七【宋】【元】【明】</note><app n="0131025"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宋】【元】【明】">七</rdg></app>日，
@@ -1603,7 +1603,7 @@ Added comment  for Emacs
 <lb n="0139c29" ed="T"/>惡賤，違逆夫人。』懺謝訖已，還復本位。王大
 <pb n="0140a" ed="T" xml:id="T03.0156.0140a"/>
 <lb n="0140a01" ed="T"/>歡喜，召諸群臣、諸小國王并諸婆羅門相師，
-<lb n="0140a02" ed="T"/>一切集<choice><corr>會</corr><sic>曾</sic></choice>。抱五百太子，使諸相師占相吉
+<lb n="0140a02" ed="T"/>一切集<note n="0140a0201" resp="CBETA" type="add">會【CB】，曾【大】</note><app n="0140a0201"><lem wit="【CB】" resp="CBETA">會</lem><rdg wit="【大】">曾</rdg></app>。抱五百太子，使諸相師占相吉
 <lb n="0140a03" ed="T"/>凶，卦曰：『道德所歸，國蒙其福。若在家者，四海
 <lb n="0140a04" ed="T"/>顒顒，鬼神保之；若出家者，必斷生死，超度欲
 <lb n="0140a05" ed="T"/>流，越生死海，獲得三明六通，具四道果。』王

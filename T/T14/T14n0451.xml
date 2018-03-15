@@ -163,7 +163,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0409a02" ed="T"/>
 <lb n="0409a03" ed="T"/><cb:docNumber>No. 451 [Nos. 449, 450; 灌頂經卷第十二]</cb:docNumber><cb:div type="jing">
-<lb n="0409a04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>藥師琉<choice><corr>璃</corr><sic>瑠</sic></choice>光七佛本願功德經</title>卷
+<lb n="0409a04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>藥師琉<note n="0409a0401" resp="CBETA" type="add">璃【CB】，瑠【大】</note><app n="0409a0401"><lem wit="【CB】" resp="CBETA">璃</lem><rdg wit="【大】">瑠</rdg></app>光七佛本願功德經</title>卷
 <lb n="0409a05" ed="T"/>上</cb:jhead></cb:juan>
 <lb n="0409a06" ed="T"/>
 <lb n="0409a07" ed="T"/><byline cb:type="Translator"><note n="0409001" resp="Taisho" type="orig" place="foot text">大唐…寺譯＝唐三藏法師義淨在內道場奉詔譯【宋】【宮】，唐三藏法師義淨奉制在大內佛光殿第五譯【元】，唐三藏法師義淨奉詔譯【明】＊</note><note n="0409001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->大唐…寺譯【大】＊，唐三藏法師義淨在內道場奉詔譯【宋】【宮】，唐三藏法師義淨奉制在大內佛光殿第五譯【元】，唐三藏法師義淨奉詔譯【明】＊</note><app n="0409001" cb:word-count="14"><lem wit="【大】">大唐三藏沙門義淨於佛光內寺譯</lem><rdg resp="Taisho" wit="【宋】【宮】">唐三藏法師義淨在內道場奉詔譯</rdg><rdg resp="Taisho" wit="【元】">唐三藏法師義淨奉制在大內佛光殿第五譯</rdg><rdg resp="Taisho" wit="【明】">唐三藏法師義淨奉詔譯</rdg></app></byline>
@@ -196,7 +196,7 @@ Added comment  for Emacs
 <lb n="0409b04" ed="T"/>聽，<note n="0409005" resp="Taisho" type="orig" place="foot text">極善思惟＝善思惟之【三】【宮】</note><note n="0409005" resp="CBETA" type="mod">極善思惟【大】，善思惟之【宋】【元】【明】【宮】</note><app n="0409005"><lem wit="【大】">極善思惟</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">善思惟之</rdg></app>，當為汝說。」</p><p xml:id="pT14p0409b0410" rend="inline">曼殊室利言：「<app type="star" corresp="#0409004"><lem wit="【大】">惟</lem><rdg resp="Taisho" wit="【宮】">唯</rdg></app>
 <lb n="0409b05" ed="T"/>願為說，我等樂聞。」</p>
 <lb n="0409b06" ed="T"/><p xml:id="pT14p0409b0601">佛告曼殊室利：「東方去此，過四弶伽河沙
-<lb n="0409b07" ed="T"/>佛土，有世界名曰<note n="0409006" resp="Taisho" type="orig" place="foot text">光＝無【三】【宮】</note><note n="0409006" resp="CBETA" type="mod">無【宋】【元】【明】【宮】【磧砂-CB】【CB】，光【大】</note><app n="0409006"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">無<note type="cf1">Q10_p0702b29</note><note type="cf2">P040_p0434a08-09</note></lem><rdg wit="【大】">光</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">無</rdg></app>勝，佛號善名稱吉祥
+<lb n="0409b07" ed="T"/>佛土，有世界名曰<note n="0409006" resp="Taisho" type="orig" place="foot text">光＝無【三】【宮】</note><note n="0409006" resp="CBETA" type="mod">無【CB】【磧-CB】【宋】【元】【明】【宮】，光【大】</note><app n="0409006"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">無<note type="cf1">Q10_p0702b29</note><note type="cf2">P040_p0434a08-09</note></lem><rdg wit="【大】">光</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">無</rdg></app>勝，佛號善名稱吉祥
 <lb n="0409b08" ed="T"/>王如來、應、正等覺、明行圓滿、善逝、世間解、無上
 <lb n="0409b09" ed="T"/>丈夫、調御士、天人師、佛、世尊，有無量億眾，不
 <lb n="0409b10" ed="T"/>退菩薩之所圍遶，安住七寶勝妙莊嚴師子
@@ -326,7 +326,7 @@ Added comment  for Emacs
 <lb n="0410c14" ed="T"/>生彼土；彼佛世尊及諸菩薩，護念是人，一
 <lb n="0410c15" ed="T"/>切罪業悉皆消滅，無上菩提得不退轉，於貪、
 <lb n="0410c16" ed="T"/>恚、癡漸得微薄，無諸病苦，增益壽命，隨
-<lb n="0410c17" ed="T"/>有<app type="star" corresp="#0410001"><lem wit="【大】">悕</lem><rdg resp="Taisho" wit="【宮】">希</rdg></app>求，悉皆如意，鬪諍怨家咸生歡<choice><corr>喜</corr><sic>善</sic></choice>，
+<lb n="0410c17" ed="T"/>有<app type="star" corresp="#0410001"><lem wit="【大】">悕</lem><rdg resp="Taisho" wit="【宮】">希</rdg></app>求，悉皆如意，鬪諍怨家咸生歡<note n="0410c1701" resp="CBETA" type="add">喜【CB】，善【大】</note><app n="0410c1701"><lem wit="【CB】" resp="CBETA">喜</lem><rdg wit="【大】">善</rdg></app>，
 <lb n="0410c18" ed="T"/>捨此身已，往彼剎土，蓮花化生，當生之時，
 <lb n="0410c19" ed="T"/>念、定、總持，悉皆明了。曼殊室利！如是當知，
 <lb n="0410c20" ed="T"/>彼佛名號無量功德，若得聞者，所願皆成。</p>
@@ -453,7 +453,7 @@ Added comment  for Emacs
 <lb n="0412a20" ed="T"/>光明，香氣芬馥；以帝青寶而為城郭，有八
 <lb n="0412a21" ed="T"/>街道砌以金銀，樓閣殿堂、飛甍戶牖、欄楯莊
 <lb n="0412a22" ed="T"/>飾，皆眾寶成；天香寶樹隨處行列，於其枝
-<lb n="0412a23" ed="T"/>上，<note n="0412004" resp="Taisho" type="orig" place="foot text">拄＝掛【三】【宮】</note><note n="0412004" resp="CBETA" type="mod">挂【麗-CB】【CB】，拄【大】，掛【宋】【元】【明】【宮】</note><app n="0412004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">挂<note type="cf1">K10n0178_p1357b15</note></lem><rdg wit="【大】">拄</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">掛</rdg></app>以天繒，復有寶鈴處處垂下，微風吹
+<lb n="0412a23" ed="T"/>上，<note n="0412004" resp="Taisho" type="orig" place="foot text">拄＝掛【三】【宮】</note><note n="0412004" resp="CBETA" type="mod">挂【CB】【麗-CB】，拄【大】，掛【宋】【元】【明】【宮】</note><app n="0412004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">挂<note type="cf1">K10n0178_p1357b15</note></lem><rdg wit="【大】">拄</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">掛</rdg></app>以天繒，復有寶鈴處處垂下，微風吹
 <lb n="0412a24" ed="T"/>動，出妙音聲，演暢無常、苦、空、無我，眾生聞者，
 <lb n="0412a25" ed="T"/>捨離欲纏，習氣漸除，證甚深定；天妙香花，繽
 <lb n="0412a26" ed="T"/>紛而下；於其四面，有八浴池，底布金沙，香
@@ -608,7 +608,7 @@ Added comment  for Emacs
 <lb n="0413c25" ed="T"/>師琉璃光如來名故，雖在惡趣，還得憶念
 <lb n="0413c26" ed="T"/>彼如來名，即於彼沒，生在人中，得宿命
 <lb n="0413c27" ed="T"/><note n="0413012" resp="Taisho" type="orig" place="foot text">〔智〕－【三】</note><note n="0413012" resp="CBETA" type="mod">智【大】，〔－〕【宋】【元】【明】</note><app n="0413012"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，<note n="0413013" resp="Taisho" type="orig" place="foot text">〔念〕－【宮】</note><note n="0413013" resp="CBETA" type="mod">念【大】，〔－〕【宮】</note><app n="0413013"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>畏惡趣苦，不樂欲樂，好行惠施，
-<lb n="0413c28" ed="T"/>讚歎施者，所有財物無慳悋心，<choice><corr>漸</corr><sic>慚</sic></choice>次尚能
+<lb n="0413c28" ed="T"/>讚歎施者，所有財物無慳悋心，<note n="0413c2801" resp="CBETA" type="add">漸【CB】，慚【大】</note><app n="0413c2801"><lem wit="【CB】" resp="CBETA">漸</lem><rdg wit="【大】">慚</rdg></app>次尚能
 <lb n="0413c29" ed="T"/>以頭目、手足、血肉、身分施來求者，況餘財
 <pb n="0414a" ed="T" xml:id="T14.0451.0414a"/>
 <lb n="0414a01" ed="T"/>物？</p>
@@ -698,7 +698,7 @@ Added comment  for Emacs
 <lb n="0414c25" ed="T"/>其覺悟。世尊！若於此經，受持讀誦，或復為
 <lb n="0414c26" ed="T"/>他演說開示，若自書，若教人書，恭敬尊重，
 <lb n="0414c27" ed="T"/>以種種華香、塗香、末香、燒香、華鬘、瓔珞、幡蓋、
-<lb n="0414c28" ed="T"/>伎樂而為供養，以五色繒綵，而裹<note n="0414008" resp="Taisho" type="orig" place="foot text"><g ref="#CB02907"/>＝襄【明】</note><note n="0414008" resp="CBETA" type="mod">𧙍【麗-CB】【CB】，<g ref="#CB02907"/>【大】，襄【明】</note><app n="0414008"><lem resp="CBETA.maha" wit="【CBETA】【麗】">𧙍<note type="cf1">K10n0178_p1361b13</note></lem><rdg wit="【大】"><g ref="#CB02907"/></rdg><rdg resp="Taisho" wit="【明】">襄</rdg></app>之，
+<lb n="0414c28" ed="T"/>伎樂而為供養，以五色繒綵，而裹<note n="0414008" resp="Taisho" type="orig" place="foot text"><g ref="#CB02907"/>＝襄【明】</note><note n="0414008" resp="CBETA" type="mod">𧙍【CB】【麗-CB】，<g ref="#CB02907"/>【大】，襄【明】</note><app n="0414008"><lem resp="CBETA.maha" wit="【CBETA】【麗】">𧙍<note type="cf1">K10n0178_p1361b13</note></lem><rdg wit="【大】"><g ref="#CB02907"/></rdg><rdg resp="Taisho" wit="【明】">襄</rdg></app>之，
 <lb n="0414c29" ed="T"/>灑掃淨處，置高座上。</p>
 <pb n="0415a" ed="T" xml:id="T14.0451.0415a"/>
 <lb n="0415a01" ed="T"/><p xml:id="pT14p0415a0101">「是時，四大天王與其眷屬，及<note n="0415a0101" resp="CBETA" type="add">餘【CB】【麗-CB】，與【大】</note><app n="0415a0101"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">餘<note type="cf1">K10n0178_p1361b16</note><note type="cf2">T03n0158_p0279c20</note></lem><rdg wit="【大】">與</rdg></app>無量百千
@@ -837,7 +837,7 @@ Added comment  for Emacs
 <lb n="0416b13" ed="T"/><l>末儞羅大將，</l><l>娑儞羅大將，</l>
 <lb n="0416b14" ed="T"/><l>因陀羅大將，</l><l><note n="0416002" resp="Taisho" type="orig" place="foot text">波＝婆【明】【宮】</note><note n="0416002" resp="CBETA" type="mod">波【大】，婆【明】【宮】</note><app n="0416002"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【明】【宮】">婆</rdg></app>夷羅大將，</l>
 <lb n="0416b15" ed="T"/><l><note n="0416003" resp="Taisho" type="orig" place="foot text">薄＝簿【明】【宮】</note><note n="0416003" resp="CBETA" type="mod">薄【大】，簿【明】【宮】</note><app n="0416003"><lem wit="【大】">薄</lem><rdg resp="Taisho" wit="【明】【宮】">簿</rdg></app>呼羅大將，</l><l>真達羅大將，</l>
-<lb n="0416b16" ed="T"/><l>朱<note n="0416004" resp="Taisho" type="orig" place="foot text">社＝杜【三】【宮】</note><note n="0416004" resp="CBETA" type="mod">杜【宋】【元】【明】【宮】【麗-CB】【CB】，社【大】</note><app n="0416004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">杜<note type="cf1">K10n0178_p1363b23</note><note type="cf2">T14n0450_p0408b01</note></lem><rdg wit="【大】">社</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">杜</rdg></app>羅大將，</l><l>毘羯羅大將。</l></lg>
+<lb n="0416b16" ed="T"/><l>朱<note n="0416004" resp="Taisho" type="orig" place="foot text">社＝杜【三】【宮】</note><note n="0416004" resp="CBETA" type="mod">杜【CB】【麗-CB】【宋】【元】【明】【宮】，社【大】</note><app n="0416004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">杜<note type="cf1">K10n0178_p1363b23</note><note type="cf2">T14n0450_p0408b01</note></lem><rdg wit="【大】">社</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">杜</rdg></app>羅大將，</l><l>毘羯羅大將。</l></lg>
 <lb n="0416b17" ed="T"/><p xml:id="pT14p0416b1701">此十二藥叉大將，一一各有七千藥叉以為
 <lb n="0416b18" ed="T"/>眷屬，同時舉聲，白佛言：「世尊！我等今者，蒙
 <lb n="0416b19" ed="T"/>佛威力，得聞七佛如來名號，於諸惡趣無
@@ -898,13 +898,13 @@ Added comment  for Emacs
 <lb n="0417a14" ed="T"/>　頞帝末帝波例　波跛輸但儞　薩婆波跛那
 <lb n="0417a15" ed="T"/>世也　㪍睇勃圖　<note n="0417004" resp="Taisho" type="orig" place="foot text">唱＝嗢【三】【宮】</note><note n="0417004" resp="CBETA" type="mod">唱【大】，嗢【宋】【元】【明】【宮】</note><app n="0417004"><lem wit="【大】">唱</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">嗢</rdg></app>答<app type="star" corresp="#0417002"><lem wit="【大】">謎</lem><rdg resp="Taisho" wit="【明】【宮】">繼</rdg></app>隖謎矩謎　佛
 <lb n="0417a16" ed="T"/>鐸器怛羅　鉢里輸但儞曇謎昵曇謎　謎嚕
-<lb n="0417a17" ed="T"/>謎嚕　謎嚧尸朅囇薩婆哥羅　蜜栗覩<note place="inline">丁<note n="0417005" resp="Taisho" type="orig" place="foot text">庾＝庚【三】</note><note n="0417005" resp="CBETA" type="mod">庾【麗-CB】【CB】，庾【大】，庚【宋】【元】【明】</note><app n="0417005"><lem resp="CBETA.maha" wit="【CBETA】【麗】">庾<note type="cf1">K10n0178_p1364b21</note><note type="cf2">T19n1006_p0648c03</note></lem><rdg wit="【大】">臾</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">庚</rdg></app></note>
+<lb n="0417a17" ed="T"/>謎嚕　謎嚧尸朅囇薩婆哥羅　蜜栗覩<note place="inline">丁<note n="0417005" resp="Taisho" type="orig" place="foot text">庾＝庚【三】</note><note n="0417005" resp="CBETA" type="mod">庾【CB】【麗-CB】，庾【大】，庚【宋】【元】【明】</note><app n="0417005"><lem resp="CBETA.maha" wit="【CBETA】【麗】">庾<note type="cf1">K10n0178_p1364b21</note><note type="cf2">T19n1006_p0648c03</note></lem><rdg wit="【大】">臾</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">庚</rdg></app></note>
 <lb n="0417a18" ed="T"/>　尼婆<note n="0417006" resp="Taisho" type="orig" place="foot text">𡃤＝喇【三】＊【宮】</note><note n="0417006" resp="CBETA" type="mod">𡃤【大】＊，喇【宋】＊【元】＊【明】＊【宮】</note><app n="0417006"><lem wit="【大】">𡃤</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">喇</rdg></app>儞　<note n="0417007" resp="Taisho" type="orig" place="foot text">勃＝教【宋】【明】【宮】</note><note n="0417007" resp="CBETA" type="mod">勃【大】，教【宋】【明】【宮】</note><app n="0417007"><lem wit="【大】">勃</lem><rdg resp="Taisho" wit="【宋】【明】【宮】">教</rdg></app>提蘇勃睇　佛陀<note n="0417008" resp="Taisho" type="orig" place="foot text">〔陀〕－【三】【宮】</note><note n="0417008" resp="CBETA" type="mod">陀【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0417008"><lem wit="【大】">陀</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>頞提
 <lb n="0417a19" ed="T"/>瑟侘泥娜曷𠸪叉覩謎　薩婆提婆　三謎頞
 <lb n="0417a20" ed="T"/>三謎三曼捼<note place="inline"><note n="0417009" resp="Taisho" type="orig" place="foot text">奴和＋（切）【明】</note><note n="0417009" resp="CBETA" type="mod">奴和【大】，奴和切【明】</note><app n="0417009"><lem wit="【大】">奴和</lem><rdg resp="Taisho" wit="【明】">奴和切</rdg></app></note>漢<note n="0417a2001" resp="CBETA" type="add">㘓【CB】【麗-CB】，囒【大】</note><app n="0417a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">㘓<note type="cf1">K10n0178_p1364b24</note></lem><rdg wit="【大】">囒</rdg></app>覩謎薩婆佛陀菩提薩
 <lb n="0417a21" ed="T"/>埵　苫謎苫謎　鉢喇<note n="0417010" resp="Taisho" type="orig" place="foot text">苦＝苫【三】【宮】</note><note n="0417010" resp="CBETA" type="mod">苦【大】，苫【宋】【元】【明】【宮】</note><app n="0417010"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">苫</rdg></app><note n="0417011" resp="Taisho" type="orig" place="foot text">〔謎〕－【三】【宮】</note><note n="0417011" resp="CBETA" type="mod">謎【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0417011"><lem wit="【大】">謎</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>曼　覩謎　薩
 <lb n="0417a22" ed="T"/>婆伊底<note n="0417a2201" resp="CBETA" type="add">隖【CB】【麗-CB】【磧砂-CB】，隝【大】</note><app n="0417a2201"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">隖<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c16</note></lem><rdg wit="【大】">隝</rdg></app>波達婆薩婆毘何大也　薩婆薩埵
-<lb n="0417a23" ed="T"/><note n="0417012" resp="Taisho" type="orig" place="foot text">〔難〕－【宋】【明】【宮】</note><note n="0417012" resp="CBETA" type="mod">難【大】，〔－〕【宋】【明】【宮】</note><app n="0417012"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【宋】【明】【宮】"><space quantity="0"/></rdg></app>者<note n="0417013" resp="Taisho" type="orig" place="foot text">䀯＝晡【宋】【元】【宮】＊</note><note n="0417013" resp="CBETA" type="mod">晡【宋】【元】【宮】【麗-CB】【磧砂-CB】【CB】＊，䀯【大】＊</note><app n="0417013"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">晡<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c17</note></lem><rdg wit="【大】">䀯</rdg><rdg resp="Taisho" wit="【宋】【元】【宮】">晡</rdg></app><note n="0417014" resp="Taisho" type="orig" place="foot text">㘓＝囒【宋】【明】＊</note><note n="0417014" resp="CBETA" type="mod">㘓【大】＊，囒【宋】【明】＊</note><app n="0417014"><lem wit="【大】">㘓</lem><rdg resp="Taisho" wit="【宋】【明】">囒</rdg></app>泥<app type="star" corresp="#0417013"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">晡<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c17</note></lem><rdg wit="【大】">䀯</rdg><rdg resp="Taisho" wit="【宋】【元】【宮】">晡</rdg></app>
+<lb n="0417a23" ed="T"/><note n="0417012" resp="Taisho" type="orig" place="foot text">〔難〕－【宋】【明】【宮】</note><note n="0417012" resp="CBETA" type="mod">難【大】，〔－〕【宋】【明】【宮】</note><app n="0417012"><lem wit="【大】">難</lem><rdg resp="Taisho" wit="【宋】【明】【宮】"><space quantity="0"/></rdg></app>者<note n="0417013" resp="Taisho" type="orig" place="foot text">䀯＝晡【宋】【元】【宮】＊</note><note n="0417013" resp="CBETA" type="mod">晡【CB】＊【麗-CB】【磧-CB】【宋】【元】【宮】，䀯【大】＊</note><app n="0417013"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">晡<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c17</note></lem><rdg wit="【大】">䀯</rdg><rdg resp="Taisho" wit="【宋】【元】【宮】">晡</rdg></app><note n="0417014" resp="Taisho" type="orig" place="foot text">㘓＝囒【宋】【明】＊</note><note n="0417014" resp="CBETA" type="mod">㘓【大】＊，囒【宋】【明】＊</note><app n="0417014"><lem wit="【大】">㘓</lem><rdg resp="Taisho" wit="【宋】【明】">囒</rdg></app>泥<app type="star" corresp="#0417013"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">晡<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c17</note></lem><rdg wit="【大】">䀯</rdg><rdg resp="Taisho" wit="【宋】【元】【宮】">晡</rdg></app>
 <app type="star" corresp="#0417014"><lem wit="【大】">㘓</lem><rdg resp="Taisho" wit="【宋】【明】">囒</rdg></app>泥<note place="inline">去</note><app type="star" corresp="#0417013"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">晡<note type="cf1">K10n0178_p1364c04</note><note type="cf2">Q10_p0709c17</note></lem><rdg wit="【大】">䀯</rdg><rdg resp="Taisho" wit="【宋】【元】【宮】">晡</rdg></app><app type="star" corresp="#0417014"><lem wit="【大】">㘓</lem><rdg resp="Taisho" wit="【宋】【明】">囒</rdg></app>也謎　薩
 <lb n="0417a24" ed="T"/>婆阿舍　薜琉璃也　鉢<note n="0417015" resp="Taisho" type="orig" place="foot text">唎＝喇【三】【宮】</note><note n="0417015" resp="CBETA" type="mod">唎【大】，喇【宋】【元】【明】【宮】</note><app n="0417015"><lem wit="【大】">唎</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">喇</rdg></app>底婆細　薩婆
 <lb n="0417a25" ed="T"/>波跛　<note n="0417016" resp="Taisho" type="orig" place="foot text">著＝差【三】【宮】</note><note n="0417016" resp="CBETA" type="mod">著【大】，差【宋】【元】【明】【宮】</note><app n="0417016"><lem wit="【大】">著</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">差</rdg></app>楊羯囇莎訶」</p>

@@ -503,7 +503,7 @@ Added comment  for Emacs
 <lb n="0073b11" ed="T"/><p xml:id="pT03p0073b1101">聞如是：</p><p xml:id="pT03p0073b1104" rend="inline">一時佛遊舍<note n="0073007" resp="Taisho" type="orig" place="foot text">衛＋（國）【三】＊</note><note n="0073007" resp="CBETA" type="mod">衛【大】＊，衛國【宋】＊【元】＊【明】＊</note><app n="0073007"><lem wit="【大】">衛</lem><rdg resp="Taisho" wit="【宋】【元】【明】">衛國</rdg></app>祇樹給孤獨園，與
 <lb n="0073b12" ed="T"/>大比丘眾千二百五十人俱。爾時有一尊長
 <lb n="0073b13" ed="T"/>者，財富無量，金銀珍寶，不可稱數。勤苦治
-<lb n="0073b14" ed="T"/>生，飢渴寒熱，觸<choice><corr>冒</corr><sic>冐</sic></choice>諸難，憂慼諸患，不以
+<lb n="0073b14" ed="T"/>生，飢渴寒熱，觸<note n="0073b1401" resp="CBETA" type="add">冒【CB】，冐【大】</note><app n="0073b1401"><lem wit="【CB】" resp="CBETA">冒</lem><rdg wit="【大】">冐</rdg></app>諸難，憂慼諸患，不以
 <lb n="0073b15" ed="T"/>道理，積此財業。雖為財富，不自衣食、不
 <lb n="0073b16" ed="T"/>能布施、不能供養奉事二親、不能給
 <lb n="0073b17" ed="T"/>足妻子僕使。無益中外家室親里，安能
@@ -800,7 +800,7 @@ Added comment  for Emacs
 <lb n="0076c08" ed="T"/>於外放逸無道？』其夫答曰：『吾<note n="0076017" resp="Taisho" type="orig" place="foot text">與＝以【三】</note><note n="0076017" resp="CBETA" type="mod">與【大】，以【宋】【元】【明】</note><app n="0076017"><lem wit="【大】">與</lem><rdg resp="Taisho" wit="【宋】【元】【明】">以</rdg></app>獼猴，結為
 <lb n="0076c09" ed="T"/>親友，聰明智慧，又曉義理，出輙往<note n="0076018" resp="Taisho" type="orig" place="foot text">〔造〕－【明】</note><note n="0076018" resp="CBETA" type="mod">造【大】，〔－〕【明】</note><app n="0076018"><lem wit="【大】">造</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>，共
 <lb n="0076c10" ed="T"/>論經法，但說快事，無他放逸。』其婦不信，
-<lb n="0076c11" ed="T"/>謂為不然。又瞋：『獼猴誘<note n="0076019" resp="Taisho" type="orig" place="foot text">𧧷＝恤【宋】</note><note n="0076019" resp="CBETA" type="mod">訹【麗-CB】【CB】，𧧷【大】，恤【宋】</note><app n="0076019"><lem resp="CBETA.maha" wit="【CBETA】【麗】">訹<note type="cf1">K19n0799_p0967c21</note></lem><rdg wit="【大】">𧧷</rdg><rdg resp="Taisho" wit="【宋】">恤</rdg></app>我夫，數令出
+<lb n="0076c11" ed="T"/>謂為不然。又瞋：『獼猴誘<note n="0076019" resp="Taisho" type="orig" place="foot text">𧧷＝恤【宋】</note><note n="0076019" resp="CBETA" type="mod">訹【CB】【麗-CB】，𧧷【大】，恤【宋】</note><app n="0076019"><lem resp="CBETA.maha" wit="【CBETA】【麗】">訹<note type="cf1">K19n0799_p0967c21</note></lem><rdg wit="【大】">𧧷</rdg><rdg resp="Taisho" wit="【宋】">恤</rdg></app>我夫，數令出
 <lb n="0076c12" ed="T"/>入。當圖殺之，吾夫乃休。』因便佯病，困劣著
 <lb n="0076c13" ed="T"/>床。其聟瞻勞，醫藥療治竟不肯差，謂其
 <lb n="0076c14" ed="T"/>夫言：『<note n="0076020" resp="Taisho" type="orig" place="foot text">何須＝勿復【三】</note><note n="0076020" resp="CBETA" type="mod">何須【大】，勿復【宋】【元】【明】</note><app n="0076020"><lem wit="【大】">何須</lem><rdg resp="Taisho" wit="【宋】【元】【明】">勿復</rdg></app>勞意損其醫藥？吾病甚重，當
@@ -1522,7 +1522,7 @@ Added comment  for Emacs
 <lb n="0084c10" ed="T"/>屠取<note n="0084006" resp="Taisho" type="orig" place="foot text">披＝提【明】</note><note n="0084006" resp="CBETA" type="mod">披【大】，提【明】</note><app n="0084006"><lem wit="【大】">披</lem><rdg resp="Taisho" wit="【明】">提</rdg></app>鞬陀　叱闍叱者</p>
 <lb n="0084c11" ed="T"/><p xml:id="pT03p0084c1101" cb:type="dharani">朱陀闍陀　波沙提　波沙檀尼耶醯迦彌仇
 <lb n="0084c12" ed="T"/>彌遮羅翅　朱羅鈴摩尼　阿提陀</p>
-<lb n="0084c13" ed="T"/><p xml:id="pT03p0084c1301" cb:type="dharani">浮彌<choice><corr>羨</corr><sic>羡</sic></choice>那伊俞羅頭　<note n="0084007" resp="Taisho" type="orig" place="foot text">那＝耶【三】</note><note n="0084007" resp="CBETA" type="mod">那【大】，耶【宋】【元】【明】</note><app n="0084007"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">耶</rdg></app>翅祇禘彌　比闡
+<lb n="0084c13" ed="T"/><p xml:id="pT03p0084c1301" cb:type="dharani">浮彌<note n="0084c1301" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0084c1301"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>那伊俞羅頭　<note n="0084007" resp="Taisho" type="orig" place="foot text">那＝耶【三】</note><note n="0084007" resp="CBETA" type="mod">那【大】，耶【宋】【元】【明】</note><app n="0084007"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】【明】">耶</rdg></app>翅祇禘彌　比闡
 <lb n="0084c14" ed="T"/>禘彌　薩披那樓　彌檀㝹南模　摩迦尼
 <lb n="0084c15" ed="T"/>　阿<note n="0084008" resp="Taisho" type="orig" place="foot text">禘＝掃【三】</note><note n="0084008" resp="CBETA" type="mod">禘【大】，掃【宋】【元】【明】</note><app n="0084008"><lem wit="【大】">禘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">掃</rdg></app>比耶　令所祝吉　梵天勸助</p></cb:div>
 <lb n="0084c16" ed="T"/><cb:div type="jing"><cb:mulu level="1" n="20" type="經">20 佛說護諸比丘咒經</cb:mulu><head>佛說護諸比丘呪經第二十</head>
@@ -1534,7 +1534,7 @@ Added comment  for Emacs
 <lb n="0084c22" ed="T"/>安。佛問比丘：「何為馳散擾動如斯？若魚畏
 <lb n="0084c23" ed="T"/>網。」比丘對曰：「我<note n="0084011" resp="Taisho" type="orig" place="foot text">遭＝曹【三】</note><note n="0084011" resp="CBETA" type="mod">遭【大】，曹【宋】【元】【明】</note><app n="0084011"><lem wit="【大】">遭</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曹</rdg></app>患所在不安，遇諸賊
 <lb n="0084c24" ed="T"/>盜、鬼神羅剎、諸象及龍、餓鬼師子及諸妖
-<lb n="0084c25" ed="T"/>魅、鬼魅非人、熊羆諸邪、溝邊溷鬼、蠱道<choice><corr>巫</corr><sic><g ref="#CB02442"/></sic></choice>
+<lb n="0084c25" ed="T"/>魅、鬼魅非人、熊羆諸邪、溝邊溷鬼、蠱道<note n="0084c2501" resp="CBETA" type="add">巫【CB】，<g ref="#CB02442"/>【大】</note><app n="0084c2501"><lem wit="【CB】" resp="CBETA">巫</lem><rdg wit="【大】"><g ref="#CB02442"/></rdg></app>
 <lb n="0084c26" ed="T"/>呪。」</p><p xml:id="pT03p0084c2602" rend="inline">佛告比丘：「當為汝說，常當救濟一切
 <lb n="0084c27" ed="T"/>擁護。諦聽，善思念之！」比丘答曰：「唯然受教！」</p>
 <lb n="0084c28" ed="T"/><p xml:id="pT03p0084c2801">佛言：「何等為一切救濟擁護？如是：</p>
@@ -1807,7 +1807,7 @@ Added comment  for Emacs
 <lb n="0087c24" ed="T"/>索奉現。長者即見。進其所齎<note n="0087009" resp="Taisho" type="orig" place="foot text">餽＝饋【三】＊</note><note n="0087009" resp="CBETA" type="mod">餽【大】＊，饋【宋】＊【元】＊【明】＊</note><app n="0087009"><lem wit="【大】">餽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">饋</rdg></app>遺之具，以
 <lb n="0087c25" ed="T"/>其長者名，辭謝問訊：『前者相失，以意不及，
 <lb n="0087c26" ed="T"/>眾人<app type="star" corresp="#0087008"><lem wit="【大】">搆狡</lem><rdg resp="Taisho" wit="【宋】【元】【明】">搆叛</rdg></app>，遂成怨結，積年違曠，不得言
-<lb n="0087c27" ed="T"/>會。思一侍面敘其辛苦，故遣飲食饋<note n="0087010" resp="Taisho" type="orig" place="foot text">遣＝遺【明】</note><note n="0087010" resp="CBETA" type="mod">遺【明】【麗-CB】【CB】，遣【大】</note><app n="0087010"><lem resp="CBETA.maha" wit="【CBETA】【麗】">遺<note type="cf1">K19n0799_p0983c10</note><note type="cf2">T03n0154_p0087c23</note></lem><rdg wit="【大】">遣</rdg><rdg resp="Taisho" wit="【明】">遺</rdg></app>之
+<lb n="0087c27" ed="T"/>會。思一侍面敘其辛苦，故遣飲食饋<note n="0087010" resp="Taisho" type="orig" place="foot text">遣＝遺【明】</note><note n="0087010" resp="CBETA" type="mod">遺【CB】【麗-CB】【明】，遣【大】</note><app n="0087010"><lem resp="CBETA.maha" wit="【CBETA】【麗】">遺<note type="cf1">K19n0799_p0983c10</note><note type="cf2">T03n0154_p0087c23</note></lem><rdg wit="【大】">遣</rdg><rdg resp="Taisho" wit="【明】">遺</rdg></app>之
 <lb n="0087c28" ed="T"/>物，<app type="star" corresp="#0086012"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惟</rdg></app>見納受，無見譏責，亦無父怨母讎，
 <lb n="0087c29" ed="T"/>故遣吾來，以相喻意。』其長者聞，欣然大悅：
 <pb n="0088a" ed="T" xml:id="T03.0154.0088a"/>
@@ -1881,7 +1881,7 @@ Added comment  for Emacs
 <lb n="0088c08" ed="T"/>非凡人，應為國主！』尋往遍啟國之大臣，
 <lb n="0088c09" ed="T"/>具說本末。於時群臣即嚴威儀，導從騎乘，
 <lb n="0088c10" ed="T"/>印綬冠幘，車駕衣服，則往奉迎。洗沐塗香，
-<lb n="0088c11" ed="T"/>衣冠被服，<choice><corr>佩</corr><sic><g ref="#CB01887"/></sic></choice>帶畢訖，皆拜謁稱臣。昇車入
+<lb n="0088c11" ed="T"/>衣冠被服，<note n="0088c1101" resp="CBETA" type="add">佩【CB】，<g ref="#CB01887"/>【大】</note><app n="0088c1101"><lem wit="【CB】" resp="CBETA">佩</lem><rdg wit="【大】"><g ref="#CB01887"/></rdg></app>帶畢訖，皆拜謁稱臣。昇車入
 <lb n="0088c12" ed="T"/>宮，南面立詔，國即太平，風雨時節。即<note n="0088016" resp="Taisho" type="orig" place="foot text">時＝令【三】</note><note n="0088016" resp="CBETA" type="mod">時【大】，令【宋】【元】【明】</note><app n="0088016"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【宋】【元】【明】">令</rdg></app>
 <lb n="0088c13" ed="T"/>勅外：『詔有四人：一者智慧、二者工巧、三者
 <lb n="0088c14" ed="T"/>端正、四者精進，召至中<note n="0088017" resp="Taisho" type="orig" place="foot text">閤＝閣【三】</note><note n="0088017" resp="CBETA" type="mod">閤【大】，閣【宋】【元】【明】</note><app n="0088017"><lem wit="【大】">閤</lem><rdg resp="Taisho" wit="【宋】【元】【明】">閣</rdg></app>。』一時俱集，令
@@ -2317,7 +2317,7 @@ Added comment  for Emacs
 <lb n="0093b24" ed="T"/><lg xml:id="lgT03p0093b2401" rend="margin-left:2em;text-indent:-2em"><l>「『以拔卿憂惱，</l><l>心所懷愁慼，</l>
 <lb n="0093b25" ed="T"/><l>於今仁無患，</l><l>而除子憂慼。</l>
 <lb n="0093b26" ed="T"/><l>令人離愁惱，</l><l>及一切親屬，</l>
-<lb n="0093b27" ed="T"/><l>如卿今日歡，</l><l>見象子起<note n="0093011" resp="Taisho" type="orig" place="foot text">放＝故【明】</note><note n="0093011" resp="CBETA" type="mod">故【明】【CB】，放【大】</note><app n="0093011"><lem resp="CBETA.maha" wit="【CBETA】">故</lem><rdg wit="【大】">放</rdg><rdg resp="Taisho" wit="【明】">故</rdg></app>。』</l></lg>
+<lb n="0093b27" ed="T"/><l>如卿今日歡，</l><l>見象子起<note n="0093011" resp="Taisho" type="orig" place="foot text">放＝故【明】</note><note n="0093011" resp="CBETA" type="mod">故【CB】【明】，放【大】</note><app n="0093011"><lem resp="CBETA.maha" wit="【CBETA】">故</lem><rdg wit="【大】">放</rdg><rdg resp="Taisho" wit="【明】">故</rdg></app>。』</l></lg>
 <lb n="0093b28" ed="T"/><p xml:id="pT03p0093b2801">「時天帝<note n="0093012" resp="Taisho" type="orig" place="foot text">釋＋（復）【三】</note><note n="0093012" resp="CBETA" type="mod">釋【大】，釋復【宋】【元】【明】</note><app n="0093012"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【宋】【元】【明】">釋復</rdg></app>以偈頌曰：</p>
 <lb n="0093b29" ed="T"/><lg xml:id="lgT03p0093b2901" rend="margin-left:2em;text-indent:-2em"><l>「『吾愍傷卿故，</l><l>欲除諸憂慼，</l>
 <pb n="0093c" ed="T" xml:id="T03.0154.0093c"/>
@@ -3468,7 +3468,7 @@ Added comment  for Emacs
 <lb n="0106b04" ed="T"/><l>於今不忘之，</l><l>撾捶我苦毒，</l>
 <lb n="0106b05" ed="T"/><l>我已得自在，</l><l>不能就君困。』」</l></lg>
 <lb n="0106b06" ed="T"/><p xml:id="pT03p0106b0601">佛告諸比丘：「欲知爾時阿夷扇持子，今清信
-<lb n="0106b07" ed="T"/>士子是也；清信<choice><corr>士</corr><sic>土</sic></choice><note n="0106004" resp="Taisho" type="orig" place="foot text">〔者〕－【三】</note><note n="0106004" resp="CBETA" type="mod">者【大】，〔－〕【宋】【元】【明】</note><app n="0106004"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，則<note n="0106005" resp="Taisho" type="orig" place="foot text">〔今〕－【三】</note><note n="0106005" resp="CBETA" type="mod">今【大】，〔－〕【宋】【元】【明】</note><app n="0106005"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>父也；其仙人
+<lb n="0106b07" ed="T"/>士子是也；清信<note n="0106b0701" resp="CBETA" type="add">士【CB】，土【大】</note><app n="0106b0701"><lem wit="【CB】" resp="CBETA">士</lem><rdg wit="【大】">土</rdg></app><note n="0106004" resp="Taisho" type="orig" place="foot text">〔者〕－【三】</note><note n="0106004" resp="CBETA" type="mod">者【大】，〔－〕【宋】【元】【明】</note><app n="0106004"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，則<note n="0106005" resp="Taisho" type="orig" place="foot text">〔今〕－【三】</note><note n="0106005" resp="CBETA" type="mod">今【大】，〔－〕【宋】【元】【明】</note><app n="0106005"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>父也；其仙人
 <lb n="0106b08" ed="T"/>者，我身是也。如是具足，當分別說。」</p><p xml:id="pT03p0106b0814" rend="inline">佛說如
 <lb n="0106b09" ed="T"/>是，莫不歡喜。</p></cb:div>
 <lb n="0106b10" ed="T"/><cb:div type="jing"><cb:mulu level="1" n="54" type="經">54 佛說夫婦經</cb:mulu><head>佛說夫婦經第五十四</head>
@@ -3565,7 +3565,7 @@ Added comment  for Emacs
 <lb n="0107b11" ed="T"/>梵志道士，問當雨不？占者答曰：『滿十年乃
 <lb n="0107b12" ed="T"/>有雨耳！』王聞是語，恐人民死盡，愁憂不樂：
 <lb n="0107b13" ed="T"/>『當作何計以濟國人乎？』復念曰：『<note n="0107005" resp="Taisho" type="orig" place="foot text">唯＝惟【三】</note><note n="0107005" resp="CBETA" type="mod">唯【大】，惟【宋】【元】【明】</note><app n="0107005"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惟</rdg></app>當身
-<lb n="0107b14" ed="T"/>施以救眾生耳！』便齋戒清淨，<note n="0107006" resp="Taisho" type="orig" place="foot text">又＝叉【三】</note><note n="0107006" resp="CBETA" type="mod">叉【宋】【元】【明】【麗-CB】【CB】，又【大】</note><app n="0107006"><lem resp="CBETA.maha" wit="【CBETA】【麗】">叉<note type="cf1">K19n0799_p1010b10</note></lem><rdg wit="【大】">又</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">叉</rdg></app>手向十方
+<lb n="0107b14" ed="T"/>施以救眾生耳！』便齋戒清淨，<note n="0107006" resp="Taisho" type="orig" place="foot text">又＝叉【三】</note><note n="0107006" resp="CBETA" type="mod">叉【CB】【麗-CB】【宋】【元】【明】，又【大】</note><app n="0107006"><lem resp="CBETA.maha" wit="【CBETA】【麗】">叉<note type="cf1">K19n0799_p1010b10</note></lem><rdg wit="【大】">又</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">叉</rdg></app>手向十方
 <lb n="0107b15" ed="T"/>曰：『以我前後所作善行，若有福報者，願生
 <lb n="0107b16" ed="T"/>海中，作大身魚，以肉供養眾。』便閉口不
 <lb n="0107b17" ed="T"/>食。七日命終，得生為魚，身長四千里，具識

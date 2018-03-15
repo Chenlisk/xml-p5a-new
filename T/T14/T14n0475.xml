@@ -316,7 +316,7 @@ Added comment  for Emacs
 <lb ed="T" n="0538c13"/>語舍利弗：「勿作是<note resp="Taisho" type="orig" place="foot text" n="0538009">意＝念【元】【明】</note><note resp="CBETA" type="mod" n="0538009">意【大】，念【元】【明】</note><app n="0538009"><lem wit="【大】">意</lem><rdg wit="【元】【明】" resp="Taisho">念</rdg></app>，謂此佛土以為不
 <lb n="0538c14" ed="T"/>淨。所以者何？我見釋迦牟尼佛土清淨，譬
 <lb n="0538c15" ed="T"/>如自在天宮。」</p><p xml:id="pT14p0538c1506" rend="inline">舍利弗言：「我見此土丘陵坑
-<lb ed="T" n="0538c16"/>坎、荊蕀沙礫、土石諸山、穢惡充滿。」</p><p xml:id="pT14p0538c1614" rend="inline">螺髻<note n="0538010" place="foot text" type="orig" resp="Taisho">梵＋（王）【元】【明】</note><note type="mod" n="0538010" resp="CBETA">梵王【元】【明】【CB】，梵【大】</note><app n="0538010"><lem wit="【CBETA】" resp="CBETA.maha">梵王</lem><rdg wit="【大】">梵</rdg><rdg resp="Taisho" wit="【元】【明】">梵王</rdg></app>
+<lb ed="T" n="0538c16"/>坎、荊蕀沙礫、土石諸山、穢惡充滿。」</p><p xml:id="pT14p0538c1614" rend="inline">螺髻<note n="0538010" place="foot text" type="orig" resp="Taisho">梵＋（王）【元】【明】</note><note type="mod" n="0538010" resp="CBETA">梵王【CB】【元】【明】，梵【大】</note><app n="0538010"><lem wit="【CBETA】" resp="CBETA.maha">梵王</lem><rdg wit="【大】">梵</rdg><rdg resp="Taisho" wit="【元】【明】">梵王</rdg></app>
 <lb n="0538c17" ed="T"/>言：「仁者心有高下，不依佛慧，故見此土
 <lb ed="T" n="0538c18"/>為不淨耳！舍利弗！菩薩於一切眾生悉皆
 <lb ed="T" n="0538c19"/>平等，深心清淨，依佛智慧，則能見此佛土清
@@ -353,7 +353,7 @@ Added comment  for Emacs
 <lb ed="T" n="0539a20"/>行；雖處居家，不著三界；示有妻子，常修
 <lb n="0539a21" ed="T"/>梵行；現有眷屬，常樂遠離；雖服寶飾，而
 <lb n="0539a22" ed="T"/>以相好嚴身；雖<note type="orig" place="foot text" n="0539007" resp="Taisho">復＝服【聖】</note><note type="mod" n="0539007" resp="CBETA">復【大】，服【聖】</note><app n="0539007"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【聖】">服</rdg></app>飲食，而以禪悅為味；
-<lb ed="T" n="0539a23"/>若至博<choice><corr>弈</corr><sic>奕</sic></choice>戲處，輒以度人；受諸異道，不毀
+<lb ed="T" n="0539a23"/>若至博<note n="0539a2301" resp="CBETA" type="add">弈【CB】，奕【大】</note><app n="0539a2301"><lem wit="【CB】" resp="CBETA">弈</lem><rdg wit="【大】">奕</rdg></app>戲處，輒以度人；受諸異道，不毀
 <lb n="0539a24" ed="T"/>正信；雖明世典，常樂佛法；一切見敬，為供
 <lb ed="T" n="0539a25"/>養中最；執持正法，攝諸長<note resp="Taisho" type="orig" place="foot text" n="0539008">幼＝幻【明】</note><note resp="CBETA" type="mod" n="0539008">幼【大】，幻【明】</note><app n="0539008"><lem wit="【大】">幼</lem><rdg wit="【明】" resp="Taisho">幻</rdg></app>；一切治生諧
 <lb ed="T" n="0539a26"/>偶，雖獲俗利，不以喜悅；遊諸四衢，饒益眾
@@ -691,7 +691,7 @@ Added comment  for Emacs
 <lb ed="T" n="0542c28"/>乃至老死皆無盡故；諸煩惱是道場，知如實
 <lb n="0542c29" ed="T"/>故；眾生是道場，知無我故；一切法是道場，
 <pb xml:id="T14.0475.0543a" n="0543a" ed="T"/>
-<lb n="0543a01" ed="T"/>知諸法空故；降<choice><corr>魔</corr><sic>摩</sic></choice>是道場，不傾動故；三界
+<lb n="0543a01" ed="T"/>知諸法空故；降<note n="0543a0101" resp="CBETA" type="add">魔【CB】，摩【大】</note><app n="0543a0101"><lem wit="【CB】" resp="CBETA">魔</lem><rdg wit="【大】">摩</rdg></app>是道場，不傾動故；三界
 <lb n="0543a02" ed="T"/>是道場，無所趣故；師子吼是道場，無所畏
 <lb n="0543a03" ed="T"/>故；力、無畏、不共法是道場，無諸過故；三明是
 <lb ed="T" n="0543a04"/>道場，無餘礙故；一念知一切法是道場，成
@@ -881,7 +881,7 @@ Added comment  for Emacs
 <lb ed="T" n="0545a07"/>想者，亦是顛倒，顛倒者<note n="0545001" place="foot text" type="orig" resp="Taisho">是即＝即是【元】【明】</note><note n="0545001" type="mod" resp="CBETA">是即【大】，即是【元】【明】</note><app n="0545001"><lem wit="【大】">是即</lem><rdg resp="Taisho" wit="【元】【明】">即是</rdg></app>大患，我應離
 <lb ed="T" n="0545a08"/>之。』云何為離？離我、我所。云何離我、我所？謂
 <lb n="0545a09" ed="T"/>離二法。云何離二法？謂不念內外，諸法行
-<lb ed="T" n="0545a10"/>於平等。云何平等？<note type="orig" place="foot text" n="0545002" resp="Taisho">為＝謂【聖】</note><note n="0545002" type="mod" resp="CBETA">謂【聖】【麗-CB】【CB】，為【大】</note><app n="0545002"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">謂<note type="cf1">K09n0119_p0988b16</note><note type="cf2">T38n1775_p0376c29</note></lem><rdg wit="【大】">為</rdg><rdg resp="Taisho" wit="【聖】">謂</rdg></app>我等、涅槃等。所以者
+<lb ed="T" n="0545a10"/>於平等。云何平等？<note type="orig" place="foot text" n="0545002" resp="Taisho">為＝謂【聖】</note><note n="0545002" type="mod" resp="CBETA">謂【CB】【麗-CB】【聖】，為【大】</note><app n="0545002"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">謂<note type="cf1">K09n0119_p0988b16</note><note type="cf2">T38n1775_p0376c29</note></lem><rdg wit="【大】">為</rdg><rdg resp="Taisho" wit="【聖】">謂</rdg></app>我等、涅槃等。所以者
 <lb ed="T" n="0545a11"/>何？我及涅槃，此二皆空。以何為空？但以名
 <lb ed="T" n="0545a12"/>字故空。如此二法，無決定性，得是平等，無
 <lb ed="T" n="0545a13"/>有餘病，唯有空病；空病亦空。是有疾菩薩
@@ -1262,7 +1262,7 @@ Added comment  for Emacs
 <lb ed="T" n="0549a28"/><p xml:id="pT14p0549a2801">於是維摩詰問文殊師利：「何等為如來種？」</p>
 <lb n="0549a29" ed="T"/><p xml:id="pT14p0549a2901">文殊師利言：「有身為種，無明有愛為種，貪恚
 <pb n="0549b" xml:id="T14.0475.0549b" ed="T"/>
-<lb n="0549b01" ed="T"/><choice><corr>癡</corr><sic>礙</sic></choice>為種，四顛倒為種，五蓋為種，六入為種，
+<lb n="0549b01" ed="T"/><note n="0549b0101" resp="CBETA" type="add">癡【CB】，礙【大】</note><app n="0549b0101"><lem wit="【CB】" resp="CBETA">癡</lem><rdg wit="【大】">礙</rdg></app>為種，四顛倒為種，五蓋為種，六入為種，
 <lb n="0549b02" ed="T"/>七識處為種，八邪法為種，九惱處為種，十
 <lb ed="T" n="0549b03"/>不善道為種：以要言之，六十二見及一切煩
 <lb n="0549b04" ed="T"/>惱，皆是佛種。」</p><p xml:id="pT14p0549b0406" rend="inline">曰：「何謂也？」</p><p rend="inline" xml:id="pT14p0549b0410">答曰：「若見無為入

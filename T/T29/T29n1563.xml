@@ -2277,7 +2277,7 @@ Added comment  for Emacs
 <lb n="0800b17" ed="T"/>怠謂懈怠，於善事業<note resp="Taisho" n="0800002" place="foot text" type="orig">𨵗＝闕【三】【宮】</note><note resp="CBETA" n="0800002" type="mod">𨵗【大】，闕【宋】【元】【明】【宮】</note><app n="0800002"><lem wit="【大】">𨵗</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">闕</rdg></app>減勝能，於惡事業
 <lb n="0800b18" ed="T"/>順成勇悍，無明等流，名為懈怠。由此說為鄙
 <lb n="0800b19" ed="T"/>劣勤性，勤習鄙穢，故名懈怠。不信者，謂心不
-<lb n="0800b20" ed="T"/>澄淨，邪見等流，於諸諦<note resp="Taisho" n="0800003" place="foot text" type="orig">寶＝實【三】【宮】</note><note resp="CBETA" n="0800003" type="mod">實【宋】【元】【明】【宮】【CB】，寶【大】</note><app n="0800003"><lem resp="CBETA.maha" wit="【CBETA】">實</lem><rdg wit="【大】">寶</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">實</rdg></app>靜慮等至現前輕
+<lb n="0800b20" ed="T"/>澄淨，邪見等流，於諸諦<note resp="Taisho" n="0800003" place="foot text" type="orig">寶＝實【三】【宮】</note><note resp="CBETA" n="0800003" type="mod">實【CB】【宋】【元】【明】【宮】，寶【大】</note><app n="0800003"><lem resp="CBETA.maha" wit="【CBETA】">實</lem><rdg wit="【大】">寶</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">實</rdg></app>靜慮等至現前輕
 <lb n="0800b21" ed="T"/>毀，於施等因及於彼果心不現許，名為不信。
 <lb n="0800b22" ed="T"/>惛謂惛沈𧄼瞢不樂等所生心重性，說名惛
 <lb n="0800b23" ed="T"/>沈，由斯覆蔽，心便惛昧無所堪任，瞢憒性故。
@@ -4329,7 +4329,7 @@ Added comment  for Emacs
 <lb n="0823a25" ed="T"/>不能為故不頓生，猶如識等。然諸念定是等
 <lb n="0823a26" ed="T"/>無間，不可說為等無間緣。若法由前心等引
 <lb n="0823a27" ed="T"/>起，同一種類必不俱生，生已復能引後令起，
-<lb n="0823a28" ed="T"/>可名等無間及等無間<choice><corr>緣</corr><sic>綠</sic></choice>。諸定雖由前心等
+<lb n="0823a28" ed="T"/>可名等無間及等無間<note n="0823a2801" resp="CBETA" type="add">緣【CB】，綠【大】</note><app n="0823a2801"><lem wit="【CB】" resp="CBETA">緣</lem><rdg wit="【大】">綠</rdg></app>。諸定雖由前心等
 <lb n="0823a29" ed="T"/>引，同一種類必不俱生，然其生已不能引後，
 <pb n="0823b" ed="T" xml:id="T29.1563.0823b"/>
 <lb n="0823b01" ed="T"/>可名等無間非等無間緣。是故設約無心位
@@ -6899,7 +6899,7 @@ Added comment  for Emacs
 <lb n="0851c16" ed="T"/>於岸上，洋銅灌其口、令吞熱鐵丸，眾苦備經
 <lb n="0851c17" ed="T"/>還擲河內。此河如塹，前三似園，圍繞莊嚴諸
 <lb n="0851c18" ed="T"/>大地獄。已說有八熱㮈落迦。寒㮈落迦亦有
-<lb n="0851c19" ed="T"/>八種。何等為八？一頞部陀、二尼<choice><corr>剌</corr><sic>刺</sic></choice>部陀、三頞
+<lb n="0851c19" ed="T"/>八種。何等為八？一頞部陀、二尼<note n="0851c1901" resp="CBETA" type="add">剌【CB】，刺【大】</note><app n="0851c1901"><lem wit="【CB】" resp="CBETA">剌</lem><rdg wit="【大】">刺</rdg></app>部陀、三頞
 <lb n="0851c20" ed="T"/>哳吒、四<note resp="Taisho" n="0851015" place="foot text" type="orig">曤＝臛【三】【宮】</note><note resp="CBETA" n="0851015" type="mod">曤【大】，臛【宋】【元】【明】【宮】</note><app n="0851015"><lem wit="【大】">曤</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">臛</rdg></app>臛婆、五呼呼婆、六嗢鉢羅、七鉢
 <lb n="0851c21" ed="T"/>特摩、八摩訶鉢特摩。此中有情嚴寒所逼，隨
 <lb n="0851c22" ed="T"/><note resp="Taisho" n="0851016" place="foot text" type="orig">身聲＝聲身【三】【宮】</note><note resp="CBETA" n="0851016" type="mod">身聲【大】，聲身【宋】【元】【明】【宮】</note><app n="0851016"><lem wit="【大】">身<note resp="Taisho" n="0851017" place="foot text" type="orig">聲＋（二）【聖】</note><note resp="CBETA" n="0851017" type="mod">聲【大】，聲二【聖】</note><app n="0851017"><lem wit="【大】">聲</lem><rdg resp="Taisho" wit="【聖】">聲二</rdg></app></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聲身</rdg></app>瘡變立差別想名，謂二三三如其次
@@ -7300,7 +7300,7 @@ Added comment  for Emacs
 <lb n="0856a26" ed="T"/>時人趣，此洲一人無師法然得初靜慮，從靜
 <lb n="0856a27" ed="T"/>慮起唱如是言：離生喜樂，甚樂甚靜。餘人
 <lb n="0856a28" ed="T"/><note resp="Taisho" n="0856003" place="foot text" type="orig">聞＝間【德】</note><note resp="CBETA" n="0856003" type="mod">聞【大】，間【德】</note><app n="0856003"><lem wit="【大】">聞</lem><rdg resp="Taisho" wit="【德】">間</rdg></app>已皆入靜慮，命終並得生梵世中。乃至此
-<lb n="0856a29" ed="T"/>洲有情都盡，是名已壞贍部洲人。<note resp="Taisho" n="0856004" place="foot text" type="orig">廣＝東【三】【宮】【聖】【德】</note><note resp="CBETA" n="0856004" type="mod">東【宋】【元】【明】【宮】【聖】【德】【麗-CB】【CB】，廣【大】</note><app n="0856004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">東<note type="cf1">K28n0957_p0120b22</note></lem><rdg wit="【大】">廣</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">東</rdg></app>西二
+<lb n="0856a29" ed="T"/>洲有情都盡，是名已壞贍部洲人。<note resp="Taisho" n="0856004" place="foot text" type="orig">廣＝東【三】【宮】【聖】【德】</note><note resp="CBETA" n="0856004" type="mod">東【CB】【麗-CB】【宋】【元】【明】【宮】【聖】【德】，廣【大】</note><app n="0856004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">東<note type="cf1">K28n0957_p0120b22</note></lem><rdg wit="【大】">廣</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">東</rdg></app>西二
 <pb n="0856b" ed="T" xml:id="T29.1563.0856b"/>
 <lb n="0856b01" ed="T"/>洲例此應說。北洲命盡生欲界天，由彼鈍根
 <lb n="0856b02" ed="T"/>無離欲故。生欲天已靜慮現前，轉得勝依方
@@ -7470,7 +7470,7 @@ Added comment  for Emacs
 <lb n="0858a16" ed="T"/>翼從。若銀輪王，自往彼土，威嚴近至彼方
 <lb n="0858a17" ed="T"/><note resp="Taisho" n="0858002" place="foot text" type="orig">臣＝目【元】</note><note resp="CBETA" n="0858002" type="mod">臣【大】，目【元】</note><app n="0858002"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【元】">目</rdg></app>伏。若銅輪王，至彼國已宣威競德，彼方
 <lb n="0858a18" ed="T"/>推勝。若鐵輪王，亦至彼國現威列陣，剋勝便
-<lb n="0858a19" ed="T"/>止。一切輪王皆無傷害，令伏得勝<choice><corr>已</corr><sic>己</sic></choice>，各安其
+<lb n="0858a19" ed="T"/>止。一切輪王皆無傷害，令伏得勝<note n="0858a1901" resp="CBETA" type="add">已【CB】，己【大】</note><app n="0858a1901"><lem wit="【CB】" resp="CBETA">已</lem><rdg wit="【大】">己</rdg></app>，各安其
 <lb n="0858a20" ed="T"/>所居，勸化令修十善業道，故輪王死多得生
 <lb n="0858a21" ed="T"/>天。經說：輪王出現於世，便有七寶出現世間。
 <lb n="0858a22" ed="T"/>如是輪王，非唯有七寶與餘王別，亦有三十
@@ -7565,7 +7565,7 @@ Added comment  for Emacs
 <lb n="0859a20" ed="T"/>遍淨天為此災頂。若時風災飄散世界，以廣
 <lb n="0859a21" ed="T"/>果天為此災頂。隨何災力所不及處，即說名
 <lb n="0859a22" ed="T"/>為此災之頂。何緣下三定遭火水風災？初二
-<lb n="0859a23" ed="T"/>三定中，內災等彼故。謂初靜慮尋<note resp="Taisho" n="0859001" place="foot text" type="orig">何＝伺【三】【宮】【聖】【德】</note><note resp="CBETA" n="0859001" type="mod">伺【宋】【元】【明】【宮】【聖】【德】【CB】，何【大】</note><app n="0859001"><lem resp="CBETA.maha" wit="【CBETA】">伺</lem><rdg wit="【大】">何</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】【德】">伺</rdg></app>為內
+<lb n="0859a23" ed="T"/>三定中，內災等彼故。謂初靜慮尋<note resp="Taisho" n="0859001" place="foot text" type="orig">何＝伺【三】【宮】【聖】【德】</note><note resp="CBETA" n="0859001" type="mod">伺【CB】【宋】【元】【明】【宮】【聖】【德】，何【大】</note><app n="0859001"><lem resp="CBETA.maha" wit="【CBETA】">伺</lem><rdg wit="【大】">何</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】【德】">伺</rdg></app>為內
 <lb n="0859a24" ed="T"/>災，能燒惱心等外火災。故第二靜慮喜受為
 <lb n="0859a25" ed="T"/>內災，與輕安俱潤澤如水故，遍身麁重由此
 <lb n="0859a26" ed="T"/>皆除故。經說苦根第二靜慮滅，以說內心喜
@@ -8517,7 +8517,7 @@ Added comment  for Emacs
 <lb n="0869c16" ed="T"/>中下品。由如是理，諸阿羅漢或有成就下品
 <lb n="0869c17" ed="T"/>律儀，然諸異生或成上品。諸有歸依佛法僧
 <lb n="0869c18" ed="T"/>者，為歸何等？頌曰：</p>
-<lb n="0869c19" ed="T"/><lg xml:id="lgT29p0869c1901"><l>歸依成佛<choice><corr>僧</corr><sic>增</sic></choice></l><l>，無學二種法，</l>
+<lb n="0869c19" ed="T"/><lg xml:id="lgT29p0869c1901"><l>歸依成佛<note n="0869c1901" resp="CBETA" type="add">僧【CB】，增【大】</note><app n="0869c1901"><lem wit="【CB】" resp="CBETA">僧</lem><rdg wit="【大】">增</rdg></app></l><l>，無學二種法，</l>
 <lb n="0869c20" ed="T"/><l>及涅槃擇滅，</l><l>是說具三歸。</l></lg>
 <lb n="0869c21" ed="T"/><p xml:id="pT29p0869c2101">論曰：如本論言：歸依佛者為歸何法？謂若諸
 <lb n="0869c22" ed="T"/>法妙有現有，由想等想施設言說，名為佛陀，
@@ -8649,7 +8649,7 @@ Added comment  for Emacs
 <lb n="0871a28" ed="T"/>離性罪中立四種為近事學處，然於一切離
 <lb n="0871a29" ed="T"/>遮罪中，於近事律儀唯遮離飲酒？頌曰：</p>
 <pb n="0871b" ed="T" xml:id="T29.1563.0871b"/>
-<lb n="0871b01" ed="T"/><lg xml:id="lgT29p0871b0101"><l>遮中唯離酒，</l><l>為<choice><corr>護</corr><sic>獲</sic></choice>餘律儀。</l></lg>
+<lb n="0871b01" ed="T"/><lg xml:id="lgT29p0871b0101"><l>遮中唯離酒，</l><l>為<note n="0871b0101" resp="CBETA" type="add">護【CB】，獲【大】</note><app n="0871b0101"><lem wit="【CB】" resp="CBETA">護</lem><rdg wit="【大】">獲</rdg></app>餘律儀。</l></lg>
 <lb n="0871b02" ed="T"/><p xml:id="pT29p0871b0201">論曰：諸飲酒者心多縱逸，不能守護諸餘律
 <lb n="0871b03" ed="T"/>儀，故為護餘令離飲酒。謂飲酒已，於惡作說
 <lb n="0871b04" ed="T"/>別悔墮落，眾餘他勝五部罪中不能防守。或
@@ -8704,7 +8704,7 @@ Added comment  for Emacs
 <lb n="0871c23" ed="T"/>非一切因，謂以下心或中或上受苾芻戒。或
 <lb n="0871c24" ed="T"/>有一類住律儀者，於一切有情得律儀，由一
 <lb n="0871c25" ed="T"/>切支及一切因，謂以三心受近事勤策苾芻
-<lb n="0871c26" ed="T"/>戒。或有一類住律<choice><corr>儀</corr><sic>義</sic></choice>者，於一切有情得律儀，
+<lb n="0871c26" ed="T"/>戒。或有一類住律<note n="0871c2601" resp="CBETA" type="add">儀【CB】，義【大】</note><app n="0871c2601"><lem wit="【CB】" resp="CBETA">儀</lem><rdg wit="【大】">義</rdg></app>者，於一切有情得律儀，
 <lb n="0871c27" ed="T"/>由一切因、非一切支，謂以三心受近事近
 <lb n="0871c28" ed="T"/>住勤策戒。無有不遍於諸有情得律儀者，已
 <lb n="0871c29" ed="T"/>說因故。非於一分諸有情所誓受律儀惡心
@@ -9115,7 +9115,7 @@ Added comment  for Emacs
 <lb n="0876b13" ed="T"/><l>於功德田起，</l><l>害父母業定。</l></lg>
 <lb n="0876b14" ed="T"/><p xml:id="pT29p0876b1401">論曰：若所造業由重煩惱、或淳淨心、或常所
 <lb n="0876b15" ed="T"/>作、或於增上功德田起。功德田者謂佛法僧，
-<lb n="0876b16" ed="T"/>或<choice><corr>增</corr><sic>僧</sic></choice>上補特伽羅，謂證世出世勝德。於此田
+<lb n="0876b16" ed="T"/>或<note n="0876b1601" resp="CBETA" type="add">增【CB】，僧【大】</note><app n="0876b1601"><lem wit="【CB】" resp="CBETA">增</lem><rdg wit="【大】">僧</rdg></app>上補特伽羅，謂證世出世勝德。於此田
 <lb n="0876b17" ed="T"/>所雖無重惑及淳淨心亦非常行，若善不善
 <lb n="0876b18" ed="T"/>所起諸業，或於父母設起下纏行損害事，如
 <lb n="0876b19" ed="T"/>是一切皆定業攝。有餘師說：若以猛利意樂
@@ -9487,7 +9487,7 @@ Added comment  for Emacs
 <lb n="0880b24" ed="T"/>齊此名為殺生業道。有懷猶豫，為杌為人？設
 <lb n="0880b25" ed="T"/>復是人，為彼非彼？因起決志，若是若非我定
 <lb n="0880b26" ed="T"/>當殺，由心無顧，若殺有情亦成業道。如是業
-<lb n="0880b27" ed="T"/>道若定若疑，但具殺緣皆有成理。於<choice><corr>剎</corr><sic>殺</sic></choice>那滅
+<lb n="0880b27" ed="T"/>道若定若疑，但具殺緣皆有成理。於<note n="0880b2701" resp="CBETA" type="add">剎【CB】，殺【大】</note><app n="0880b2701"><lem wit="【CB】" resp="CBETA">剎</lem><rdg wit="【大】">殺</rdg></app>那滅
 <lb n="0880b28" ed="T"/>行殺，罪如何成？以起惡心行殺加行，令所殺
 <lb n="0880b29" ed="T"/>者現命滅時，不能為因引同類命，障應生
 <pb n="0880c" ed="T" xml:id="T29.1563.0880c"/>
@@ -10802,7 +10802,7 @@ Added comment  for Emacs
 <lb n="0895a16" ed="T"/>種。不爾，建立倒相異故。何謂倒相？謂具三因。
 <lb n="0895a17" ed="T"/>何謂三因？一向倒故、推度性故、妄增益故。增
 <lb n="0895a18" ed="T"/>聲亦顯體增勝故，非餘煩惱具此三因。謂戒
-<lb n="0895a19" ed="T"/><choice><corr>禁取</corr><sic>取禁</sic></choice>非一向倒，所計容離欲染等故，少分暫
+<lb n="0895a19" ed="T"/><note n="0895a1901" resp="CBETA" type="add">禁取【CB】，取禁【大】</note><app n="0895a1901"><lem wit="【CB】" resp="CBETA">禁取</lem><rdg wit="【大】">取禁</rdg></app>非一向倒，所計容離欲染等故，少分暫
 <lb n="0895a20" ed="T"/>時得清淨故。斷見邪見非妄增益，於壞事門
 <lb n="0895a21" ed="T"/>此二轉故。餘部見取非增勝故，所餘煩惱非
 <lb n="0895a22" ed="T"/>推度故，由此顛倒唯四非餘。豈不經中說諸
@@ -11519,7 +11519,7 @@ Added comment  for Emacs
 <lb n="0903a14" ed="T"/>集斷遍隨眠隨增。翻此應知，見集斷識修所
 <lb n="0903a15" ed="T"/>斷識，欲修所斷及諸遍行隨眠隨增。見道斷
 <lb n="0903a16" ed="T"/>識欲見道斷，及諸遍行隨眠隨增。然無漏緣
-<lb n="0903a17" ed="T"/>唯相應<choice><corr>縛</corr><sic>縳</sic></choice>，所餘但作所緣隨增。准此應知色
+<lb n="0903a17" ed="T"/>唯相應<note n="0903a1701" resp="CBETA" type="add">縛【CB】，縳【大】</note><app n="0903a1701"><lem wit="【CB】" resp="CBETA">縛</lem><rdg wit="【大】">縳</rdg></app>，所餘但作所緣隨增。准此應知色
 <lb n="0903a18" ed="T"/>無色界有差別者，見道斷識欲界上界，如次
 <lb n="0903a19" ed="T"/>應知緣法類品緣眼根識，餘所繫事例眼應
 <lb n="0903a20" ed="T"/>思。今於此中復應思擇，若心由彼名有隨眠，
@@ -12743,7 +12743,7 @@ Added comment  for Emacs
 <lb n="0916c05" ed="T"/>有何生具？於隨所得衣服等中深生喜足，作
 <lb n="0916c06" ed="T"/>何事業深樂斷修，異此無能證涅槃故。何緣
 <lb n="0916c07" ed="T"/>唯四，不增不減？齊此滿足聖生因故。謂聖生
-<lb n="0916c08" ed="T"/>因略有二種：一棄捨過、二攝<choice><corr>持</corr><sic>待</sic></choice>德。如次即是
+<lb n="0916c08" ed="T"/>因略有二種：一棄捨過、二攝<note n="0916c0801" resp="CBETA" type="add">持【CB】，待【大】</note><app n="0916c0801"><lem wit="【CB】" resp="CBETA">持</lem><rdg wit="【大】">待</rdg></app>德。如次即是
 <lb n="0916c09" ed="T"/>前三第四，是故唯四不增不減。或聞思修所
 <lb n="0916c10" ed="T"/>成諸善皆是聖種，解脫依故。然為對治四種
 <lb n="0916c11" ed="T"/>愛生，是故世尊略說四種，以契經說有四愛
@@ -12873,7 +12873,7 @@ Added comment  for Emacs
 <lb n="0918a15" ed="T"/>天趣中無青瘀等故，不能初起。先於此起後
 <lb n="0918a16" ed="T"/>生彼處，亦得現前此觀行相。唯不淨轉是善
 <lb n="0918a17" ed="T"/>性故體應是淨，約行相故說為不淨。是身念
-<lb n="0918a18" ed="T"/>住攝，加行非根本。雖與<choice><corr>喜</corr><sic>善</sic></choice>樂捨三根相應而
+<lb n="0918a18" ed="T"/>住攝，加行非根本。雖與<note n="0918a1801" resp="CBETA" type="add">喜【CB】，善【大】</note><app n="0918a1801"><lem wit="【CB】" resp="CBETA">喜</lem><rdg wit="【大】">善</rdg></app>樂捨三根相應而
 <lb n="0918a19" ed="T"/>厭俱行，如苦集忍智隨在何世緣自世境。若
 <lb n="0918a20" ed="T"/>不生法通緣三世，此觀行相非非常等十六
 <lb n="0918a21" ed="T"/>行攝，故唯有漏。通加行得及離染得，離彼彼
@@ -14030,7 +14030,7 @@ Added comment  for Emacs
 <lb n="0931a04" ed="T"/>得擇滅，故名為盡。金剛喻定能引諸惑盡
 <lb n="0931a05" ed="T"/>得俱行盡智令起，此與一切煩惱盡得最初
 <lb n="0931a06" ed="T"/>俱生，故名盡智。有餘師說：惑盡身中此最初
-<lb n="0931a07" ed="T"/>生，故名盡智。如是盡智至<choice><corr>已</corr><sic>己</sic></choice>生時，便成無學
+<lb n="0931a07" ed="T"/>生，故名盡智。如是盡智至<note n="0931a0701" resp="CBETA" type="add">已【CB】，己【大】</note><app n="0931a0701"><lem wit="【CB】" resp="CBETA">已</lem><rdg wit="【大】">己</rdg></app>生時，便成無學
 <lb n="0931a08" ed="T"/>阿羅漢果，已得無學應果法故。為得別果所
 <lb n="0931a09" ed="T"/>應修學，此無有故，得無學名。豈不無學亦希
 <lb n="0931a10" ed="T"/>別果，以無學者亦轉根故。此難不然，如先
@@ -14332,7 +14332,7 @@ Added comment  for Emacs
 <lb n="0934b06" ed="T"/>名寂靜，亦名清涼。寂默冲虛蕭然名梵，佛具
 <lb n="0934b07" ed="T"/>此德故立梵名。既自覺悟為令他覺，轉此授
 <lb n="0934b08" ed="T"/>彼，故名梵輪。即梵輪中<app corresp="#0930004" type="star"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>依見道，世尊有
-<lb n="0934b09" ed="T"/>處說名法輪，以阿若多憍<choice><corr>陳</corr><sic>陣</sic></choice>那等五苾芻眾
+<lb n="0934b09" ed="T"/>處說名法輪，以阿若多憍<note n="0934b0901" resp="CBETA" type="add">陳【CB】，陣【大】</note><app n="0934b0901"><lem wit="【CB】" resp="CBETA">陳</lem><rdg wit="【大】">陣</rdg></app>那等五苾芻眾
 <lb n="0934b10" ed="T"/>見道生時，地空天神即傳宣告世尊已轉正
 <lb n="0934b11" ed="T"/>法輪故。如何見道說名為輪？以速行等似世
 <lb n="0934b12" ed="T"/>輪故，如聖王輪旋環不息，速行捨取能伏未
@@ -14894,7 +14894,7 @@ Added comment  for Emacs
 <lb n="0940c04" ed="T"/>上正等菩提。於獨覺中麟角喻者，如大覺
 <lb n="0940c05" ed="T"/>說，餘則不定。於到究竟二聲聞中，舍利子依
 <lb n="0940c06" ed="T"/>苦速通行及樂速通行入聖證極果，彼依
-<lb n="0940c07" ed="T"/>未至入正決定，依<note resp="Taisho" n="0940005" place="foot text" type="orig">弟＝第【三】【宮】</note><note resp="CBETA" n="0940005" type="mod">第【宋】【元】【明】【宮】【CB】，弟【大】</note><app n="0940005"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>四定得漏盡故。目連
+<lb n="0940c07" ed="T"/>未至入正決定，依<note resp="Taisho" n="0940005" place="foot text" type="orig">弟＝第【三】【宮】</note><note resp="CBETA" n="0940005" type="mod">第【CB】【宋】【元】【明】【宮】，弟【大】</note><app n="0940005"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>四定得漏盡故。目連
 <lb n="0940c08" ed="T"/>唯依苦速通行，謂依未至入正決定，依無色
 <lb n="0940c09" ed="T"/>定得漏盡故。二聖先來樂慧樂定，故證極
 <lb n="0940c10" ed="T"/>果。依色無色許到究竟，諸大聲聞法爾唯應
@@ -16281,7 +16281,7 @@ Added comment  for Emacs
 <lb n="0956a13" ed="T"/>化生於證淨品加行差別。由第六智觀所化
 <lb n="0956a14" ed="T"/>生於證淨品稟志性別。由第七智觀所化生
 <lb n="0956a15" ed="T"/>諸所施為有益無益，種種差別正觀修止。由
-<lb n="0956a16" ed="T"/><note resp="Taisho" n="0956001" place="foot text" type="orig">弟＝第【三】【宮】＊</note><note resp="CBETA" n="0956001" type="mod">第【宋】【元】【明】【宮】【CB】＊，弟【大】＊</note><app n="0956001"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>八智觀所化生過去世中所集差別。由
+<lb n="0956a16" ed="T"/><note resp="Taisho" n="0956001" place="foot text" type="orig">弟＝第【三】【宮】＊</note><note resp="CBETA" n="0956001" type="mod">第【CB】＊【宋】【元】【明】【宮】，弟【大】＊</note><app n="0956001"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>八智觀所化生過去世中所集差別。由
 <lb n="0956a17" ed="T"/><app corresp="#0956001" type="star"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>九智觀所化生當來世中結生差別。由
 <lb n="0956a18" ed="T"/><app corresp="#0956001" type="star"><lem resp="CBETA.maha" wit="【CBETA】">第</lem><rdg wit="【大】">弟</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>十智觀所化生所證解脫方便有異。於
 <lb n="0956a19" ed="T"/>此十智若隨闕一便不具足化有情事，多復
@@ -16378,7 +16378,7 @@ Added comment  for Emacs
 <lb n="0957a20" ed="T"/>種義亦有別，謂成辦事義是力義，不怯憚義
 <lb n="0957a21" ed="T"/>是無畏義。佛三念住相別云何？頌曰：</p>
 <lb n="0957a22" ed="T"/><lg xml:id="lgT29p0957a2201"><l>三念住念慧，</l><l>緣順違俱境。</l></lg>
-<lb n="0957a23" ed="T"/><p xml:id="pT29p0957a2301">論曰：佛三念住如經廣說。諸<note resp="Taisho" n="0957004" place="foot text" type="orig">第＝弟【三】【宮】＊</note><note resp="CBETA" n="0957004" type="mod">弟【宋】＊【元】＊【明】＊【宮】＊【CB】＊，第【大】＊</note><app n="0957004"><lem resp="CBETA.maha" wit="【CBETA】">弟</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">弟</rdg></app>子眾一向恭
+<lb n="0957a23" ed="T"/><p xml:id="pT29p0957a2301">論曰：佛三念住如經廣說。諸<note resp="Taisho" n="0957004" place="foot text" type="orig">第＝弟【三】【宮】＊</note><note resp="CBETA" n="0957004" type="mod">弟【CB】＊【宋】＊【元】＊【明】＊【宮】＊，第【大】＊</note><app n="0957004"><lem resp="CBETA.maha" wit="【CBETA】">弟</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">弟</rdg></app>子眾一向恭
 <lb n="0957a24" ed="T"/>敬、能正受行，如來緣之不生歡喜，捨而安住
 <lb n="0957a25" ed="T"/>正念正知，是謂如來第一念住。諸<app corresp="#0957004" type="star"><lem resp="CBETA.maha" wit="【CBETA】">弟</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">弟</rdg></app>子眾
 <lb n="0957a26" ed="T"/>唯不恭敬、不正受行，如來緣之不生憂慼，捨
@@ -16454,7 +16454,7 @@ Added comment  for Emacs
 <lb n="0958a06" ed="T"/>具隨好；三具大力；四內身骨堅越金剛；外發
 <lb n="0958a07" ed="T"/>神光踰百千日。後恩圓德亦有四種，謂令永
 <lb n="0958a08" ed="T"/>解脫三惡趣生死，或能安置善趣三乘。總說
-<lb n="0958a09" ed="T"/>如來圓德如是。若別分<note resp="Taisho" n="0958001" place="foot text" type="orig">折＝析【三】【宮】</note><note resp="CBETA" n="0958001" type="mod">析【宋】【元】【明】【宮】【CB】，折【大】</note><app n="0958001"><lem resp="CBETA.maha" wit="【CBETA】">析<note type="cf1">T29n1558_p0141c02</note><note type="cf2">T29n1562_p0750a03</note></lem><rdg wit="【大】">折</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">析</rdg></app>則有無邊，唯佛
+<lb n="0958a09" ed="T"/>如來圓德如是。若別分<note resp="Taisho" n="0958001" place="foot text" type="orig">折＝析【三】【宮】</note><note resp="CBETA" n="0958001" type="mod">析【CB】【宋】【元】【明】【宮】，折【大】</note><app n="0958001"><lem resp="CBETA.maha" wit="【CBETA】">析<note type="cf1">T29n1558_p0141c02</note><note type="cf2">T29n1562_p0750a03</note></lem><rdg wit="【大】">折</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">析</rdg></app>則有無邊，唯佛
 <lb n="0958a10" ed="T"/>世尊能知能說，要留命行經多大劫阿僧企
 <lb n="0958a11" ed="T"/>耶說乃可盡。如是則顯佛世尊身具有無邊
 <lb n="0958a12" ed="T"/>殊勝奇特因果恩德如大寶山。有諸愚<note resp="Taisho" n="0958002" place="foot text" type="orig">夫自＝者目【明】</note><note resp="CBETA" n="0958002" type="mod">夫自【大】，者目【明】</note><app n="0958002"><lem wit="【大】">夫自</lem><rdg resp="Taisho" wit="【明】">者目</rdg></app>
@@ -16918,7 +16918,7 @@ Added comment  for Emacs
 <lb n="0963a26" ed="T"/>生，能遠見聞似天眼耳，如藏臣寶、菩薩、輪王、
 <lb n="0963a27" ed="T"/>諸龍鬼神及中有等修得眼耳，過現當生恒
 <lb n="0963a28" ed="T"/>是同分，以至現在必與識俱。能見聞故，處所
-<lb n="0963a29" ed="T"/>必具無<note resp="Taisho" n="0963002" place="foot text" type="orig">醫＝瞖【宋】【元】【宮】，漏【明】</note><note resp="CBETA" n="0963002" type="mod">瞖【宋】【元】【宮】【CB】，醫【大】，漏【明】</note><app n="0963002"><lem resp="CBETA.maha" wit="【CBETA】">瞖</lem><rdg wit="【大】">醫</rdg><rdg resp="Taisho" wit="【明】">漏</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">瞖</rdg></app>無缺，如生色界一切有情能隨
+<lb n="0963a29" ed="T"/>必具無<note resp="Taisho" n="0963002" place="foot text" type="orig">醫＝瞖【宋】【元】【宮】，漏【明】</note><note resp="CBETA" n="0963002" type="mod">瞖【CB】【宋】【元】【宮】，醫【大】，漏【明】</note><app n="0963002"><lem resp="CBETA.maha" wit="【CBETA】">瞖</lem><rdg wit="【大】">醫</rdg><rdg resp="Taisho" wit="【明】">漏</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">瞖</rdg></app>無缺，如生色界一切有情能隨
 <pb n="0963b" ed="T" xml:id="T29.1563.0963b"/>
 <lb n="0963b01" ed="T"/>所應取被障隔極細遠等諸方色聲。故於此
 <lb n="0963b02" ed="T"/>中有如是頌曰：</p>
@@ -17005,7 +17005,7 @@ Added comment  for Emacs
 <lb n="0964a22" ed="T"/>緣、簡無色如理思惟、簡異顛倒能持。此定是
 <lb n="0964a23" ed="T"/>妙等持，此妙等持名為靜慮。此言顯示止觀
 <lb n="0964a24" ed="T"/>均行，無倒等持方名靜慮。若爾，染污寧得此
-<lb n="0964a25" ed="T"/>名？由彼亦能邪審慮故，於相似處<choice><corr>亦</corr><sic>赤</sic></choice>立此名，
+<lb n="0964a25" ed="T"/>名？由彼亦能邪審慮故，於相似處<note n="0964a2501" resp="CBETA" type="add">亦【CB】，赤【大】</note><app n="0964a2501"><lem wit="【CB】" resp="CBETA">亦</lem><rdg wit="【大】">赤</rdg></app>立此名，
 <lb n="0964a26" ed="T"/>如世間言朽敗種等，故無一切名靜慮失。若
 <lb n="0964a27" ed="T"/>善性攝心一境性，并伴立為四靜慮者，依何
 <lb n="0964a28" ed="T"/>相立初二三四？具伺喜樂，建立為初。謂若位

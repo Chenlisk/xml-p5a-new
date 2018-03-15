@@ -257,7 +257,7 @@ Added comment  for Emacs
 <lb n="0291b14" ed="T"/>露雨，轉不退轉智印法輪，閉生死獄，開涅
 <lb n="0291b15" ed="T"/>槃門，發弘誓願，盡未來際度脫群生。此諸
 <lb n="0291b16" ed="T"/>菩薩不久當得阿耨多羅三藐三菩提，其名
-<lb n="0291b17" ed="T"/>曰：無<note n="0291013" resp="Taisho" type="orig" place="foot text">垢＋（菩薩）【三】</note><note n="0291013" resp="CBETA" type="mod">垢菩薩【宋】【元】【明】【CB】，垢【大】</note><app n="0291013"><lem wit="【CBETA】" resp="CBETA.maha">垢菩薩<note type="cf1">X20n0367_p0895c22</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">垢菩薩</rdg><rdg wit="【大】">垢</rdg></app>、彌勒菩薩、師子吼菩薩、妙吉祥菩
+<lb n="0291b17" ed="T"/>曰：無<note n="0291013" resp="Taisho" type="orig" place="foot text">垢＋（菩薩）【三】</note><note n="0291013" resp="CBETA" type="mod">垢菩薩【CB】【宋】【元】【明】，垢【大】</note><app n="0291013"><lem wit="【CBETA】" resp="CBETA.maha">垢菩薩<note type="cf1">X20n0367_p0895c22</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">垢菩薩</rdg><rdg wit="【大】">垢</rdg></app>、彌勒菩薩、師子吼菩薩、妙吉祥菩
 <lb n="0291b18" ed="T"/>薩、維摩詰菩薩、觀自在菩薩、得大勢菩薩、
 <lb n="0291b19" ed="T"/>金剛藏王菩薩、地藏王菩薩、虛空藏王菩
 <lb n="0291b20" ed="T"/>薩、陀羅尼自在王菩薩、三昧自在王菩薩、妙
@@ -2019,7 +2019,7 @@ Added comment  for Emacs
 <lb n="0311a03" ed="T"/><l>哀哉凡夫生死身，</l><l>輪轉三塗長受苦，</l>
 <lb n="0311a04" ed="T"/><l>若知善惡隨業感，</l><l>應當懺悔令消滅。</l>
 <lb n="0311a05" ed="T"/><l>一切人天妙樂果，</l><l>慚愧正見為所因，</l>
-<lb n="0311a06" ed="T"/><l>應發<choice><corr>堅</corr><sic>竪</sic></choice>固菩提心，</l><l>被精進甲勤修學。</l></lg>
+<lb n="0311a06" ed="T"/><l>應發<note n="0311a0601" resp="CBETA" type="add">堅【CB】，竪【大】</note><app n="0311a0601"><lem wit="【CB】" resp="CBETA">堅</lem><rdg wit="【大】">竪</rdg></app>固菩提心，</l><l>被精進甲勤修學。</l></lg>
 <lb n="0311a07" ed="T"/><p xml:id="pT03p0311a0701">「復次，善男子！出家菩薩觀於舍宅，如牝馬
 <lb n="0311a08" ed="T"/>口海出於猛焰吞納四瀆，百川眾流無不
 <lb n="0311a09" ed="T"/>燒盡。譬如往昔羅陀國中，有一菩薩名妙
@@ -3688,7 +3688,7 @@ Added comment  for Emacs
 <lb n="0329b28" ed="T"/>印。次不改拳舒<note n="0329b2801" resp="CBETA" type="add">左【CB】【麗-CB】，右【大】</note><app n="0329b2801"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">左<note type="cf1">K37n1385_p0533c11</note></lem><rdg wit="【大】">右</rdg></app>頭指，直<note n="0329008" resp="Taisho" type="orig" place="foot text">竪＝豎【三】</note><note n="0329008" resp="CBETA" type="mod">竪【大】，豎【宋】【元】【明】</note><app n="0329008"><lem wit="【大】">竪</lem><rdg resp="Taisho" wit="【宋】【元】【明】">豎</rdg></app>虛空，以其
 <lb n="0329b29" ed="T"/>左拳著於心上，右拳小指<app type="star" corresp="#0329007"><lem wit="【大】">堅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">緊</rdg></app>握左拳頭指
 <pb n="0329c" ed="T" xml:id="T03.0159.0329c"/>
-<lb n="0329c01" ed="T"/>一節。次以右拳頭指之頭，即指<note n="0329009" resp="Taisho" type="orig" place="foot text">左＝右【三】</note><note n="0329009" resp="CBETA" type="mod">右【宋】【元】【明】【CB】，左【大】</note><app n="0329009"><lem wit="【CBETA】" resp="CBETA.maha">右<note type="cf1">X21n0367_p0117b19</note><note type="cf2">X60n1123_p0475a15</note></lem><rdg wit="【大】">左</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">右</rdg></app>拳拇指
+<lb n="0329c01" ed="T"/>一節。次以右拳頭指之頭，即指<note n="0329009" resp="Taisho" type="orig" place="foot text">左＝右【三】</note><note n="0329009" resp="CBETA" type="mod">右【CB】【宋】【元】【明】，左【大】</note><app n="0329009"><lem wit="【CBETA】" resp="CBETA.maha">右<note type="cf1">X21n0367_p0117b19</note><note type="cf2">X60n1123_p0475a15</note></lem><rdg wit="【大】">左</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">右</rdg></app>拳拇指
 <lb n="0329c02" ed="T"/>一節，亦著心前，是名引導無上菩提第一智
 <lb n="0329c03" ed="T"/>印，亦名能滅無明黑闇大光明印。以結此
 <lb n="0329c04" ed="T"/>印加持力故，十方諸佛摩行者頂，<note n="0329010" resp="Taisho" type="orig" place="foot text">受＝授【明】</note><note n="0329010" resp="CBETA" type="mod">受【大】，授【明】</note><app n="0329010"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【明】">授</rdg></app>大菩

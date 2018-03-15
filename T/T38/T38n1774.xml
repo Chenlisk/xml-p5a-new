@@ -519,7 +519,7 @@ Added comment  for Emacs
 <lb n="0307b24" ed="T"/>論云。無量歲時有佛出世。名阿彌陀。又婆羅
 <lb n="0307b25" ed="T"/>門傳云。此今此中劫雖小乘宗名第九劫。而
 <lb n="0307b26" ed="T"/>依大乘有二十住劫中初故。故今大乘云。拘
-<lb n="0307b27" ed="T"/>留孫等四<choice><corr><space quantity="0"/></corr><sic>一</sic></choice>佛皆出初劫。所餘諸佛出後十九
+<lb n="0307b27" ed="T"/>留孫等四<note n="0307b2701" resp="CBETA" type="add">［－］【CB】，一【大】</note><app n="0307b2701"><lem wit="【CB】" resp="CBETA"><space quantity="0"/></lem><rdg wit="【大】">一</rdg></app>佛皆出初劫。所餘諸佛出後十九
 <lb n="0307b28" ed="T"/>劫。又瑜伽論云。初後二劫。亦增減故。故知非
 <lb n="0307b29" ed="T"/>唯減時佛出。增時佛出亦無違義。由此義故。
 <pb n="0307c" xml:id="T38.1774.0307c" ed="T"/>
@@ -2195,7 +2195,7 @@ Added comment  for Emacs
 <lb n="0326a20" ed="T"/><p xml:id="pT38p0326a2001">經曰善哉釋迦以下。第四彰師。</p>
 <lb n="0326a21" ed="T"/><p xml:id="pT38p0326a2101">經曰而作是言汝等以下。第五義學。</p>
 <lb n="0326a22" ed="T"/><p xml:id="pT38p0326a2201">經曰善哉釋迦以下。第六歸力。此中二。初
-<lb n="0326a23" ed="T"/><note n="0326001" resp="Taisho" place="foot text" type="orig">〔既〕－ヵ【原】</note><note n="0326001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔既〕－ヵ【原】</note><app n="0326001"><lem resp="Taisho" wit="【大】">既</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>辨歸<note n="0326002" resp="Taisho" place="foot text" type="orig">合＝今ヵ【原】</note><note n="0326002" resp="CBETA" type="mod">合【大】，今【考偽-原】</note><app n="0326002"><lem resp="Taisho" wit="【大】">合</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">今</rdg></app>力。後言釋迦牟尼佛為汝等以
+<lb n="0326a23" ed="T"/><note n="0326001" resp="Taisho" place="foot text" type="orig">〔既〕－ヵ【原】</note><note n="0326001" resp="CBETA" type="mod">既【大】，〔－〕【考偽-原】</note><app n="0326001"><lem resp="Taisho" wit="【大】">既</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>辨歸<note n="0326002" resp="Taisho" place="foot text" type="orig">合＝今ヵ【原】</note><note n="0326002" resp="CBETA" type="mod">合【大】，今【考偽-原】</note><app n="0326002"><lem resp="Taisho" wit="【大】">合</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">今</rdg></app>力。後言釋迦牟尼佛為汝等以
 <lb n="0326a24" ed="T"/>下。辨歸昔力也。</p>
 <lb n="0326a25" ed="T"/><p xml:id="pT38p0326a2501">經曰彌勒如是開道以下。第七合奉。</p>
 <lb n="0326a26" ed="T"/><p xml:id="pT38p0326a2601">經曰彌勒佛觀察以下。第八授道。</p>

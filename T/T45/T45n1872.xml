@@ -151,7 +151,7 @@ Added comment  for Emacs
 <lb n="0597b01" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">二明理事</cb:mulu><head>二明理事</head>
 <lb n="0597b02" ed="T"/><p xml:id="pT45p0597b0201">問緣起事相。分齊歷然。法界理性。無<note n="0597010" resp="Taisho" place="foot text" type="orig">有＋（能）ヵ【原】</note><note n="0597010" resp="CBETA" type="mod">有【大】，有能【考偽-原】</note><app n="0597010"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">有能</rdg></app>所。
 <lb n="0597b03" ed="T"/>若以存壞一。體用不<note n="0597011" resp="Taisho" place="foot text" type="orig">巧＝朽ヵ【原】</note><note n="0597011" resp="CBETA" type="mod">巧【大】，朽【考偽-原】</note><app n="0597011"><lem resp="Taisho" wit="【大】">巧</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">朽</rdg></app>。亦通事理。收為不
-<lb n="0597b04" ed="T"/>二。為<choice><corr>祛</corr><sic>袪</sic></choice>茲弊。庶皎玄宗　私對。緣起事相。必
+<lb n="0597b04" ed="T"/>二。為<note n="0597b0401" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0597b0401"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>茲弊。庶皎玄宗　私對。緣起事相。必
 <lb n="0597b05" ed="T"/>收性而方成。法界玄宗。亦依緣而現空。有有
 <lb n="0597b06" ed="T"/>交徹。體用玄通。言事即有徹空源。談有乃空
 <lb n="0597b07" ed="T"/>透有表。或時雙奪。纖毫之論不具。或時相成。
@@ -188,7 +188,7 @@ Added comment  for Emacs
 <lb n="0597c08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">五結成壞</cb:mulu><head>五結成壞</head>
 <lb n="0597c09" ed="T"/><p xml:id="pT45p0597c0901">問成壞之義。其勢<note n="0597017" resp="Taisho" place="foot text" type="orig">雖＝難ヵ【原】</note><note n="0597017" resp="CBETA" type="mod">雖【大】，難【考偽-原】</note><app n="0597017"><lem resp="Taisho" wit="【大】">雖</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">難</rdg></app>明。差別異陳。復乖其
 <lb n="0597c10" ed="T"/>致。今者成時壞居何所。壞時成在何方。若異
-<lb n="0597c11" ed="T"/>聖乃不容。若同凡又不信。請以珠玉來酬。<choice><corr>祛</corr><sic>袪</sic></choice>
+<lb n="0597c11" ed="T"/>聖乃不容。若同凡又不信。請以珠玉來酬。<note n="0597c1101" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0597c1101"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>
 <lb n="0597c12" ed="T"/>茲瓦礫　私對。壞即成處壞。亦壞即成法界。
 <lb n="0597c13" ed="T"/>空而恒有。存壞即有徹於空壞。實存即空彰
 <lb n="0597c14" ed="T"/>於有表。然後異亦不異同。體之自皎明。迷之
@@ -199,7 +199,7 @@ Added comment  for Emacs
 <lb n="0597c19" ed="T"/>若以眾生通佛。諸佛合迷。若以佛通眾生。眾
 <lb n="0597c20" ed="T"/>生<note n="0597018" resp="Taisho" place="foot text" type="orig">合＝令ィ【原】</note><note n="0597018" resp="CBETA" type="mod">合【大】，令【校異-原】</note><app n="0597018"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">令</rdg></app>悟。冀拂塵鏡以顯大明。庶闢玄關。<note n="0597019" resp="Taisho" place="foot text" type="orig">開為＝為開ヵ【原】</note><note n="0597019" resp="CBETA" type="mod">開為【大】，為開【考偽-原】</note><app n="0597019"><lem resp="Taisho" wit="【大】">開
 <lb n="0597c21" ed="T"/>為</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">為開</rdg></app>暗室　私對曰。恒以非眾生為眾生。亦非
-<lb n="0597c22" ed="T"/>諸佛為諸佛。不礙<note n="0597020" resp="Taisho" place="foot text" type="orig">〔約〕－ヵ【原】</note><note n="0597020" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔約〕－ヵ【原】</note><app n="0597020"><lem resp="Taisho" wit="【大】">約</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>存而恒奪。不妨壞而常
+<lb n="0597c22" ed="T"/>諸佛為諸佛。不礙<note n="0597020" resp="Taisho" place="foot text" type="orig">〔約〕－ヵ【原】</note><note n="0597020" resp="CBETA" type="mod">約【大】，〔－〕【考偽-原】</note><app n="0597020"><lem resp="Taisho" wit="【大】">約</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>存而恒奪。不妨壞而常
 <lb n="0597c23" ed="T"/>成。隨緣具立眾生之名。豈有眾生可得。約體
 <lb n="0597c24" ed="T"/>權施法身之號。寧有諸佛可求。莫不妄徹真
 <lb n="0597c25" ed="T"/>源。居一相而恒有。真該妄末。入五道而常空。
@@ -210,7 +210,7 @@ Added comment  for Emacs
 <pb n="0598a" xml:id="T45.1872.0598a" ed="T"/>
 <lb n="0598a01" ed="T"/><p xml:id="pT45p0598a0101">問隱顯之義。旨趣難原。依空色以通玄。約一
 <lb n="0598a02" ed="T"/>多而顯密。若顯時有隱。觀色即合見空。若隱
-<lb n="0598a03" ed="T"/>時有顯。見寂應常覩動。請開法藏。<note n="0598001" resp="Taisho" place="foot text" type="orig">（輝）ヵ＋此【原】</note><note n="0598001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（輝）ヵ＋此【原】</note><app n="0598001"><lem resp="Taisho" wit="【大】">此</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">輝此</rdg></app>智珠
+<lb n="0598a03" ed="T"/>時有顯。見寂應常覩動。請開法藏。<note n="0598001" resp="Taisho" place="foot text" type="orig">（輝）ヵ＋此【原】</note><note n="0598001" resp="CBETA" type="mod">此【大】，輝此【考偽-原】</note><app n="0598001"><lem resp="Taisho" wit="【大】">此</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">輝此</rdg></app>智珠
 <lb n="0598a04" ed="T"/>　私對。此能<note n="0598002" resp="Taisho" place="foot text" type="orig">攝＋（彼）ヵ【原】</note><note n="0598002" resp="CBETA" type="mod">攝【大】，攝彼【考偽-原】</note><app n="0598002"><lem resp="Taisho" wit="【大】">攝</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">攝彼</rdg></app>即此<note n="0598003" resp="Taisho" place="foot text" type="orig">云＝隱彼顯ヵ【原】</note><note n="0598003" resp="CBETA" type="mod">云【大】，隱彼顯【考偽-原】</note><app n="0598003"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">隱彼顯</rdg></app>彼。若收此。亦此顯
 <lb n="0598a05" ed="T"/>彼隱。隱在即是顯在。顯時正是隱時。一壞全
 <lb n="0598a06" ed="T"/>攝。多成此顯。全收彼隱。法體而恒明。明亦非

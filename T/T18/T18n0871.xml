@@ -316,7 +316,7 @@ Added comment  for Emacs
 <lb n="0294a04" ed="T"/>摩地智。自受用故。從大蓮華智慧三摩地智。
 <lb n="0294a05" ed="T"/>流出蓮華光明。遍照十方世界。淨一切眾生
 <lb n="0294a06" ed="T"/>客塵煩惱。還來收一聚。為令印一切菩薩。受
-<lb n="0294a07" ed="T"/>用三昧耶<note n="0294001" resp="Taisho" place="foot text" type="orig">〔自受用〕－ヵ【原】【乙】</note><note n="0294001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔自受用〕－ヵ【原】【乙】</note><app n="0294001"><lem resp="Taisho" wit="【大】">自受用</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>智故。成法波羅蜜菩薩形。
+<lb n="0294a07" ed="T"/>用三昧耶<note n="0294001" resp="Taisho" place="foot text" type="orig">〔自受用〕－ヵ【原】【乙】</note><note n="0294001" resp="CBETA" type="mod">自受用【大】，〔－〕【考偽-原】【乙】</note><app n="0294001"><lem resp="Taisho" wit="【大】">自受用</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>智故。成法波羅蜜菩薩形。
 <lb n="0294a08" ed="T"/>持大蓮華。於毘盧遮那如來<note n="0294002" resp="Taisho" place="foot text" type="orig">後上蘗本有左邊二字</note>後月輪而住。偈
 <lb n="0294a09" ed="T"/>曰。</p>
 <lb n="0294a10" ed="T"/><lg xml:id="lgT18p0294a1001"><l>奇哉一切佛</l><l>法金剛我淨</l>
@@ -545,7 +545,7 @@ Added comment  for Emacs
 <lb n="0296b23" ed="T"/><note n="0296011" resp="Taisho" place="foot text" type="orig">〔央〕－【甲】</note><note n="0296011" resp="CBETA" type="mod">央【大】，〔－〕【甲】</note><app n="0296011"><lem wit="【大】">央</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>方。於此五方即五如來也。地前三賢伏
 <lb n="0296b24" ed="T"/>忍。且初地二地三地。配於<note n="0296012" resp="Taisho" place="foot text" type="orig">信＝順【甲】，蘗本同之</note><note n="0296012" resp="CBETA" type="mod">信【大】，順【甲】，蘗本同之</note><app n="0296012"><lem wit="【大】">信</lem><rdg resp="Taisho" wit="【甲】">順</rdg></app><note n="0296012" resp="CBETA" type="rest">信蘗本亦作順</note>忍。四地五地
 <lb n="0296b25" ed="T"/>六地。配於<note n="0296013" resp="Taisho" place="foot text" type="orig">順＝信【甲】，蘗本同之</note><note n="0296013" resp="CBETA" type="mod">順【大】，信【甲】，蘗本同之</note><app n="0296013"><lem wit="【大】">順</lem><rdg resp="Taisho" wit="【甲】">信</rdg></app><note n="0296013" resp="CBETA" type="rest">順蘗本亦作信</note>忍也。七地八地九地。配<note n="0296014" resp="Taisho" place="foot text" type="orig">在＝於【甲】</note><note n="0296014" resp="CBETA" type="mod">在【大】，於【甲】</note><app n="0296014"><lem wit="【大】">在</lem><rdg resp="Taisho" wit="【甲】">於</rdg></app>無
-<lb n="0296b26" ed="T"/>生<note n="0296015" resp="Taisho" place="foot text" type="orig">忍＋（也）【甲】</note><note n="0296015" resp="CBETA" type="mod">忍【大】，忍也【甲】</note><app n="0296015"><lem wit="【大】">忍</lem><rdg resp="Taisho" wit="【甲】">忍也</rdg></app>。十地滿足<note n="0296016" resp="Taisho" place="foot text" type="orig">〔配也〕－ヵ【原】【乙】</note><note n="0296016" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔配也〕－ヵ【原】【乙】</note><app n="0296016"><lem resp="Taisho" wit="【大】">配也</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>。等<note n="0296017" resp="Taisho" place="foot text" type="orig">（覺）＋妙【甲】</note><note n="0296017" resp="CBETA" type="mod">妙【大】，覺妙【甲】</note><app n="0296017"><lem wit="【大】">妙</lem><rdg resp="Taisho" wit="【甲】">覺妙</rdg></app>覺者。配於寂
+<lb n="0296b26" ed="T"/>生<note n="0296015" resp="Taisho" place="foot text" type="orig">忍＋（也）【甲】</note><note n="0296015" resp="CBETA" type="mod">忍【大】，忍也【甲】</note><app n="0296015"><lem wit="【大】">忍</lem><rdg resp="Taisho" wit="【甲】">忍也</rdg></app>。十地滿足<note n="0296016" resp="Taisho" place="foot text" type="orig">〔配也〕－ヵ【原】【乙】</note><note n="0296016" resp="CBETA" type="mod">配也【大】，〔－〕【考偽-原】【乙】</note><app n="0296016"><lem resp="Taisho" wit="【大】">配也</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>。等<note n="0296017" resp="Taisho" place="foot text" type="orig">（覺）＋妙【甲】</note><note n="0296017" resp="CBETA" type="mod">妙【大】，覺妙【甲】</note><app n="0296017"><lem wit="【大】">妙</lem><rdg resp="Taisho" wit="【甲】">覺妙</rdg></app>覺者。配於寂
 <lb n="0296b27" ed="T"/>滅忍。由持忍波羅蜜故。所生之處。令得端正
 <lb n="0296b28" ed="T"/>果報眷屬圍繞。功德廣大無量無邊。不可窮
 <lb n="0296b29" ed="T"/>盡。見聞之者。悉皆歡喜。恭敬隨順。喜悅從心
@@ -563,7 +563,7 @@ Added comment  for Emacs
 <lb n="0296c11" ed="T"/>中。住如來清淨禪中。永除妄想。須住無住之
 <lb n="0296c12" ed="T"/>住。常依離念之心。實相圓明。廓周法界。大菩
 <lb n="0296c13" ed="T"/>提路由此致焉。此禪波羅蜜也。</p>
-<lb n="0296c14" ed="T"/><p xml:id="pT18p0296c1401">智慧波羅蜜者。智能了別。慧乃<note n="0296022" resp="Taisho" place="foot text" type="orig">〔由〕－ヵ【原】【乙】</note><note n="0296022" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔由〕－ヵ【原】【乙】</note><app n="0296022"><lem resp="Taisho" wit="【大】">由</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>辨明。由
+<lb n="0296c14" ed="T"/><p xml:id="pT18p0296c1401">智慧波羅蜜者。智能了別。慧乃<note n="0296022" resp="Taisho" place="foot text" type="orig">〔由〕－ヵ【原】【乙】</note><note n="0296022" resp="CBETA" type="mod">由【大】，〔－〕【考偽-原】【乙】</note><app n="0296022"><lem resp="Taisho" wit="【大】">由</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark"><space quantity="0"/></rdg></app>辨明。由
 <lb n="0296c15" ed="T"/>如明鏡能鑒眾<note n="0296023" resp="Taisho" place="foot text" type="orig">色＋（也）【甲】</note><note n="0296023" resp="CBETA" type="mod">色【大】，色也【甲】</note><app n="0296023"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【甲】">色也</rdg></app>。大小乘法無有差謬。除其
 <lb n="0296c16" ed="T"/>我執二相。住大乘心。圓滿菩提。證真如際。即
 <lb n="0296c17" ed="T"/>是如來平等法身。修行者結六波羅蜜印。誦

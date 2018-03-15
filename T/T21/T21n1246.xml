@@ -342,7 +342,7 @@ Added comment  for Emacs
 <lb n="0221c20" ed="T"/><p xml:id="pT21p0221c2001" cb:type="dharani">那謨摩訶室利夜耶<note place="inline">一</note>娜謨吠室<note n="0221050" resp="Taisho" place="foot text" type="orig">羅＝囉【乙】【丙】</note><note n="0221050" resp="CBETA" type="mod">羅【大】，囉【乙】【丙】</note><app n="0221050"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】【丙】">囉</rdg></app>末那耶<note place="inline">二</note>
 <lb n="0221c21" ed="T"/>摩訶藥揭叉細那<note n="0221051" resp="Taisho" place="foot text" type="orig">拔馱＝跛多ヵ【丙】</note><note n="0221051" resp="CBETA" type="mod">拔馱【大】，跛多【考偽-丙】</note><app n="0221051"><lem resp="Taisho" wit="【大】">拔馱</lem><rdg resp="Taisho" wit="【丙】" type="correctionRemark">跛多</rdg></app>耶<note place="inline">三</note>怛姪他<note place="inline">四</note>唵<note place="inline">五</note>濕
 <lb n="0221c22" ed="T"/>吠莎嚩訶<note place="inline">六</note><note n="0221052" resp="Taisho" place="foot text" type="orig">〔濕吠莎嚩訶〕ィ－【丙】</note><note n="0221052" resp="CBETA" type="mod">濕吠莎嚩訶【大】，〔－〕【校異-丙】</note><app n="0221052"><lem wit="【大】">濕吠莎嚩訶</lem><rdg resp="Taisho" wit="【丙】" type="variantRemark"><space quantity="0"/></rdg></app>　扇演抹底莎嚩
-<lb n="0221c23" ed="T"/>訶　施晚怛利莎嚩訶　<note n="0221053" resp="Taisho" place="foot text" type="orig">〔若耶…訶〕九字－ィ【丙】</note><note n="0221053" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔若耶…訶〕九字－ィ【丙】</note><app cb:word-count="9" n="0221053"><lem wit="【大】">若耶拔底利勝莎
+<lb n="0221c23" ed="T"/>訶　施晚怛利莎嚩訶　<note n="0221053" resp="Taisho" place="foot text" type="orig">〔若耶…訶〕九字－ィ【丙】</note><note n="0221053" resp="CBETA" type="mod">（若耶…訶）九字【大】，〔－〕【校異-丙】</note><app cb:word-count="9" n="0221053"><lem wit="【大】">若耶拔底利勝莎
 <lb n="0221c24" ed="T"/>嚩訶</lem><rdg resp="Taisho" wit="【丙】" type="variantRemark"><space quantity="0"/></rdg></app></p>
 <pb n="0222a" xml:id="T21.1246.0222a" ed="T"/>
 <lb n="0222a01" ed="T"/><p xml:id="pT21p0222a0101">若誦此真言滿十萬遍已後更加誦三日即成
@@ -398,7 +398,7 @@ Added comment  for Emacs
 <lb n="0222b21" ed="T"/><p xml:id="pT21p0222b2101">若有人常誦此呪時天王不離呪師守護之。</p>
 <lb n="0222b22" ed="T"/><p xml:id="pT21p0222b2201">次說降魔陀羅尼曰。</p>
 <lb n="0222b23" ed="T"/><p xml:id="pT21p0222b2301" cb:type="dharani">南無阿<note n="0222030" resp="Taisho" place="foot text" type="orig">啼＝帝【甲】</note><note n="0222030" resp="CBETA" type="mod">啼【大】，帝【甲】</note><app n="0222030"><lem wit="【大】">啼</lem><rdg resp="Taisho" wit="【甲】">帝</rdg></app>　南無利多　南無達利多　南無
-<lb n="0222b24" ed="T"/>勒勒勒勒<note n="0222031" resp="Taisho" place="foot text" type="orig">〔勒〕－ヵ【丙】</note><note n="0222031" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔勒〕－ヵ【丙】</note><app n="0222031"><lem resp="Taisho" wit="【大】">勒</lem><rdg resp="Taisho" wit="【丙】" type="correctionRemark"><space quantity="0"/></rdg></app>　謹請四大天王各領八萬四
+<lb n="0222b24" ed="T"/>勒勒勒勒<note n="0222031" resp="Taisho" place="foot text" type="orig">〔勒〕－ヵ【丙】</note><note n="0222031" resp="CBETA" type="mod">勒【大】，〔－〕【考偽-丙】</note><app n="0222031"><lem resp="Taisho" wit="【大】">勒</lem><rdg resp="Taisho" wit="【丙】" type="correctionRemark"><space quantity="0"/></rdg></app>　謹請四大天王各領八萬四
 <lb n="0222b25" ed="T"/>千樹林神若有惡人惡神惡鬼天魔地魔龍魔
 <lb n="0222b26" ed="T"/>惱亂弟子者持勒南無勒鬼　南無首楞三昧
 <lb n="0222b27" ed="T"/>為我縛鬼五欲五戒法忍多縛勒多縛勒急急
@@ -516,7 +516,7 @@ Added comment  for Emacs
 <lb n="0223c24" ed="T"/>即差。</p>
 <lb n="0223c25" ed="T"/><p xml:id="pT21p0223c2501">若人被蝎螫者。呪乾脯火中熱燒拄其<note n="0223037" resp="Taisho" place="foot text" type="orig">病＝痛【甲】【乙】【丙】，病ィ【甲】</note><note n="0223037" resp="CBETA" type="mod">病【大】，痛【甲】【乙】【丙】，病【校異-甲】</note><app n="0223037"><lem wit="【大】">病</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">痛</rdg><rdg resp="Taisho" wit="【甲】" type="variantRemark">病</rdg></app>處
 <lb n="0223c26" ed="T"/>即除。</p>
-<lb n="0223c27" ed="T"/><p xml:id="pT21p0223c2701">若有婦人患乳腫者。呪油麻三七遍塗<note n="0223038" resp="Taisho" place="foot text" type="orig">〔上〕－ヵ【丙】</note><note n="0223038" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔上〕－ヵ【丙】</note><app n="0223038"><lem resp="Taisho" wit="【大】">上</lem><rdg resp="Taisho" wit="【丙】" type="correctionRemark"><space quantity="0"/></rdg></app>痛
+<lb n="0223c27" ed="T"/><p xml:id="pT21p0223c2701">若有婦人患乳腫者。呪油麻三七遍塗<note n="0223038" resp="Taisho" place="foot text" type="orig">〔上〕－ヵ【丙】</note><note n="0223038" resp="CBETA" type="mod">上【大】，〔－〕【考偽-丙】</note><app n="0223038"><lem resp="Taisho" wit="【大】">上</lem><rdg resp="Taisho" wit="【丙】" type="correctionRemark"><space quantity="0"/></rdg></app>痛
 <lb n="0223c28" ed="T"/>處即<note n="0223039" resp="Taisho" place="foot text" type="orig">除＝愈【乙】</note><note n="0223039" resp="CBETA" type="mod">除【大】，愈【乙】</note><app n="0223039"><lem wit="【大】">除</lem><rdg resp="Taisho" wit="【乙】">愈</rdg></app>。</p>
 <lb n="0223c29" ed="T"/><p xml:id="pT21p0223c2901">若婦人帶下病者。呪<note n="0223040" resp="Taisho" place="foot text" type="orig">（丁）＋香【乙】</note><note n="0223040" resp="CBETA" type="mod">香【大】，丁香【乙】</note><app n="0223040"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【乙】">丁香</rdg></app>水三七遍<note n="0223041" resp="Taisho" place="foot text" type="orig">服即愈＝服之即差【乙】</note><note n="0223041" resp="CBETA" type="mod">服即愈【大】，服之即差【乙】</note><app n="0223041"><lem wit="【大】">服即愈</lem><rdg resp="Taisho" wit="【乙】">服之即差</rdg></app>。</p>
 <pb n="0224a" xml:id="T21.1246.0224a" ed="T"/>

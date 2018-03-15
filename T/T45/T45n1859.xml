@@ -261,7 +261,7 @@ Added comment  for Emacs
 <lb n="0163a08" ed="T"/>韻為筆。劉氏文心調龍非此語云。孔子曰。文
 <lb n="0163a09" ed="T"/>王既沒。文不在茲乎。可有韻乎。固不然也。詳
 <lb n="0163a10" ed="T"/>汰名賢所作諸論者。此言支法詳。作實相
-<lb n="0163a11" ed="T"/><note n="0163001" resp="Taisho" place="foot text" type="orig">論＋（竺法汝作本無論也然實相論）ィ十二字【原】</note><note n="0163001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->論＋（竺法汝作本無論也然實相論）ィ十二字【原】</note><app n="0163001"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">論竺法汝作本無論也然實相論</rdg></app>。有二家。一者是什法師作。今無此本。二
+<lb n="0163a11" ed="T"/><note n="0163001" resp="Taisho" place="foot text" type="orig">論＋（竺法汝作本無論也然實相論）ィ十二字【原】</note><note n="0163001" resp="CBETA" type="mod">論【大】，論竺法汝作本無論也然實相論【校異-原】</note><app n="0163001"><lem wit="【大】">論</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">論竺法汝作本無論也然實相論</rdg></app>。有二家。一者是什法師作。今無此本。二
 <lb n="0163a12" ed="T"/>者是支法詳問。釋慧儀答。此乃是慧儀法師
 <lb n="0163a13" ed="T"/>作。非支法詳作也。或六家七宗爰延十二者。
 <lb n="0163a14" ed="T"/>江南本皆云六宗七宗。今尋記傳。是六家七
@@ -285,7 +285,7 @@ Added comment  for Emacs
 <lb n="0163b02" ed="T"/>否辨其差<note n="0163002" resp="Taisho" place="foot text" type="orig">當＋（者）ヵ【原】</note><note n="0163002" resp="CBETA" type="mod">當【大】，當者【考偽-原】</note><app n="0163002"><lem resp="Taisho" wit="【大】">當</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">當者</rdg></app>。臧否差當即是非也。前六家
 <lb n="0163b03" ed="T"/>論中。判第四家為臧。餘五家為否。後六家論
 <lb n="0163b04" ed="T"/>中。辨前五家為差。後一家為當也。唯此憲章
-<lb n="0163b05" ed="T"/>無弊斯咎者。憲法也。<note n="0163003" resp="Taisho" place="foot text" type="orig">（前）ィ＋十【原】</note><note n="0163003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（前）ィ＋十【原】</note><app n="0163003"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">前十</rdg></app>二家皆有是非之
+<lb n="0163b05" ed="T"/>無弊斯咎者。憲法也。<note n="0163003" resp="Taisho" place="foot text" type="orig">（前）ィ＋十【原】</note><note n="0163003" resp="CBETA" type="mod">十【大】，前十【校異-原】</note><app n="0163003"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">前十</rdg></app>二家皆有是非之
 <lb n="0163b06" ed="T"/>弊。今肇法師所作無有此弊。但是而無非也。
 <lb n="0163b07" ed="T"/>良猶襟情泛若不知何係者。良信也。襟是胸
 <lb n="0163b08" ed="T"/>襟。情是性。泛然無所係滯也。若是不計義。周
@@ -321,7 +321,7 @@ Added comment  for Emacs
 <lb n="0163c08" ed="T"/>今用此語。意云歡喜也。況中百門觀爰洎方
 <lb n="0163c09" ed="T"/>等深經者。小雅云。暨及也。左傳云。暨至。或
 <lb n="0163c10" ed="T"/>作洎字。義亦同也。十二門論。名為門觀。叡師
-<lb n="0163c11" ed="T"/>中論序云。百論治外以閑邪。斯文<choice><corr>祛</corr><sic>袪</sic></choice>內以流
+<lb n="0163c11" ed="T"/>中論序云。百論治外以閑邪。斯文<note n="0163c1101" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0163c1101"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>內以流
 <lb n="0163c12" ed="T"/>滯。大智釋論之淵博。十二門觀之精詣也。</p>
 <lb n="0163c13" ed="T"/><p xml:id="pT45p0163c1301">世<g ref="#CB05138"/>咸云下　第四非斥譏嫌也。傳云。謂彥
 <lb n="0163c14" ed="T"/>彥字言邊作彥。今口邊作彥。俗中字也。肇之
@@ -527,7 +527,7 @@ Added comment  for Emacs
 <lb n="0166a04" ed="T"/>不有。則無無也。有本有重無字。有本但有一
 <lb n="0166a05" ed="T"/>無字。若有兩無字。則此句已足。言有既非有。
 <lb n="0166a06" ed="T"/>言無亦非無也。若唯有一無字。則此句遣有。
-<lb n="0166a07" ed="T"/>後方始遣無。今以重無字為正也。夫不存<note n="0166001" resp="Taisho" place="foot text" type="orig">（有）ィ＋無【原】</note><note n="0166001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ィ＋無【原】</note><app n="0166001"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">有無</rdg></app>
+<lb n="0166a07" ed="T"/>後方始遣無。今以重無字為正也。夫不存<note n="0166001" resp="Taisho" place="foot text" type="orig">（有）ィ＋無【原】</note><note n="0166001" resp="CBETA" type="mod">無【大】，有無【校異-原】</note><app n="0166001"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">有無</rdg></app>
 <lb n="0166a08" ed="T"/>以觀法者下。前既雙遣有無。今更覆疏兩義。
 <lb n="0166a09" ed="T"/>今此句覆疏無無句也。<note n="0166002" resp="Taisho" place="foot text" type="orig">〔是為〕ィ－【原】</note><note n="0166002" resp="CBETA" type="mod">是為【大】，〔－〕【校異-原】</note><app n="0166002"><lem wit="【大】">是為</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>雖觀有而無所
 <lb n="0166a10" ed="T"/>取相者。此句覆疏無有句也。不存無以觀法。
@@ -629,7 +629,7 @@ Added comment  for Emacs
 <lb n="0167a16" ed="T"/>放光。以此經初廣明如來放光等事。即以為
 <lb n="0167a17" ed="T"/>名也。彼經既云法無去來。何有生死交謝。復
 <lb n="0167a18" ed="T"/>云無動轉者。何有寒暑迭遷耶。亦可通說。未
-<lb n="0167a19" ed="T"/>必須配也。亦可<note n="0167001" resp="Taisho" place="foot text" type="orig">〔何〕－ヵ【原】</note><note n="0167001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔何〕－ヵ【原】</note><app n="0167001"><lem resp="Taisho" wit="【大】">何</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>者字。是肇法師語。非經
+<lb n="0167a19" ed="T"/>必須配也。亦可<note n="0167001" resp="Taisho" place="foot text" type="orig">〔何〕－ヵ【原】</note><note n="0167001" resp="CBETA" type="mod">何【大】，〔－〕【考偽-原】</note><app n="0167001"><lem resp="Taisho" wit="【大】">何</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>者字。是肇法師語。非經
 <lb n="0167a20" ed="T"/>文也。尋夫不動之作豈釋動以求靜。釋者捨
 <lb n="0167a21" ed="T"/>離。尋放光經作不動之語者。非謂捨動而別
 <lb n="0167a22" ed="T"/>論靜。即求靜於動法之中。即動而為靜耳。言
@@ -723,7 +723,7 @@ Added comment  for Emacs
 <lb n="0168a20" ed="T"/>可往者。難惑計也。何則求向物於向於向未
 <lb n="0168a21" ed="T"/>嘗無者。求昨日物於昨日。則昨不無也。責
 <lb n="0168a22" ed="T"/>向物於今於今未嘗有者。責昨日物於今日。
-<lb n="0168a23" ed="T"/>則今日不有也。於今<choice><corr>未</corr><sic>末</sic></choice>嘗有以明物不來者。
+<lb n="0168a23" ed="T"/>則今日不有也。於今<note n="0168a2301" resp="CBETA" type="add">未【CB】，末【大】</note><app n="0168a2301"><lem wit="【CB】" resp="CBETA">未</lem><rdg wit="【大】">末</rdg></app>嘗有以明物不來者。
 <lb n="0168a24" ed="T"/>此是前動而非靜。以其不來句意也。於向未
 <lb n="0168a25" ed="T"/>嘗無故知物不去者。此是前靜而非動。以其
 <lb n="0168a26" ed="T"/>不去句意也。覆而求今今亦不往者。前之兩
@@ -1650,7 +1650,7 @@ Added comment  for Emacs
 <lb n="0178b15" ed="T"/>照故知無所遺者。皆知。故無遺漏也。有本作
 <lb n="0178b16" ed="T"/>智字。義意雖同。望下不然也。動與事會故會
 <lb n="0178b17" ed="T"/>不失機者。有機則會。故不失也。會不失機故
-<lb n="0178b18" ed="T"/><note n="0178004" resp="Taisho" place="foot text" type="orig">（必）ィ＋有【原】＊</note><note n="0178004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（必）ィ＋有【原】＊</note><app n="0178004"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">必有</rdg></app>會於可會者。可會即眾生也。知無所遺故
+<lb n="0178b18" ed="T"/><note n="0178004" resp="Taisho" place="foot text" type="orig">（必）ィ＋有【原】＊</note><note n="0178004" resp="CBETA" type="mod">有【大】＊，必有【校異-原】＊</note><app n="0178004"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">必有</rdg></app>會於可會者。可會即眾生也。知無所遺故
 <lb n="0178b19" ed="T"/><app type="star" corresp="#0178004"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">必有</rdg></app>知於可知者。有本云。必亦有知於可知。
 <lb n="0178b20" ed="T"/>煩長也。義雖無失。不如省要也。可知即所知
 <lb n="0178b21" ed="T"/>之理也。<app type="star" corresp="#0178004"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">必有</rdg></app>知於可知下。覆疏上句也。既知
@@ -1749,7 +1749,7 @@ Added comment  for Emacs
 <lb n="0179b24" ed="T"/>初也。<note n="0179003" resp="Taisho" place="foot text" type="orig">斯＋（則）ィ【原】</note><note n="0179003" resp="CBETA" type="mod">斯【大】，斯則【校異-原】</note><app n="0179003"><lem wit="【大】">斯</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">斯則</rdg></app>無名之法下。般若如此。乃是無名
 <lb n="0179b25" ed="T"/>之法。故不可以名言言之也。言雖不能言下。
 <lb n="0179b26" ed="T"/>雖不可言。假言方通。非言不傳也。是以聖人
-<lb n="0179b27" ed="T"/>終<note n="0179004" resp="Taisho" place="foot text" type="orig">日＋（言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖）二百六十四字ィ【原】</note><note n="0179004" resp="CBETA" type="mod">日【大】，日言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖【校異-原】</note><app n="0179004"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">日言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖</rdg></app>。智無知者。非實無知也。欲明聖智無
+<lb n="0179b27" ed="T"/>終<note n="0179004" resp="Taisho" place="foot text" type="orig">日＋（言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖）二百六十四字ィ【原】</note><note n="0179004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->日＋（言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖）二百六十四字ィ【原】</note><app n="0179004"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">日言下以理不可言雖言猶是不言也莊子雜篇㝢言章云不言言即齊齊與言不齊言與齊不齊故曰言無言言無言終身言未甞言終身不言未甞不言今借此語以明如來雖言而不言如涅槃經云苦知如來當不說法是名菩薩具足多聞中論云諸法不可得滅一切戲論無人亦無處佛亦無所說也今試為于狂言辨之下第二正答難也夫聖心者下辨聖心有無之相也無相者無相貇也彌懃者精進也不可為無故下覆疏上不無也名教諾所不能詺故云絕也是以言知非為知欲以通其鑒下經云聖智即無知者欲明聖智靈鑒虛通無有執著故也經云聖智無智者欲明聖智能通知諸法故也又釋經言聖智有知者非實有知也欲明聖智無所不鑒故言有知耳經言聖</rdg></app>。智無知者。非實無知也。欲明聖智無
 <lb n="0179b28" ed="T"/>所取著。故言無知耳。辨相不為無通鑒不為
 <lb n="0179b29" ed="T"/>有者。若依前釋。以辨聖智。能通知諸法。故非
 <pb n="0179c" xml:id="T45.1859.0179c" ed="T"/>
@@ -1800,7 +1800,7 @@ Added comment  for Emacs
 <lb n="0180a15" ed="T"/>明惑境惑智也。而言所知非所知所知生於
 <lb n="0180a16" ed="T"/>知者。所知不自得所知名。以因能知。故得所
 <lb n="0180a17" ed="T"/>知名也。所知既生知知亦生所知者。所知既
-<lb n="0180a18" ed="T"/>因能知而得名。能知亦因所知而得名也。<note n="0180001" resp="Taisho" place="foot text" type="orig">〔知〕－ヵ【原】</note><note n="0180001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔知〕－ヵ【原】</note><app n="0180001"><lem resp="Taisho" wit="【大】">知</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
+<lb n="0180a18" ed="T"/>因能知而得名。能知亦因所知而得名也。<note n="0180001" resp="Taisho" place="foot text" type="orig">〔知〕－ヵ【原】</note><note n="0180001" resp="CBETA" type="mod">知【大】，〔－〕【考偽-原】</note><app n="0180001"><lem resp="Taisho" wit="【大】">知</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
 <lb n="0180a19" ed="T"/>所知既相生相生即緣法者。彼此迴互相因
 <lb n="0180a20" ed="T"/>而生。即是因緣所生法也。緣法故非真者。以
 <lb n="0180a21" ed="T"/>從緣生則非真也。非真故非真諦者。既從緣
@@ -1813,14 +1813,14 @@ Added comment  for Emacs
 <lb n="0180a28" ed="T"/>真諦也。涅槃經云。是諸外道。無有一法不從
 <lb n="0180a29" ed="T"/>緣生。諸經之中。通有此意。今泛引也。是以真
 <pb n="0180b" xml:id="T45.1859.0180b" ed="T"/>
-<lb n="0180b01" ed="T"/>智觀真諦下。第三總結答也。<note n="0180002" resp="Taisho" place="foot text" type="orig">（真）ィ＋智【原】</note><note n="0180002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（真）ィ＋智【原】</note><app n="0180002"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">真智</rdg></app>不取所知此
+<lb n="0180b01" ed="T"/>智觀真諦下。第三總結答也。<note n="0180002" resp="Taisho" place="foot text" type="orig">（真）ィ＋智【原】</note><note n="0180002" resp="CBETA" type="mod">智【大】，真智【校異-原】</note><app n="0180002"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">真智</rdg></app>不取所知此
 <lb n="0180b02" ed="T"/>智何所知者。以不取所知故。名無知也。<note n="0180003" resp="Taisho" place="foot text" type="orig">智然＝然智ィ【原】</note><note n="0180003" resp="CBETA" type="mod">智然【大】，然智【校異-原】</note><app n="0180003"><lem wit="【大】">智
 <lb n="0180b03" ed="T"/>然</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">然智</rdg></app>非無知但真諦非故知所真智亦非知者。
 <lb n="0180b04" ed="T"/>不同木石之無知。故云然非無知也。但以真
 <lb n="0180b05" ed="T"/>諦非是有相之所知故。真智不取相。名為無
 <lb n="0180b06" ed="T"/>知耳。而子欲以緣求智下。子者男子之通稱
 <lb n="0180b07" ed="T"/>也。子以真諦所緣之法是有。而令般若有知
-<lb n="0180b08" ed="T"/>也。緣<note n="0180004" resp="Taisho" place="foot text" type="orig">〔緣〕－ヵ【原】</note><note n="0180004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔緣〕－ヵ【原】</note><app n="0180004"><lem resp="Taisho" wit="【大】">緣</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>自非緣於何求知者。真諦之緣自無
+<lb n="0180b08" ed="T"/>也。緣<note n="0180004" resp="Taisho" place="foot text" type="orig">〔緣〕－ヵ【原】</note><note n="0180004" resp="CBETA" type="mod">緣【大】，〔－〕【考偽-原】</note><app n="0180004"><lem resp="Taisho" wit="【大】">緣</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>自非緣於何求知者。真諦之緣自無
 <lb n="0180b09" ed="T"/>其相。真智之法。何得有知耶。難曰論云不
 <lb n="0180b10" ed="T"/>取者下。第二番也。執前不取之言。以為難耳。
 <lb n="0180b11" ed="T"/>為無知故不取下。為無所知故言不取。為先
@@ -2152,7 +2152,7 @@ Added comment  for Emacs
 <lb n="0184a07" ed="T"/>者。理固應然。常是常當是惑。至當真是是悟。
 <lb n="0184a08" ed="T"/>此兩義本別。不須論也。汝論本意亦不謂至
 <lb n="0184a09" ed="T"/>當非常當為非當。真是非常是為非是也。以
-<lb n="0184a10" ed="T"/><choice><corr>祛</corr><sic>袪</sic></choice>其惑者。<choice><corr>祛</corr><sic>袪</sic></choice>遣也。</p>
+<lb n="0184a10" ed="T"/><note n="0184a1001" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0184a1001"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>其惑者。<note n="0184a1002" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0184a1002"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>遣也。</p>
 <lb n="0184a11" ed="T"/><p xml:id="pT45p0184a1101">論至下　第三總結也。詳省者。詳審省察也。
 <lb n="0184a12" ed="T"/>亦好相領得者。得汝意也。但標位似各有本
 <lb n="0184a13" ed="T"/>者。遠法師以法性為宗本。謂性空非法性。肇
@@ -2402,7 +2402,7 @@ Added comment  for Emacs
 <lb n="0186c17" ed="T"/>其謂法而有故名心有耳。有<note n="0186013" resp="Taisho" place="foot text" type="orig">自不＝不自ィ【原】</note><note n="0186013" resp="CBETA" type="mod">自不【大】，不自【校異-原】</note><app n="0186013"><lem wit="【大】">自不</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">不自</rdg></app>有故聖心
 <lb n="0186c18" ed="T"/>不有有者。有法當體。自非是有。故聖心不
 <lb n="0186c19" ed="T"/>以有為有耳。不有有故有無有者。不以有法
-<lb n="0186c20" ed="T"/>為有。故知有非是有也。<note n="0186014" resp="Taisho" place="foot text" type="orig">（有）ヵ＋無【原】</note><note n="0186014" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ヵ＋無【原】</note><app n="0186014"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">有無</rdg></app>有故則無無者。
+<lb n="0186c20" ed="T"/>為有。故知有非是有也。<note n="0186014" resp="Taisho" place="foot text" type="orig">（有）ヵ＋無【原】</note><note n="0186014" resp="CBETA" type="mod">無【大】，有無【考偽-原】</note><app n="0186014"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">有無</rdg></app>有故則無無者。
 <lb n="0186c21" ed="T"/>法既非有。亦非是無也。無無故聖心不<note n="0186015" resp="Taisho" place="foot text" type="orig">有＋（無不有）【聖】</note><note n="0186015" resp="CBETA" type="mod">有【大】，有無不有【聖】</note><app n="0186015"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【聖】">有無不有</rdg></app>不
 <lb n="0186c22" ed="T"/>無者。前言無有。此言無無。法體既其無有無
 <lb n="0186c23" ed="T"/>無。所以聖心不有不無耳。不有不無其神乃
@@ -2985,7 +2985,7 @@ Added comment  for Emacs
 <lb n="0193a29" ed="T"/>耳。九流於是乎交歸。九流者。謂道流。儒流。
 <pb n="0193b" xml:id="T45.1859.0193b" ed="T"/>
 <lb n="0193b01" ed="T"/>墨流。名流。法流。陰陽流。農流。縱橫流。雜
-<lb n="0193b02" ed="T"/><note n="0193001" resp="Taisho" place="foot text" type="orig">〔雜〕－ヵ【原】</note><note n="0193001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔雜〕－ヵ【原】</note><app n="0193001"><lem resp="Taisho" wit="【大】">雜</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>流。亦云小說流也。言此文字語言。皆是
+<lb n="0193b02" ed="T"/><note n="0193001" resp="Taisho" place="foot text" type="orig">〔雜〕－ヵ【原】</note><note n="0193001" resp="CBETA" type="mod">雜【大】，〔－〕【考偽-原】</note><app n="0193001"><lem resp="Taisho" wit="【大】">雜</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>流。亦云小說流也。言此文字語言。皆是
 <lb n="0193b03" ed="T"/>佛說。並會涅槃。故云交歸。此即金剛經云。是
 <lb n="0193b04" ed="T"/>故如來說一切法皆是佛法。此之謂也。眾聖
 <lb n="0193b05" ed="T"/>於是乎冥會。上句會法。則無法不會於涅槃。
@@ -3434,7 +3434,7 @@ Added comment  for Emacs
 <lb n="0198a28" ed="T"/>彰本於妄想。滋彰多也。老子云。法令滋彰。盜
 <lb n="0198a29" ed="T"/>賊多有。而本由妄想。所以萬累多也。妄想
 <pb n="0198b" xml:id="T45.1859.0198b" ed="T"/>
-<lb n="0198b01" ed="T"/>既<choice><corr>祛</corr><sic>袪</sic></choice>則萬累都息者。<choice><corr>祛</corr><sic>袪</sic></choice>遣也。有本作去。亦是
+<lb n="0198b01" ed="T"/>既<note n="0198b0101" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0198b0101"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>則萬累都息者。<note n="0198b0102" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0198b0102"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>遣也。有本作去。亦是
 <lb n="0198b02" ed="T"/>除遣也。二乘煩惱盡。故云得盡智。菩薩得無
 <lb n="0198b03" ed="T"/>生法忍。故云得無生智也。二乘得盡智。結縛
 <lb n="0198b04" ed="T"/>永除。菩薩得無生智。妄想都盡。結縛既除心
@@ -3536,7 +3536,7 @@ Added comment  for Emacs
 <lb n="0199b10" ed="T"/>如虛空則常住也。若如虛空下。虛空不可學
 <lb n="0199b11" ed="T"/>成。涅槃何得然耶。</p>
 <lb n="0199b12" ed="T"/><p xml:id="pT45p0199b1201">通古第十七　涅槃之法。古今同一。故云通
-<lb n="0199b13" ed="T"/>古也。無名曰夫至人空洞無像而<note n="0199001" resp="Taisho" place="foot text" type="orig">（萬）ィ＋物【原】</note><note n="0199001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（萬）ィ＋物【原】</note><app n="0199001"><lem wit="【大】">物</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">萬物</rdg></app>無非我
+<lb n="0199b13" ed="T"/>古也。無名曰夫至人空洞無像而<note n="0199001" resp="Taisho" place="foot text" type="orig">（萬）ィ＋物【原】</note><note n="0199001" resp="CBETA" type="mod">物【大】，萬物【校異-原】</note><app n="0199001"><lem wit="【大】">物</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">萬物</rdg></app>無非我
 <lb n="0199b14" ed="T"/>者。字林云。洞音動。疾流也。比來學者。皆作
 <lb n="0199b15" ed="T"/>同音。空故無象。故以萬物為己體也。會萬物
 <lb n="0199b16" ed="T"/>以成已下。聖人無體。以萬物之體。為己體耳。
@@ -3606,7 +3606,7 @@ Added comment  for Emacs
 <lb n="0200a20" ed="T"/>八界。亦得但是心數也。融冶二儀者。融通
 <lb n="0200a21" ed="T"/>天地。如鑪冶之鎔金。無不同也。滌蕩萬有者。
 <lb n="0200a22" ed="T"/>洗滌除蕩無不空也。均天人下。明不二也。內
-<lb n="0200a23" ed="T"/>視不見<choice><corr>己</corr><sic>巳</sic></choice>者。內視涅槃。不見其<choice><corr>己</corr><sic>已</sic></choice>體也。返聽
+<lb n="0200a23" ed="T"/>視不見<note n="0200a2301" resp="CBETA" type="add">己【CB】，巳【大】</note><app n="0200a2301"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">巳</rdg></app>者。內視涅槃。不見其<note n="0200a2302" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0200a2302"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>體也。返聽
 <lb n="0200a24" ed="T"/>不聞我者。却聽涅槃。不聞其聲也。我者涅槃
 <lb n="0200a25" ed="T"/>也。未嘗有得下。非二邊也。經曰涅槃非眾生
 <lb n="0200a26" ed="T"/>者。此論凡所引經。乃有二體。一者標名。二者

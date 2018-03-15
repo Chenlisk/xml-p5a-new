@@ -184,7 +184,7 @@ Added comment  for Emacs
 <lb n="0867b13" ed="T"/>渴潛思欲得食飲，諸沙門等亦復如是。』</p>
 <lb n="0867b14" ed="T"/><p xml:id="pT01p0867b1401">「時，魔心念：『我寧可化於此國土長者梵志，取
 <lb n="0867b15" ed="T"/>諸持戒沙門道人，撾捶罵詈、裂衣破鉢破頭。
-<lb n="0867b16" ed="T"/><choice><corr>令</corr><sic>今</sic></choice>起瞋恚，吾因是緣得其方便。』尋如所念，即
+<lb n="0867b16" ed="T"/><note n="0867b1601" resp="CBETA" type="add">令【CB】，今【大】</note><app n="0867b1601"><lem wit="【CB】" resp="CBETA">令</lem><rdg wit="【大】">今</rdg></app>起瞋恚，吾因是緣得其方便。』尋如所念，即
 <lb n="0867b17" ed="T"/>化國中長者梵志，取諸沙門持戒奉法，撾捶
 <lb n="0867b18" ed="T"/>罵詈、壞鉢破頭、裂其被服。此諸沙門，如猫捕
 <lb n="0867b19" ed="T"/>鼠如鶴吞魚，譬如鵄梟於樹間捕鼠，諸沙門
@@ -217,7 +217,7 @@ Added comment  for Emacs
 <lb n="0867c16" ed="T"/>上，皆口稱曰：『持戒沙門，修身勤行，難值難遇，
 <lb n="0867c17" ed="T"/>唯蹈吾髮，使我長夜得福無量。』持擎衣服，往
 <lb n="0867c18" ed="T"/>造其所，稽首長跪：『願見愍傷，受此衣服。』笥
-<lb n="0867c19" ed="T"/><note n="0867015" resp="Taisho" type="orig" place="foot text">斂＝歛【三】</note><note n="0867015" resp="CBETA" type="mod">籢【麗-CB】【CB】，斂【大】，歛【宋】【元】【明】</note><app n="0867015"><lem resp="CBETA.maha" wit="【CBETA】【麗】">籢<note type="cf1">K19n0667_p0512a21</note></lem><rdg wit="【大】">斂</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">歛</rdg></app>盛食，詣就精舍，若街巷里頭供奉上供養：
+<lb n="0867c19" ed="T"/><note n="0867015" resp="Taisho" type="orig" place="foot text">斂＝歛【三】</note><note n="0867015" resp="CBETA" type="mod">籢【CB】【麗-CB】，斂【大】，歛【宋】【元】【明】</note><app n="0867015"><lem resp="CBETA.maha" wit="【CBETA】【麗】">籢<note type="cf1">K19n0667_p0512a21</note></lem><rdg wit="【大】">斂</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">歛</rdg></app>盛食，詣就精舍，若街巷里頭供奉上供養：
 <lb n="0867c20" ed="T"/>『持戒沙門難值難遇，願受此供，使我長夜得
 <lb n="0867c21" ed="T"/>福無量。』抱之擎之，若負擔之輿之，歸於其舍，
 <lb n="0867c22" ed="T"/>坐著好床，出諸飯食衣服袈裟金銀七寶，而

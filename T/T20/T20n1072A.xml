@@ -188,7 +188,7 @@ Added comment  for Emacs
 <lb n="0155b20" ed="T"/>或坐<note n="0155008" resp="Taisho" place="foot text" type="orig">被＝庳ィ【乙】</note><note n="0155008" resp="CBETA" type="mod">被【大】，庳【校異-乙】</note><app n="0155008"><lem wit="【大】">被</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">庳</rdg></app>脚小床上。分布漫荼羅列諸聖位。置
 <lb n="0155b21" ed="T"/>二閼伽滿盛香水。安四賢瓶於壇四角。每日
 <lb n="0155b22" ed="T"/>取種種時花散壇上。燒香塗香燈明飲食及
-<lb n="0155b23" ed="T"/>菓子。加持分布四邊供養。隨力所<choice><corr>辦</corr><sic>辨</sic></choice>陳設莊
+<lb n="0155b23" ed="T"/>菓子。加持分布四邊供養。隨力所<note n="0155b2301" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0155b2301"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>陳設莊
 <lb n="0155b24" ed="T"/>嚴。每入道場虔誠作禮。發露懺悔隨喜勸請
 <lb n="0155b25" ed="T"/>迴向發願。爾時金剛手菩薩告文殊師利言。
 <lb n="0155b26" ed="T"/>有大威怒王聖馬頭尊。我今說是心及妙印
@@ -282,7 +282,7 @@ Added comment  for Emacs
 <lb n="0156b24" ed="T"/>種身口意金剛。以我修三密功德力故。願一
 <lb n="0156b25" ed="T"/>切有情等同普賢菩薩。如是觀已。即誦大慈
 <lb n="0156b26" ed="T"/>三摩地真言曰。</p>
-<lb n="0156b27" ed="T"/><p xml:id="pT20p0156b2701" cb:type="dharani">唵摩賀<note place="inline">引</note>昧<note place="inline">引</note>怛囉<note n="0156020" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】</note><note n="0156020" resp="CBETA" type="mod">二合【大】，〔－〕【甲】【乙】</note><app n="0156020"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note n="0156021" resp="Taisho" place="foot text" type="orig">夜＋（二合引）細註【甲】，＋（二合）細註【乙】</note><note n="0156021" resp="CBETA" type="mod">夜【大】，夜(二合引)【甲】，二合【乙】</note><app n="0156021"><lem wit="【大】">夜</lem><rdg resp="Taisho" wit="【甲】">夜<note place="inline">二合引</note></rdg><rdg resp="Taisho" wit="【乙】">夜<note place="inline">二合</note></rdg></app>娑<note n="0156022" resp="Taisho" place="foot text" type="orig">頗＝嚩【甲】【乙】</note><note n="0156022" resp="CBETA" type="mod">頗【大】，嚩【甲】【乙】</note><app n="0156022"><lem wit="【大】">頗</lem><rdg resp="Taisho" wit="【甲】【乙】">嚩</rdg></app><note place="inline">二合</note>羅</p>
+<lb n="0156b27" ed="T"/><p xml:id="pT20p0156b2701" cb:type="dharani">唵摩賀<note place="inline">引</note>昧<note place="inline">引</note>怛囉<note n="0156020" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】【乙】</note><note n="0156020" resp="CBETA" type="mod">二合【大】，〔－〕【甲】【乙】</note><app n="0156020"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app><note n="0156021" resp="Taisho" place="foot text" type="orig">夜＋（二合引）細註【甲】，＋（二合）細註【乙】</note><note n="0156021" resp="CBETA" type="mod">夜【大】，夜(二合引)【甲】，(二合)【乙】</note><app n="0156021"><lem wit="【大】">夜</lem><rdg resp="Taisho" wit="【甲】">夜<note place="inline">二合引</note></rdg><rdg resp="Taisho" wit="【乙】">夜<note place="inline">二合</note></rdg></app>娑<note n="0156022" resp="Taisho" place="foot text" type="orig">頗＝嚩【甲】【乙】</note><note n="0156022" resp="CBETA" type="mod">頗【大】，嚩【甲】【乙】</note><app n="0156022"><lem wit="【大】">頗</lem><rdg resp="Taisho" wit="【甲】【乙】">嚩</rdg></app><note place="inline">二合</note>羅</p>
 <lb n="0156b28" ed="T"/><p xml:id="pT20p0156b2801">次應入悲無量心三摩地智。以悲愍心遍緣。
 <lb n="0156b29" ed="T"/>六道四生一切有情。沈溺生死苦海不悟自
 <pb n="0156c" xml:id="T20.1072A.0156c" ed="T"/>
@@ -469,7 +469,7 @@ Added comment  for Emacs
 <lb n="0158c01" ed="T"/>至十方。真實敬禮一切塵剎海會諸佛如來。
 <lb n="0158c02" ed="T"/>瑜伽者端身正坐儼然不動。想自身在一切
 <lb n="0158c03" ed="T"/>如來海會。觀一一佛身微細由如胡麻。相好
-<lb n="0158c04" ed="T"/>具足了了分明。即入觀自在菩薩<note n="0158011" resp="Taisho" place="foot text" type="orig">（觀）ィ＋智【乙】</note><note n="0158011" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（觀）ィ＋智【乙】</note><app n="0158011"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">觀智</rdg></app>作是思
+<lb n="0158c04" ed="T"/>具足了了分明。即入觀自在菩薩<note n="0158011" resp="Taisho" place="foot text" type="orig">（觀）ィ＋智【乙】</note><note n="0158011" resp="CBETA" type="mod">智【大】，觀智【校異-乙】</note><app n="0158011"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">觀智</rdg></app>作是思
 <lb n="0158c05" ed="T"/>惟。一切法本來清淨。我亦清淨。於世間貪愛
 <lb n="0158c06" ed="T"/>清淨故。則瞋恚清淨。於世間塵垢清淨故。則
 <lb n="0158c07" ed="T"/>一切罪清淨。於世間一切法清淨故。則一切
@@ -507,7 +507,7 @@ Added comment  for Emacs
 <lb n="0159a09" ed="T"/>喉頂各誦一遍。真言曰。</p>
 <lb n="0159a10" ed="T"/><p xml:id="pT20p0159a1001" cb:type="dharani">唵嚩日囉<note place="inline">二合</note>達磨<note place="inline">引</note>地瑟姹<note place="inline">二合</note>娑嚩<note place="inline">二合</note>𤚥<note place="inline">引</note></p>
 <lb n="0159a11" ed="T"/><p xml:id="pT20p0159a1101">由結此印加持故。修行者威德自在離諸障
-<lb n="0159a12" ed="T"/>難。本尊瑜伽<note n="0159002" resp="Taisho" place="foot text" type="orig">〔者〕－ヵ【原】</note><note n="0159002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔者〕－ヵ【原】</note><app n="0159002"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>速得成就。</p>
+<lb n="0159a12" ed="T"/>難。本尊瑜伽<note n="0159002" resp="Taisho" place="foot text" type="orig">〔者〕－ヵ【原】</note><note n="0159002" resp="CBETA" type="mod">者【大】，〔－〕【考偽-原】</note><app n="0159002"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>速得成就。</p>
 <lb n="0159a13" ed="T"/><p xml:id="pT20p0159a1301">次結佛寶冠灌頂印。如前金剛縛忍願直竪。
 <lb n="0159a14" ed="T"/>進力相跓如蓮葉。安於額上誦真言三遍。真
 <lb n="0159a15" ed="T"/>言曰。</p>
@@ -647,7 +647,7 @@ Added comment  for Emacs
 <lb n="0160b29" ed="T"/><p xml:id="pT20p0160b2901" cb:type="dharani"><note n="0160013" resp="Taisho" place="foot text" type="orig">唵＋（阿）【甲】</note><note n="0160013" resp="CBETA" type="mod">唵【大】，唵阿【甲】</note><app n="0160013"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】">唵阿</rdg></app><note place="inline">去引</note>夜<note place="inline">引</note>呬<note place="inline">磬異反</note>試伽囕<note place="inline">二合轉舌呼</note>素蘖跢<note place="inline">引</note>枳
 <pb n="0160c" xml:id="T20.1072A.0160c" ed="T"/>
 <lb n="0160c01" ed="T"/><note n="0160014" resp="Taisho" place="foot text" type="orig">讓＝孃【甲】【乙】</note><note n="0160014" resp="CBETA" type="mod">讓【大】，孃【甲】【乙】</note><app n="0160014"><lem wit="【大】">讓</lem><rdg resp="Taisho" wit="【甲】【乙】">孃</rdg></app><note place="inline">二合</note>吠<note place="inline">微閉反</note>誐多<note place="inline">入聲</note>鉢囉<note place="inline">二合</note>拏<note n="0160015" resp="Taisho" place="foot text" type="orig">〔上〕－【甲】＊</note><note n="0160015" resp="CBETA" type="mod">上【大】＊，〔－〕【甲】＊</note><app n="0160015"><lem wit="【大】"><note place="inline">上</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>弭旦<note place="inline">得安
-<lb n="0160c02" ed="T"/>反</note>帝嚩囉薩怛嚩<note place="inline">二合</note>尾訖囉<note place="inline">二合</note>麼<note place="inline"><choice><corr>入</corr><sic>人</sic></choice>聲引<note n="0160016" resp="Taisho" place="foot text" type="orig">二＝三【甲】【乙】</note><note n="0160016" resp="CBETA" type="mod">二【大】，三【甲】【乙】</note><app n="0160016"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】【乙】">三</rdg></app></note>迦嚕
+<lb n="0160c02" ed="T"/>反</note>帝嚩囉薩怛嚩<note place="inline">二合</note>尾訖囉<note place="inline">二合</note>麼<note place="inline"><note n="0160c0201" resp="CBETA" type="add">入【CB】，人【大】</note><app n="0160c0201"><lem wit="【CB】" resp="CBETA">入</lem><rdg wit="【大】">人</rdg></app>聲引<note n="0160016" resp="Taisho" place="foot text" type="orig">二＝三【甲】【乙】</note><note n="0160016" resp="CBETA" type="mod">二【大】，三【甲】【乙】</note><app n="0160016"><lem wit="【大】">二</lem><rdg resp="Taisho" wit="【甲】【乙】">三</rdg></app></note>迦嚕
 <lb n="0160c03" ed="T"/><app type="star" corresp="#0156004"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>呬薩鑁嚩囉娜<note place="inline">引</note>摩賀<note place="inline">引</note>摩攞<note place="inline">引入聲<note n="0160017" resp="Taisho" place="foot text" type="orig">〔三〕－【甲】</note><note n="0160017" resp="CBETA" type="mod">三【大】，〔－〕【甲】</note><app n="0160017"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></note>阿<app type="star" corresp="#0160015"><lem wit="【大】"><note place="inline">上</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>
 <lb n="0160c04" ed="T"/>贊拏迦<note place="inline">引</note>薩怛嚩<note place="inline">二合</note>尾<g ref="#CB02122"/><note place="inline">詩筆反</note>地迦<note place="inline">引</note>囉迦<note place="inline">引入
 <lb n="0160c05" ed="T"/>四</note>怛怛隷<note place="inline">二合</note>難底<note place="inline">丁以反後同</note>囉閻底<note place="inline">上同</note>囉閻<note place="inline">五</note>尾
@@ -892,7 +892,7 @@ Added comment  for Emacs
 <lb n="0163b10" ed="T"/>惰業種。獲得三種精進。所謂被甲精進攝善
 <lb n="0163b11" ed="T"/>法精進利樂有情精進。即精進波羅蜜圓滿。
 <lb n="0163b12" ed="T"/>身心安樂離諸疾病無有苦惱。彼<note n="0163010" resp="Taisho" place="foot text" type="orig">（世）＋出【甲】【乙】</note><note n="0163010" resp="CBETA" type="mod">出【大】，世出【甲】【乙】</note><app n="0163010"><lem wit="【大】">出</lem><rdg resp="Taisho" wit="【甲】【乙】">世出</rdg></app>世福智
-<lb n="0163b13" ed="T"/>願。皆得成<choice><corr>辦</corr><sic>辨</sic></choice>。</p>
+<lb n="0163b13" ed="T"/>願。皆得成<note n="0163b1301" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0163b1301"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>。</p>
 <lb n="0163b14" ed="T"/><p xml:id="pT20p0163b1401">次結禪波羅蜜菩薩印　即結跏趺坐。左手
 <lb n="0163b15" ed="T"/>仰掌於跏趺上。以右手仰於左手上。以禪智
 <lb n="0163b16" ed="T"/>二度甲<note n="0163011" resp="Taisho" place="foot text" type="orig">〔相〕－【甲】</note><note n="0163011" resp="CBETA" type="mod">相【大】，〔－〕【甲】</note><app n="0163011"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>跓。即誦真言曰。</p>
@@ -933,9 +933,9 @@ Added comment  for Emacs
 <lb n="0163c21" ed="T"/><p xml:id="pT20p0163c2101">次結力波羅蜜菩薩印　准前戒波羅蜜印。
 <lb n="0163c22" ed="T"/>禪智進力忍願皆竪頭相合。誦真言曰。</p>
 <lb n="0163c23" ed="T"/><p xml:id="pT20p0163c2301" cb:type="dharani">唵娜麼𩕳母<note n="0163020" resp="Taisho" place="foot text" type="orig">休＝儞【甲】</note><note n="0163020" resp="CBETA" type="mod">休【大】，儞【甲】</note><app n="0163020"><lem wit="【大】">休</lem><rdg resp="Taisho" wit="【甲】">儞</rdg></app>帝吽<note place="inline">引</note>賀賀賀吽<note place="inline">引</note>弱</p>
-<lb n="0163c24" ed="T"/><p xml:id="pT20p0163c2401">由結此印誦真言三遍。即滅無量劫<note n="0163021" resp="Taisho" place="foot text" type="orig">〔於〕－ヵ【原】</note><note n="0163021" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔於〕－ヵ【原】</note><app n="0163021"><lem resp="Taisho" wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>世出
+<lb n="0163c24" ed="T"/><p xml:id="pT20p0163c2401">由結此印誦真言三遍。即滅無量劫<note n="0163021" resp="Taisho" place="foot text" type="orig">〔於〕－ヵ【原】</note><note n="0163021" resp="CBETA" type="mod">於【大】，〔－〕【考偽-原】</note><app n="0163021"><lem resp="Taisho" wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>世出
 <lb n="0163c25" ed="T"/>世劣意業種。獲得二種力。所謂思擇力修習
-<lb n="0163c26" ed="T"/>力。於諸對治法。伏<note n="0163022" resp="Taisho" place="foot text" type="orig">〔得〕－ヵ【原】</note><note n="0163022" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔得〕－ヵ【原】</note><app n="0163022"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>諸煩惱斷諸惑障。修
+<lb n="0163c26" ed="T"/>力。於諸對治法。伏<note n="0163022" resp="Taisho" place="foot text" type="orig">〔得〕－ヵ【原】</note><note n="0163022" resp="CBETA" type="mod">得【大】，〔－〕【考偽-原】</note><app n="0163022"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>諸煩惱斷諸惑障。修
 <lb n="0163c27" ed="T"/>道時決定勝解。一切天魔惡友不能移易。獲
 <lb n="0163c28" ed="T"/>得不退轉。</p>
 <lb n="0163c29" ed="T"/><p xml:id="pT20p0163c2901">次結智波羅蜜菩薩印　二手外相叉作拳。
@@ -1246,13 +1246,13 @@ Added comment  for Emacs
 <lb n="0167b02" ed="T"/>之。誦發遣真言。投打像上七遍。諸聖眾及本
 <lb n="0167b03" ed="T"/>尊即歸去。</p>
 <lb n="0167b04" ed="T"/><p xml:id="pT20p0167b0401">聖者馬頭尊。復說無比不思議力聖者馬頭
-<lb n="0167b05" ed="T"/>尊妙心。能<note n="0167014" resp="Taisho" place="foot text" type="orig">〔成〕－【甲】</note><note n="0167014" resp="CBETA" type="mod">成【大】，〔－〕【甲】</note><app n="0167014"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><choice><corr>辦</corr><sic>辨</sic></choice>一切諸事業之法門。</p>
+<lb n="0167b05" ed="T"/>尊妙心。能<note n="0167014" resp="Taisho" place="foot text" type="orig">〔成〕－【甲】</note><note n="0167014" resp="CBETA" type="mod">成【大】，〔－〕【甲】</note><app n="0167014"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0167b0501" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0167b0501"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>一切諸事業之法門。</p>
 <lb n="0167b06" ed="T"/><p xml:id="pT20p0167b0601">菜食作念誦。數滿十萬遍。不食一日一夜。方
 <lb n="0167b07" ed="T"/>設大供養。作護摩事業。以苦練木。兩頭榅蘇。
 <lb n="0167b08" ed="T"/>燒八千枚為限已成。初行滿心中所有望求。
 <lb n="0167b09" ed="T"/>悉獲得成就。又法以蜜攞嚩果護摩滿三十
 <lb n="0167b10" ed="T"/>萬遍。當獲得<note n="0167015" resp="Taisho" place="foot text" type="orig">惹＝王ヵ【原】</note><note n="0167015" resp="CBETA" type="mod">惹【大】，王【考偽-原】</note><app n="0167015"><lem resp="Taisho" wit="【大】">惹</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">王</rdg></app>位。若欲得大靈驗。當馬頭
-<lb n="0167b11" ed="T"/>像前<note n="0167016" resp="Taisho" place="foot text" type="orig">（作）ヵ＋四【原】</note><note n="0167016" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（作）ヵ＋四【原】</note><app n="0167016"><lem resp="Taisho" wit="【大】">四</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">作四</rdg></app>肘方壇。壇中安白銅大器盛滿香水。
+<lb n="0167b11" ed="T"/>像前<note n="0167016" resp="Taisho" place="foot text" type="orig">（作）ヵ＋四【原】</note><note n="0167016" resp="CBETA" type="mod">四【大】，作四【考偽-原】</note><app n="0167016"><lem resp="Taisho" wit="【大】">四</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">作四</rdg></app>肘方壇。壇中安白銅大器盛滿香水。
 <lb n="0167b12" ed="T"/>從月一日迄十五日。燒香散華致誠禮敬作
 <lb n="0167b13" ed="T"/>念誦。晝夜不間不嘗眠睡。全堅固精進。且
 <lb n="0167b14" ed="T"/>居安不立留。十五日間無斷絕。而滿五落叉
@@ -1281,7 +1281,7 @@ Added comment  for Emacs
 <lb n="0167c07" ed="T"/>愈。風病熱病頭病脚病。四百四病萬惱皆悉
 <lb n="0167c08" ed="T"/>消除斷盡。乃至世間所有八萬四千種鬼病。
 <lb n="0167c09" ed="T"/>皆<note n="0167020" resp="Taisho" place="foot text" type="orig">悉＋（除滅）【甲】</note><note n="0167020" resp="CBETA" type="mod">悉【大】，悉除滅【甲】</note><app n="0167020"><lem wit="【大】">悉</lem><rdg resp="Taisho" wit="【甲】">悉除滅</rdg></app>治之無不差者皆得成就。又法<note n="0167021" resp="Taisho" place="foot text" type="orig">（若）＋破【甲】</note><note n="0167021" resp="CBETA" type="mod">破【大】，若破【甲】</note><app n="0167021"><lem wit="【大】">破</lem><rdg resp="Taisho" wit="【甲】">若破</rdg></app>滅
-<lb n="0167c10" ed="T"/>諸法。欲令餘人所作呪法不成<choice><corr>辦</corr><sic>辨</sic></choice>者。當作四
+<lb n="0167c10" ed="T"/>諸法。欲令餘人所作呪法不成<note n="0167c1001" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0167c1001"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>者。當作四
 <lb n="0167c11" ed="T"/>肘三色粉壇。南北西三面盡蓮華座。於其座
 <lb n="0167c12" ed="T"/>上<note n="0167022" resp="Taisho" place="foot text" type="orig">盡＝畫【甲】【乙】＊</note><note n="0167022" resp="CBETA" type="mod">盡【大】＊，畫【甲】【乙】＊</note><app n="0167022"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】【乙】">畫</rdg></app>著牙形。東面華座上<app type="star" corresp="#0167022"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】【乙】">畫</rdg></app>作跋折羅印。
 <lb n="0167c13" ed="T"/>燃十二燈。百味<note n="0167023" resp="Taisho" place="foot text" type="orig">異＝菓【甲】</note><note n="0167023" resp="CBETA" type="mod">異【大】，菓【甲】</note><app n="0167023"><lem wit="【大】">異</lem><rdg resp="Taisho" wit="【甲】">菓</rdg></app>食辦備八盤。其食日別
@@ -1298,7 +1298,7 @@ Added comment  for Emacs
 <lb n="0167c24" ed="T"/>作百八丸。一丸一呪一投火中燒之。乃至香
 <lb n="0167c25" ed="T"/><app type="star" corresp="#0167022"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】【乙】">畫</rdg></app>。毘那夜迦即自被縛。又法若有惡人怨
 <lb n="0167c26" ed="T"/>家。<note n="0167024" resp="Taisho" place="foot text" type="orig">（作）＋於【甲】</note><note n="0167024" resp="CBETA" type="mod">於【大】，作於【甲】</note><app n="0167024"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】">作於</rdg></app>善人起惡意相危害者。應當鑄作一金
-<lb n="0167c27" ed="T"/><note n="0167025" resp="Taisho" place="foot text" type="orig">鋼＝銅【甲】【乙】</note><note n="0167025" resp="CBETA" type="mod">銅【甲】【乙】【CB】，鋼【大】</note><app n="0167025"><lem wit="【CBETA】" resp="CBETA.maha">銅<note type="cf1">T21n1214_p0073b15</note></lem><rdg resp="Taisho" wit="【甲】【乙】">銅</rdg><rdg wit="【大】">鋼</rdg></app>威怒王像。隨意大小。其像形現四面八
+<lb n="0167c27" ed="T"/><note n="0167025" resp="Taisho" place="foot text" type="orig">鋼＝銅【甲】【乙】</note><note n="0167025" resp="CBETA" type="mod">銅【CB】【甲】【乙】，鋼【大】</note><app n="0167025"><lem wit="【CBETA】" resp="CBETA.maha">銅<note type="cf1">T21n1214_p0073b15</note></lem><rdg resp="Taisho" wit="【甲】【乙】">銅</rdg><rdg wit="【大】">鋼</rdg></app>威怒王像。隨意大小。其像形現四面八
 <lb n="0167c28" ed="T"/>臂。每四口上下利牙出現。八手把金剛器杖。
 <lb n="0167c29" ed="T"/>正面頂上現一碧馬頭。頭髮如螺焰。大暴惡
 <pb n="0168a" xml:id="T20.1072A.0168a" ed="T"/>
@@ -1442,7 +1442,7 @@ Added comment  for Emacs
 <lb n="0169b18" ed="T"/>令微細。用酪汁和如<g ref="#CB00595"/>法。用大威怒王心真
 <lb n="0169b19" ed="T"/>言二十一遍<note n="0169020" resp="Taisho" place="foot text" type="orig">〔加持〕－【甲】【乙】</note><note n="0169020" resp="CBETA" type="mod">加持【大】，〔－〕【甲】【乙】</note><app n="0169020"><lem wit="【大】">加持</lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app>。與其病人空腹服之。腹內
 <lb n="0169b20" ed="T"/>所有一切毒<note n="0169021" resp="Taisho" place="foot text" type="orig">〔虫〕－【甲】</note><note n="0169021" resp="CBETA" type="mod">虫【大】，〔－〕【甲】</note><app n="0169021"><lem wit="【大】">虫</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>悉皆吐出。為一切病惱。<note n="0169022" resp="Taisho" place="foot text" type="orig">（為成）＋我【甲】，我＋（成）【乙】</note><note n="0169022" resp="CBETA" type="mod">我【大】，為成我【甲】，我成【乙】</note><app n="0169022"><lem wit="【大】">我</lem><rdg resp="Taisho" wit="【甲】">為成我</rdg><rdg resp="Taisho" wit="【乙】">我成</rdg></app>
-<lb n="0169b21" ed="T"/>醫王治之。不差者無有此處。是<note n="0169023" resp="Taisho" place="foot text" type="orig">〔古本願〕－ヵ【原】</note><note n="0169023" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔古本願〕－ヵ【原】</note><app n="0169023"><lem resp="Taisho" wit="【大】">古本願</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>我
+<lb n="0169b21" ed="T"/>醫王治之。不差者無有此處。是<note n="0169023" resp="Taisho" place="foot text" type="orig">〔古本願〕－ヵ【原】</note><note n="0169023" resp="CBETA" type="mod">古本願【大】，〔－〕【考偽-原】</note><app n="0169023"><lem resp="Taisho" wit="【大】">古本願</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>我
 <lb n="0169b22" ed="T"/>大慈大悲馬口<note n="0169024" resp="Taisho" place="foot text" type="orig">本＝大【甲】</note><note n="0169024" resp="CBETA" type="mod">本【大】，大【甲】</note><app n="0169024"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【甲】">大</rdg></app>願深重故。化一切眾生專
 <lb n="0169b23" ed="T"/>勝諸尊。由大慈故不著生死。由大悲故不住
 <lb n="0169b24" ed="T"/>涅槃。常住無明諸境界中。斷盡種種諸惡趣。
@@ -1469,7 +1469,7 @@ Added comment  for Emacs
 <lb n="0169c15" ed="T"/>者。右方手執利劍。左方執拔折羅。此四大使
 <lb n="0169c16" ed="T"/>者王各威德自在。各守護威怒王。各<note n="0169032" resp="Taisho" place="foot text" type="orig">跪坐瑟＝立瑟瑟【甲】</note><note n="0169032" resp="CBETA" type="mod">跪坐瑟【大】，立瑟瑟【甲】</note><app n="0169032"><lem wit="【大】">跪坐瑟</lem><rdg resp="Taisho" wit="【甲】">立瑟瑟</rdg></app>
 <lb n="0169c17" ed="T"/>磬石上。遍身有大火焰。熾盛照曜如照日光。
-<lb n="0169c18" ed="T"/>大暴惡形。能降伏諸外道及天魔<note n="0169033" resp="Taisho" place="foot text" type="orig">〔定〕－ヵ【原】</note><note n="0169033" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔定〕－ヵ【原】</note><app n="0169033"><lem resp="Taisho" wit="【大】">定</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>諸惡夜
+<lb n="0169c18" ed="T"/>大暴惡形。能降伏諸外道及天魔<note n="0169033" resp="Taisho" place="foot text" type="orig">〔定〕－ヵ【原】</note><note n="0169033" resp="CBETA" type="mod">定【大】，〔－〕【考偽-原】</note><app n="0169033"><lem resp="Taisho" wit="【大】">定</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>諸惡夜
 <lb n="0169c19" ed="T"/>叉惡鬼神等。悉皆令歸依佛法。憶念大威怒
 <lb n="0169c20" ed="T"/>尊故。四大童子常隨守護。不離其側如不離
 <lb n="0169c21" ed="T"/>身景。如護眼精如護己命。守使者故。即能通

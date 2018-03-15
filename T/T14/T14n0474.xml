@@ -353,7 +353,7 @@ Added comment  for Emacs
 <lb n="0521a05" ed="T"/>邪智。雖為白衣，奉持沙門至賢之行；居家為
 <lb n="0521a06" ed="T"/>行，不止無色；有妻子婦，自隨所樂常修梵行；
 <lb n="0521a07" ed="T"/>雖有家屬，常如閑居；現<note n="0521001" resp="Taisho" type="orig" place="foot text">視＝相【三】</note><note n="0521001" resp="CBETA" type="mod">視【大】，相【宋】【元】【明】</note><app n="0521001"><lem wit="【大】">視</lem><rdg resp="Taisho" wit="【宋】【元】【明】">相</rdg></app>嚴身，被服飲食，內
-<lb n="0521a08" ed="T"/>常如禪。若在博<choice><corr>弈</corr><sic>奕</sic></choice>戲樂，輒以度人；受諸異道，
+<lb n="0521a08" ed="T"/>常如禪。若在博<note n="0521a0801" resp="CBETA" type="add">弈【CB】，奕【大】</note><app n="0521a0801"><lem wit="【CB】" resp="CBETA">弈</lem><rdg wit="【大】">奕</rdg></app>戲樂，輒以度人；受諸異道，
 <lb n="0521a09" ed="T"/>導以佛教不離聖典；因諸世間俗教善語，以
 <lb n="0521a10" ed="T"/>法樂而樂之。一切見敬，為供養中最；所<note n="0521002" resp="Taisho" type="orig" place="foot text">有＝及【元】【明】</note><note n="0521002" resp="CBETA" type="mod">有【大】，及【元】【明】</note><app n="0521002"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【元】【明】">及</rdg></app>
 <lb n="0521a11" ed="T"/>耆舊，能<note n="0521003" resp="Taisho" type="orig" place="foot text">〔喜〕－【三】</note><note n="0521003" resp="CBETA" type="mod">喜【大】，〔－〕【宋】【元】【明】</note><app n="0521003"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>世間一切治生諧<note n="0521004" resp="Taisho" type="orig" place="foot text">偶＝耦【三】</note><note n="0521004" resp="CBETA" type="mod">偶【大】，耦【宋】【元】【明】</note><app n="0521004"><lem wit="【大】">偶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">耦</rdg></app>；雖獲俗利，
@@ -387,7 +387,7 @@ Added comment  for Emacs
 <lb n="0521b09" ed="T"/>如水；是身非有，四大為家；是身為空，無我無
 <lb n="0521b10" ed="T"/>性無命無人；是身無我，我者轉離；是身如束
 <lb n="0521b11" ed="T"/>薪，筋纏<note n="0521010" resp="Taisho" type="orig" place="foot text">如＝而【三】</note><note n="0521010" resp="CBETA" type="mod">如【大】，而【宋】【元】【明】</note><app n="0521010"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【宋】【元】【明】">而</rdg></app>立；是身非真，但巧風合；是身為荒，
-<lb n="0521b12" ed="T"/>不淨腐積；是身為虛偽，<note n="0521011" resp="Taisho" type="orig" place="foot text">覆＝而復【三】</note><note n="0521011" resp="CBETA" type="mod">而復【宋】【元】【明】【CB】，覆【大】</note><app n="0521011"><lem resp="CBETA.maha" wit="【CBETA】">而復</lem><rdg wit="【大】">覆</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">而復</rdg></app>速朽，為磨滅法；是
+<lb n="0521b12" ed="T"/>不淨腐積；是身為虛偽，<note n="0521011" resp="Taisho" type="orig" place="foot text">覆＝而復【三】</note><note n="0521011" resp="CBETA" type="mod">而復【CB】【宋】【元】【明】，覆【大】</note><app n="0521011"><lem resp="CBETA.maha" wit="【CBETA】">而復</lem><rdg wit="【大】">覆</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">而復</rdg></app>速朽，為磨滅法；是
 <lb n="0521b13" ed="T"/>身為災，一增百病；是身老為怨，以老苦<note n="0521012" resp="Taisho" type="orig" place="foot text">極＝擾【明】</note><note n="0521012" resp="CBETA" type="mod">極【大】，擾【明】</note><app n="0521012"><lem wit="【大】">極</lem><rdg resp="Taisho" wit="【明】">擾</rdg></app>；是
 <lb n="0521b14" ed="T"/>身為窮道，為要當死。諸仁者！此可患厭，當
 <lb n="0521b15" ed="T"/>發清淨不婬之行，如佛法身，吾等當學。佛法
@@ -470,7 +470,7 @@ Added comment  for Emacs
 <lb n="0522b02" ed="T"/>滿飯，謂我言：『設使，賢者！於食等者，諸法得
 <lb n="0522b03" ed="T"/>等；諸法等者，得眾施等。如是行乞，為可取彼。
 <lb n="0522b04" ed="T"/>若賢者，不絕婬怒癡，亦不與俱一切常，若不
-<lb n="0522b05" ed="T"/>知<choice><corr>己</corr><sic>已</sic></choice>身，已得一行，為非不明，非趣有愛，非得
+<lb n="0522b05" ed="T"/>知<note n="0522b0501" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0522b0501"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>身，已得一行，為非不明，非趣有愛，非得
 <lb n="0522b06" ed="T"/>明度，亦非極罪，正解已解。不解不縛，不四諦
 <lb n="0522b07" ed="T"/>見非不見諦，不得道，不凡人，不凡法語，不為
 <lb n="0522b08" ed="T"/>真非不真，一切無法行離法之想。不見佛，不
@@ -1210,7 +1210,7 @@ Added comment  for Emacs
 <lb n="0530b21" ed="T"/><l>前救彼飢渴，</l><l>却以法語人。</l>
 <lb n="0530b22" ed="T"/><l>劫中若兵起，</l><l>己為作慈利，</l>
 <lb n="0530b23" ed="T"/><l>化之以不諍，</l><l>兆民得休濟。</l>
-<lb n="0530b24" ed="T"/><l>若於大戰中，</l><l>則我得<choice><corr>臣</corr><sic>巨</sic></choice>眾，</l>
+<lb n="0530b24" ed="T"/><l>若於大戰中，</l><l>則我得<note n="0530b2401" resp="CBETA" type="add">臣【CB】，巨【大】</note><app n="0530b2401"><lem wit="【CB】" resp="CBETA">臣</lem><rdg wit="【大】">巨</rdg></app>眾，</l>
 <lb n="0530b25" ed="T"/><l>恒協用和安，</l><l>菩薩力勢強。</l>
 <lb n="0530b26" ed="T"/><l>至於有獄刑，</l><l>佛土不可勝，</l>
 <lb n="0530b27" ed="T"/><l>輒至到于彼，</l><l>趣使眾庶寧。</l>
@@ -1473,7 +1473,7 @@ Added comment  for Emacs
 <lb n="0533b14" ed="T"/>作此飯耶？」</p><p xml:id="pT14p0533b1405" rend="inline">佛言：「如是，如是。阿難！或有佛土
 <lb n="0533b15" ed="T"/>以光明作佛事；或有佛土以菩薩作佛事；有
 <lb n="0533b16" ed="T"/>以如來色相、名號現作佛事；有以衣食、苑園、
-<lb n="0533b17" ed="T"/>棚閣而作佛事；有以示<choice><corr>現</corr><sic>視</sic></choice>神<note n="0533b1701" resp="CBETA" type="add">足【CB】【麗-CB】，通【大】</note><app n="0533b1701"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">足<note type="cf1">K09n0120_p1028a22</note><note type="cf2">T38n1775_p0403c27</note></lem><rdg wit="【大】">通</rdg></app>變化而作佛
+<lb n="0533b17" ed="T"/>棚閣而作佛事；有以示<note n="0533b1701" resp="CBETA" type="add">現【CB】，視【大】</note><app n="0533b1701"><lem wit="【CB】" resp="CBETA">現</lem><rdg wit="【大】">視</rdg></app>神<note n="0533b1702" resp="CBETA" type="add">足【CB】【麗-CB】，通【大】</note><app n="0533b1702"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">足<note type="cf1">K09n0120_p1028a22</note><note type="cf2">T38n1775_p0403c27</note></lem><rdg wit="【大】">通</rdg></app>變化而作佛
 <lb n="0533b18" ed="T"/>事；有以虛<note n="0533014" resp="Taisho" type="orig" place="foot text">靜＝淨【三】</note><note n="0533014" resp="CBETA" type="mod">靜【大】，淨【宋】【元】【明】</note><app n="0533014"><lem wit="【大】">靜</lem><rdg resp="Taisho" wit="【宋】【元】【明】">淨</rdg></app>空無寂寞為作佛事，而使達
 <lb n="0533b19" ed="T"/>士得入律行；有以影、<note n="0533015" resp="Taisho" type="orig" place="foot text">嚮＝響【三】</note><note n="0533015" resp="CBETA" type="mod">嚮【大】，響【宋】【元】【明】</note><app n="0533015"><lem wit="【大】">嚮</lem><rdg resp="Taisho" wit="【宋】【元】【明】">響</rdg></app>、夢、幻、水月、野馬，曉喻
 <lb n="0533b20" ed="T"/>文說而作佛事；有以清淨，無身無得，無言無
@@ -1567,7 +1567,7 @@ Added comment  for Emacs
 <lb n="0534b18" ed="T"/><p xml:id="pT14p0534b1801">於是，世尊問維摩詰：「汝族姓子！欲見如來，為
 <lb n="0534b19" ed="T"/>以何等觀如來乎？」</p><p xml:id="pT14p0534b1908" rend="inline">維摩詰曰：「始不以生，終不
 <lb n="0534b20" ed="T"/>以數，今則不住。空種是同，入無所積，眼耳鼻
-<lb n="0534b21" ed="T"/>口身心<note n="0534010" resp="Taisho" type="orig" place="foot text">以＝已【三】</note><note n="0534010" resp="CBETA" type="mod">已【宋】【元】【明】【麗-CB】【CB】，以【大】</note><app n="0534010"><lem wit="【CBETA】【麗】" resp="CBETA.maha">已<note type="cf1">K09n0120_p1029c16</note></lem><rdg wit="【大】">以</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">已</rdg></app>離三界。不疲<note n="0534b2101" resp="CBETA" type="add">懈【CB】【麗-CB】，解【大】</note><app n="0534b2101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">懈<note type="cf1">K09n0120_p1029c16</note><note type="cf2">T15n0633_p0469c01</note></lem><rdg wit="【大】">解</rdg></app>三脫門，得三達
+<lb n="0534b21" ed="T"/>口身心<note n="0534010" resp="Taisho" type="orig" place="foot text">以＝已【三】</note><note n="0534010" resp="CBETA" type="mod">已【CB】【麗-CB】【宋】【元】【明】，以【大】</note><app n="0534010"><lem wit="【CBETA】【麗】" resp="CBETA.maha">已<note type="cf1">K09n0120_p1029c16</note></lem><rdg wit="【大】">以</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">已</rdg></app>離三界。不疲<note n="0534b2101" resp="CBETA" type="add">懈【CB】【麗-CB】，解【大】</note><app n="0534b2101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">懈<note type="cf1">K09n0120_p1029c16</note><note type="cf2">T15n0633_p0469c01</note></lem><rdg wit="【大】">解</rdg></app>三脫門，得三達
 <lb n="0534b22" ed="T"/>智，為無所至，至一切法，得無礙立，積於誠信，
 <lb n="0534b23" ed="T"/>如無所住，如慧無雜，不生因緣。不為相，不熟
 <lb n="0534b24" ed="T"/>相，不暫相。不一相不非相，不無視不為視，不

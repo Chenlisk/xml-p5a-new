@@ -947,8 +947,8 @@ Added comment  for Emacs
 <lb n="0010a12" ed="T"/><p xml:id="pT44p0010a1201">論曰。增盛障者至即彼等分行。</p><p xml:id="pT44p0010a1213" rend="inline">述曰。舊論
 <lb n="0010a13" ed="T"/>初言重。後與此同。此二障中。初是增益。後是
 <lb n="0010a14" ed="T"/>等分。對法十三瑜伽五十八九皆有廣說。然
-<lb n="0010a15" ed="T"/>但有鈍煩惱分。為此等分見利惑亦得<note n="0010001" resp="Taisho" place="foot text" type="orig">（等）ヵ＋分【甲】</note><note n="0010001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（等）ヵ＋分【甲】</note><app n="0010001"><lem resp="Taisho" wit="【大】">分</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">等分</rdg></app>。
-<lb n="0010a16" ed="T"/><note n="0010002" resp="Taisho" place="foot text" type="orig">〔不理亦得分〕－ヵ【甲】</note><note n="0010002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔不理亦得分〕－ヵ【甲】</note><app n="0010002"><lem resp="Taisho" wit="【大】">不理亦得分</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>。諸處多隨<note n="0010003" resp="Taisho" place="foot text" type="orig">〔說多隨說〕－ヵ【甲】</note><note n="0010003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔說多隨說〕－ヵ【甲】</note><app n="0010003"><lem resp="Taisho" wit="【大】">說多隨說</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>鈍煩惱
+<lb n="0010a15" ed="T"/>但有鈍煩惱分。為此等分見利惑亦得<note n="0010001" resp="Taisho" place="foot text" type="orig">（等）ヵ＋分【甲】</note><note n="0010001" resp="CBETA" type="mod">分【大】，等分【考偽-甲】</note><app n="0010001"><lem resp="Taisho" wit="【大】">分</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">等分</rdg></app>。
+<lb n="0010a16" ed="T"/><note n="0010002" resp="Taisho" place="foot text" type="orig">〔不理亦得分〕－ヵ【甲】</note><note n="0010002" resp="CBETA" type="mod">不理亦得分【大】，〔－〕【考偽-甲】</note><app n="0010002"><lem resp="Taisho" wit="【大】">不理亦得分</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>。諸處多隨<note n="0010003" resp="Taisho" place="foot text" type="orig">〔說多隨說〕－ヵ【甲】</note><note n="0010003" resp="CBETA" type="mod">說多隨說【大】，〔－〕【考偽-甲】</note><app n="0010003"><lem resp="Taisho" wit="【大】">說多隨說</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>鈍煩惱
 <lb n="0010a17" ed="T"/>說。又何故不說薄塵。以此二障如下自說初
 <lb n="0010a18" ed="T"/>障加行後障至得故。薄分行略不明之。又即
 <lb n="0010a19" ed="T"/>增盛成平等。平等即成薄塵。薄塵即攝入平
@@ -1231,7 +1231,7 @@ Added comment  for Emacs
 <lb n="0013a26" ed="T"/>為五力障。雖闕下品。順決擇分亦是力障。
 <lb n="0013a27" ed="T"/>縱設有時。為障所雜故不說也。或障體同
 <lb n="0013a28" ed="T"/>根。</p>
-<lb n="0013a29" ed="T"/><p xml:id="pT44p0013a2901">論曰。於七等覺支至所顯示故。</p><p xml:id="pT44p0013a2913" rend="inline">述<choice><corr>曰</corr><sic>日</sic></choice>。見道
+<lb n="0013a29" ed="T"/><p xml:id="pT44p0013a2901">論曰。於七等覺支至所顯示故。</p><p xml:id="pT44p0013a2913" rend="inline">述<note n="0013a2901" resp="CBETA" type="add">曰【CB】，日【大】</note><app n="0013a2901"><lem wit="【CB】" resp="CBETA">曰</lem><rdg wit="【大】">日</rdg></app>。見道
 <pb n="0013b" xml:id="T44.1835.0013b" ed="T"/>
 <lb n="0013b01" ed="T"/>雖有之貪等煩惱及業與果。見為首故但說
 <lb n="0013b02" ed="T"/>見障。或見道之所治故名見過失。即一切皆

@@ -627,7 +627,7 @@ Added comment  for Emacs
 <lb n="0613c07" ed="T"/>有眾生，始欲造福功業未果，便於胎門中夭
 <lb n="0613c08" ed="T"/>命者，斯由前身興心傷害彼造福人，是故說
 <lb n="0613c09" ed="T"/>曰，初出亦殤。既生子壞者，或有眾生施功立
-<lb n="0613c10" ed="T"/>德，在諸塔寺施設園菓浴池橋梁<note n="0613018" resp="Taisho" type="orig" place="foot text">清＝圊【三】＊</note><note n="0613018" resp="CBETA" type="mod">圊【宋】＊【元】＊【明】＊【CB】＊，清【大】＊</note><app n="0613018"><lem resp="CBETA.maha" wit="【CBETA】">圊<note type="cf1">T04n0212_p0613c10 校勘[18]</note></lem><rdg wit="【大】">清</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">圊</rdg></app>廁，功業
+<lb n="0613c10" ed="T"/>德，在諸塔寺施設園菓浴池橋梁<note n="0613018" resp="Taisho" type="orig" place="foot text">清＝圊【三】＊</note><note n="0613018" resp="CBETA" type="mod">圊【CB】＊【宋】＊【元】＊【明】＊，清【大】＊</note><app n="0613018"><lem resp="CBETA.maha" wit="【CBETA】">圊<note type="cf1">T04n0212_p0613c10 校勘[18]</note></lem><rdg wit="【大】">清</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">圊</rdg></app>廁，功業
 <lb n="0613c11" ed="T"/>未就為人所害，斯由先世害福德人，死入地
 <lb n="0613c12" ed="T"/>獄畜生餓鬼，經歷久遠乃還復人，既生離胎
 <lb n="0613c13" ed="T"/>於中逝殤，是故說曰，既生子壞也。孩抱而喪
@@ -735,7 +735,7 @@ Added comment  for Emacs
 <lb n="0614c25" ed="T"/><lg xml:id="lgT04p0614c2501" rend="margin-left:1em;text-indent:-1em"><l>「猶如張綜，</l><l>以杼投織，</l><l>漸盡其縷，</l>
 <lb n="0614c26" ed="T"/><l>人命如是。」</l></lg>
 <lb n="0614c27" ed="T"/><p xml:id="pT04p0614c2701">一切萬物皆當歸死，無常變易皆當捐棄在於
-<lb n="0614c28" ed="T"/><choice><corr>曠</corr><sic>矌</sic></choice>野塜間。時彼比丘聞如來所說教訓之道，
+<lb n="0614c28" ed="T"/><note n="0614c2801" resp="CBETA" type="add">曠【CB】，矌【大】</note><app n="0614c2801"><lem wit="【CB】" resp="CBETA">曠</lem><rdg wit="【大】">矌</rdg></app>野塜間。時彼比丘聞如來所說教訓之道，
 <lb n="0614c29" ed="T"/>知無常之要，達罪福之<anchor xml:id="fxT04p0614c01"/>原，解興衰之變，遵滅
 <pb n="0615a" ed="T" xml:id="T04.0212.0615a"/>
 <lb n="0615a01" ed="T"/><note n="0615a0101" resp="CBETA" type="add">度之【CB】【麗-CB】，［－］【大】</note><app n="0615a0101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">度之<note type="cf1">K29n0982_p0764a01</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>行，即於佛前得阿羅漢道。</p>
@@ -2818,7 +2818,7 @@ Added comment  for Emacs
 <lb n="0638a04" ed="T"/>利弗語訓二弟子，即得開悟。是故說曰，放逸
 <lb n="0638a05" ed="T"/>如自禁，能却之為賢。<note n="0638001" resp="Taisho" type="orig" place="foot text">以＝已【元】【明】</note><note n="0638001" resp="CBETA" type="mod">以【大】，已【元】【明】</note><app n="0638001"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【元】【明】">已</rdg></app>昇智慧堂<note n="0638002" resp="Taisho" type="orig" place="foot text">（去危而即安）五字＋者【三】</note><note n="0638002" resp="CBETA" type="mod">者【大】，去危而即安者【宋】【元】【明】</note><app n="0638002"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【宋】【元】【明】">去危而即安者</rdg></app>，諸賢聖
 <lb n="0638a06" ed="T"/>得昇此堂者，觀諸凡夫行人如野草木，以大慈
-<lb n="0638a07" ed="T"/>心廣潤無外，猶如人間豪族堂舍，庶民所<choice><corr>羨</corr><sic>羡</sic></choice>。
+<lb n="0638a07" ed="T"/>心廣潤無外，猶如人間豪族堂舍，庶民所<note n="0638a0701" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0638a0701"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>。
 <lb n="0638a08" ed="T"/>諸<note n="0638003" resp="Taisho" type="orig" place="foot text">〔賢〕－【三】</note><note n="0638003" resp="CBETA" type="mod">賢【大】，〔－〕【宋】【元】【明】</note><app n="0638003"><lem wit="【大】">賢</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>聖等亦復如是，昇賢聖堂，觀諸眾生所
 <lb n="0638a09" ed="T"/>習非真，憂念眾生未脫其苦習著放逸，或於
 <lb n="0638a10" ed="T"/>智慧放逸者，心在於禪意習於禪，隨師教誡
@@ -3524,7 +3524,7 @@ Added comment  for Emacs
 <lb n="0645c18" ed="T"/>財寶自然受福，為人所念，言從語用承受其
 <lb n="0645c19" ed="T"/>教，放逸人則無是也，是故說曰，現在所存義
 <lb n="0645c20" ed="T"/>也。亦及後世緣者，不放逸人得為人次，便能
-<lb n="0645c21" ed="T"/>布施持戒守<note n="0645018" resp="Taisho" type="orig" place="foot text">齊＝齋【三】</note><note n="0645018" resp="CBETA" type="mod">齊【大】，齋【宋】【元】【明】</note><app n="0645018"><lem wit="【大】">齊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">齋</rdg></app>，見諸行道者<note n="0645019" resp="Taisho" type="orig" place="foot text">伐＝代【三】</note><note n="0645019" resp="CBETA" type="mod">代【宋】【元】【明】【CB】，伐【大】</note><app n="0645019"><lem resp="CBETA.maha" wit="【CBETA】">代</lem><rdg wit="【大】">伐</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">代</rdg></app>其歡喜，以
+<lb n="0645c21" ed="T"/>布施持戒守<note n="0645018" resp="Taisho" type="orig" place="foot text">齊＝齋【三】</note><note n="0645018" resp="CBETA" type="mod">齊【大】，齋【宋】【元】【明】</note><app n="0645018"><lem wit="【大】">齊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">齋</rdg></app>，見諸行道者<note n="0645019" resp="Taisho" type="orig" place="foot text">伐＝代【三】</note><note n="0645019" resp="CBETA" type="mod">代【CB】【宋】【元】【明】，伐【大】</note><app n="0645019"><lem resp="CBETA.maha" wit="【CBETA】">代</lem><rdg wit="【大】">伐</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">代</rdg></app>其歡喜，以
 <lb n="0645c22" ed="T"/>諸善法香熏身體，於百千世顏貌端<note n="0645020" resp="Taisho" type="orig" place="foot text">容＝正【三】</note><note n="0645020" resp="CBETA" type="mod">容【大】，正【宋】【元】【明】</note><app n="0645020"><lem wit="【大】">容</lem><rdg resp="Taisho" wit="【宋】【元】【明】">正</rdg></app>，是故
 <lb n="0645c23" ed="T"/>說曰，亦及後世緣也。勇士能演<note n="0645021" resp="Taisho" type="orig" place="foot text">義＝說【三】＊</note><note n="0645021" resp="CBETA" type="mod">義【大】＊，說【宋】＊【元】＊【明】＊</note><app n="0645021"><lem wit="【大】">義</lem><rdg resp="Taisho" wit="【宋】【元】【明】">說</rdg></app>者，隨時應
 <lb n="0645c24" ed="T"/>適不失其所，所謂勇士者，佛及弟子是也，是
@@ -3665,7 +3665,7 @@ Added comment  for Emacs
 <lb n="0647b09" ed="T"/>不能知處，求覓拘提亦不知處。」世尊告曰：「拘
 <lb n="0647b10" ed="T"/>提比丘已取滅度，神識處空與空合體。」弊魔聞
 <lb n="0647b11" ed="T"/>已，心興欝毒，舉身自投青蓮香浴池中，池水
-<lb n="0647b12" ed="T"/>涌沸，水性黿<note n="0647007" resp="Taisho" type="orig" place="foot text">䰿＝鼉【三】</note><note n="0647007" resp="CBETA" type="mod">𩵔【麗-CB】【CB】，䰿【大】，鼉【宋】【元】【明】</note><app n="0647007"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𩵔<note type="cf1">K29n0983_p0811c21</note></lem><rdg wit="【大】">䰿</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">鼉</rdg></app>之屬盡皆命終。是時，拘提比
+<lb n="0647b12" ed="T"/>涌沸，水性黿<note n="0647007" resp="Taisho" type="orig" place="foot text">䰿＝鼉【三】</note><note n="0647007" resp="CBETA" type="mod">𩵔【CB】【麗-CB】，䰿【大】，鼉【宋】【元】【明】</note><app n="0647007"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𩵔<note type="cf1">K29n0983_p0811c21</note></lem><rdg wit="【大】">䰿</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">鼉</rdg></app>之屬盡皆命終。是時，拘提比
 <lb n="0647b13" ed="T"/>丘求於道果七<app type="star" corresp="#0647006"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【宋】【元】【明】">返</rdg></app>退轉，諸羅漢等見其退轉
 <lb n="0647b14" ed="T"/>復恐却退，晝夜精勤修賢聖道而現在前。爾
 <lb n="0647b15" ed="T"/>時，世尊以天眼觀清淨無瑕穢，見諸得道比丘
@@ -4503,7 +4503,7 @@ Added comment  for Emacs
 <lb n="0656c07" ed="T"/><p xml:id="pT04p0656c0701">戒定慧解者，彼修行人，戒品定品慧品三業
 <lb n="0656c08" ed="T"/>具足以自<note n="0656008" resp="Taisho" type="orig" place="foot text">纓絡＝瓔珞【三】</note><note n="0656008" resp="CBETA" type="mod">纓絡【大】，瓔珞【宋】【元】【明】</note><app n="0656008"><lem wit="【大】">纓絡</lem><rdg resp="Taisho" wit="【宋】【元】【明】">瓔珞</rdg></app>，摧結使聚何往不壞。猶如國
 <lb n="0656c09" ed="T"/>王財富人盛才技過人，便能安恤國民，外寇
-<lb n="0656c10" ed="T"/>不加。今此行人亦復如是，三業<choice><corr>具</corr><sic>貝</sic></choice>足，壞結使
+<lb n="0656c10" ed="T"/>不加。今此行人亦復如是，三業<note n="0656c1001" resp="CBETA" type="add">具【CB】，貝【大】</note><app n="0656c1001"><lem wit="【CB】" resp="CBETA">具</lem><rdg wit="【大】">貝</rdg></app>足，壞結使
 <lb n="0656c11" ed="T"/>寇亦無疑難，戒為立志，定撿亂心，慧斷結使，
 <lb n="0656c12" ed="T"/>是故說曰，戒定慧解也。是當善惟者，思惟三
 <lb n="0656c13" ed="T"/>品晝夜履行初不遠離，是故說曰，是當善惟
@@ -4852,7 +4852,7 @@ Added comment  for Emacs
 <lb n="0660b25" ed="T"/><l>修口善行。</l></lg>
 <lb n="0660b26" ed="T"/><p xml:id="pT04p0660b2601">護口惡行者，何以故說？自知內過、知他人過，
 <lb n="0660b27" ed="T"/>故名<note n="0660010" resp="Taisho" type="orig" place="foot text">曰＝口【三】</note><note n="0660010" resp="CBETA" type="mod">曰【大】，口【宋】【元】【明】</note><app n="0660010"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【宋】【元】【明】">口</rdg></app>惡行，若已瞋恚發口罵詈虛生過
-<lb n="0660b28" ed="T"/><note n="0660011" resp="Taisho" type="orig" place="foot text">恡＝<g ref="#CB04799"/>【三】</note><note n="0660011" resp="CBETA" type="mod">咎【磧砂-CB】【CB】，恡【大】，<g ref="#CB04799"/>【宋】【元】【明】</note><app n="0660011"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">咎<note type="cf1">Q27_p0663a14</note></lem><rdg wit="【大】">恡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】"><g ref="#CB04799"/></rdg></app>，使數千萬眾皆生惡念，而不自覺亦復不
+<lb n="0660b28" ed="T"/><note n="0660011" resp="Taisho" type="orig" place="foot text">恡＝<g ref="#CB04799"/>【三】</note><note n="0660011" resp="CBETA" type="mod">咎【CB】【磧-CB】，恡【大】，<g ref="#CB04799"/>【宋】【元】【明】</note><app n="0660011"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">咎<note type="cf1">Q27_p0663a14</note></lem><rdg wit="【大】">恡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】"><g ref="#CB04799"/></rdg></app>，使數千萬眾皆生惡念，而不自覺亦復不
 <lb n="0660b29" ed="T"/>知，後受惡報咸共懷瞋恚，彼罵者後入地獄
 <pb n="0660c" ed="T" xml:id="T04.0212.0660c"/>
 <lb n="0660c01" ed="T"/>餓鬼畜生受苦無量。若生人中多被誹謗言
@@ -5104,7 +5104,7 @@ Added comment  for Emacs
 <lb n="0663b07" ed="T"/>之皆悉馳走。爾時世尊見眾多比丘互相是
 <lb n="0663b08" ed="T"/>非不慎口過，或吐<note n="0663011" resp="Taisho" type="orig" place="foot text">〔言〕－【明】</note><note n="0663011" resp="CBETA" type="mod">言【大】，〔－〕【明】</note><app n="0663011"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>麁<note n="0663012" resp="Taisho" type="orig" place="foot text"><g ref="#CB00931"/>＝獷【三】</note><note n="0663012" resp="CBETA" type="mod"><g ref="#CB00931"/>【大】，獷【宋】【元】【明】</note><app n="0663012"><lem wit="【大】"><g ref="#CB00931"/></lem><rdg resp="Taisho" wit="【宋】【元】【明】">獷</rdg></app>以致忿怒，或所
 <lb n="0663b09" ed="T"/>說似戲發起舊怨，或以智陵人彼人不信伏
-<lb n="0663b10" ed="T"/>受，或說種類所出卑賤用作嫌<note n="0663013" resp="Taisho" type="orig" place="foot text">恡＝隙【三】</note><note n="0663013" resp="CBETA" type="mod">隙【宋】【元】【明】【磧砂-CB】【CB】，恡【大】</note><app n="0663013"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">隙<note type="cf1">Q27_p0665c07</note></lem><rdg wit="【大】">恡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">隙</rdg></app>。爾時世尊
+<lb n="0663b10" ed="T"/>受，或說種類所出卑賤用作嫌<note n="0663013" resp="Taisho" type="orig" place="foot text">恡＝隙【三】</note><note n="0663013" resp="CBETA" type="mod">隙【CB】【磧-CB】【宋】【元】【明】，恡【大】</note><app n="0663013"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">隙<note type="cf1">Q27_p0665c07</note></lem><rdg wit="【大】">恡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">隙</rdg></app>。爾時世尊
 <lb n="0663b11" ed="T"/>知諸比丘<note n="0663014" resp="Taisho" type="orig" place="foot text">彼＝發【三】</note><note n="0663014" resp="CBETA" type="mod">彼【大】，發【宋】【元】【明】</note><app n="0663014"><lem wit="【大】">彼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">發</rdg></app>此者多恐後墮罪，即以神足接
 <lb n="0663b12" ed="T"/>諸比丘，詣於大海見彼受罪獸一身百頭，欲
 <lb n="0663b13" ed="T"/>使諸比丘改往修來。問彼罪蟲曰：「汝是黃顏
@@ -5342,7 +5342,7 @@ Added comment  for Emacs
 <lb n="0666a04" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="011" type="卷"/><cb:jhead><title>出曜經</title>卷第十一</cb:jhead>
 <lb n="0666a05" ed="T"/>
 <lb n="0666a06" ed="T"/><byline cb:type="Translator">姚秦涼州沙門竺佛念譯</byline>
-<lb n="0666a07" ed="T"/><cb:jhead type="pin">誹謗品第<choice><corr>九</corr><sic>八</sic></choice>之餘</cb:jhead></cb:juan>
+<lb n="0666a07" ed="T"/><cb:jhead type="pin">誹謗品第<note n="0666a0701" resp="CBETA" type="add">九【CB】，八【大】</note><app n="0666a0701"><lem wit="【CB】" resp="CBETA">九</lem><rdg wit="【大】">八</rdg></app>之餘</cb:jhead></cb:juan>
 <lb n="0666a08" ed="T"/><lg xml:id="lgT04p0666a0801"><l><anchor type="circle"/><note n="0666002" resp="Taisho" type="orig" place="foot text">不分卷及品〔出曜…之餘〕－【三】</note><note n="0666002" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷及品〔出曜…之餘〕－【宋】【元】【明】</note>若<note n="0666003" resp="Taisho" type="orig" place="foot text">猗＝倚【元】【明】</note><note n="0666003" resp="CBETA" type="mod">猗【大】，倚【元】【明】</note><app n="0666003"><lem wit="【大】">猗</lem><rdg resp="Taisho" wit="【元】【明】">倚</rdg></app>內藏，</l><l>依賢聖活，</l><l>愚者墮惡，</l>
 <lb n="0666a09" ed="T"/><l>猶願邪見。</l></lg>
 <lb n="0666a10" ed="T"/><p xml:id="pT04p0666a1001">昔佛在舍衛國祇樹給孤獨園，時與數千萬
@@ -5386,7 +5386,7 @@ Added comment  for Emacs
 <lb n="0666b18" ed="T"/>者當知！邪見為病迷於正法，猶伊叉桓子、帝
 <lb n="0666b19" ed="T"/>多羅子、尸<note n="0666010" resp="Taisho" type="orig" place="foot text">婆＝羅【明】</note><note n="0666010" resp="CBETA" type="mod">婆【大】，羅【明】</note><app n="0666010"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【明】">羅</rdg></app>犁子種散於地，隨時長養漸得
 <lb n="0666b20" ed="T"/>水潤，火溫風動地持，後得長大，食之極苦麤
-<lb n="0666b21" ed="T"/>澁穢臭不可食<choice><corr>噉</corr><sic>𣊟</sic></choice>。』」邪見之人亦復如是，自犯
+<lb n="0666b21" ed="T"/>澁穢臭不可食<note n="0666b2101" resp="CBETA" type="add">噉【CB】，𣊟【大】</note><app n="0666b2101"><lem wit="【CB】" resp="CBETA">噉</lem><rdg wit="【大】">𣊟</rdg></app>。』」邪見之人亦復如是，自犯
 <lb n="0666b22" ed="T"/>身行口行意行，是故說曰，猶願邪見也。</p>
 <lb n="0666b23" ed="T"/><lg xml:id="lgT04p0666b2301"><l>竹蘆生節，</l><l>還害其<note n="0666011" resp="Taisho" type="orig" place="foot text">軀＝體【三】＊</note><note n="0666011" resp="CBETA" type="mod">軀【大】＊，體【宋】＊【元】＊【明】＊</note><app n="0666011"><lem wit="【大】">軀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">體</rdg></app>，</l><l>吐言當善，</l>
 <lb n="0666b24" ed="T"/><l>不演惡教。</l></lg>
@@ -5518,7 +5518,7 @@ Added comment  for Emacs
 <pb n="0668a" ed="T" xml:id="T04.0212.0668a"/>
 <lb n="0668a01" ed="T"/>及，曠濟無量亦無邊福，是故說曰，是謂言中
 <lb n="0668a02" ed="T"/>上也。<note n="0668001" resp="Taisho" type="orig" place="foot text">中上也＋（口品第九竟）【宋】【元】，為卷第七卷終【三】</note><note n="0668001" resp="CBETA" type="mod"><!--CBETA todo type: a-->中上也【大】，中上也口品第九竟【宋】【元】，<!--CBETA todo type: newmod-->為卷第七卷終【宋】【元】【明】</note><anchor type="circle"/></p></cb:div>
-<lb n="0668a03" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="10" type="品">10 行品</cb:mulu><head><title><anchor type="circle"/><note n="0668002" resp="Taisho" type="orig" place="foot text">卷第八首【三】</note><note n="0668002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第八首【宋】【元】【明】</note>出曜經</title>行品第<note n="0668003" resp="Taisho" type="orig" place="foot text">九＝十【宋】</note><note n="0668003" resp="CBETA" type="mod">十【宋】【CB】，九【大】</note><app n="0668003"><lem resp="CBETA.maha" wit="【CBETA】">十</lem><rdg wit="【大】">九</rdg><rdg resp="Taisho" wit="【宋】">十</rdg></app></head>
+<lb n="0668a03" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="10" type="品">10 行品</cb:mulu><head><title><anchor type="circle"/><note n="0668002" resp="Taisho" type="orig" place="foot text">卷第八首【三】</note><note n="0668002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第八首【宋】【元】【明】</note>出曜經</title>行品第<note n="0668003" resp="Taisho" type="orig" place="foot text">九＝十【宋】</note><note n="0668003" resp="CBETA" type="mod">十【CB】【宋】，九【大】</note><app n="0668003"><lem resp="CBETA.maha" wit="【CBETA】">十</lem><rdg wit="【大】">九</rdg><rdg resp="Taisho" wit="【宋】">十</rdg></app></head>
 <lb n="0668a04" ed="T"/><lg xml:id="lgT04p0668a0401"><l>一法過去，</l><l>謂妄語人，</l>
 <lb n="0668a05" ed="T"/><l>不免後世，</l><l>無惡不更。</l></lg>
 <lb n="0668a06" ed="T"/><p xml:id="pT04p0668a0601">昔佛在舍衛國祇樹給孤獨園。爾時世尊像
@@ -5712,7 +5712,7 @@ Added comment  for Emacs
 <lb n="0670a14" ed="T"/>量，所至到處不離四縛五結，設處為人恒在
 <lb n="0670a15" ed="T"/>牢獄繫閉，身被<note n="0670003" resp="Taisho" type="orig" place="foot text">考＝拷【三】</note><note n="0670003" resp="CBETA" type="mod">考【大】，拷【宋】【元】【明】</note><app n="0670003"><lem wit="【大】">考</lem><rdg resp="Taisho" wit="【宋】【元】【明】">拷</rdg></app>掠求死不得，是故說曰：罪
 <lb n="0670a16" ed="T"/>縛斯人，自投<note n="0670004" resp="Taisho" type="orig" place="foot text">于＝在【三】</note><note n="0670004" resp="CBETA" type="mod">于【大】，在【宋】【元】【明】</note><app n="0670004"><lem wit="【大】">于</lem><rdg resp="Taisho" wit="【宋】【元】【明】">在</rdg></app>坑也。</p>
-<lb n="0670a17" ed="T"/><lg xml:id="lgT04p0670a1701"><l>夫士為行，</l><l>好之與惡，</l><l><note n="0670005" resp="Taisho" type="orig" place="foot text">吝＝各【三】</note><note n="0670005" resp="CBETA" type="mod">各【宋】【元】【明】【麗-CB】【CB】，吝【大】</note><app n="0670005"><lem wit="【CBETA】【麗】" resp="CBETA.maha">各<note type="cf1">K29n0982_p0846a11</note></lem><rdg wit="【大】">吝</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">各</rdg></app>自為身，</l>
+<lb n="0670a17" ed="T"/><lg xml:id="lgT04p0670a1701"><l>夫士為行，</l><l>好之與惡，</l><l><note n="0670005" resp="Taisho" type="orig" place="foot text">吝＝各【三】</note><note n="0670005" resp="CBETA" type="mod">各【CB】【麗-CB】【宋】【元】【明】，吝【大】</note><app n="0670005"><lem wit="【CBETA】【麗】" resp="CBETA.maha">各<note type="cf1">K29n0982_p0846a11</note></lem><rdg wit="【大】">吝</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">各</rdg></app>自為身，</l>
 <lb n="0670a18" ed="T"/><l>終不敗亡。</l></lg>
 <lb n="0670a19" ed="T"/><p xml:id="pT04p0670a1901">夫士為行者，一切有形眾生之類，心念口言
 <lb n="0670a20" ed="T"/>身口意行，是<anchor xml:id="fxT04p0670a02"/>故說，夫士為行也。好之與惡
@@ -6805,7 +6805,7 @@ Added comment  for Emacs
 <lb n="0682a25" ed="T"/><lg xml:id="lgT04p0682a2501"><l>道為八直妙，</l><l>聖諦四句上，</l>
 <lb n="0682a26" ed="T"/><l>無欲法之最，</l><l>明眼二足尊。</l></lg>
 <lb n="0682a27" ed="T"/><p xml:id="pT04p0682a2701">道為八直妙者，外道異學意欲習道，斷穀絕
-<lb n="0682a28" ed="T"/>糧以為淨行，或臥灰糞不著文<choice><corr>飾</corr><sic>餙</sic></choice>，或露形
+<lb n="0682a28" ed="T"/>糧以為淨行，或臥灰糞不著文<note n="0682a2801" resp="CBETA" type="add">飾【CB】，餙【大】</note><app n="0682a2801"><lem wit="【CB】" resp="CBETA">飾</lem><rdg wit="【大】">餙</rdg></app>，或露形
 <lb n="0682a29" ed="T"/><note n="0682007" resp="Taisho" type="orig" place="foot text">倮＝裸【三】</note><note n="0682007" resp="CBETA" type="mod">倮【大】，裸【宋】【元】【明】</note><app n="0682007"><lem wit="【大】">倮</lem><rdg resp="Taisho" wit="【宋】【元】【明】">裸</rdg></app><note n="0682008" resp="Taisho" type="orig" place="foot text">跣＝踐【三】</note><note n="0682008" resp="CBETA" type="mod">跣【大】，踐【宋】【元】【明】</note><app n="0682008"><lem wit="【大】">跣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">踐</rdg></app>形體不覆，或臥棘刺枕石漱流，或
 <pb n="0682b" ed="T" xml:id="T04.0212.0682b"/>
 <lb n="0682b01" ed="T"/><note n="0682009" resp="Taisho" type="orig" place="foot text">編＝辮【三】</note><note n="0682009" resp="CBETA" type="mod">編【大】，辮【宋】【元】【明】</note><app n="0682009"><lem wit="【大】">編</lem><rdg resp="Taisho" wit="【宋】【元】【明】">辮</rdg></app>髮為衣，或觀樹葉習算呪術，或事水火
@@ -7055,7 +7055,7 @@ Added comment  for Emacs
 <lb n="0685a07" ed="T"/>摩勒果，斤兩大小悉能了知。如來等覺亦復
 <lb n="0685a08" ed="T"/>如是，觀眾生類心意根本，悉能分別。是故<note n="0685004" resp="Taisho" type="orig" place="foot text">〔說佛〕－【宋】</note><note n="0685004" resp="CBETA" type="mod">說佛【大】，〔－〕【宋】</note><app n="0685004"><lem wit="【大】">說，
 <lb n="0685a09" ed="T"/>佛</lem><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>說是得道也。</p>
-<lb n="0685a10" ed="T"/><lg xml:id="lgT04p0685a1001"><l>駛流<note n="0685005" resp="Taisho" type="orig" place="foot text">澍＝注【三】＊</note><note n="0685005" resp="CBETA" type="mod">澍【大】＊，注【宋】＊【元】＊【明】＊</note><app n="0685005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">注</rdg></app>于海，</l><l><note n="0685006" resp="Taisho" type="orig" place="foot text">翻＝𤃃【三】＊</note><note n="0685006" resp="CBETA" type="mod">翻【大】＊，𤃃【宋】＊【元】＊【明】＊</note><app n="0685006"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𤃃</rdg></app>水<choice><corr>羨</corr><sic>羡</sic></choice>疾滿，</l>
+<lb n="0685a10" ed="T"/><lg xml:id="lgT04p0685a1001"><l>駛流<note n="0685005" resp="Taisho" type="orig" place="foot text">澍＝注【三】＊</note><note n="0685005" resp="CBETA" type="mod">澍【大】＊，注【宋】＊【元】＊【明】＊</note><app n="0685005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">注</rdg></app>于海，</l><l><note n="0685006" resp="Taisho" type="orig" place="foot text">翻＝𤃃【三】＊</note><note n="0685006" resp="CBETA" type="mod">翻【大】＊，𤃃【宋】＊【元】＊【明】＊</note><app n="0685006"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𤃃</rdg></app>水<note n="0685a1001" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0685a1001"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>疾滿，</l>
 <lb n="0685a11" ed="T"/><l>故為智<note n="0685007" resp="Taisho" type="orig" place="foot text">道說＝說道【三】</note><note n="0685007" resp="CBETA" type="mod">道說【大】，說道【宋】【元】【明】</note><app n="0685007"><lem wit="【大】">道說</lem><rdg resp="Taisho" wit="【宋】【元】【明】">說道</rdg></app>，</l><l>可趣服甘露。</l></lg>
 <lb n="0685a12" ed="T"/><p xml:id="pT04p0685a1201">駛流<app type="star" corresp="#0685005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">注</rdg></app>于海者，有大河名曰恒伽，從阿耨
 <lb n="0685a13" ed="T"/>大泉出，<note n="0685008" resp="Taisho" type="orig" place="foot text">〔從〕－【三】</note><note n="0685008" resp="CBETA" type="mod">從【大】，〔－〕【宋】【元】【明】</note><app n="0685008"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>牛口流；<note n="0685009" resp="Taisho" type="orig" place="foot text">新＝辛【三】</note><note n="0685009" resp="CBETA" type="mod">新【大】，辛【宋】【元】【明】</note><app n="0685009"><lem wit="【大】">新</lem><rdg resp="Taisho" wit="【宋】【元】【明】">辛</rdg></app>頭大河者，亦從阿耨
@@ -7066,11 +7066,11 @@ Added comment  for Emacs
 <lb n="0685a18" ed="T"/>旬外，遙三稱揚恒伽<note n="0685013" resp="Taisho" type="orig" place="foot text">〔名者〕－【三】</note><note n="0685013" resp="CBETA" type="mod">名者【大】，〔－〕【宋】【元】【明】</note><app n="0685013"><lem wit="【大】">名者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，恒伽恒伽<note n="0685014" resp="Taisho" type="orig" place="foot text">恒伽＝名【三】</note><note n="0685014" resp="CBETA" type="mod">恒伽【大】，名【宋】【元】【明】</note><app n="0685014"><lem wit="【大】">恒伽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">名</rdg></app>
 <lb n="0685a19" ed="T"/>者，雖住百由旬外，一切眾惡盡，如蛇脫故皮，
 <lb n="0685a20" ed="T"/>恒伽水者悉歸于海澄淨無眾穢。」是故說曰，
-<lb n="0685a21" ed="T"/>駛流<app type="star" corresp="#0685005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">注</rdg></app>于海也。<app type="star" corresp="#0685006"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𤃃</rdg></app>水<choice><corr>羨</corr><sic>羡</sic></choice>疾滿者，以至于海
+<lb n="0685a21" ed="T"/>駛流<app type="star" corresp="#0685005"><lem wit="【大】">澍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">注</rdg></app>于海也。<app type="star" corresp="#0685006"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𤃃</rdg></app>水<note n="0685a2101" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0685a2101"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>疾滿者，以至于海
 <lb n="0685a22" ed="T"/>晝夜不息，從海復至入焦炭山，從焦炭山復
 <lb n="0685a23" ed="T"/>至雪根本山，如是漸漸還至本<app type="star" corresp="#0684002"><lem wit="【大】">原</lem><rdg resp="Taisho" wit="【宋】【元】【明】">源</rdg></app>，晝夜流
 <lb n="0685a24" ed="T"/>逝周而復始，海亦不滿流亦不停，是故說，<app type="star" corresp="#0685006"><lem wit="【大】">翻</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𤃃</rdg></app>
-<lb n="0685a25" ed="T"/>水<choice><corr>羨</corr><sic>羡</sic></choice>疾滿也。故為智說道者，諸佛世尊皆名
+<lb n="0685a25" ed="T"/>水<note n="0685a2501" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0685a2501"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>疾滿也。故為智說道者，諸佛世尊皆名
 <lb n="0685a26" ed="T"/>善逝，至泥洹滅盡處，已得至彼，無有生老病
 <lb n="0685a27" ed="T"/>死愁憂苦惱，亦復無有飢寒勤苦，盡離此苦，
 <lb n="0685a28" ed="T"/>故曰善逝。是故說，故為智說道也。可趣服甘
@@ -7350,7 +7350,7 @@ Added comment  for Emacs
 <lb n="0688b02" ed="T"/>調達比丘。復引喻來，昔大月支國風俗常儀，
 <lb n="0688b03" ed="T"/>要當酥煎麥<note n="0688008" resp="Taisho" type="orig" place="foot text">食＝飼【三】</note><note n="0688008" resp="CBETA" type="mod">食【大】，飼【宋】【元】【明】</note><app n="0688008"><lem wit="【大】">食</lem><rdg resp="Taisho" wit="【宋】【元】【明】">飼</rdg></app>猪，時<note n="0688009" resp="Taisho" type="orig" place="foot text">宮＝官【三】</note><note n="0688009" resp="CBETA" type="mod">宮【大】，官【宋】【元】【明】</note><app n="0688009"><lem wit="【大】">宮</lem><rdg resp="Taisho" wit="【宋】【元】【明】">官</rdg></app>馬駒謂其母曰：『我
 <lb n="0688b04" ed="T"/>等與王致力，不計遠近皆赴其命，然食以草
-<lb n="0688b05" ed="T"/>芻飲以潦水。』馬告其子：『汝等慎勿興此意，<choice><corr>羨</corr><sic>羡</sic></choice>
+<lb n="0688b05" ed="T"/>芻飲以潦水。』馬告其子：『汝等慎勿興此意，<note n="0688b0501" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0688b0501"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>
 <lb n="0688b06" ed="T"/>彼酥煎麥耶？如是不久自當現驗。』時逼節會
 <lb n="0688b07" ed="T"/>新歲垂至，家家縛猪投於<note n="0688010" resp="Taisho" type="orig" place="foot text">濩＝鑊【三】</note><note n="0688010" resp="CBETA" type="mod">濩【大】，鑊【宋】【元】【明】</note><app n="0688010"><lem wit="【大】">濩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">鑊</rdg></app>湯舉聲號喚，馬
 <lb n="0688b08" ed="T"/>母告子：『汝等頗憶酥煎麥不乎？欲知證驗可
@@ -8432,7 +8432,7 @@ Added comment  for Emacs
 <lb n="0700b03" ed="T"/>丘不說少許生分，下及彈指之頃，況復多乎？
 <lb n="0700b04" ed="T"/>何以故？受生分苦，由是流轉不免於苦。比丘
 <lb n="0700b05" ed="T"/>當觀猶如糞除，少許常臭況復多耶？是故比
-<lb n="0700b06" ed="T"/>丘！當求方便斷受生分永離三有。如是諸<choice><corr>比</corr><sic>丘</sic></choice>
+<lb n="0700b06" ed="T"/>丘！當求方便斷受生分永離三有。如是諸<note n="0700b0601" resp="CBETA" type="add">比【CB】，丘【大】</note><app n="0700b0601"><lem wit="【CB】" resp="CBETA">比</lem><rdg wit="【大】">丘</rdg></app>
 <lb n="0700b07" ed="T"/>丘！當作是學，拔生根本無令滋蔓。」諸修行人
 <lb n="0700b08" ed="T"/>聞佛所說，承受教誡，於現法中，拔其生本不
 <lb n="0700b09" ed="T"/>復受，是故說，為能作苦際。</p>
@@ -11891,7 +11891,7 @@ Added comment  for Emacs
 <lb n="0738c23" ed="T"/>不是，五體投地自求悔過：「我今乃知法之微
 <lb n="0738c24" ed="T"/>妙。」諸婦女各各慚愧即還入舍。是時，羅漢告
 <lb n="0738c25" ed="T"/>長者曰：「佛法寬博汪洋無<note n="0738014" resp="Taisho" type="orig" place="foot text">涯＝崖【宋】【元】</note><note n="0738014" resp="CBETA" type="mod">涯【大】，崖【宋】【元】</note><app n="0738014"><lem wit="【大】">涯</lem><rdg resp="Taisho" wit="【宋】【元】">崖</rdg></app>，卿今以凡夫之
-<lb n="0738c26" ed="T"/>智量度聖人，斯非正理，猶若拳許土<note n="0738015" resp="Taisho" type="orig" place="foot text">塊＝由【明】</note><note n="0738015" resp="CBETA" type="mod">凷【磧砂-CB】【CB】，塊【大】，由【明】</note><app n="0738015"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">凷<note type="cf1">Q27_p0738b13</note></lem><rdg wit="【大】">塊</rdg><rdg resp="Taisho" wit="【明】">由</rdg></app>仰
+<lb n="0738c26" ed="T"/>智量度聖人，斯非正理，猶若拳許土<note n="0738015" resp="Taisho" type="orig" place="foot text">塊＝由【明】</note><note n="0738015" resp="CBETA" type="mod">凷【CB】【磧-CB】，塊【大】，由【明】</note><app n="0738015"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">凷<note type="cf1">Q27_p0738b13</note></lem><rdg wit="【大】">塊</rdg><rdg resp="Taisho" wit="【明】">由</rdg></app>仰
 <lb n="0738c27" ed="T"/>比須彌，升合之器欲量海水。」爾時比丘便說
 <lb n="0738c28" ed="T"/>此偈：</p>
 <lb n="0738c29" ed="T"/><lg xml:id="lgT04p0738c2901" rend="margin-left:1em;text-indent:-1em"><l>「強以彩畫形，</l><l>莊嚴醜穢身，</l>
@@ -12363,7 +12363,7 @@ Added comment  for Emacs
 <lb n="0744a14" ed="T"/><lg xml:id="lgT04p0744a1401"><l>商人在路懼，</l><l>伴少而貨多，</l>
 <lb n="0744a15" ed="T"/><l>經過嶮難處，</l><l>然有折軸憂。</l></lg>
 <lb n="0744a16" ed="T"/><p xml:id="pT04p0744a1601">商人在路懼，伴少而貨多者，昔有眾賈商人
-<lb n="0744a17" ed="T"/><choice><corr>冒</corr><sic>冐</sic></choice>涉<note n="0744002" resp="Taisho" type="orig" place="foot text">途＝塗【三】</note><note n="0744002" resp="CBETA" type="mod">途【大】，塗【宋】【元】【明】</note><app n="0744002"><lem wit="【大】">途</lem><rdg resp="Taisho" wit="【宋】【元】【明】">塗</rdg></app>路，經過曠野嶮難之中，路多盜賊
+<lb n="0744a17" ed="T"/><note n="0744a1701" resp="CBETA" type="add">冒【CB】，冐【大】</note><app n="0744a1701"><lem wit="【CB】" resp="CBETA">冒</lem><rdg wit="【大】">冐</rdg></app>涉<note n="0744002" resp="Taisho" type="orig" place="foot text">途＝塗【三】</note><note n="0744002" resp="CBETA" type="mod">途【大】，塗【宋】【元】【明】</note><app n="0744002"><lem wit="【大】">途</lem><rdg resp="Taisho" wit="【宋】【元】【明】">塗</rdg></app>路，經過曠野嶮難之中，路多盜賊
 <lb n="0744a18" ed="T"/>無由自免，所齎財寶無有<note n="0744003" resp="Taisho" type="orig" place="foot text">資＝貲【元】【明】</note><note n="0744003" resp="CBETA" type="mod">資【大】，貲【元】【明】</note><app n="0744003"><lem wit="【大】">資</lem><rdg resp="Taisho" wit="【元】【明】">貲</rdg></app>糧，同伴行人
 <lb n="0744a19" ed="T"/>無有器仗用自防備，行人既少財寶極多，心
 <lb n="0744a20" ed="T"/>懷恐懼神識熾然。有一黠者告其同伴：「勿生
@@ -12622,7 +12622,7 @@ Added comment  for Emacs
 <lb n="0747a03" ed="T"/><p xml:id="pT04p0747a0301">爾時世尊，復與琉璃王而說斯偈：</p>
 <lb n="0747a04" ed="T"/><lg xml:id="lgT04p0747a0401" rend="margin-left:1em;text-indent:-1em"><l>「此煮彼亦煮，</l><l>罪行二俱煮，</l>
 <lb n="0747a05" ed="T"/><l>彼煮彼受罪，</l><l>見行自有驗。」</l></lg>
-<lb n="0747a06" ed="T"/><p xml:id="pT04p0747a0601">爾時世尊，以天眼觀見<choice><corr>琉璃</corr><sic>瑠瑠</sic></choice>王處在地獄，拷
+<lb n="0747a06" ed="T"/><p xml:id="pT04p0747a0601">爾時世尊，以天眼觀見<note n="0747a0601" resp="CBETA" type="add">琉璃【CB】，瑠瑠【大】</note><app n="0747a0601"><lem wit="【CB】" resp="CBETA">琉璃</lem><rdg wit="【大】">瑠瑠</rdg></app>王處在地獄，拷
 <lb n="0747a07" ed="T"/>掠榜笞五毒酸楚，是故世尊而說斯偈：</p>
 <lb n="0747a08" ed="T"/><lg xml:id="lgT04p0747a0801" rend="margin-left:1em;text-indent:-1em"><l>「作福不作惡，</l><l>皆由宿行法，</l>
 <lb n="0747a09" ed="T"/><l>終不畏死徑，</l><l>如船截流渡。」</l></lg>
@@ -12681,7 +12681,7 @@ Added comment  for Emacs
 <lb n="0747c02" ed="T"/><cb:juan n="026" fun="open"><cb:mulu n="026" type="卷"/><cb:jhead><title>出曜經</title>卷第<note n="0747009" resp="Taisho" type="orig" place="foot text">二十六＝十八【三】</note><note n="0747009" resp="CBETA" type="mod">二十六【大】，十八【宋】【元】【明】</note><app n="0747009"><lem wit="【大】">二十六</lem><rdg resp="Taisho" wit="【宋】【元】【明】">十八</rdg></app></cb:jhead></cb:juan>
 <lb n="0747c03" ed="T"/>
 <lb n="0747c04" ed="T"/><byline cb:type="Translator"><note n="0747010" resp="Taisho" type="orig" place="foot text">（尊者法救造）＋姚【元】【明】，但【明】有譯号前行</note><note n="0747010" resp="CBETA" type="mod">姚【大】，尊者法救造姚【元】【明】，<!--CBETA todo type: newmod-->但【明】有譯号前行</note><app n="0747010"><lem wit="【大】">姚</lem><rdg resp="Taisho" wit="【元】【明】">尊者法救造姚</rdg></app><note n="0747010" place="foot" type="rest">但【明】有譯号前行</note>秦<note n="0747011" resp="Taisho" type="orig" place="foot text">涼州沙門＝三藏【三】</note><note n="0747011" resp="CBETA" type="mod">涼州沙門【大】，三藏【宋】【元】【明】</note><app n="0747011"><lem wit="【大】">涼州沙門</lem><rdg resp="Taisho" wit="【宋】【元】【明】">三藏</rdg></app>竺佛念譯</byline>
-<lb n="0747c05" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="30" type="品">30 䨥要品</cb:mulu><head><note n="0747012" resp="Taisho" type="orig" place="foot text">䨥＝雙【三】</note><note n="0747012" resp="CBETA" type="mod">雙【宋】【元】【明】【CB】，䨥【大】</note><app n="0747012"><lem wit="【CBETA】" resp="CBETA.maha">雙</lem><rdg wit="【大】">䨥</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">雙</rdg></app>要品第<note n="0747013" resp="Taisho" type="orig" place="foot text">三十＝二十九【元】【明】</note><note n="0747013" resp="CBETA" type="mod">三十【大】，二十九【元】【明】</note><app n="0747013"><lem wit="【大】">三十</lem><rdg resp="Taisho" wit="【元】【明】">二十九</rdg></app></head>
+<lb n="0747c05" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="30" type="品">30 䨥要品</cb:mulu><head><note n="0747012" resp="Taisho" type="orig" place="foot text">䨥＝雙【三】</note><note n="0747012" resp="CBETA" type="mod">雙【CB】【宋】【元】【明】，䨥【大】</note><app n="0747012"><lem wit="【CBETA】" resp="CBETA.maha">雙</lem><rdg wit="【大】">䨥</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">雙</rdg></app>要品第<note n="0747013" resp="Taisho" type="orig" place="foot text">三十＝二十九【元】【明】</note><note n="0747013" resp="CBETA" type="mod">三十【大】，二十九【元】【明】</note><app n="0747013"><lem wit="【大】">三十</lem><rdg resp="Taisho" wit="【元】【明】">二十九</rdg></app></head>
 <lb n="0747c06" ed="T"/><lg xml:id="lgT04p0747c0601"><l>夜光照於冥，</l><l>至日未出間，</l>
 <lb n="0747c07" ed="T"/><l>日光布大明，</l><l>夜光便黤<note n="0747014" resp="Taisho" type="orig" place="foot text">𪑓＝黮【三】＊</note><note n="0747014" resp="CBETA" type="mod">𪑓【大】＊，黮【宋】＊【元】＊【明】＊</note><app n="0747014"><lem wit="【大】">𪑓</lem><rdg resp="Taisho" wit="【宋】【元】【明】">黮</rdg></app>。</l></lg>
 <lb n="0747c08" ed="T"/><p xml:id="pT04p0747c0801">觀此義已如來引喻，欲使後生明達其事，猶
@@ -12729,7 +12729,7 @@ Added comment  for Emacs
 <lb n="0748a20" ed="T"/><l>如鳥投羅網，</l><l>斯由愛深固。</l></lg>
 <lb n="0748a21" ed="T"/><p xml:id="pT04p0748a2101">愚意以為牢者，夫人在世意愚難革，或言<note n="0748004" resp="Taisho" type="orig" place="foot text">陰＝蔭【三】</note><note n="0748004" resp="CBETA" type="mod">陰【大】，蔭【宋】【元】【明】</note><app n="0748004"><lem wit="【大】">陰</lem><rdg resp="Taisho" wit="【宋】【元】【明】">蔭</rdg></app>
 <lb n="0748a22" ed="T"/>聚為牢，或言結本為牢，於中興想不別真偽，
-<lb n="0748a23" ed="T"/>雖復出家學道反習邪行，是故說曰，<note n="0748005" resp="Taisho" type="orig" place="foot text">遇＝愚【三】</note><note n="0748005" resp="CBETA" type="mod">愚【宋】【元】【明】【CB】，遇【大】</note><app n="0748005"><lem resp="CBETA.maha" wit="【CBETA】">愚</lem><rdg wit="【大】">遇</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">愚</rdg></app>意以
+<lb n="0748a23" ed="T"/>雖復出家學道反習邪行，是故說曰，<note n="0748005" resp="Taisho" type="orig" place="foot text">遇＝愚【三】</note><note n="0748005" resp="CBETA" type="mod">愚【CB】【宋】【元】【明】，遇【大】</note><app n="0748005"><lem resp="CBETA.maha" wit="【CBETA】">愚</lem><rdg wit="【大】">遇</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">愚</rdg></app>意以
 <lb n="0748a24" ed="T"/>為牢也。反被九結縛者，人之修道要當捨
 <lb n="0748a25" ed="T"/>家，<note n="0748006" resp="Taisho" type="orig" place="foot text">遇＝愚【明】</note><note n="0748006" resp="CBETA" type="mod">遇【大】，愚【明】</note><app n="0748006"><lem wit="【大】">遇</lem><rdg resp="Taisho" wit="【明】">愚</rdg></app>惡知識指授邪徑，捨故結縛反被九
 <lb n="0748a26" ed="T"/>結，如蛾投火不顧後慮，斯由愛深固，是故說
@@ -13429,7 +13429,7 @@ Added comment  for Emacs
 <lb n="0755c29" ed="T"/>常有安者，眾者其事非一，或四或八或<note n="0755016" resp="Taisho" type="orig" place="foot text">生＝至【三】</note><note n="0755016" resp="CBETA" type="mod">生【大】，至【宋】【元】【明】</note><app n="0755016"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【宋】【元】【明】">至</rdg></app>
 <pb n="0756a" ed="T" xml:id="T04.0212.0756a"/>
 <lb n="0756a01" ed="T"/>無數，如來眾者為最第一；如來眾中，有四
-<lb n="0756a02" ed="T"/><note n="0756001" resp="Taisho" type="orig" place="foot text">䨥＝雙【三】</note><note n="0756001" resp="CBETA" type="mod">雙【宋】【元】【明】【CB】，䨥【大】</note><app n="0756001"><lem wit="【CBETA】" resp="CBETA.maha">雙</lem><rdg wit="【大】">䨥</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">雙</rdg></app>八輩十二賢士，諸有眾生之徒競來供養，
+<lb n="0756a02" ed="T"/><note n="0756001" resp="Taisho" type="orig" place="foot text">䨥＝雙【三】</note><note n="0756001" resp="CBETA" type="mod">雙【CB】【宋】【元】【明】，䨥【大】</note><app n="0756001"><lem wit="【CBETA】" resp="CBETA.maha">雙</lem><rdg wit="【大】">䨥</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">雙</rdg></app>八輩十二賢士，諸有眾生之徒競來供養，
 <lb n="0756a03" ed="T"/>修敬聖眾者獲福無量；如斯福田出生道果，
 <lb n="0756a04" ed="T"/>為良為美為無旱霜，隨意所願靡不剋獲，聖
 <lb n="0756a05" ed="T"/>眾所貴唯和為上，是故說曰，眾僧和亦樂，和
@@ -13459,7 +13459,7 @@ Added comment  for Emacs
 <lb n="0756a29" ed="T"/>第一智，盡能分別一切眾法，普<note n="0756005" resp="Taisho" type="orig" place="foot text">放＝於【明】</note><note n="0756005" resp="CBETA" type="mod">放【大】，於【明】</note><app n="0756005"><lem wit="【大】">放</lem><rdg resp="Taisho" wit="【明】">於</rdg></app>光明有
 <pb n="0756b" ed="T" xml:id="T04.0212.0756b"/>
 <lb n="0756b01" ed="T"/>所接<app type="star" corresp="#0755005"><lem wit="【大】">寤</lem><rdg resp="Taisho" wit="【宋】【元】【明】">悟</rdg></app>，是故說曰，得智明慧快也。滅慢無邪
-<lb n="0756b02" ed="T"/>快者，人懷憍慢必<note n="0756006" resp="Taisho" type="orig" place="foot text">倰＝凌【三】</note><note n="0756006" resp="CBETA" type="mod">𣣋【麗-CB】【CB】，倰【大】，凌【宋】【元】【明】</note><app n="0756006"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𣣋<note type="cf1">K29n0982_p0973c07</note></lem><rdg wit="【大】">倰</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">凌</rdg></app>蔑人，從永劫<note n="0756007" resp="Taisho" type="orig" place="foot text">以＝已【三】</note><note n="0756007" resp="CBETA" type="mod">以【大】，已【宋】【元】【明】</note><app n="0756007"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】">已</rdg></app>來<note n="0756008" resp="Taisho" type="orig" place="foot text">懷＝壞【三】</note><note n="0756008" resp="CBETA" type="mod">懷【大】，壞【宋】【元】【明】</note><app n="0756008"><lem wit="【大】">懷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">壞</rdg></app>
+<lb n="0756b02" ed="T"/>快者，人懷憍慢必<note n="0756006" resp="Taisho" type="orig" place="foot text">倰＝凌【三】</note><note n="0756006" resp="CBETA" type="mod">𣣋【CB】【麗-CB】，倰【大】，凌【宋】【元】【明】</note><app n="0756006"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𣣋<note type="cf1">K29n0982_p0973c07</note></lem><rdg wit="【大】">倰</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">凌</rdg></app>蔑人，從永劫<note n="0756007" resp="Taisho" type="orig" place="foot text">以＝已【三】</note><note n="0756007" resp="CBETA" type="mod">以【大】，已【宋】【元】【明】</note><app n="0756007"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】">已</rdg></app>來<note n="0756008" resp="Taisho" type="orig" place="foot text">懷＝壞【三】</note><note n="0756008" resp="CBETA" type="mod">懷【大】，壞【宋】【元】【明】</note><app n="0756008"><lem wit="【大】">懷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">壞</rdg></app>
 <lb n="0756b03" ed="T"/>善德不究竟皆由興怒，是故說曰，滅慢無邪
 <lb n="0756b04" ed="T"/>快也。</p>
 <lb n="0756b05" ed="T"/><lg xml:id="lgT04p0756b0501"><l>得覩諸賢樂，</l><l>同會亦復樂，</l>
@@ -13507,7 +13507,7 @@ Added comment  for Emacs
 <lb n="0756c17" ed="T"/>羅閱城迦蘭陀竹園所。爾時阿那邠<note n="0756012" resp="Taisho" type="orig" place="foot text">低＝坻【三】＊</note><note n="0756012" resp="CBETA" type="mod">低【大】＊，坻【宋】＊【元】＊【明】＊</note><app n="0756012"><lem wit="【大】">低</lem><rdg resp="Taisho" wit="【宋】【元】【明】">坻</rdg></app>長者，
 <lb n="0756c18" ed="T"/>有少俗緣來至羅閱城中，造大長者欲得寄
 <lb n="0756c19" ed="T"/>住，正值彼家男女僕從各各作役，或破薪然
-<lb n="0756c20" ed="T"/>火，或<note n="0756013" resp="Taisho" type="orig" place="foot text">吹＝炊【明】</note><note n="0756013" resp="CBETA" type="mod">吹【大】，炊【明】</note><app n="0756013"><lem wit="【大】">吹</lem><rdg resp="Taisho" wit="【明】">炊</rdg></app>生熟食，或有布置坐具氍<note n="0756014" resp="Taisho" type="orig" place="foot text">毹＝氀【三】</note><note n="0756014" resp="CBETA" type="mod">毹【麗-CB】【CB】，毹【大】，氀【宋】【元】【明】</note><app n="0756014"><lem wit="【CBETA】【麗】" resp="CBETA.maha">毹<note type="cf1">K29n0982_p0974b14</note></lem><rdg wit="【大】">毺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">氀</rdg></app>𣰅㲪。
+<lb n="0756c20" ed="T"/>火，或<note n="0756013" resp="Taisho" type="orig" place="foot text">吹＝炊【明】</note><note n="0756013" resp="CBETA" type="mod">吹【大】，炊【明】</note><app n="0756013"><lem wit="【大】">吹</lem><rdg resp="Taisho" wit="【明】">炊</rdg></app>生熟食，或有布置坐具氍<note n="0756014" resp="Taisho" type="orig" place="foot text">毹＝氀【三】</note><note n="0756014" resp="CBETA" type="mod">毹【CB】【麗-CB】，毹【大】，氀【宋】【元】【明】</note><app n="0756014"><lem wit="【CBETA】【麗】" resp="CBETA.maha">毹<note type="cf1">K29n0982_p0974b14</note></lem><rdg wit="【大】">毺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">氀</rdg></app>𣰅㲪。
 <lb n="0756c21" ed="T"/>是時，長者躬敷高座懸繒幡蓋香汁灑地。是
 <lb n="0756c22" ed="T"/>時，阿那邠<app type="star" corresp="#0756012"><lem wit="【大】">低</lem><rdg resp="Taisho" wit="【宋】【元】【明】">坻</rdg></app>長者問彼長者：「貴家今日辦具
 <lb n="0756c23" ed="T"/>待賓之調亦非小節，為欲請國王過舍？為是
@@ -13571,7 +13571,7 @@ Added comment  for Emacs
 <lb n="0757b21" ed="T"/><l>彼滅寂然樂，</l><l>展轉普及人，</l>
 <lb n="0757b22" ed="T"/><l>苦為樂為本。</l></lg>
 <lb n="0757b23" ed="T"/><p xml:id="pT04p0757b2301">義興則有樂，朋友食福樂<note n="0757008" resp="Taisho" type="orig" place="foot text">〔等者〕－【三】</note><note n="0757008" resp="CBETA" type="mod">等者【大】，〔－〕【宋】【元】【明】</note><app n="0757008"><lem wit="【大】">等者</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，猶若商賈之
-<lb n="0757b24" ed="T"/>人勞形苦體，<choice><corr>冒</corr><sic>冐</sic></choice>涉危嶮採致重寶，安隱還家
+<lb n="0757b24" ed="T"/>人勞形苦體，<note n="0757b2401" resp="CBETA" type="add">冒【CB】，冐【大】</note><app n="0757b2401"><lem wit="【CB】" resp="CBETA">冒</lem><rdg wit="【大】">冐</rdg></app>涉危嶮採致重寶，安隱還家
 <lb n="0757b25" ed="T"/>宗族慶賀，男女大小靡不歡喜，朋友同伴
 <lb n="0757b26" ed="T"/><note n="0757009" resp="Taisho" type="orig" place="foot text">悉皆＝皆悉【三】</note><note n="0757009" resp="CBETA" type="mod">悉皆【大】，皆悉【宋】【元】【明】</note><app n="0757009"><lem wit="【大】">悉皆</lem><rdg resp="Taisho" wit="【宋】【元】【明】">皆悉</rdg></app>蒙恩；若使開意惠施普及一切，無復
 <lb n="0757b27" ed="T"/>眾苦以樂為本，宗族娛樂不能捨離。是故說
@@ -13793,7 +13793,7 @@ Added comment  for Emacs
 <lb n="0760a02" ed="T"/>水，是故說曰，蓋屋不密，天雨則漏，人不惟行，
 <lb n="0760a03" ed="T"/>漏婬怒癡也。盡應為偈略說其要，愚癡亦爾、
 <lb n="0760a04" ed="T"/>瞋恚亦爾、慳嫉亦爾、憍慢亦爾、愛結亦爾。</p>
-<lb n="0760a05" ed="T"/><lg xml:id="lgT04p0760a0501"><l>蓋屋<note n="0760001" resp="Taisho" type="orig" place="foot text">不＝緻【三】</note><note n="0760001" resp="CBETA" type="mod">緻【宋】【元】【明】【CB】，不【大】</note><app n="0760001"><lem wit="【CBETA】" resp="CBETA.maha">緻<note type="cf1">溫宗堃與蘇錦坤：五十卷本《雜阿含經》字句斠勘</note></lem><rdg wit="【大】">不</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">緻</rdg></app>密，</l><l>天雨<note n="0760002" resp="Taisho" type="orig" place="foot text">則＝不【三】</note><note n="0760002" resp="CBETA" type="mod">不【宋】【元】【明】【CB】，則【大】</note><app n="0760002"><lem wit="【CBETA】" resp="CBETA.maha">不<note type="cf1">溫宗堃與蘇錦坤：五十卷本《雜阿含經》字句斠勘</note></lem><rdg wit="【大】">則</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不</rdg></app>漏，</l><l>人自惟行，</l>
+<lb n="0760a05" ed="T"/><lg xml:id="lgT04p0760a0501"><l>蓋屋<note n="0760001" resp="Taisho" type="orig" place="foot text">不＝緻【三】</note><note n="0760001" resp="CBETA" type="mod">緻【CB】【宋】【元】【明】，不【大】</note><app n="0760001"><lem wit="【CBETA】" resp="CBETA.maha">緻<note type="cf1">溫宗堃與蘇錦坤：五十卷本《雜阿含經》字句斠勘</note></lem><rdg wit="【大】">不</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">緻</rdg></app>密，</l><l>天雨<note n="0760002" resp="Taisho" type="orig" place="foot text">則＝不【三】</note><note n="0760002" resp="CBETA" type="mod">不【CB】【宋】【元】【明】，則【大】</note><app n="0760002"><lem wit="【CBETA】" resp="CBETA.maha">不<note type="cf1">溫宗堃與蘇錦坤：五十卷本《雜阿含經》字句斠勘</note></lem><rdg wit="【大】">則</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不</rdg></app>漏，</l><l>人自惟行，</l>
 <lb n="0760a06" ed="T"/><l>無婬怒癡。</l></lg>
 <lb n="0760a07" ed="T"/><p xml:id="pT04p0760a0701">猶如至密之人，造作宮殿屋舍緻密，天雨不
 <lb n="0760a08" ed="T"/>漏，人自惟行，去婬怒癡不漏諸患盡。應為偈
@@ -15030,7 +15030,7 @@ Added comment  for Emacs
 <lb n="0773c07" ed="T"/>法意結所在，或有是時，欲念無漏先念<note n="0773012" resp="Taisho" type="orig" place="foot text">有＝無【三】</note><note n="0773012" resp="CBETA" type="mod">有【大】，無【宋】【元】【明】</note><app n="0773012"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【宋】【元】【明】">無</rdg></app>漏，
 <lb n="0773c08" ed="T"/>是以如來深藏則有大闕。如來大聖繫意禪
 <lb n="0773c09" ed="T"/>定從有至無，於無漏法觀未始有闕，得諸總
-<lb n="0773c10" ed="T"/>持強記不<note n="0773013" resp="Taisho" type="orig" place="foot text">志＝【宋】【明】</note><note n="0773013" resp="CBETA" type="mod">忘【宋】【明】【麗-CB】【CB】，志【大】</note><app n="0773013"><lem wit="【CBETA】【麗】" resp="CBETA.maha">忘<note type="cf1">K29n0982_p0998c19</note></lem><rdg wit="【大】">志</rdg><rdg resp="Taisho" wit="【宋】【明】">忘</rdg></app>，十力、四無畏、大慈大悲、三無
+<lb n="0773c10" ed="T"/>持強記不<note n="0773013" resp="Taisho" type="orig" place="foot text">志＝【宋】【明】</note><note n="0773013" resp="CBETA" type="mod">忘【CB】【麗-CB】【宋】【明】，志【大】</note><app n="0773013"><lem wit="【CBETA】【麗】" resp="CBETA.maha">忘<note type="cf1">K29n0982_p0998c19</note></lem><rdg wit="【大】">志</rdg><rdg resp="Taisho" wit="【宋】【明】">忘</rdg></app>，十力、四無畏、大慈大悲、三無
 <lb n="0773c11" ed="T"/>礙道及神足<note n="0773014" resp="Taisho" type="orig" place="foot text">行＝力【明】</note><note n="0773014" resp="CBETA" type="mod">行【大】，力【明】</note><app n="0773014"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【明】">力</rdg></app>，是謂如來所修之法，非羅
 <lb n="0773c12" ed="T"/>漢辟支<note n="0773015" resp="Taisho" type="orig" place="foot text">〔佛〕－【三】</note><note n="0773015" resp="CBETA" type="mod">佛【大】，〔－〕【宋】【元】【明】</note><app n="0773015"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>所修之法。是故說曰，所有盡無，
 <lb n="0773c13" ed="T"/>渡流無漏，從此越岸，是謂梵志。</p>

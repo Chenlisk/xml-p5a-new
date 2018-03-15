@@ -261,7 +261,7 @@ add keyword $Revision, $Date, $Log
 <lb n="0311c11" ed="T"/><l>想於普集會</l><l>觀金剛業身</l>
 <lb n="0311c12" ed="T"/><l>而作大供養</l></lg>
 <lb n="0311c13" ed="T"/><p xml:id="pT18p0311c1301">真言曰。</p>
-<lb n="0311c14" ed="T"/><p xml:id="pT18p0311c1401" cb:type="dharani">唵<note place="inline">引</note>薩嚩怛他誐哆<note place="inline">一</note>布惹迦<note n="0311006" resp="Taisho" place="foot text" type="orig">（囉）ヵ＋磨【甲】＊</note><note n="0311006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（囉）ヵ＋磨【甲】＊</note><app n="0311006"><lem resp="Taisho" wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">囉磨</rdg></app>抳阿怛摩<note place="inline">二
+<lb n="0311c14" ed="T"/><p xml:id="pT18p0311c1401" cb:type="dharani">唵<note place="inline">引</note>薩嚩怛他誐哆<note place="inline">一</note>布惹迦<note n="0311006" resp="Taisho" place="foot text" type="orig">（囉）ヵ＋磨【甲】＊</note><note n="0311006" resp="CBETA" type="mod">磨【大】＊，囉磨【考偽-甲】＊</note><app n="0311006"><lem resp="Taisho" wit="【大】">磨</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">囉磨</rdg></app>抳阿怛摩<note place="inline">二
 <lb n="0311c15" ed="T"/>合</note>喃<note place="inline">二</note>禰哩也<note place="inline">二合</note>哆野弭<note place="inline">三</note>薩嚩怛他誐哆<note place="inline">四</note>
 <lb n="0311c16" ed="T"/>嚩日囉<note place="inline">二合</note>迦<anchor xml:id="fxT18p0311c01"/>磨<note place="inline">五</note>俱嚕娑嚩<note place="inline">二合</note>𦎌<note place="inline">六</note>阿<note place="inline">入聲七</note></p>
 <lb n="0311c17" ed="T"/><lg xml:id="lgT18p0311c1701"><l>次結金剛持大印</l><l>禪慧檀智反相叉</l>
@@ -861,9 +861,9 @@ add keyword $Revision, $Date, $Log
 <lb n="0318b06" ed="T"/><p xml:id="pT18p0318b0601" cb:type="dharani">唵<note place="inline">引</note>巘駄賀悉底<note place="inline">二合</note>娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0318b07" ed="T"/><p xml:id="pT18p0318b0701" cb:type="dharani">唵<note place="inline">引</note>戌囉野娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0318b08" ed="T"/><p xml:id="pT18p0318b0801" cb:type="dharani">唵<note place="inline">引</note>阿迦捨誐囉婆<note place="inline">二合</note>娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
-<lb n="0318b09" ed="T"/><p xml:id="pT18p0318b0901" cb:type="dharani">唵<note place="inline">引</note><note n="0318004" resp="Taisho" place="foot text" type="orig">誐＝枳【甲】</note><note n="0318004" resp="CBETA" type="mod">誐【大】，枳【甲】</note><app n="0318004"><lem wit="【大】">誐</lem><rdg resp="Taisho" wit="【甲】">枳</rdg></app>惹<note place="inline">二合</note><note n="0318005" resp="Taisho" place="foot text" type="orig">〔抳〕－ヵ【甲】</note><note n="0318005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔抳〕－ヵ【甲】</note><app n="0318005"><lem resp="Taisho" wit="【大】">抳</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>曩計妬娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb n="0318b09" ed="T"/><p xml:id="pT18p0318b0901" cb:type="dharani">唵<note place="inline">引</note><note n="0318004" resp="Taisho" place="foot text" type="orig">誐＝枳【甲】</note><note n="0318004" resp="CBETA" type="mod">誐【大】，枳【甲】</note><app n="0318004"><lem wit="【大】">誐</lem><rdg resp="Taisho" wit="【甲】">枳</rdg></app>惹<note place="inline">二合</note><note n="0318005" resp="Taisho" place="foot text" type="orig">〔抳〕－ヵ【甲】</note><note n="0318005" resp="CBETA" type="mod">抳【大】，〔－〕【考偽-甲】</note><app n="0318005"><lem resp="Taisho" wit="【大】">抳</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>曩計妬娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0318b10" ed="T"/><p xml:id="pT18p0318b1001" cb:type="dharani">唵<note place="inline">引</note>阿弭哆鉢囉<note place="inline">二合</note>婆娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
-<lb n="0318b11" ed="T"/><p xml:id="pT18p0318b1101" cb:type="dharani">唵<note place="inline">引</note>贊捺囉<note place="inline">二合</note><note n="0318006" resp="Taisho" place="foot text" type="orig">〔嚩日囉〕－ヵ【甲】</note><note n="0318006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔嚩日囉〕－ヵ【甲】</note><app n="0318006"><lem resp="Taisho" wit="【大】">嚩日囉</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app><note place="inline">二合</note>鉢囉<note place="inline">二合</note>婆娑嚩
+<lb n="0318b11" ed="T"/><p xml:id="pT18p0318b1101" cb:type="dharani">唵<note place="inline">引</note>贊捺囉<note place="inline">二合</note><note n="0318006" resp="Taisho" place="foot text" type="orig">〔嚩日囉〕－ヵ【甲】</note><note n="0318006" resp="CBETA" type="mod">嚩日囉【大】，〔－〕【考偽-甲】</note><app n="0318006"><lem resp="Taisho" wit="【大】">嚩日囉</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app><note place="inline">二合</note>鉢囉<note place="inline">二合</note>婆娑嚩
 <lb n="0318b12" ed="T"/><note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0318b13" ed="T"/><p xml:id="pT18p0318b1301" cb:type="dharani">唵<note place="inline">引</note>婆捺囉<note place="inline">二合</note>播囉娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0318b14" ed="T"/><p xml:id="pT18p0318b1401" cb:type="dharani">唵<note place="inline">引</note>入嚩<note place="inline">二合</note>攞𩕳鉢囉<note place="inline">二合</note>婆吽娑嚩<note place="inline">二合</note>賀<note place="inline">引</note></p>
@@ -1041,7 +1041,7 @@ add keyword $Revision, $Date, $Log
 <lb n="0320b06" ed="T"/><l>人天之所有</l><l>種種諸戲弄</l>
 <lb n="0320b07" ed="T"/><l>玩笑妓樂具</l><l>皆為供養佛</l>
 <lb n="0320b08" ed="T"/><l>而作事業故</l><l>我今當奉獻</l>
-<lb n="0320b09" ed="T"/><note n="0320002" resp="Taisho" place="foot text" type="orig">〔縛大…背〕－ィ【甲】</note><note n="0320002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔縛大…背〕－ィ【甲】</note><app cb:word-count="10" n="0320002"><lem wit="【大】"><l>縛大捻小根</l><l>進力拄其背</l></lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app></lg>
+<lb n="0320b09" ed="T"/><note n="0320002" resp="Taisho" place="foot text" type="orig">〔縛大…背〕－ィ【甲】</note><note n="0320002" resp="CBETA" type="mod">縛大…背【大】，〔－〕【校異-甲】</note><app cb:word-count="10" n="0320002"><lem wit="【大】"><l>縛大捻小根</l><l>進力拄其背</l></lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app></lg>
 <lb n="0320b10" ed="T"/><p xml:id="pT18p0320b1001">密語曰。</p>
 <lb n="0320b11" ed="T"/><p xml:id="pT18p0320b1101" cb:type="dharani">唵<note place="inline">引</note>薩嚩怛他誐哆<note place="inline">一</note>賀寫囉寫<note place="inline">二</note>枳哩<note place="inline">二合</note>
 <lb n="0320b12" ed="T"/><note n="0320003" resp="Taisho" place="foot text" type="orig">弩＝拏ィ【甲】</note><note n="0320003" resp="CBETA" type="mod">弩【大】，拏【校異-甲】</note><app n="0320003"><lem wit="【大】">弩</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">拏</rdg></app>囉底<note place="inline">三</note>掃企也<note place="inline">二合</note>弩跢囉<note place="inline">四</note>布惹銘伽三
@@ -1052,7 +1052,7 @@ add keyword $Revision, $Date, $Log
 <lb n="0320b17" ed="T"/><l>而作事業故</l><l>我今當奉獻</l>
 <lb n="0320b18" ed="T"/><l>誦此祕密言</l></lg>
 <lb n="0320b19" ed="T"/><p xml:id="pT18p0320b1901">密言曰。</p>
-<lb n="0320b20" ed="T"/><p xml:id="pT18p0320b2001" cb:type="dharani">唵<note place="inline">引</note>薩嚩怛他誐哆<note place="inline">一</note><note n="0320004" resp="Taisho" place="foot text" type="orig">〔弩哆囉〕－ィ【甲】</note><note n="0320004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔弩哆囉〕－ィ【甲】</note><app n="0320004"><lem wit="【大】">弩哆囉</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>嚩日嚕<note place="inline">二合</note>播
+<lb n="0320b20" ed="T"/><p xml:id="pT18p0320b2001" cb:type="dharani">唵<note place="inline">引</note>薩嚩怛他誐哆<note place="inline">一</note><note n="0320004" resp="Taisho" place="foot text" type="orig">〔弩哆囉〕－ィ【甲】</note><note n="0320004" resp="CBETA" type="mod">弩哆囉【大】，〔－〕【校異-甲】</note><app n="0320004"><lem wit="【大】">弩哆囉</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>嚩日嚕<note place="inline">二合</note>播
 <lb n="0320b21" ed="T"/>摩三摩地<note place="inline">二</note>婆嚩曩播曩<note place="inline">三</note>部惹曩嚩娑曩<note place="inline">四</note>
 <lb n="0320b22" ed="T"/>布惹銘伽三母捺囉<note place="inline">二合</note><note place="inline">五</note>娑頗<note place="inline">二合</note>囉拏三摩曳
 <lb n="0320b23" ed="T"/>吽<note place="inline">六</note></p>
@@ -1140,7 +1140,7 @@ add keyword $Revision, $Date, $Log
 <lb n="0321b15" ed="T"/>囉<note place="inline">二合</note>底播底<note place="inline">二</note>布惹銘伽三母捺囉<note place="inline">二合</note><note place="inline">三</note>娑頗
 <lb n="0321b16" ed="T"/><note place="inline">二合</note>囉拏三摩曳吽</p>
 <lb n="0321b17" ed="T"/><lg xml:id="lgT18p0321b1701"><l>次應合指爪</l><l>而作是思惟</l>
-<lb n="0321b18" ed="T"/><note n="0321002" resp="Taisho" place="foot text" type="orig">〔二羽…口〕－ィ【甲】</note><note n="0321002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔二羽…口〕－ィ【甲】</note><app cb:word-count="10" n="0321002"><lem wit="【大】"><l>二羽金剛縛</l><l>進力禪智口</l></lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>
+<lb n="0321b18" ed="T"/><note n="0321002" resp="Taisho" place="foot text" type="orig">〔二羽…口〕－ィ【甲】</note><note n="0321002" resp="CBETA" type="mod">二羽…口【大】，〔－〕【校異-甲】</note><app cb:word-count="10" n="0321002"><lem wit="【大】"><l>二羽金剛縛</l><l>進力禪智口</l></lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>
 <lb n="0321b19" ed="T"/><l>我今出語言</l><l>願一切眾生</l>
 <lb n="0321b20" ed="T"/><l>悉皆令得聞</l><l>誦此祕密言</l></lg>
 <lb n="0321b21" ed="T"/><p xml:id="pT18p0321b2101">密言曰。</p>

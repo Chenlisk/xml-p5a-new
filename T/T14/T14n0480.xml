@@ -309,7 +309,7 @@ Added comment  for Emacs
 <lb n="0617a19" ed="T"/>像結<note n="0617003" resp="Taisho" type="orig" place="foot text">加＝跏【三】【宮】</note><note n="0617003" resp="CBETA" type="mod">加【大】，跏【宋】【元】【明】【宮】</note><app n="0617003"><lem wit="【大】">加</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">跏</rdg></app>趺坐，身如金色自然顯現，威光赫奕
 <lb n="0617a20" ed="T"/>明照彼樓，具三十二丈夫之相、八十種好莊
 <lb n="0617a21" ed="T"/>嚴其身。彼如來像所出光明，亦復遍照月上
-<lb n="0617a22" ed="T"/>家內。</p><p xml:id="pT14p0617a2203" rend="inline">爾時月上於自右手忽見華已，<choice><corr>瞻</corr><sic>贍</sic></choice>仰覩
+<lb n="0617a22" ed="T"/>家內。</p><p xml:id="pT14p0617a2203" rend="inline">爾時月上於自右手忽見華已，<note n="0617a2201" resp="CBETA" type="add">瞻【CB】，贍【大】</note><app n="0617a2201"><lem wit="【CB】" resp="CBETA">瞻</lem><rdg wit="【大】">贍</rdg></app>仰覩
 <lb n="0617a23" ed="T"/>彼如來形像，歡喜踊躍遍滿其體不能自勝，
 <lb n="0617a24" ed="T"/>即便以偈問彼所化如來形像，作如是言：</p>
 <lb n="0617a25" ed="T"/><lg xml:id="lgT14p0617a2501" rend="margin-left:1em;text-indent:-1em"><l>「不審仁者為天龍，</l><l>為緊那羅夜叉等，</l>
@@ -513,7 +513,7 @@ Added comment  for Emacs
 <lb n="0619b13" ed="T"/>言：「尊舍利弗！若向涅槃即不滅度。何以故？其
 <lb n="0619b14" ed="T"/>涅槃行不生滅故，涅槃行者不可得見，體無
 <lb n="0619b15" ed="T"/>分別無可滅者，以是義故，行涅槃者即是涅
-<lb n="0619b16" ed="T"/>槃。」</p><p xml:id="pT14p0619b1602" rend="inline">爾時舍利弗復問月上作如是言：「<choice><corr>汝</corr><sic>女</sic></choice>於今
+<lb n="0619b16" ed="T"/>槃。」</p><p xml:id="pT14p0619b1602" rend="inline">爾時舍利弗復問月上作如是言：「<note n="0619b1601" resp="CBETA" type="add">汝【CB】，女【大】</note><app n="0619b1601"><lem wit="【CB】" resp="CBETA">汝</lem><rdg wit="【大】">女</rdg></app>於今
 <lb n="0619b17" ed="T"/>者行何乘也？為行聲聞乘？為行辟支佛乘？為
 <lb n="0619b18" ed="T"/>行大乘？」爾時月上報舍利弗作如是言：「尊舍
 <lb n="0619b19" ed="T"/>利弗！今既問我行何乘者，我今還問尊舍利
@@ -568,7 +568,7 @@ Added comment  for Emacs
 <lb n="0620a07" ed="T"/><p xml:id="pT14p0620a0701">爾時月上復白長老舍利弗言：「尊舍利弗！如
 <lb n="0620a08" ed="T"/>來不為聽法者說，亦復不為樂法者說。」舍利
 <lb n="0620a09" ed="T"/>弗言：「如來若爾，為誰說法？」彼女答言：「尊舍利
-<lb n="0620a10" ed="T"/>弗！若有所聞，不生著想無欣樂<note n="0620002" resp="Taisho" type="orig" place="foot text">相＝想【聖】</note><note n="0620002" resp="CBETA" type="mod">想【聖】【麗-CB】【CB】，相【大】</note><app n="0620002"><lem wit="【CBETA】【麗】" resp="CBETA.maha">想<note type="cf1">K13n0415_p0577a22</note></lem><rdg wit="【大】">相</rdg><rdg resp="Taisho" wit="【聖】">想</rdg></app>，如來乃為
+<lb n="0620a10" ed="T"/>弗！若有所聞，不生著想無欣樂<note n="0620002" resp="Taisho" type="orig" place="foot text">相＝想【聖】</note><note n="0620002" resp="CBETA" type="mod">想【CB】【麗-CB】【聖】，相【大】</note><app n="0620002"><lem wit="【CBETA】【麗】" resp="CBETA.maha">想<note type="cf1">K13n0415_p0577a22</note></lem><rdg wit="【大】">相</rdg><rdg resp="Taisho" wit="【聖】">想</rdg></app>，如來乃為
 <lb n="0620a11" ed="T"/>如是說法。」</p>
 <lb n="0620a12" ed="T"/><p xml:id="pT14p0620a1201">爾時舍利弗復語月上作如是言：「若有眾生
 <lb n="0620a13" ed="T"/>詣佛聽法，為聞法故，如來爾時豈不為彼而
@@ -891,7 +891,7 @@ Added comment  for Emacs
 <pb n="0623c" ed="T" xml:id="T14.0480.0623c"/>
 <lb n="0623c01" ed="T"/><l>能施愛物常得愛，</l><l>能施法財得自在。</l>
 <lb n="0623c02" ed="T"/><l>佛是樂本能與樂，</l><l>能伏怨讐及諸魔，</l>
-<lb n="0623c03" ed="T"/><l>我嘆應嘆最勝尊，</l><l>又嘆自在無<choice><corr>羨</corr><sic>羡</sic></choice>者。</l>
+<lb n="0623c03" ed="T"/><l>我嘆應嘆最勝尊，</l><l>又嘆自在無<note n="0623c0301" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0623c0301"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>者。</l>
 <lb n="0623c04" ed="T"/><l>我意所觀諸方處，</l><l>願見諸佛不思議，</l>
 <lb n="0623c05" ed="T"/><l>放光如今釋師子，</l><l>我亦當知十方佛。</l>
 <lb n="0623c06" ed="T"/><l>皆悉同體覺一法，</l><l>於真如法悉無二；</l>
@@ -905,7 +905,7 @@ Added comment  for Emacs
 <lb n="0623c14" ed="T"/><app type="star" corresp="#0622008"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>願世尊！自說法中與我出家。」</p><p xml:id="pT14p0623c1413" rend="inline">佛即告彼月
 <lb n="0623c15" ed="T"/>上菩薩：「若必然者，當問父母聽汝已不？」</p>
 <lb n="0623c16" ed="T"/><p xml:id="pT14p0623c1601">爾時童子所生父母，對見如是變化神通，復
-<lb n="0623c17" ed="T"/>從佛聞為彼授記，而<note n="0623010" resp="Taisho" type="orig" place="foot text">佛白＝白佛【聖】</note><note n="0623010" resp="CBETA" type="mod">白佛【聖】【麗-CB】【CB】，佛白【大】</note><app n="0623010"><lem wit="【CBETA】【麗】" resp="CBETA.maha">白佛<note type="cf1">K13n0415_p0582b23</note></lem><rdg wit="【大】">佛白</rdg><rdg resp="Taisho" wit="【聖】">白佛</rdg></app>言：「如是世尊！我等
+<lb n="0623c17" ed="T"/>從佛聞為彼授記，而<note n="0623010" resp="Taisho" type="orig" place="foot text">佛白＝白佛【聖】</note><note n="0623010" resp="CBETA" type="mod">白佛【CB】【麗-CB】【聖】，佛白【大】</note><app n="0623010"><lem wit="【CBETA】【麗】" resp="CBETA.maha">白佛<note type="cf1">K13n0415_p0582b23</note></lem><rdg wit="【大】">佛白</rdg><rdg resp="Taisho" wit="【聖】">白佛</rdg></app>言：「如是世尊！我等
 <lb n="0623c18" ed="T"/>已許。唯願世尊！放彼出家；又願我等於未來
 <lb n="0623c19" ed="T"/>世會如此法。」</p><p xml:id="pT14p0623c1906" rend="inline">爾時世尊即放童子而出家也。
 <lb n="0623c20" ed="T"/>時彼童子當出家時，即有一萬二千人俱發阿

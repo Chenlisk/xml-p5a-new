@@ -206,9 +206,9 @@ Added comment  for Emacs
 <lb n="0311b26" ed="T"/>聞，唯佛自受用。《佛地論》云：此自受用土周遍
 <lb n="0311b27" ed="T"/>法界，無處不有，不可說言離三界處，不可得
 <lb n="0311b28" ed="T"/>言即三界處。若他受用土者，《佛地論》云：諸佛
-<lb n="0311b29" ed="T"/>為令地上菩薩受大法樂進修勝行，<note n="0311005" resp="Taisho" type="orig" place="foot text">（佛）ィ＋於【原】</note><note n="0311005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（佛）ィ＋於【原】</note><app n="0311005"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">佛於</rdg></app>後得
+<lb n="0311b29" ed="T"/>為令地上菩薩受大法樂進修勝行，<note n="0311005" resp="Taisho" type="orig" place="foot text">（佛）ィ＋於【原】</note><note n="0311005" resp="CBETA" type="mod">於【大】，佛於【校異-原】</note><app n="0311005"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">佛於</rdg></app>後得
 <pb n="0311c" ed="T" xml:id="T37.1757.0311c"/>
-<lb n="0311c01" ed="T"/>智中以大悲故，於<note n="0311006" resp="Taisho" type="orig" place="foot text">〔諸菩薩〕－ヵ【原】</note><note n="0311006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔諸菩薩〕－ヵ【原】</note><app n="0311006"><lem resp="Taisho" wit="【大】">諸菩薩</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>大圓鏡<note n="0311007" resp="Taisho" type="orig" place="foot text">智＋（起）ィ【原】</note><note n="0311007" resp="CBETA" type="mod">智【大】，智起【校異-原】</note><app n="0311007"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">智起</rdg></app>相應淨
+<lb n="0311c01" ed="T"/>智中以大悲故，於<note n="0311006" resp="Taisho" type="orig" place="foot text">〔諸菩薩〕－ヵ【原】</note><note n="0311006" resp="CBETA" type="mod">諸菩薩【大】，〔－〕【考偽-原】</note><app n="0311006"><lem resp="Taisho" wit="【大】">諸菩薩</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>大圓鏡<note n="0311007" resp="Taisho" type="orig" place="foot text">智＋（起）ィ【原】</note><note n="0311007" resp="CBETA" type="mod">智【大】，智起【校異-原】</note><app n="0311007"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">智起</rdg></app>相應淨
 <lb n="0311c02" ed="T"/>識之上，依諸菩薩業力，如來與作增上緣，隨
 <lb n="0311c03" ed="T"/>其根宜現其淨土，或勝或劣改轉不定，地地
 <lb n="0311c04" ed="T"/>優劣，如輪王所感，其土與眾生同處，所見即
@@ -242,7 +242,7 @@ Added comment  for Emacs
 <lb n="0312a02" ed="T"/>作男子，六根具足端嚴勝天。故《清淨覺經》云：
 <lb n="0312a03" ed="T"/>女人往生者則皆作男子。故言無女人及以
 <lb n="0312a04" ed="T"/>根缺，非是此處女人此間根缺不得生彼。」</p><p xml:id="pT37p0312a0417" rend="inline">問：
-<lb n="0312a05" ed="T"/>「若是化土，何故《攝論》<note n="0312001" resp="Taisho" type="orig" place="foot text">〔云〕－ヵ【原】</note><note n="0312001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔云〕－ヵ【原】</note><app n="0312001"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>稱別時意？」</p><p xml:id="pT37p0312a0514" rend="inline">答：「論言別
+<lb n="0312a05" ed="T"/>「若是化土，何故《攝論》<note n="0312001" resp="Taisho" type="orig" place="foot text">〔云〕－ヵ【原】</note><note n="0312001" resp="CBETA" type="mod">云【大】，〔－〕【考偽-原】</note><app n="0312001"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>稱別時意？」</p><p xml:id="pT37p0312a0514" rend="inline">答：「論言別
 <lb n="0312a06" ed="T"/>時意者有二意：一以彼土增上樂處非少福
 <lb n="0312a07" ed="T"/>能生、二見眾生多不修道空唯發願。有斯二
 <lb n="0312a08" ed="T"/>意故道別時，即是《彌陀經》云：不可以少善根得
@@ -535,7 +535,7 @@ Added comment  for Emacs
 <lb n="0315a25" ed="T"/>故，即以行有為轂，由業能生種種報故，即以
 <lb n="0315a26" ed="T"/>現在五果、識等未來二果謂生老死，總七果為
 <lb n="0315a27" ed="T"/>輻。五者名應供，是智斷具足勝福田，堪消物
-<lb n="0315a28" ed="T"/>養、能生大利，故名應供。若真諦云<note n="0315002" resp="Taisho" type="orig" place="foot text">〔示〕－ヵ【原】</note><note n="0315002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔示〕－ヵ【原】</note><app n="0315002"><lem resp="Taisho" wit="【大】">示</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>不償，謂
+<lb n="0315a28" ed="T"/>養、能生大利，故名應供。若真諦云<note n="0315002" resp="Taisho" type="orig" place="foot text">〔示〕－ヵ【原】</note><note n="0315002" resp="CBETA" type="mod">示【大】，〔－〕【考偽-原】</note><app n="0315002"><lem resp="Taisho" wit="【大】">示</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>不償，謂
 <lb n="0315a29" ed="T"/>不償生死債故，是人由三學圓滿、四流永絕，
 <pb n="0315b" ed="T" xml:id="T37.1757.0315b"/>
 <lb n="0315b01" ed="T"/>一向涅槃不入生死，故名不償。六名應教，謂
@@ -564,7 +564,7 @@ Added comment  for Emacs
 <lb n="0315b24" ed="T"/>外道情同莫逆俱時悟道，所以合列。《增一阿
 <lb n="0315b25" ed="T"/>含》云：富樓那問舍利弗言：「仁者！諸人稱仁者
 <lb n="0315b26" ed="T"/>何等號？」答曰：「我父名優婆提舍，我母名舍利
-<lb n="0315b27" ed="T"/><note n="0315004" resp="Taisho" type="orig" place="foot text">〔弗〕－ヵ【原】</note><note n="0315004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔弗〕－ヵ【原】</note><app n="0315004"><lem resp="Taisho" wit="【大】">弗</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>，從母稱名舍利弗。」《大論》云：其母目如舍
+<lb n="0315b27" ed="T"/><note n="0315004" resp="Taisho" type="orig" place="foot text">〔弗〕－ヵ【原】</note><note n="0315004" resp="CBETA" type="mod">弗【大】，〔－〕【考偽-原】</note><app n="0315004"><lem resp="Taisho" wit="【大】">弗</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>，從母稱名舍利弗。」《大論》云：其母目如舍
 <lb n="0315b28" ed="T"/>利鳥目。《佛華嚴入如來智德不思議經》云：舍
 <lb n="0315b29" ed="T"/>利此云鸜鵒，弗多羅此云子。故《涅槃經》云：如
 <pb n="0315c" ed="T" xml:id="T37.1757.0315c"/>
@@ -583,7 +583,7 @@ Added comment  for Emacs
 <lb n="0315c13" ed="T"/>云蘿茯根，其父好噉，因物為名。若《涅槃經》
 <lb n="0315c14" ed="T"/>云：目犍連是姓，與《過去因果經》同，此云讚誦，
 <lb n="0315c15" ed="T"/>字拘律陀，因接拘律陀樹而生。故真諦云：
-<lb n="0315c16" ed="T"/>應名勿伽羅，此云愛胡豆，<note n="0315005" resp="Taisho" type="orig" place="foot text">〔愛〕－ヵ【原】</note><note n="0315005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔愛〕－ヵ【原】</note><app n="0315005"><lem resp="Taisho" wit="【大】">愛</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>胡豆即菉豆
+<lb n="0315c16" ed="T"/>應名勿伽羅，此云愛胡豆，<note n="0315005" resp="Taisho" type="orig" place="foot text">〔愛〕－ヵ【原】</note><note n="0315005" resp="CBETA" type="mod">愛【大】，〔－〕【考偽-原】</note><app n="0315005"><lem resp="Taisho" wit="【大】">愛</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>胡豆即菉豆
 <lb n="0315c17" ed="T"/>也，上古有仙人唯食此豆，是彼仙種因姓
 <lb n="0315c18" ed="T"/>為名。</p>
 <lb n="0315c19" ed="T"/><p xml:id="pT37p0315c1901">「摩訶迦葉」，迦葉者此翻為飲光。真諦云：其人
@@ -713,7 +713,7 @@ Added comment  for Emacs
 <lb n="0317a23" ed="T"/>衢耶尼教化眾生。《三摩竭經》云：佛欲度彼事
 <lb n="0317a24" ed="T"/>裸形外道難化國王故，令諸弟子皆現神變
 <lb n="0317a25" ed="T"/>一時至彼受其所請。時賓頭盧在於山中縫
-<lb n="0317a26" ed="T"/>衣乃忘去，忽憶，以針<choice><corr>刺</corr><sic>剌</sic></choice>地綖猶著衣，便運神
+<lb n="0317a26" ed="T"/>衣乃忘去，忽憶，以針<note n="0317a2601" resp="CBETA" type="add">刺【CB】，剌【大】</note><app n="0317a2601"><lem wit="【CB】" resp="CBETA">刺</lem><rdg wit="【大】">剌</rdg></app>地綖猶著衣，便運神
 <lb n="0317a27" ed="T"/>足即往，其山以針綖所牽遂隨後去。時彼國
 <lb n="0317a28" ed="T"/>有一懷孕婦人，見大山蔽空而至惶怖墮胎。
 <lb n="0317a29" ed="T"/>佛遙知之，令目連往語：「汝後何山？」賓頭盧迴
@@ -868,7 +868,7 @@ Added comment  for Emacs
 <lb n="0318c28" ed="T"/>不淨土者，為化眾生示居穢境。又《智度論》引
 <lb n="0318c29" ed="T"/>《目連問經》曰：佛言：「如我釋迦牟尼有淨土穢
 <pb n="0319a" ed="T" xml:id="T37.1757.0319a"/>
-<lb n="0319a01" ed="T"/>土，<note n="0319001" resp="Taisho" type="orig" place="foot text">〔我今〕－ヵ【原】</note><note n="0319001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔我今〕－ヵ【原】</note><app n="0319001"><lem resp="Taisho" wit="【大】">我今</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>西方阿彌陀佛一切如來亦爾，皆
+<lb n="0319a01" ed="T"/>土，<note n="0319001" resp="Taisho" type="orig" place="foot text">〔我今〕－ヵ【原】</note><note n="0319001" resp="CBETA" type="mod">我今【大】，〔－〕【考偽-原】</note><app n="0319001"><lem resp="Taisho" wit="【大】">我今</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>西方阿彌陀佛一切如來亦爾，皆
 <lb n="0319a02" ed="T"/>有淨穢，但以機緣有宜故致差異。」即《維摩經》
 <lb n="0319a03" ed="T"/>云：應以此緣得入行者，如來為現，今之西方
 <lb n="0319a04" ed="T"/>機所宜矣，佛知根性故讚仰之。</p>
@@ -994,7 +994,7 @@ Added comment  for Emacs
 <lb n="0320b04" ed="T"/>光明淨也。準《觀經》，處處皆有眾寶樓閣，何獨
 <lb n="0320b05" ed="T"/>地上。</p><p xml:id="pT37p0320b0503" rend="inline">次第六釋鮮華吐褥，即依止圓淨。若
 <lb n="0320b06" ed="T"/>如來所居處有大寶蓮華王座而為依止，自外
-<lb n="0320b07" ed="T"/>諸人若或生蓮華之中<note n="0320001" resp="Taisho" type="orig" place="foot text">〔座〕－ヵ【原】</note><note n="0320001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔座〕－ヵ【原】</note><app n="0320001"><lem resp="Taisho" wit="【大】">座</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>，即以蓮華為依止。
+<lb n="0320b07" ed="T"/>諸人若或生蓮華之中<note n="0320001" resp="Taisho" type="orig" place="foot text">〔座〕－ヵ【原】</note><note n="0320001" resp="CBETA" type="mod">座【大】，〔－〕【考偽-原】</note><app n="0320001"><lem resp="Taisho" wit="【大】">座</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>，即以蓮華為依止。
 <lb n="0320b08" ed="T"/>此文中為四：一、華名；二、分量；三、光色；四、香氣。</p>
 <lb n="0320b09" ed="T"/><p xml:id="pT37p0320b0901">經曰：「池中蓮華」，次釋華名，謂之蓮華。</p>
 <lb n="0320b10" ed="T"/><p xml:id="pT37p0320b1001">經曰：「大如車輪」，次釋第二分量也。此經據小
@@ -1102,7 +1102,7 @@ Added comment  for Emacs
 <lb n="0321b22" ed="T"/>者是數也，謂三十七心數法也。若言品者，謂
 <lb n="0321b23" ed="T"/>三十七法各各別故名品。言助道者，謂能隨
 <lb n="0321b24" ed="T"/>順資助盡智無生智，能令聖道勢用勝故，故
-<lb n="0321b25" ed="T"/>云助道<note n="0321001" resp="Taisho" type="orig" place="foot text">（道者）ヵ＋二【原】</note><note n="0321001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（道者）ヵ＋二【原】</note><app n="0321001"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">道者二</rdg></app>智也。若言菩提者，菩提亦名覺，
+<lb n="0321b25" ed="T"/>云助道<note n="0321001" resp="Taisho" type="orig" place="foot text">（道者）ヵ＋二【原】</note><note n="0321001" resp="CBETA" type="mod">二【大】，道者二【考偽-原】</note><app n="0321001"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">道者二</rdg></app>智也。若言菩提者，菩提亦名覺，
 <lb n="0321b26" ed="T"/>即前二智也。故《四諦論》云：三十七助道覺法，
 <lb n="0321b27" ed="T"/>此法小乘正學，菩薩兼修二智。《智度論》云：如
 <lb n="0321b28" ed="T"/>來何故多說此法不增不減，但說三十七品？
@@ -1180,7 +1180,7 @@ Added comment  for Emacs
 <lb n="0322b10" ed="T"/>應以實相念，莫以色身念，亦莫著法身，善知
 <lb n="0322b11" ed="T"/>一切法永寂如虛空故，無所念亦無能念者，
 <lb n="0322b12" ed="T"/>是真實念者，今為新發意者旦以事相念。即
-<lb n="0322b13" ed="T"/>《優婆塞戒經》云：佛有七勝事故<note n="0322001" resp="Taisho" type="orig" place="foot text">〔將以〕－ヵ【原】</note><note n="0322001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔將以〕－ヵ【原】</note><app n="0322001"><lem resp="Taisho" wit="【大】">將以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>須念：
+<lb n="0322b13" ed="T"/>《優婆塞戒經》云：佛有七勝事故<note n="0322001" resp="Taisho" type="orig" place="foot text">〔將以〕－ヵ【原】</note><note n="0322001" resp="CBETA" type="mod">將以【大】，〔－〕【考偽-原】</note><app n="0322001"><lem resp="Taisho" wit="【大】">將以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>須念：
 <lb n="0322b14" ed="T"/>一身勝，具諸相好圓滿故；二如法住勝，三業
 <lb n="0322b15" ed="T"/>常無失故；三智勝，具一切種智故；四具足勝，
 <lb n="0322b16" ed="T"/>一切福德圓滿故；五行處勝，常在三昧故；
@@ -1289,7 +1289,7 @@ Added comment  for Emacs
 <lb n="0323b29" ed="T"/>祇言數，劫言時也，謂無數時。《攝論》云：不可數
 <pb n="0323c" ed="T" xml:id="T37.1757.0323c"/>
 <lb n="0323c01" ed="T"/>有二：一、阿僧祇劫，謂年月歲數不可數，菩薩
-<lb n="0323c02" ed="T"/>修道<note n="0323001" resp="Taisho" type="orig" place="foot text">〔以〕－ヵ【原】</note><note n="0323001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔以〕－ヵ【原】</note><app n="0323001"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>此是小劫；二、劫阿僧祇，謂菩薩修道
+<lb n="0323c02" ed="T"/>修道<note n="0323001" resp="Taisho" type="orig" place="foot text">〔以〕－ヵ【原】</note><note n="0323001" resp="CBETA" type="mod">以【大】，〔－〕【考偽-原】</note><app n="0323001"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>此是小劫；二、劫阿僧祇，謂菩薩修道
 <lb n="0323c03" ed="T"/>以劫為量，此劫又不可數，故名劫阿僧祇，此
 <lb n="0323c04" ed="T"/>是大劫。今阿彌陀壽劫者，是年歲阿僧祇也，
 <lb n="0323c05" ed="T"/>其劫義如別章。人聞彼佛壽越僧祇，未知作
@@ -1336,7 +1336,7 @@ Added comment  for Emacs
 <lb n="0324a16" ed="T"/>子皆是羅漢其數甚多，四種之中有何聲聞
 <lb n="0324a17" ed="T"/>也？」</p><p xml:id="pT37p0324a1702" rend="inline">答：「準《觀經》、《無量壽經》等，彼但有三種聲聞，
 <lb n="0324a18" ed="T"/>無增上慢者。何以知之？準此土有增上慢者，
-<lb n="0324a19" ed="T"/>或惡魔作佛示與授記，即自念言：『有<note n="0324002" resp="Taisho" type="orig" place="foot text">〔何〕－ヵ【原】</note><note n="0324002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔何〕－ヵ【原】</note><app n="0324002"><lem resp="Taisho" wit="【大】">何</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>所
+<lb n="0324a19" ed="T"/>或惡魔作佛示與授記，即自念言：『有<note n="0324002" resp="Taisho" type="orig" place="foot text">〔何〕－ヵ【原】</note><note n="0324002" resp="CBETA" type="mod">何【大】，〔－〕【考偽-原】</note><app n="0324002"><lem resp="Taisho" wit="【大】">何</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>所
 <lb n="0324a20" ed="T"/>得故。』謂證涅槃與大阿羅漢同；或有坐得四
 <lb n="0324a21" ed="T"/>禪言得四果，即將自身為阿羅漢等想，悉受
 <lb n="0324a22" ed="T"/>他供養。準《成實論》，此人後當憂惱，謂臨命終
@@ -1345,7 +1345,7 @@ Added comment  for Emacs
 <lb n="0324a25" ed="T"/>語言，皆說經道不說餘語，其聲如三百雷聲，
 <lb n="0324a26" ed="T"/>皆悉相敬愛無相憎嫉，悉存長幼上下。」</p><p xml:id="pT37p0324a2616" rend="inline">問：「彼
 <lb n="0324a27" ed="T"/>土何眾最多？」</p><p xml:id="pT37p0324a2706" rend="inline">答：「《大論》云：菩薩僧多、聲聞少。」</p>
-<lb n="0324a28" ed="T"/><p xml:id="pT37p0324a2801">經曰：「極樂國土成就如是功德莊嚴」，結<note n="0324003" resp="Taisho" type="orig" place="foot text">〔第二〕－ヵ【原】</note><note n="0324003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔第二〕－ヵ【原】</note><app n="0324003"><lem resp="Taisho" wit="【大】">第二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
+<lb n="0324a28" ed="T"/><p xml:id="pT37p0324a2801">經曰：「極樂國土成就如是功德莊嚴」，結<note n="0324003" resp="Taisho" type="orig" place="foot text">〔第二〕－ヵ【原】</note><note n="0324003" resp="CBETA" type="mod">第二【大】，〔－〕【考偽-原】</note><app n="0324003"><lem resp="Taisho" wit="【大】">第二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
 <lb n="0324a29" ed="T"/>也。</p>
 <pb n="0324b" ed="T" xml:id="T37.1757.0324b"/>
 <lb n="0324b01" ed="T"/><p xml:id="pT37p0324b0101">經曰：「極樂國土眾生生者皆是阿鞞跋致」，次
@@ -1506,7 +1506,7 @@ Added comment  for Emacs
 <lb n="0326a06" ed="T"/>見佛心生慚愧悔昔疑惑，亦願往生。雖至彼
 <lb n="0326a07" ed="T"/>國，不得到於佛所，彼邊界七寶城中歡喜便
 <lb n="0326a08" ed="T"/>止，即於彼城寶池華上化生，於五百歲不見
-<lb n="0326a09" ed="T"/>佛不聞法不見僧，彼名<note n="0326001" resp="Taisho" type="orig" place="foot text">〔聖〕－ヵ【原】</note><note n="0326001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔聖〕－ヵ【原】</note><app n="0326001"><lem resp="Taisho" wit="【大】">聖</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>胎生。故《成實論》
+<lb n="0326a09" ed="T"/>佛不聞法不見僧，彼名<note n="0326001" resp="Taisho" type="orig" place="foot text">〔聖〕－ヵ【原】</note><note n="0326001" resp="CBETA" type="mod">聖【大】，〔－〕【考偽-原】</note><app n="0326001"><lem resp="Taisho" wit="【大】">聖</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>胎生。故《成實論》
 <lb n="0326a10" ed="T"/>云：如經所說，輕心布施，生於邊地受少果報。
 <lb n="0326a11" ed="T"/>是知念彼佛者疑心亦然。所生之城縱橫二
 <lb n="0326a12" ed="T"/>千里，舍宅園林床衣皆眾寶所成，百味飲食
@@ -1519,7 +1519,7 @@ Added comment  for Emacs
 <lb n="0326a19" ed="T"/>彼上品。其下品者無一切功德，但一心念彼
 <lb n="0326a20" ed="T"/>佛願得往生，晝夜不絕經於十日是人亦生。
 <lb n="0326a21" ed="T"/>若其狐疑亦如前說，復過五百歲得出城見
-<lb n="0326a22" ed="T"/>佛，<note n="0326002" resp="Taisho" type="orig" place="foot text">〔於〕－ヵ【原】</note><note n="0326002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔於〕－ヵ【原】</note><app n="0326002"><lem resp="Taisho" wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>舍宅去佛亦遠。又彼經云：當作十種
+<lb n="0326a22" ed="T"/>佛，<note n="0326002" resp="Taisho" type="orig" place="foot text">〔於〕－ヵ【原】</note><note n="0326002" resp="CBETA" type="mod">於【大】，〔－〕【考偽-原】</note><app n="0326002"><lem resp="Taisho" wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>舍宅去佛亦遠。又彼經云：當作十種
 <lb n="0326a23" ed="T"/>善業：一、不殺；二、不盜；三、不邪婬；四、不調欺；
 <lb n="0326a24" ed="T"/>五、不飲酒食肉；六、不兩舌；七、不惡口；八、不
 <lb n="0326a25" ed="T"/>妄語；九、不嫉妬；十、不貪欲、不慳惜、不瞋怒、不
@@ -1712,10 +1712,10 @@ Added comment  for Emacs
 <lb n="0328b02" ed="T"/>非色非心一期命根名為命濁。若修善業，所
 <lb n="0328b03" ed="T"/>得命根長遠或八萬歲；由諸眾生多行殺盜
 <lb n="0328b04" ed="T"/>損命，緣業不滿百年。即《文殊問經》云：人命漸
-<lb n="0328b05" ed="T"/>減短下，至十歲即老<note n="0328001" resp="Taisho" type="orig" place="foot text">〔即無〕－ヵ【原】</note><note n="0328001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔即無〕－ヵ【原】</note><app n="0328001"><lem resp="Taisho" wit="【大】">即無，</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>名為命濁。故名五
+<lb n="0328b05" ed="T"/>減短下，至十歲即老<note n="0328001" resp="Taisho" type="orig" place="foot text">〔即無〕－ヵ【原】</note><note n="0328001" resp="CBETA" type="mod">即無【大】，〔－〕【考偽-原】</note><app n="0328001"><lem resp="Taisho" wit="【大】">即無，</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>名為命濁。故名五
 <lb n="0328b06" ed="T"/>濁。所言中者，謂釋迦出五濁之內。</p>
 <lb n="0328b07" ed="T"/><p xml:id="pT37p0328b0701">經曰：「得阿耨多羅三藐三菩提」，次釋第三
-<lb n="0328b08" ed="T"/><note n="0328002" resp="Taisho" type="orig" place="foot text">〔釋〕－ヵ【原】</note><note n="0328002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔釋〕－ヵ【原】</note><app n="0328002"><lem resp="Taisho" wit="【大】">釋</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>怪登勝果也。怪能於此惡時、惡處、惡眾生
+<lb n="0328b08" ed="T"/><note n="0328002" resp="Taisho" type="orig" place="foot text">〔釋〕－ヵ【原】</note><note n="0328002" resp="CBETA" type="mod">釋【大】，〔－〕【考偽-原】</note><app n="0328002"><lem resp="Taisho" wit="【大】">釋</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>怪登勝果也。怪能於此惡時、惡處、惡眾生
 <lb n="0328b09" ed="T"/>中，能忍諸惡、能得菩提。</p>
 <lb n="0328b10" ed="T"/><p xml:id="pT37p0328b1001">經曰：「為諸眾生說是一切世間難信之法」，次
 <lb n="0328b11" ed="T"/>第四釋讚授祕法也。一切世間難信之法者，
@@ -1741,9 +1741,9 @@ Added comment  for Emacs
 <lb n="0328c01" ed="T"/>六趣之類；二、器世間，謂三界四十居止處；三、
 <lb n="0328c02" ed="T"/>五眾世間，謂有漏五陰。云何名世間？《雜阿含》
 <lb n="0328c03" ed="T"/>云：危脆敗壞故名世間也。《涅槃經》云：天名燈
-<lb n="0328c04" ed="T"/>明亦曰光明，<note n="0328003" resp="Taisho" type="orig" place="foot text">〔光明〕－ヵ【原】</note><note n="0328003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔光明〕－ヵ【原】</note><app n="0328003"><lem resp="Taisho" wit="【大】">光明</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>能除黑暗而為大明，故名
+<lb n="0328c04" ed="T"/>明亦曰光明，<note n="0328003" resp="Taisho" type="orig" place="foot text">〔光明〕－ヵ【原】</note><note n="0328003" resp="CBETA" type="mod">光明【大】，〔－〕【考偽-原】</note><app n="0328003"><lem resp="Taisho" wit="【大】">光明</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>能除黑暗而為大明，故名
 <lb n="0328c05" ed="T"/>為天也。又吉祥故名天，能多恩義故名人，
-<lb n="0328c06" ed="T"/><note n="0328004" resp="Taisho" type="orig" place="foot text">〔有信能多恩義故名人〕－ヵ【原】</note><note n="0328004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔有信能多恩義故名人〕－ヵ【原】</note><app n="0328004"><lem resp="Taisho" wit="【大】">有信能多恩義故名人</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。《大法炬經》云：阿修羅
+<lb n="0328c06" ed="T"/><note n="0328004" resp="Taisho" type="orig" place="foot text">〔有信能多恩義故名人〕－ヵ【原】</note><note n="0328004" resp="CBETA" type="mod">有信能多恩義故名人【大】，〔－〕【考偽-原】</note><app n="0328004"><lem resp="Taisho" wit="【大】">有信能多恩義故名人</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。《大法炬經》云：阿修羅
 <lb n="0328c07" ed="T"/>名非天，彼非天故名阿修羅。等者，即應等取
 <lb n="0328c08" ed="T"/>龍、金翅鳥、緊那羅、乾闥婆等，略而不數也。歡
 <lb n="0328c09" ed="T"/>喜者，心歡體悅故言歡喜，即《十地論》云：心歡

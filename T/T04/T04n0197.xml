@@ -178,7 +178,7 @@ Added comment  for Emacs
 <lb n="0163c27" ed="T"/>欲化諸龍故也。</p></cb:div>
 <pb n="0164a" ed="T" xml:id="T04.0197.0164a"/>
 <lb n="0164a01" ed="T"/>
-<lb n="0164a02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說興起行經</title><note n="0164001" resp="Taisho" type="orig" place="foot text">〔卷上〕－【宋】【元】＊</note><note n="0164001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->卷上【大】＊，〔－〕【宋】【元】＊</note><app n="0164001"><lem wit="【大】">卷上</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app><note place="inline"><note n="0164002" resp="Taisho" type="orig" place="foot text">一＝亦【明】，－【宋】</note><note n="0164002" resp="CBETA" type="mod">一【大】，亦【明】，〔－〕【宋】</note><app n="0164002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】">亦</rdg><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>名嚴<note n="0164003" resp="Taisho" type="orig" place="foot text">誠＝成【三】</note><note n="0164003" resp="CBETA" type="mod">誡【麗-CB】【CB】，誠【大】，成【宋】【元】【明】</note><app n="0164003"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">誡<note type="cf1">K20n0804_p1041a20</note><note type="cf2">T55n2154_p0483b03</note></lem><rdg wit="【大】">誠</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">成</rdg></app>宿緣經，出雜藏</note></cb:jhead></cb:juan>
+<lb n="0164a02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說興起行經</title><note n="0164001" resp="Taisho" type="orig" place="foot text">〔卷上〕－【宋】【元】＊</note><note n="0164001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->卷上【大】＊，〔－〕【宋】【元】＊</note><app n="0164001"><lem wit="【大】">卷上</lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app><note place="inline"><note n="0164002" resp="Taisho" type="orig" place="foot text">一＝亦【明】，－【宋】</note><note n="0164002" resp="CBETA" type="mod">一【大】，亦【明】，〔－〕【宋】</note><app n="0164002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】">亦</rdg><rdg resp="Taisho" wit="【宋】"><space quantity="0"/></rdg></app>名嚴<note n="0164003" resp="Taisho" type="orig" place="foot text">誠＝成【三】</note><note n="0164003" resp="CBETA" type="mod">誡【CB】【麗-CB】，誠【大】，成【宋】【元】【明】</note><app n="0164003"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">誡<note type="cf1">K20n0804_p1041a20</note><note type="cf2">T55n2154_p0483b03</note></lem><rdg wit="【大】">誠</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">成</rdg></app>宿緣經，出雜藏</note></cb:jhead></cb:juan>
 <lb n="0164a03" ed="T"/>
 <lb n="0164a04" ed="T"/><byline cb:type="Translator">後漢外國三藏康孟詳譯</byline>
 <lb n="0164a05" ed="T"/><cb:div><lg xml:id="lgT04p0164a0501" rend="margin-left:0em;text-indent:0em"><l rend="text-indent:1em">聞如是：一時，</l><l>佛在摩竭國。</l>
@@ -320,7 +320,7 @@ Added comment  for Emacs
 <lb n="0165b21" ed="T"/>何為妄白虛事，云此<note n="0165014" resp="Taisho" type="orig" place="foot text">〔人〕－【三】</note><note n="0165014" resp="CBETA" type="mod">人【大】，〔－〕【宋】【元】【明】</note><app n="0165014"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>殺人，今云非也。乃
 <lb n="0165b22" ed="T"/>使我作虛妄之人，抂困道士。』諸臣白王：『於時
 <lb n="0165b23" ed="T"/>頻問道士，何為殺人也？時道士默不見答，
-<lb n="0165b24" ed="T"/><note n="0165015" resp="Taisho" type="orig" place="foot text">叉＝又【宋】</note><note n="0165015" resp="CBETA" type="mod">又【宋】【CB】，叉【大】</note><app n="0165015"><lem resp="CBETA.maha" wit="【CBETA】">又</lem><rdg wit="【大】">叉</rdg><rdg resp="Taisho" wit="【宋】">又</rdg></app>手脚復著土，以是故，臣等謂呼其殺人。』
+<lb n="0165b24" ed="T"/><note n="0165015" resp="Taisho" type="orig" place="foot text">叉＝又【宋】</note><note n="0165015" resp="CBETA" type="mod">又【CB】【宋】，叉【大】</note><app n="0165015"><lem resp="CBETA.maha" wit="【CBETA】">又</lem><rdg wit="【大】">叉</rdg><rdg resp="Taisho" wit="【宋】">又</rdg></app>手脚復著土，以是故，臣等謂呼其殺人。』
 <lb n="0165b25" ed="T"/>王便勅臣：『驢駄此人，於城南，先以鉾䂎之，然
 <lb n="0165b26" ed="T"/>後立竿貫頭，聚弓射之；若不死者，便斫其頭。』
 <lb n="0165b27" ed="T"/>諸臣受教，即以驢駄，打鼓遍巡已，出城南，詣
@@ -624,7 +624,7 @@ Added comment  for Emacs
 <lb n="0168c25" ed="T"/>神通者，各自默然思惟佛往日曾所說偈曰：</p>
 <lb n="0168c26" ed="T"/><lg xml:id="lgT04p0168c2601" rend="margin-left:1em;text-indent:-1em"><l>「世人所作行，</l><l>或作善惡事，</l>
 <lb n="0168c27" ed="T"/><l>此行還歸身，</l><l>終不朽敗亡。」</l></lg>
-<lb n="0168c28" ed="T"/><p xml:id="pT04p0168c2801">耆婆聞佛為木槍所<choice><corr>刺</corr><sic>剌</sic></choice>，涕泣至阿闍世王所。
+<lb n="0168c28" ed="T"/><p xml:id="pT04p0168c2801">耆婆聞佛為木槍所<note n="0168c2801" resp="CBETA" type="add">刺【CB】，剌【大】</note><app n="0168c2801"><lem wit="【CB】" resp="CBETA">刺</lem><rdg wit="【大】">剌</rdg></app>，涕泣至阿闍世王所。
 <lb n="0168c29" ed="T"/>阿闍世王曰：「卿何以涕泣？」</p><p xml:id="pT04p0168c2911" rend="inline">耆婆答曰：「我聞佛
 <pb n="0169a" ed="T" xml:id="T04.0197.0169a"/>
 <lb n="0169a01" ed="T"/>為木槍刺脚，是以涕耳。」</p><p xml:id="pT04p0169a0110" rend="inline">阿闍世王聞此語，便

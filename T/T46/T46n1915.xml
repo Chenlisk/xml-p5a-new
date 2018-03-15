@@ -523,7 +523,7 @@ Added comment  for Emacs
 <pb n="0466b" ed="T" xml:id="T46.1915.0466b"/>
 <lb n="0466b01" ed="T"/>知。是為初入定調心方法。</p><p xml:id="pT46p0466b0111" rend="inline">夫入定本是從麁
 <lb n="0466b02" ed="T"/>入細，是以身既為麁，息居其中，心最為細
-<lb n="0466b03" ed="T"/>靜。調麁就細，令心安靜，此則<choice><corr>入</corr><sic>人</sic></choice>定初方便也。
+<lb n="0466b03" ed="T"/>靜。調麁就細，令心安靜，此則<note n="0466b0301" resp="CBETA" type="add">入【CB】，人【大】</note><app n="0466b0301"><lem wit="【CB】" resp="CBETA">入</lem><rdg wit="【大】">人</rdg></app>定初方便也。
 <lb n="0466b04" ed="T"/>是名初入定時調二事也。</p><p xml:id="pT46p0466b0411" rend="inline">二、住坐中調三事
 <lb n="0466b05" ed="T"/>者，行人當於一坐之時，隨時長短，十二時、或
 <lb n="0466b06" ed="T"/>經一時，或至二三時，攝念用心，是中應須善
@@ -1054,7 +1054,7 @@ Added comment  for Emacs
 <lb n="0472a21" ed="T"/>成就，世不流傳。又不得於此更學氣術、休糧，
 <lb n="0472a22" ed="T"/>恐生異見。金石草木之藥，與病相應，亦可服
 <lb n="0472a23" ed="T"/>餌。若是鬼病，當用彊心加呪以助治之。若是
-<lb n="0472a24" ed="T"/>業報病，要須修福懺悔，患則消滅。此<note n="0472001" resp="Taisho" type="orig" place="foot text">一＝二【甲】</note><note n="0472001" resp="CBETA" type="mod">二【甲】【CB】，一【大】</note><app n="0472001"><lem resp="CBETA.maha" wit="【CBETA】">二</lem><rdg wit="【大】">一</rdg><rdg resp="Taisho" wit="【甲】">二</rdg></app>種
+<lb n="0472a24" ed="T"/>業報病，要須修福懺悔，患則消滅。此<note n="0472001" resp="Taisho" type="orig" place="foot text">一＝二【甲】</note><note n="0472001" resp="CBETA" type="mod">二【CB】【甲】，一【大】</note><app n="0472001"><lem resp="CBETA.maha" wit="【CBETA】">二</lem><rdg wit="【大】">一</rdg><rdg resp="Taisho" wit="【甲】">二</rdg></app>種
 <lb n="0472a25" ed="T"/>治病之法，若行人善得一意，即可自行兼他，
 <lb n="0472a26" ed="T"/>況復具足通達。若都不知，則病生無治，非唯
 <lb n="0472a27" ed="T"/>廢修正法，亦恐性命有虞，豈可自行教人？是

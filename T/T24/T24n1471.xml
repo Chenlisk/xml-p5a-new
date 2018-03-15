@@ -210,7 +210,7 @@ Added comment  for Emacs
 <lb n="0927a04" ed="T"/>修治園圃種<note n="0927002" resp="Taisho" type="orig" place="foot text">殖＝植【三】【宮】</note><note n="0927002" resp="CBETA" type="mod">殖【大】，植【宋】【元】【明】【宮】</note><app n="0927002"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">植</rdg></app>五穀，船車賈作於市販買，與
 <lb n="0927a05" ed="T"/>百姓諍利。有犯斯戒，非沙彌也。</p><p xml:id="pT24p0927a0513" rend="inline">「沙彌之戒，
 <lb n="0927a06" ed="T"/>盡形壽不得學習奇<note n="0927003" resp="Taisho" type="orig" place="foot text">技＝伎【三】【宮】</note><note n="0927003" resp="CBETA" type="mod">技【大】，伎【宋】【元】【明】【宮】</note><app n="0927003"><lem wit="【大】">技</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">伎</rdg></app>巫醫蠱道、時日<note n="0927004" resp="Taisho" type="orig" place="foot text">卜＝十【宋】</note><note n="0927004" resp="CBETA" type="mod">卜【大】，十【宋】</note><app n="0927004"><lem wit="【大】">卜</lem><rdg resp="Taisho" wit="【宋】">十</rdg></app>
-<lb n="0927a07" ed="T"/>筮占相吉凶、仰觀<note n="0927a0701" resp="CBETA" type="add">曆【大】【磧砂-CB】【CB】，歷【麗-CB】</note><app n="0927a0701"><lem wit="【大】">曆</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】【CB】">曆<note type="cf1">Q22_p0451b16</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">歷<note type="cf1">K23n0906_p0750a17</note></rdg></app>數推步盈虛、日月薄蝕
+<lb n="0927a07" ed="T"/>筮占相吉凶、仰觀<note n="0927a0701" resp="CBETA" type="add">曆【大】【磧砂-CB】，歷【麗-CB】</note><app n="0927a0701"><lem wit="【大】">曆</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">曆<note type="cf1">Q22_p0451b16</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">歷<note type="cf1">K23n0906_p0750a17</note></rdg></app>數推步盈虛、日月薄蝕
 <lb n="0927a08" ed="T"/>星宿變怪、山崩地動風雨旱澇、歲熟不熟有
 <lb n="0927a09" ed="T"/>疫無疫，一不得知。不得論說，國家政事<note n="0927005" resp="Taisho" type="orig" place="foot text">平＝評【元】【明】</note><note n="0927005" resp="CBETA" type="mod">平【大】，評【元】【明】</note><app n="0927005"><lem wit="【大】">平</lem><rdg resp="Taisho" wit="【元】【明】">評</rdg></app>量
 <lb n="0927a10" ed="T"/>優劣、出軍行師攻伐勝負。有犯斯戒，非沙彌
@@ -265,7 +265,7 @@ Added comment  for Emacs
 <lb n="0927b29" ed="T"/>起；二者欲入戶當先三彈指；三者具楊枝澡
 <pb n="0927c" ed="T" xml:id="T24.1471.0927c"/>
 <lb n="0927c01" ed="T"/>水；四者當授袈裟却授履；五者當掃地益澡
-<lb n="0927c02" ed="T"/>水；六者當襞被<note n="0927011" resp="Taisho" type="orig" place="foot text">𣏞＝枕【三】【宮】</note><note n="0927011" resp="CBETA" type="mod">枕【宋】【元】【明】【宮】【磧砂-CB】【CB】，𣏞【大】，𣏞【麗-CB】</note><app n="0927011"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">枕<note type="cf1">Q22_p0452a11</note></lem><rdg wit="【大】">𣏞</rdg><rdg resp="CBETA.maha" wit="【麗】">𣏞<note type="cf1">K23n0906_p0751a15</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">枕</rdg></app>拂拭床席；七者師出未還
+<lb n="0927c02" ed="T"/>水；六者當襞被<note n="0927011" resp="Taisho" type="orig" place="foot text">𣏞＝枕【三】【宮】</note><note n="0927011" resp="CBETA" type="mod">枕【CB】【磧-CB】【宋】【元】【明】【宮】，𣏞【大】，𣏞【麗-CB】</note><app n="0927011"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">枕<note type="cf1">Q22_p0452a11</note></lem><rdg wit="【大】">𣏞</rdg><rdg resp="CBETA.maha" wit="【麗】">𣏞<note type="cf1">K23n0906_p0751a15</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">枕</rdg></app>拂拭床席；七者師出未還
 <lb n="0927c03" ed="T"/>不得捨房中去，師還當逆取袈裟內襞之；八
 <lb n="0927c04" ed="T"/>者若有過，和上阿闍梨教<note n="0927012" resp="Taisho" type="orig" place="foot text">誡＝戒【宋】【宮】</note><note n="0927012" resp="CBETA" type="mod">誡【大】，戒【宋】【宮】</note><app n="0927012"><lem wit="【大】">誡</lem><rdg resp="Taisho" wit="【宋】【宮】">戒</rdg></app>，不得還逆語；九
 <lb n="0927c05" ed="T"/>者當低頭受師語去，當思念行之；十者出戶
@@ -390,7 +390,7 @@ Added comment  for Emacs
 <lb n="0929a03" ed="T"/>手澆下水，不得多不得少，正當投人手中。四
 <lb n="0929a04" ed="T"/>者下水當去人手四寸，不得高不得下，當相
 <lb n="0929a05" ed="T"/>視水多少；設水少不足一人，當益水，不得住
-<lb n="0929a06" ed="T"/>人手。五者以澡手還著袈裟如法。</p><p xml:id="pT24p0929a0614" rend="inline">「持<note n="0929001" resp="Taisho" type="orig" place="foot text">當＝澡【宮】</note><note n="0929001" resp="CBETA" type="mod">澡【宮】【麗-CB】【CB】，當【大】</note><app n="0929001"><lem resp="CBETA.maha" wit="【CBETA】【麗】">澡<note type="cf1">K23n0906_p0753b13</note></lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【宮】">澡</rdg></app>盤有
+<lb n="0929a06" ed="T"/>人手。五者以澡手還著袈裟如法。</p><p xml:id="pT24p0929a0614" rend="inline">「持<note n="0929001" resp="Taisho" type="orig" place="foot text">當＝澡【宮】</note><note n="0929001" resp="CBETA" type="mod">澡【CB】【麗-CB】【宮】，當【大】</note><app n="0929001"><lem resp="CBETA.maha" wit="【CBETA】【麗】">澡<note type="cf1">K23n0906_p0753b13</note></lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【宮】">澡</rdg></app>盤有
 <lb n="0929a07" ed="T"/>五事：一者不得曳盤使有聲；二者當兩手堅
 <lb n="0929a08" ed="T"/>持左面；三者當隨人手高下，不得左右顧視；
 <lb n="0929a09" ed="T"/>四者澡盤中水滿當出棄之，不得澆人前地；
@@ -563,7 +563,7 @@ Added comment  for Emacs
 <lb n="0930c26" ed="T"/>行採花及取楊枝，有九事：一者有主問其主；
 <lb n="0930c27" ed="T"/>二者無主當呪願山澤樹神；三者取花及楊
 <lb n="0930c28" ed="T"/>枝不得<note n="0930027" resp="Taisho" type="orig" place="foot text">拔＝敗【聖】</note><note n="0930027" resp="CBETA" type="mod">拔【大】，敗【聖】</note><app n="0930027"><lem wit="【大】">拔</lem><rdg resp="Taisho" wit="【聖】">敗</rdg></app>其根株；四者於道路當直往還；
-<lb n="0930c29" ed="T"/>五者不得慢<note n="0930c2901" resp="CBETA" type="add">惰【大】【磧砂-CB】【CB】，墯【麗-CB】</note><app n="0930c2901"><lem wit="【大】">惰</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】【CB】">惰<note type="cf1">Q22_p0455b20</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">墯<note type="cf1">K23n0906_p0756b19</note></rdg></app>語戲；六者設為人所犯，慎無
+<lb n="0930c29" ed="T"/>五者不得慢<note n="0930c2901" resp="CBETA" type="add">惰【大】【磧砂-CB】，墯【麗-CB】</note><app n="0930c2901"><lem wit="【大】">惰</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">惰<note type="cf1">Q22_p0455b20</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">墯<note type="cf1">K23n0906_p0756b19</note></rdg></app>語戲；六者設為人所犯，慎無
 <pb n="0931a" ed="T" xml:id="T24.1471.0931a"/>
 <lb n="0931a01" ed="T"/>與人交通；七者低頭內自剋責，勿令有恨心；
 <lb n="0931a02" ed="T"/>八者若欲<app type="star" corresp="#0930026"><lem wit="【大】">賦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">付</rdg></app>花當於上座始；九者當去萎花。</p>
@@ -640,7 +640,7 @@ Added comment  for Emacs
 <lb n="0931c13" ed="T"/>所<note n="0931030" resp="Taisho" type="orig" place="foot text">宜＋（五者）【三】【宮】</note><note n="0931030" resp="CBETA" type="mod">宜【大】，宜五者【宋】【元】【明】【宮】</note><app n="0931030"><lem wit="【大】">宜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">宜五者</rdg></app>，用錯斧鋸必使常處；<note n="0931031" resp="Taisho" type="orig" place="foot text">五＝六【三】【宮】</note><note n="0931031" resp="CBETA" type="mod">五【大】，六【宋】【元】【明】【宮】</note><app n="0931031"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">六</rdg></app>者若所畫朱
 <lb n="0931c14" ed="T"/>彩膠墨豫具所得，無令臨時有乏；<note n="0931032" resp="Taisho" type="orig" place="foot text">六＝七【三】【宮】</note><note n="0931032" resp="CBETA" type="mod">六【大】，七【宋】【元】【明】【宮】</note><app n="0931032"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">七</rdg></app>者畢宜
 <lb n="0931c15" ed="T"/>選錄復有常處；<note n="0931033" resp="Taisho" type="orig" place="foot text">〔經本元少七者〕－【三】【宮】【聖】</note><note n="0931033" resp="CBETA" type="mod">經本元少七者【大】，〔－〕【宋】【元】【明】【宮】【聖】</note><app n="0931033"><lem wit="【大】"><note place="inline">經本元少七者</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】"><space quantity="0"/></rdg></app>八者數所領受，分明
-<lb n="0931c16" ed="T"/>付授無令差<note n="0931034" resp="Taisho" type="orig" place="foot text">趺＝跌【三】【聖】</note><note n="0931034" resp="CBETA" type="mod">跌【宋】【元】【明】【聖】【麗-CB】【CB】，趺【大】</note><app n="0931034"><lem resp="CBETA.maha" wit="【CBETA】【麗】">跌<note type="cf1">K23n0906_p0757c17</note></lem><rdg wit="【大】">趺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">跌</rdg></app>；九者<note n="0931035" resp="Taisho" type="orig" place="foot text">居＝若【三】【宮】</note><note n="0931035" resp="CBETA" type="mod">居【大】，若【宋】【元】【明】【宮】</note><app n="0931035"><lem wit="【大】">居</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若</rdg></app>有所市求，皆問於
+<lb n="0931c16" ed="T"/>付授無令差<note n="0931034" resp="Taisho" type="orig" place="foot text">趺＝跌【三】【聖】</note><note n="0931034" resp="CBETA" type="mod">跌【CB】【麗-CB】【宋】【元】【明】【聖】，趺【大】</note><app n="0931034"><lem resp="CBETA.maha" wit="【CBETA】【麗】">跌<note type="cf1">K23n0906_p0757c17</note></lem><rdg wit="【大】">趺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">跌</rdg></app>；九者<note n="0931035" resp="Taisho" type="orig" place="foot text">居＝若【三】【宮】</note><note n="0931035" resp="CBETA" type="mod">居【大】，若【宋】【元】【明】【宮】</note><app n="0931035"><lem wit="【大】">居</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若</rdg></app>有所市求，皆問於
 <lb n="0931c17" ed="T"/>摩摩帝；十者出用令餘宣陳列令有本末。</p><p xml:id="pT24p0931c1717" rend="inline"><app type="star" corresp="#0931020"><lem wit="【大】">又</lem><rdg resp="Taisho" wit="【聖】">人</rdg></app>
 <lb n="0931c18" ed="T"/>獨行分衛<note n="0931036" resp="Taisho" type="orig" place="foot text">（有）＋十【三】【宮】</note><note n="0931036" resp="CBETA" type="mod">十【大】，有十【宋】【元】【明】【宮】</note><app n="0931036"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">有十</rdg></app>六事：若行分衛，一者務與人俱；
 <lb n="0931c19" ed="T"/>二者若無人俱，當知所可行處；三者應器常

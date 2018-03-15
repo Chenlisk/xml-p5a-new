@@ -151,7 +151,7 @@ Added comment  for Emacs
 <lb ed="T" n="0514c29"/>得隨意生。若觀我見，不離道諦，即得彼法，所
 <pb ed="T" n="0515a" xml:id="T14.0472.0515a"/>
 <lb n="0515a01" ed="T"/>作隨意。復於彼法，憶念無惑，於一切法，心無
-<lb ed="T" n="0515a02"/>差別，能如是知，即得遠離不信、<choice><corr>疑</corr><sic>癡</sic></choice>惑、毀謗，
+<lb ed="T" n="0515a02"/>差別，能如是知，即得遠離不信、<note n="0515a0201" resp="CBETA" type="add">疑【CB】，癡【大】</note><app n="0515a0201"><lem wit="【CB】" resp="CBETA">疑</lem><rdg wit="【大】">癡</rdg></app>惑、毀謗，
 <lb ed="T" n="0515a03"/>讚歎得此，解脫一切我苦。我於是時，無有少
 <lb n="0515a04" ed="T"/>分而難作者。若阿羅漢能知此我，彼臨命終
 <lb ed="T" n="0515a05"/>時，自見所生棄捨本心，得佛菩提，隨意所樂
@@ -254,7 +254,7 @@ Added comment  for Emacs
 <lb n="0516a12" ed="T"/>惟。文殊師利！若見一切法，無有邊際，稱無邊
 <lb ed="T" n="0516a13"/>際，平等善說，是為正語。文殊師利！若見一切
 <lb ed="T" n="0516a14"/>法，無有動作，離悲<note type="orig" resp="Taisho" place="foot text" n="0516001"><g ref="#CB02821"/>＝愍【三】【宮】</note>
-<note resp="CBETA" type="mod" n="0516001">慜【麗-CB】【CB】，<g ref="#CB02821"/>【大】，愍【宋】【元】【明】【宮】</note><app n="0516001"><lem resp="CBETA.maha" wit="【CBETA】【麗】">慜<note type="cf1">K33n1099_p0879c08</note></lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">愍</rdg><rdg wit="【大】"><g ref="#CB02821"/></rdg></app>心，本不生故，是為
+<note resp="CBETA" type="mod" n="0516001">慜【CB】【麗-CB】，<g ref="#CB02821"/>【大】，愍【宋】【元】【明】【宮】</note><app n="0516001"><lem resp="CBETA.maha" wit="【CBETA】【麗】">慜<note type="cf1">K33n1099_p0879c08</note></lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">愍</rdg><rdg wit="【大】"><g ref="#CB02821"/></rdg></app>心，本不生故，是為
 <lb ed="T" n="0516a15"/>正業。文殊師利！若於一切法，無喜、無瞋，諸法
 <lb ed="T" n="0516a16"/>不生，是為正命。文殊師利！若於一切法，無有
 <lb ed="T" n="0516a17"/>起滅、無有力用，是為正精進。文殊師利！若於

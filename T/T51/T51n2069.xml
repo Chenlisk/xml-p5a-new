@@ -374,11 +374,11 @@ Added comment for Emacs
 <lb n="0099c09" ed="T"/>眾曰。若有十人不惜身命。常修法華般舟念
 <lb n="0099c10" ed="T"/>佛三昧方等懺悔。行是行者。隨有所須。吾自
 <lb n="0099c11" ed="T"/>供給。必相利益。如無。吾當遠離。苦行事難。
-<lb n="0099c12" ed="T"/>竟無答者。因屏眾<choice><corr>斂</corr><sic>歛</sic></choice>念。泯然命盡。小僧靈
+<lb n="0099c12" ed="T"/>竟無答者。因屏眾<note n="0099c1201" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0099c1201"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>念。泯然命盡。小僧靈
 <lb n="0099c13" ed="T"/>辯見師氣絕。號吼大叫。師便開目曰。汝是惡
 <lb n="0099c14" ed="T"/>魔。我將欲去。眾聖相迎。論受生處。何意驚
 <lb n="0099c15" ed="T"/>動。妨亂吾耶。癡人出去。因更攝心。諦坐至
-<lb n="0099c16" ed="T"/>盡。咸聞異香滿室。頂煗身軟。<note n="0099001" resp="Taisho" place="foot text" type="orig">（顏）＋色ヵ【原】</note><note n="0099001" resp="CBETA" type="mod">色【大】，顏色【考偽-原】</note><app n="0099001"><lem resp="Taisho" wit="【大】">色</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">顏色</rdg></app>如生。春秋
+<lb n="0099c16" ed="T"/>盡。咸聞異香滿室。頂煗身軟。<note n="0099001" resp="Taisho" place="foot text" type="orig">（顏）＋色ヵ【原】</note><note n="0099001" resp="CBETA" type="mod">色ヵ【大】，顏色ヵ【原】</note><app n="0099001"><lem resp="Taisho" wit="【大】">色</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">顏色</rdg></app>如生。春秋
 <lb n="0099c17" ed="T"/>六十有四。即陳太建九年歲次丁酉六月二
 <lb n="0099c18" ed="T"/>十二日也。取驗十年。宛然符合。師平日服布
 <lb n="0099c19" ed="T"/>素。寒則實以艾。徒屬服章率皆如此。凡有著
@@ -501,7 +501,7 @@ Added comment for Emacs
 <lb n="0101a16" ed="T"/>正。瞻望顯博。大師標基刊本。欲建道場。未果
 <lb n="0101a17" ed="T"/>心期。故遺囑斯在。王工入谷。即事修營。置
 <lb n="0101a18" ed="T"/>臬<note place="inline">古公切</note>引繩。一依舊旨。仁壽元年。晉王入
-<lb n="0101a19" ed="T"/>嗣。<choice><corr>采</corr><sic>釆</sic></choice>巡本國。萬里川途。人野畢慶。以檀越昇
+<lb n="0101a19" ed="T"/>嗣。<note n="0101a1901" resp="CBETA" type="add">采【CB】，釆【大】</note><app n="0101a1901"><lem wit="【CB】" resp="CBETA">采</lem><rdg wit="【大】">釆</rdg></app>巡本國。萬里川途。人野畢慶。以檀越昇
 <lb n="0101a20" ed="T"/>位寺宇初成。出山參賀。遂蒙引見。慰問重疊。
 <lb n="0101a21" ed="T"/>酬對如響。言無失厝。臣主榮歎。前遣員外散
 <lb n="0101a22" ed="T"/>騎侍郎張乾威。送還山寺。施物三千段氈三
@@ -513,7 +513,7 @@ Added comment for Emacs
 <lb n="0101a28" ed="T"/>講淨名經。全用智者義疏。判釋經文。禪師既
 <lb n="0101a29" ed="T"/>是大師高足。法門委寄。今遣延屈。必希霈然。
 <pb n="0101b" xml:id="T51.2069.0101b" ed="T"/>
-<lb n="0101b01" ed="T"/>并<note n="0101001" resp="Taisho" place="foot text" type="orig">（法）＋華ヵ【原】</note><note n="0101001" resp="CBETA" type="mod">華【大】，法華【考偽-原】</note><app n="0101001"><lem resp="Taisho" wit="【大】">華</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">法華</rdg></app>經疏。隨使入京也。佇遲來儀。書不盡
+<lb n="0101b01" ed="T"/>并<note n="0101001" resp="Taisho" place="foot text" type="orig">（法）＋華ヵ【原】</note><note n="0101001" resp="CBETA" type="mod">華ヵ【大】，法華ヵ【原】</note><app n="0101001"><lem resp="Taisho" wit="【大】">華</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">法華</rdg></app>經疏。隨使入京也。佇遲來儀。書不盡
 <lb n="0101b02" ed="T"/>意。師持衣負錫。高步入宮。三夏闡弘。副君欣
 <lb n="0101b03" ed="T"/>戴。每至深契。無不伸請。並隨問接對。周統玄
 <lb n="0101b04" ed="T"/>籍後遣信送還。䞋遺隆倍。大業七年。治兵涿

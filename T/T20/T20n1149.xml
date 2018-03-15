@@ -136,7 +136,7 @@ Added comment  for Emacs
 <lb n="0607b10" ed="T"/>天色皆<note n="0607005" resp="Taisho" place="foot text" type="orig">經＝紺ヵ【原】</note><note n="0607005" resp="CBETA" type="mod">經【大】，紺【考偽-原】</note><app n="0607005"><lem resp="Taisho" wit="【大】">經</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">紺</rdg></app>青。地內院黃。中院青。外院赤。下
 <lb n="0607b11" ed="T"/>方四面空青下黃。天厚一寸三分。地厚一寸。</p>
 <lb n="0607b12" ed="T"/><p xml:id="pT20p0607b1201">又八分作之。天盤東<note n="0607006" resp="Taisho" place="foot text" type="orig">面＋（有吽字變成）ヵ【原】</note><note n="0607006" resp="CBETA" type="mod">面【大】，面有吽字變成【考偽-原】</note><app n="0607006"><lem resp="Taisho" wit="【大】">面</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">面有吽字變成</rdg></app>。福智虛空藏菩薩
-<lb n="0607b13" ed="T"/><note n="0607007" resp="Taisho" place="foot text" type="orig">〔像畫〕－ヵ【原】</note><note n="0607007" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔像畫〕－ヵ【原】</note><app n="0607007"><lem resp="Taisho" wit="【大】">像畫</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。坐白寶蓮華。戴五佛寶冠。以種種瓔
+<lb n="0607b13" ed="T"/><note n="0607007" resp="Taisho" place="foot text" type="orig">〔像畫〕－ヵ【原】</note><note n="0607007" resp="CBETA" type="mod">像畫【大】，〔－〕【考偽-原】</note><app n="0607007"><lem resp="Taisho" wit="【大】">像畫</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。坐白寶蓮華。戴五佛寶冠。以種種瓔
 <lb n="0607b14" ed="T"/>珞身嚴飾。右手施無畏。左手持寶蓮華。華上
 <lb n="0607b15" ed="T"/>有羯磨杵。形色黃。南方有怛洛字。變成能滿
 <lb n="0607b16" ed="T"/>虛空藏菩薩。坐赤蓮華。頂有五佛寶冠。莊嚴
@@ -168,7 +168,7 @@ Added comment  for Emacs
 <lb n="0607c12" ed="T"/><p xml:id="pT20p0607c1201">東方菩薩呪曰。</p>
 <lb n="0607c13" ed="T"/><p xml:id="pT20p0607c1301" cb:type="dharani">唵嚩<note n="0607c1301" resp="CBETA" type="add">日【CB】，曰【大】</note><app n="0607c1301"><lem wit="【CB】" resp="CBETA.maha">日</lem><rdg wit="【大】">曰</rdg></app>羅<note place="inline">二合</note>吽<note place="inline">欲求官位正命者</note></p>
 <lb n="0607c14" ed="T"/><p xml:id="pT20p0607c1401">南方菩薩呪曰。</p>
-<lb n="0607c15" ed="T"/><p xml:id="pT20p0607c1501" cb:type="dharani">唵嚩<note n="0607c1501" resp="CBETA" type="add">日【CB】，曰【大】</note><app n="0607c1501"><lem wit="【CB】" resp="CBETA.maha">日</lem><rdg wit="【大】">曰</rdg></app>羅<note place="inline">二合</note><note n="0607011" resp="Taisho" place="foot text" type="orig">〔曩〕－ヵ【原】</note><note n="0607011" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔曩〕－ヵ【原】</note><app n="0607011"><lem resp="Taisho" wit="【大】">曩</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>怛洛<note place="inline">二合</note><note place="inline">欲求富貴智惠者</note></p>
+<lb n="0607c15" ed="T"/><p xml:id="pT20p0607c1501" cb:type="dharani">唵嚩<note n="0607c1501" resp="CBETA" type="add">日【CB】，曰【大】</note><app n="0607c1501"><lem wit="【CB】" resp="CBETA.maha">日</lem><rdg wit="【大】">曰</rdg></app>羅<note place="inline">二合</note><note n="0607011" resp="Taisho" place="foot text" type="orig">〔曩〕－ヵ【原】</note><note n="0607011" resp="CBETA" type="mod">曩【大】，〔－〕【考偽-原】</note><app n="0607011"><lem resp="Taisho" wit="【大】">曩</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>怛洛<note place="inline">二合</note><note place="inline">欲求富貴智惠者</note></p>
 <lb n="0607c16" ed="T"/><p xml:id="pT20p0607c1601">西方菩薩呪曰。</p>
 <lb n="0607c17" ed="T"/><p xml:id="pT20p0607c1701" cb:type="dharani">唵嚩<note n="0607c1701" resp="CBETA" type="add">日【CB】，曰【大】</note><app n="0607c1701"><lem wit="【CB】" resp="CBETA.maha">日</lem><rdg wit="【大】">曰</rdg></app>羅<note place="inline">二合</note>紇哩<note place="inline">入</note><note place="inline">欲求敬愛者</note></p>
 <lb n="0607c18" ed="T"/><p xml:id="pT20p0607c1801">北方菩薩呪曰。</p>
@@ -291,7 +291,7 @@ Added comment  for Emacs
 <lb n="0609a15" ed="T"/><cb:div type="w"><p xml:id="pT20p0609a1501">於仁和寺皆明寺。以拇尾山法鼓臺本書
 <lb n="0609a16" ed="T"/>寫畢　于時天明二壬寅年秋八月四日夜。
 <lb n="0609a17" ed="T"/>燈下閣筆。</p>
-<lb n="0609a18" ed="T"/><p xml:id="pT20p0609a1801">覺禪抄云。式經一卷真偽可尋。　<note n="0609003" resp="Taisho" place="foot text" type="orig">〔智積院〕－ヵ【原】</note><note n="0609003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔智積院〕－ヵ【原】</note><app n="0609003"><lem resp="Taisho" wit="【大】">智積院</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
+<lb n="0609a18" ed="T"/><p xml:id="pT20p0609a1801">覺禪抄云。式經一卷真偽可尋。　<note n="0609003" resp="Taisho" place="foot text" type="orig">〔智積院〕－ヵ【原】</note><note n="0609003" resp="CBETA" type="mod">智積院【大】，〔－〕【考偽-原】</note><app n="0609003"><lem resp="Taisho" wit="【大】">智積院</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>
 <lb n="0609a19" ed="T"/>東武慈忍</p>
 <lb n="0609a20" ed="T"/><p xml:id="pT20p0609a2001">享和元年次辛酉八月二日。以智積慈<note n="0609004" resp="Taisho" place="foot text" type="orig">忍＝順ヵ【原】</note><note n="0609004" resp="CBETA" type="mod">忍【大】，順【考偽-原】</note><app n="0609004"><lem resp="Taisho" wit="【大】">忍</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">順</rdg></app>
 <lb n="0609a21" ed="T"/>師本令寫。而挍正加點以印行。　豐山長

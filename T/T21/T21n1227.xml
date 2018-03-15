@@ -321,7 +321,7 @@ Added comment  for Emacs
 <lb n="0144b02" ed="T"/>而入。</p>
 <lb n="0144b03" ed="T"/><p xml:id="pT21p0144b0301">若有龍水岸布像。作火壇燒鹽滿一千八。龍
 <lb n="0144b04" ed="T"/>出受命隨意驅使。</p>
-<lb n="0144b05" ed="T"/><p xml:id="pT21p0144b0501">若先絕食三日。置像審銘柴<note place="inline"><app type="star" corresp="#0143005"><lem wit="【大】">唐</lem><rdg resp="Taisho" wit="【明】【甲】">此</rdg></app><note n="0144012" resp="Taisho" place="foot text" type="orig">言＝云【三】【甲】＊</note><note n="0144012" resp="CBETA" type="mod">言【大】＊，云【宋】【元】【明】【甲】＊</note><app n="0144012"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">云</rdg></app>苟<choice><corr>杞</corr><sic>𣏌</sic></choice></note>作火壇。
+<lb n="0144b05" ed="T"/><p xml:id="pT21p0144b0501">若先絕食三日。置像審銘柴<note place="inline"><app type="star" corresp="#0143005"><lem wit="【大】">唐</lem><rdg resp="Taisho" wit="【明】【甲】">此</rdg></app><note n="0144012" resp="Taisho" place="foot text" type="orig">言＝云【三】【甲】＊</note><note n="0144012" resp="CBETA" type="mod">言【大】＊，云【宋】【元】【明】【甲】＊</note><app n="0144012"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">云</rdg></app>苟<note n="0144b0501" resp="CBETA" type="add">杞【CB】，𣏌【大】</note><app n="0144b0501"><lem wit="【CB】" resp="CBETA">杞</lem><rdg wit="【大】">𣏌</rdg></app></note>作火壇。
 <lb n="0144b06" ed="T"/>芥子油和芥子燒滿一千八。能召一切人天。</p>
 <lb n="0144b07" ed="T"/><p xml:id="pT21p0144b0701">若以鹽成悉底哩置像。作火壇片片割進火
 <lb n="0144b08" ed="T"/>中。日三時令盡滿七日。稱名百由旬內至。</p>
@@ -529,7 +529,7 @@ Added comment  for Emacs
 <pb n="0146c" xml:id="T21.1227.0146c" ed="T"/>
 <lb n="0146c01" ed="T"/><p xml:id="pT21p0146c0101">若黑月八日供養像華。和欝金華。進火中一
 <lb n="0146c02" ed="T"/>日三時。時一千八滿七日大富。</p>
-<lb n="0146c03" ed="T"/><p xml:id="pT21p0146c0301">若有龍水邊。白月<note n="0146021" resp="Taisho" place="foot text" type="orig">（十）ヵ＋五【甲】</note><note n="0146021" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（十）ヵ＋五【甲】</note><app n="0146021"><lem resp="Taisho" wit="【大】">五</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">十五</rdg></app>日布像。供養龍腦香龍
+<lb n="0146c03" ed="T"/><p xml:id="pT21p0146c0301">若有龍水邊。白月<note n="0146021" resp="Taisho" place="foot text" type="orig">（十）ヵ＋五【甲】</note><note n="0146021" resp="CBETA" type="mod">五【大】，十五【考偽-甲】</note><app n="0146021"><lem resp="Taisho" wit="【大】">五</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">十五</rdg></app>日布像。供養龍腦香龍
 <lb n="0146c04" ed="T"/>華鬚。和進火中滿十萬。其龍貴敬得寶珠十
 <lb n="0146c05" ed="T"/>萬顆。</p>
 <lb n="0146c06" ed="T"/><p xml:id="pT21p0146c0601">若黑月八日大自在天王廟中。一內阿底目
@@ -711,7 +711,7 @@ Added comment  for Emacs
 <lb n="0148c01" ed="T"/>畜增長。</p>
 <lb n="0148c02" ed="T"/><p xml:id="pT21p0148c0201">復次以白檀香木。<note n="0148018" resp="Taisho" place="foot text" type="orig">刻＝剋【宋】【元】下同</note><note n="0148018" resp="CBETA" type="mod">刻【大】下同，剋【宋】【元】下同</note><app n="0148018"><lem wit="【大】">刻</lem><rdg resp="Taisho" wit="【宋】【元】">剋</rdg></app>本尊長六指。行者頂戴
 <lb n="0148c03" ed="T"/>水中立至項。盡日持<note n="0148019" resp="Taisho" place="foot text" type="orig">密＝蜜【明】</note><note n="0148019" resp="CBETA" type="mod">密【大】，蜜【明】</note><app n="0148019"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【明】">蜜</rdg></app>言。家內行疫鬼死。
-<lb n="0148c04" ed="T"/>三日作。城內疫差鬼去。七日作。境內<note n="0148020" resp="Taisho" place="foot text" type="orig">（疫）ヵ＋差【甲】</note><note n="0148020" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（疫）ヵ＋差【甲】</note><app n="0148020"><lem resp="Taisho" wit="【大】">差</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">疫差</rdg></app>鬼
+<lb n="0148c04" ed="T"/>三日作。城內疫差鬼去。七日作。境內<note n="0148020" resp="Taisho" place="foot text" type="orig">（疫）ヵ＋差【甲】</note><note n="0148020" resp="CBETA" type="mod">差【大】，疫差【考偽-甲】</note><app n="0148020"><lem resp="Taisho" wit="【大】">差</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">疫差</rdg></app>鬼
 <lb n="0148c05" ed="T"/>去。若以阿說他木。與前壇像作座。以牛糞於
 <lb n="0148c06" ed="T"/>路上作壇安像供養。然牛酥燈。像面向西行
 <lb n="0148c07" ed="T"/>者面東。坐草團上捧白<note n="0148021" resp="Taisho" place="foot text" type="orig">檀＝壇【明】</note><note n="0148021" resp="CBETA" type="mod">檀【大】，壇【明】</note><app n="0148021"><lem wit="【大】">檀</lem><rdg resp="Taisho" wit="【明】">壇</rdg></app>香水以奉請。密言
@@ -1104,7 +1104,7 @@ Added comment  for Emacs
 <lb n="0153a03" ed="T"/>白芥子以身血相和。進火中一日三時時別
 <lb n="0153a04" ed="T"/>一千八<note n="0153001" resp="Taisho" place="foot text" type="orig">遍＋（遍）【三】【甲】</note><note n="0153001" resp="CBETA" type="mod">遍【大】，遍遍【宋】【元】【明】【甲】</note><app n="0153001"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">遍遍</rdg></app>。稱彼名貴敬。</p>
 <lb n="0153a05" ed="T"/><p xml:id="pT21p0153a0501">若以鹽作彼形。<note n="0153002" resp="Taisho" place="foot text" type="orig">後＝從ィ【甲】</note><note n="0153002" resp="CBETA" type="mod">後【大】，從【校異-甲】</note><app n="0153002"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">從</rdg></app>右脚<note n="0153003" resp="Taisho" place="foot text" type="orig">稔＝捻【三】【甲】</note><note n="0153003" resp="CBETA" type="mod">稔【大】，捻【宋】【元】【明】【甲】</note><app n="0153003"><lem wit="【大】">稔</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">捻</rdg></app>。進火中一日三
-<lb n="0153a06" ed="T"/>時時一千<note n="0153004" resp="Taisho" place="foot text" type="orig">〔一百〕－ヵ【甲】</note><note n="0153004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔一百〕－ヵ【甲】</note><app n="0153004"><lem resp="Taisho" wit="【大】">一百</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>八遍。滿一七日王者貴敬。</p>
+<lb n="0153a06" ed="T"/>時時一千<note n="0153004" resp="Taisho" place="foot text" type="orig">〔一百〕－ヵ【甲】</note><note n="0153004" resp="CBETA" type="mod">一百【大】，〔－〕【考偽-甲】</note><app n="0153004"><lem resp="Taisho" wit="【大】">一百</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>八遍。滿一七日王者貴敬。</p>
 <lb n="0153a07" ed="T"/><p xml:id="pT21p0153a0701">若但稱彼名。一日三時<note n="0153005" resp="Taisho" place="foot text" type="orig">〔時〕－【三】</note><note n="0153005" resp="CBETA" type="mod">時【大】，〔－〕【宋】【元】【明】</note><app n="0153005"><lem wit="【大】">時</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>一千八遍滿一七
 <lb n="0153a08" ed="T"/>日。欲召帝釋猶尚得至。</p>
 <lb n="0153a09" ed="T"/><p xml:id="pT21p0153a0901">若鹽和己身血。進火中一日三時時一千八
@@ -1145,7 +1145,7 @@ Added comment  for Emacs
 <lb n="0153b14" ed="T"/>寧。次後多囉及毘俱胝明妃菩薩。左馬頭<note n="0153019" resp="Taisho" place="foot text" type="orig">（明）＋王【甲】</note><note n="0153019" resp="CBETA" type="mod">王【大】，明王【甲】</note><app n="0153019"><lem wit="【大】">王</lem><rdg resp="Taisho" wit="【甲】">明王</rdg></app>
 <lb n="0153b15" ed="T"/>大怒形。次左大吉祥天女。次左摩訶濕吠帝
 <lb n="0153b16" ed="T"/>遶佛<note n="0153020" resp="Taisho" place="foot text" type="orig">住＝任【甲】</note><note n="0153020" resp="CBETA" type="mod">住【大】，任【甲】</note><app n="0153020"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】">任</rdg></app>畫諸大菩薩。西門裏左右各畫一忿
-<lb n="0153b17" ed="T"/>怒。南邊者一手執<note n="0153021" resp="Taisho" place="foot text" type="orig">打＝杵【三】【甲】</note><note n="0153021" resp="CBETA" type="mod">打【大】，杵【宋】【元】【明】【甲】</note><app n="0153021"><lem wit="【大】">打</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">杵</rdg></app><note n="0153022" resp="Taisho" place="foot text" type="orig">（一手）ヵ＋車【甲】</note><note n="0153022" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（一手）ヵ＋車【甲】</note><app n="0153022"><lem resp="Taisho" wit="【大】">車</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一手車</rdg></app>棒。北邊者一手杵
+<lb n="0153b17" ed="T"/>怒。南邊者一手執<note n="0153021" resp="Taisho" place="foot text" type="orig">打＝杵【三】【甲】</note><note n="0153021" resp="CBETA" type="mod">打【大】，杵【宋】【元】【明】【甲】</note><app n="0153021"><lem wit="【大】">打</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】">杵</rdg></app><note n="0153022" resp="Taisho" place="foot text" type="orig">（一手）ヵ＋車【甲】</note><note n="0153022" resp="CBETA" type="mod">車【大】，一手車【考偽-甲】</note><app n="0153022"><lem resp="Taisho" wit="【大】">車</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一手車</rdg></app>棒。北邊者一手杵
 <lb n="0153b18" ed="T"/>一手娜拏。東門內北邊青金剛一手<note n="0153023" resp="Taisho" place="foot text" type="orig">竪＋（指）【甲】</note><note n="0153023" resp="CBETA" type="mod">竪【大】，竪指【甲】</note><app n="0153023"><lem wit="【大】">竪</lem><rdg resp="Taisho" wit="【甲】">竪指</rdg></app>擬之。
 <lb n="0153b19" ed="T"/>南邊阿吒<note n="0153024" resp="Taisho" place="foot text" type="orig">〔吒〕－【三】</note><note n="0153024" resp="CBETA" type="mod">吒【大】，〔－〕【宋】【元】【明】</note><app n="0153024"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>訶索笑勢。<note n="0153025" resp="Taisho" place="foot text" type="orig">南＝西【三】</note><note n="0153025" resp="CBETA" type="mod">南【大】，西【宋】【元】【明】</note><app n="0153025"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【宋】【元】【明】">西</rdg></app>門內東邊惹瀾
 <lb n="0153b20" ed="T"/>多者嚕。西邊波娜寧估廁波。北門內東邊訥
@@ -1331,7 +1331,7 @@ Added comment  for Emacs
 <lb n="0155b22" ed="T"/><p xml:id="pT21p0155b2201">若於山頂布像誦十萬遍。後有業輪稱吽字
 <lb n="0155b23" ed="T"/>止矣。關鎖開解。摧山竭海。</p>
 <lb n="0155b24" ed="T"/><p xml:id="pT21p0155b2401">若於吉祥門首布像。芥子和己血。進火中一
-<lb n="0155b25" ed="T"/>千八遍脩羅女出。執行者<note n="0155018" resp="Taisho" place="foot text" type="orig">（手）ヵ＋入【甲】</note><note n="0155018" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（手）ヵ＋入【甲】</note><app n="0155018"><lem resp="Taisho" wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">手入</rdg></app>其宮。</p>
+<lb n="0155b25" ed="T"/>千八遍脩羅女出。執行者<note n="0155018" resp="Taisho" place="foot text" type="orig">（手）ヵ＋入【甲】</note><note n="0155018" resp="CBETA" type="mod">入【大】，手入【考偽-甲】</note><app n="0155018"><lem resp="Taisho" wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">手入</rdg></app>其宮。</p>
 <lb n="0155b26" ed="T"/><p xml:id="pT21p0155b2601">若以牛五淨洗麼沙。月蝕勿看月。口<note n="0155019" resp="Taisho" place="foot text" type="orig">含＝舍【明】</note><note n="0155019" resp="CBETA" type="mod">含【大】，舍【明】</note><app n="0155019"><lem wit="【大】">含</lem><rdg resp="Taisho" wit="【明】">舍</rdg></app>持
 <lb n="0155b27" ed="T"/>明。<note n="0155020" resp="Taisho" place="foot text" type="orig">復＝蝕ィ【甲】</note><note n="0155020" resp="CBETA" type="mod">復【大】，蝕【校異-甲】</note><app n="0155020"><lem wit="【大】">復</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">蝕</rdg></app>止。麼沙生牙。後以擲人相敬。不生牙
 <lb n="0155b28" ed="T"/>擲人尾娜末沙曩。</p>

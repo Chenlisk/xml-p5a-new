@@ -321,7 +321,7 @@ Added comment  for Emacs
 <lb n="0092a28" ed="T"/><p xml:id="pT18p0092a2801">爾時世尊。入降伏四魔三昧。說以滿足句。普
 <lb n="0092a29" ed="T"/>通印。</p>
 <pb n="0092b" xml:id="T18.0851.0092b" ed="T"/>
-<lb n="0092b01" ed="T"/><p xml:id="pT18p0092b0101"><note n="0092001" resp="Taisho" place="foot text" type="orig">（加）ヵ＋五處【原】</note><note n="0092001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（加）ヵ＋五處【原】</note><app n="0092001"><lem resp="Taisho" wit="【大】">五處</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">加五處</rdg></app>。彼真言曰。</p>
+<lb n="0092b01" ed="T"/><p xml:id="pT18p0092b0101"><note n="0092001" resp="Taisho" place="foot text" type="orig">（加）ヵ＋五處【原】</note><note n="0092001" resp="CBETA" type="mod">五處【大】，加五處【考偽-原】</note><app n="0092001"><lem resp="Taisho" wit="【大】">五處</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">加五處</rdg></app>。彼真言曰。</p>
 <lb n="0092b02" ed="T"/><p xml:id="pT18p0092b0201" cb:type="dharani">唵<note place="inline">一</note>薩嚩他<note place="inline">二</note>欠<note place="inline">三</note>嗢那蘖諦薩叵囉呬𤚥<note place="inline">四</note>誐
 <lb n="0092b03" ed="T"/>誐那劍<note place="inline">五</note>娑嚩<note place="inline">二合</note>賀</p>
 <lb n="0092b04" ed="T"/><lg xml:id="lgT18p0092b0401"><l>由真言印力</l><l>能降伏四魔</l>
@@ -369,19 +369,19 @@ Added comment  for Emacs
 <lb n="0092c16" ed="T"/><p xml:id="pT18p0092c1601" cb:type="dharani">歸命<note place="inline">一</note>欠</p><lg xml:id="lgT18p0092c1605" cb:place="inline"><l>次上觀唅字</l>
 <lb n="0092c17" ed="T"/><l>形如仰半月</l><l>青黑生大風</l>
 <lb n="0092c18" ed="T"/><l>威怒有大力</l><l>能持十方國</l>
-<lb n="0092c19" ed="T"/><l>故名大風輪</l></lg><p xml:id="pT18p0092c1906" rend="inline">彼真言曰</p><p xml:id="pT18p0092c1910" cb:type="dharani" rend="inline"><note n="0092004" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋唅【原】</note><note n="0092004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（歸命）ィ＋唅【原】</note><app n="0092004"><lem wit="【大】">唅</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命唅</rdg></app></p>
+<lb n="0092c19" ed="T"/><l>故名大風輪</l></lg><p xml:id="pT18p0092c1906" rend="inline">彼真言曰</p><p xml:id="pT18p0092c1910" cb:type="dharani" rend="inline"><note n="0092004" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋唅【原】</note><note n="0092004" resp="CBETA" type="mod">唅【大】，歸命唅【校異-原】</note><app n="0092004"><lem wit="【大】">唅</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命唅</rdg></app></p>
 <lb n="0092c20" ed="T"/><lg xml:id="lgT18p0092c2001"><l>次上觀㘕字</l><l>三角生猛焰</l>
 <lb n="0092c21" ed="T"/><l>猶如劫災火</l><l>故名大火輪</l></lg>
-<lb n="0092c22" ed="T"/><p xml:id="pT18p0092c2201">彼真言曰</p><p xml:id="pT18p0092c2205" cb:type="dharani" rend="inline"><note n="0092005" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋㘕【原】</note><note n="0092005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（歸命）ィ＋㘕【原】</note><app n="0092005"><lem wit="【大】">㘕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命㘕</rdg></app></p>
+<lb n="0092c22" ed="T"/><p xml:id="pT18p0092c2201">彼真言曰</p><p xml:id="pT18p0092c2205" cb:type="dharani" rend="inline"><note n="0092005" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋㘕【原】</note><note n="0092005" resp="CBETA" type="mod">㘕【大】，歸命㘕【校異-原】</note><app n="0092005"><lem wit="【大】">㘕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命㘕</rdg></app></p>
 <lb n="0092c23" ed="T"/><lg xml:id="lgT18p0092c2301"><l>次上觀嚩字</l><l>形如月九重</l>
 <lb n="0092c24" ed="T"/><l>光輪潔白色</l><l>在於霧聚中</l>
 <lb n="0092c25" ed="T"/><l>能雨一切水</l><l>充滿大千界</l>
-<lb n="0092c26" ed="T"/><l>故名大水輪</l></lg><p xml:id="pT18p0092c2606" rend="inline">彼真言曰</p><p xml:id="pT18p0092c2610" cb:type="dharani" rend="inline"><note n="0092006" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋鑁【原】</note><note n="0092006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（歸命）ィ＋鑁【原】</note><app n="0092006"><lem wit="【大】">鑁</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命鑁</rdg></app></p>
+<lb n="0092c26" ed="T"/><l>故名大水輪</l></lg><p xml:id="pT18p0092c2606" rend="inline">彼真言曰</p><p xml:id="pT18p0092c2610" cb:type="dharani" rend="inline"><note n="0092006" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋鑁【原】</note><note n="0092006" resp="CBETA" type="mod">鑁【大】，歸命鑁【校異-原】</note><app n="0092006"><lem wit="【大】">鑁</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命鑁</rdg></app></p>
 <lb n="0092c27" ed="T"/><lg xml:id="lgT18p0092c2701"><l>次上觀阿字</l><l>色如黃金聚</l>
 <lb n="0092c28" ed="T"/><l>其相方廣大</l><l>非以數量測</l>
 <lb n="0092c29" ed="T"/><l>性堅實難壞</l><l>力持剎塵國</l>
 <pb n="0093a" xml:id="T18.0851.0093a" ed="T"/>
-<lb n="0093a01" ed="T"/><l>名金剛地輪</l></lg><p xml:id="pT18p0093a0106" rend="inline">彼真言曰</p><p xml:id="pT18p0093a0110" cb:type="dharani" rend="inline"><note n="0093001" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋阿【原】＊</note><note n="0093001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（歸命）ィ＋阿【原】＊</note><app n="0093001"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命阿</rdg></app></p>
+<lb n="0093a01" ed="T"/><l>名金剛地輪</l></lg><p xml:id="pT18p0093a0106" rend="inline">彼真言曰</p><p xml:id="pT18p0093a0110" cb:type="dharani" rend="inline"><note n="0093001" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋阿【原】＊</note><note n="0093001" resp="CBETA" type="mod">阿【大】＊，歸命阿【校異-原】＊</note><app n="0093001"><lem wit="【大】">阿</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命阿</rdg></app></p>
 <lb n="0093a02" ed="T"/><lg xml:id="lgT18p0093a0201"><l>金剛滿足句</l><l>三念普通明</l>
 <lb n="0093a03" ed="T"/><l>加持成五輪</l></lg><p xml:id="pT18p0093a0306" rend="inline">彼真言曰</p>
 <lb n="0093a04" ed="T"/><p xml:id="pT18p0093a0401" cb:type="dharani">唵<note place="inline">一</note>薩嚩他<note place="inline">二</note>欠<note place="inline">三</note>嗢那蘖諦薩叵囉呬𤚥<note place="inline">四</note>誐
@@ -592,7 +592,7 @@ Added comment  for Emacs
 <lb n="0095a29" ed="T"/><l>所積眾罪垢</l><l>由是悉除滅</l>
 <pb n="0095b" xml:id="T18.0851.0095b" ed="T"/>
 <lb n="0095b01" ed="T"/><l><note n="0095003" resp="Taisho" place="foot text" type="orig">原本冠註曰定慧風圓滿經作福慧皆圓滿</note>定慧風圓滿</l><l>印同法界生</l></lg>
-<lb n="0095b02" ed="T"/><p xml:id="pT18p0095b0201">彼真言曰</p><p xml:id="pT18p0095b0205" cb:type="dharani" rend="inline"><note n="0095004" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋囕【原】</note><note n="0095004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（歸命）ィ＋囕【原】</note><app n="0095004"><lem wit="【大】">囕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命囕</rdg></app></p>
+<lb n="0095b02" ed="T"/><p xml:id="pT18p0095b0201">彼真言曰</p><p xml:id="pT18p0095b0205" cb:type="dharani" rend="inline"><note n="0095004" resp="Taisho" place="foot text" type="orig">（歸命）ィ＋囕【原】</note><note n="0095004" resp="CBETA" type="mod">囕【大】，歸命囕【校異-原】</note><app n="0095004"><lem wit="【大】">囕</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">歸命囕</rdg></app></p>
 <lb n="0095b03" ed="T"/><lg xml:id="lgT18p0095b0301"><l>真言同法界</l><l>無量眾罪除</l>
 <lb n="0095b04" ed="T"/><l>不久當成就</l><l>住於不退地</l>
 <lb n="0095b05" ed="T"/><l>一切觸穢處</l><l>當加此字門</l>
@@ -1321,7 +1321,7 @@ Added comment  for Emacs
 <lb n="0103b07" ed="T"/><lg xml:id="lgT18p0103b0701"><l>次右蓮華中</l><l>觀賜字法門</l>
 <lb n="0103b08" ed="T"/><l>本寂光殊勝</l><l>定慧手輪印</l>
 <lb n="0103b09" ed="T"/><l>轉成最勝頂</l></lg><p xml:id="pT18p0103b0906" rend="inline">彼真言曰</p>
-<lb n="0103b10" ed="T"/><p xml:id="pT18p0103b1001" cb:type="dharani"><note place="inline">一</note><note n="0103002" resp="Taisho" place="foot text" type="orig">（賜枲二）ヵ＋尾【原】</note><note n="0103002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（賜枲二）ヵ＋尾【原】</note><app n="0103002"><lem resp="Taisho" wit="【大】">尾</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">賜枲二尾</rdg></app>惹欲鄔瑟抳<note place="inline">二合</note>灑<note place="inline">三</note>娑嚩<note place="inline">二合</note>賀</p>
+<lb n="0103b10" ed="T"/><p xml:id="pT18p0103b1001" cb:type="dharani"><note place="inline">一</note><note n="0103002" resp="Taisho" place="foot text" type="orig">（賜枲二）ヵ＋尾【原】</note><note n="0103002" resp="CBETA" type="mod">尾【大】，賜枲二尾【考偽-原】</note><app n="0103002"><lem resp="Taisho" wit="【大】">尾</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">賜枲二尾</rdg></app>惹欲鄔瑟抳<note place="inline">二合</note>灑<note place="inline">三</note>娑嚩<note place="inline">二合</note>賀</p>
 <lb n="0103b11" ed="T"/><lg xml:id="lgT18p0103b1101"><l>次左蓮華中</l><l>觀怛陵<note place="inline">二合</note>字法門</l>
 <lb n="0103b12" ed="T"/><l>一切法如本</l><l>自性無垢身</l>
 <lb n="0103b13" ed="T"/><l>光明遍十方</l><l>轉成火聚頂</l>

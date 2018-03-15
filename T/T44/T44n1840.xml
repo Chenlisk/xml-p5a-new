@@ -183,7 +183,7 @@ Added comment  for Emacs
 <lb n="0091b28" ed="T"/>前賢之不覿。咸貫情樞。於是。貝葉撰於微言。
 <lb n="0091b29" ed="T"/>家邦返以神足。方言既譯。道理攸暢。基。謬
 <pb n="0091c" xml:id="T44.1840.0091c" ed="T"/>
-<lb n="0091c01" ed="T"/><note n="0091010" resp="Taisho" place="foot text" type="orig"><g ref="#CB13727"/>＝參ィ【原】，參【甲】</note><note n="0091010" resp="CBETA" type="mod">參【甲】【CB】，<g ref="#CB13727"/>【大】，參【校異Ａ-原】</note><app n="0091010"><lem wit="【CBETA】" resp="CBETA.maha">參<note type="cf1">X53n0844_p0568b08</note></lem><rdg wit="【大】"><g ref="#CB13727"/></rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">參</rdg><rdg resp="Taisho" wit="【甲】">參</rdg></app>資列。欣夕死於朝聞。恐此道不行。乃略
+<lb n="0091c01" ed="T"/><note n="0091010" resp="Taisho" place="foot text" type="orig"><g ref="#CB13727"/>＝參ィ【原】，參【甲】</note><note n="0091010" resp="CBETA" type="mod">參【CB】【甲】，<g ref="#CB13727"/>【大】，參【校異Ａ-原】</note><app n="0091010"><lem wit="【CBETA】" resp="CBETA.maha">參<note type="cf1">X53n0844_p0568b08</note></lem><rdg wit="【大】"><g ref="#CB13727"/></rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">參</rdg><rdg resp="Taisho" wit="【甲】">參</rdg></app>資列。欣夕死於朝聞。恐此道不行。乃略
 <lb n="0091c02" ed="T"/>述<note n="0091011" resp="Taisho" place="foot text" type="orig">閱＝開【甲】</note><note n="0091011" resp="CBETA" type="mod">閱【大】，開【甲】</note><app n="0091011"><lem wit="【大】">閱</lem><rdg resp="Taisho" wit="【甲】">開</rdg></app>釋。示紀綱之旨。陳幽隱之宗。庶明懸
 <lb n="0091c03" ed="T"/>智鏡者。幸留心<note n="0091012" resp="Taisho" place="foot text" type="orig">〔而〕－【甲】</note><note n="0091012" resp="CBETA" type="mod">而【大】，〔－〕【甲】</note><app n="0091012"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>鑒照矣。</p>
 <lb n="0091c04" ed="T"/><p xml:id="pT44p0091c0401">今此論中。略以四門分別。一敘所因。二釋題
@@ -250,7 +250,7 @@ Added comment  for Emacs
 <lb n="0092b05" ed="T"/>曉之義今曉。所曉宗稱正理。所生智名為入。
 <lb n="0092b06" ed="T"/>因與明異。俱是因名。正理入殊。咸為果稱。由
 <lb n="0092b07" ed="T"/>言生因故。敵者入解所宗。由智了明故。立者
-<lb n="0092b08" ed="T"/>正理方顯。應云正理之入。<note n="0092001" resp="Taisho" place="foot text" type="orig">（入）ィ＋入【原】</note><note n="0092001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（入）ィ＋入【原】</note><app n="0092001"><lem wit="【大】">入</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">入入</rdg></app>正理之因明。
+<lb n="0092b08" ed="T"/>正理方顯。應云正理之入。<note n="0092001" resp="Taisho" place="foot text" type="orig">（入）ィ＋入【原】</note><note n="0092001" resp="CBETA" type="mod">入【大】，入入【校異Ａ-原】</note><app n="0092001"><lem wit="【大】">入</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">入入</rdg></app>正理之因明。
 <lb n="0092b09" ed="T"/>並依主釋也。立論雖假言生。方生敵論之智。
 <lb n="0092b10" ed="T"/>必資智義始有言生。敵者雖假智了。方解所
 <lb n="0092b11" ed="T"/>立之宗。必藉義言方有智了。故雖但標言生
@@ -401,7 +401,7 @@ Added comment  for Emacs
 <lb n="0094a09" ed="T"/>無合。義乃不明。倒合倒成。故說為過。離因及
 <lb n="0094a10" ed="T"/>喻。都無勝體。故不說在真能立中。但說因初。
 <lb n="0094a11" ed="T"/>喻隨其後。合義已明。重說有結。一何煩長。故
-<lb n="0094a12" ed="T"/>總略之。立論。<note n="0094002" resp="Taisho" place="foot text" type="orig">（之）ィ＋者【原】</note><note n="0094002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（之）ィ＋者【原】</note><app n="0094002"><lem wit="【大】">者</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之者</rdg></app>現量等三。疎有悟他。故名
+<lb n="0094a12" ed="T"/>總略之。立論。<note n="0094002" resp="Taisho" place="foot text" type="orig">（之）ィ＋者【原】</note><note n="0094002" resp="CBETA" type="mod">者【大】，之者【校異Ａ-原】</note><app n="0094002"><lem wit="【大】">者</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之者</rdg></app>現量等三。疎有悟他。故名
 <lb n="0094a13" ed="T"/>能立。敵論者現量等三。親唯自悟。故非能立。
 <lb n="0094a14" ed="T"/>今者陳那因喻為能立。宗為所立。自性差別
 <lb n="0094a15" ed="T"/>二並極成。但是宗依未成所諍。合以成宗。不
@@ -414,7 +414,7 @@ Added comment  for Emacs
 <lb n="0094a22" ed="T"/>三釋。一云。宗言所詮義為所立。故瑜伽論第
 <lb n="0094a23" ed="T"/>十五云。所成立義有二種。一自性。二差別。能
 <lb n="0094a24" ed="T"/>成立法有八種。其宗能詮之言。及因等言義。
-<lb n="0094a25" ed="T"/>皆名能立。其宗<note n="0094003" resp="Taisho" place="foot text" type="orig">（之）ィ＋言【原】</note><note n="0094003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（之）ィ＋言【原】</note><app n="0094003"><lem wit="【大】">言</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之言</rdg></app>。因喻成故。雖亦所立。彼
+<lb n="0094a25" ed="T"/>皆名能立。其宗<note n="0094003" resp="Taisho" place="foot text" type="orig">（之）ィ＋言【原】</note><note n="0094003" resp="CBETA" type="mod">言【大】，之言【校異Ａ-原】</note><app n="0094003"><lem wit="【大】">言</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之言</rdg></app>。因喻成故。雖亦所立。彼
 <lb n="0094a26" ed="T"/>於論說。何故先立宗耶。為先顯示自所愛樂
 <lb n="0094a27" ed="T"/>宗義。故亦所立。非定所立。能成義故。猶如於
 <lb n="0094a28" ed="T"/>因。<note n="0094004" resp="Taisho" place="foot text" type="orig">喻＝對【甲】</note><note n="0094004" resp="CBETA" type="mod">喻【大】，對【甲】</note><app n="0094004"><lem wit="【大】">喻</lem><rdg resp="Taisho" wit="【甲】">對</rdg></app>所成故。但名能立。宗所詮義。定唯所
@@ -497,7 +497,7 @@ Added comment  for Emacs
 <lb n="0095a15" ed="T"/>切故者。皆體是常。猶如虛空。何得乃以一切
 <lb n="0095a16" ed="T"/>皆是無常之因。立常宗也。復云此因非有。以
 <lb n="0095a17" ed="T"/>聲攝在一切中故。陳那意言。此古所引一切
-<lb n="0095a18" ed="T"/>皆是無常故因。於其所立常聲非有。<note n="0095002" resp="Taisho" place="foot text" type="orig">（具）ィ＋以【原】</note><note n="0095002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（具）ィ＋以【原】</note><app n="0095002"><lem wit="【大】">以</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">具以</rdg></app>聲攝
+<lb n="0095a18" ed="T"/>皆是無常故因。於其所立常聲非有。<note n="0095002" resp="Taisho" place="foot text" type="orig">（具）ィ＋以【原】</note><note n="0095002" resp="CBETA" type="mod">以【大】，具以【校異Ａ-原】</note><app n="0095002"><lem wit="【大】">以</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">具以</rdg></app>聲攝
 <lb n="0095a19" ed="T"/>在一切皆是無常中故。便是因中兩俱不成。
 <lb n="0095a20" ed="T"/>共不許因。有法有故。其立聲常。非一切因。陳
 <lb n="0095a21" ed="T"/>那復云。或是所立一分義故。唯外道許非一
@@ -643,7 +643,7 @@ Added comment  for Emacs
 <lb n="0096c11" ed="T"/>釋有四義。謂發端標舉簡持指斥。宗是何
 <lb n="0096c12" ed="T"/>義。所尊所崇所主所立之義。等者。等取因
 <lb n="0096c13" ed="T"/>之與喻。世親以前。宗為能立。陳那但以因之
-<lb n="0096c14" ed="T"/>三相。<note n="0096006" resp="Taisho" place="foot text" type="orig">（因）ィ＋同【原】</note><note n="0096006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（因）ィ＋同【原】</note><app n="0096006"><lem wit="【大】">同</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">因同</rdg></app>異喻。而為能立。以能立者。必多言
+<lb n="0096c14" ed="T"/>三相。<note n="0096006" resp="Taisho" place="foot text" type="orig">（因）ィ＋同【原】</note><note n="0096006" resp="CBETA" type="mod">同【大】，因同【校異Ａ-原】</note><app n="0096006"><lem wit="【大】">同</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">因同</rdg></app>異喻。而為能立。以能立者。必多言
 <lb n="0096c15" ed="T"/>故。今言宗等名能立者。略有二釋。一云。宗是
 <lb n="0096c16" ed="T"/>所立因等能立。若不舉宗。以顯能立。不知因
 <lb n="0096c17" ed="T"/>喻誰之能立。恐謂同古。自性差別二之能立。
@@ -693,7 +693,7 @@ Added comment  for Emacs
 <lb n="0097b01" ed="T"/>為能立。又一二之言。宗由未立。多言義具。所
 <lb n="0097b02" ed="T"/>立方成。若但說因。無同喻比。義不明顯。何得
 <lb n="0097b03" ed="T"/>見邊。若但同無異。雖比附宗。能立之因。或
-<lb n="0097b04" ed="T"/><note n="0097002" resp="Taisho" place="foot text" type="orig">返＝遍ィ【原】</note><note n="0097002" resp="CBETA" type="mod">返【大】，遍【校異Ａ-原】</note><app n="0097002"><lem wit="【大】">返</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遍</rdg></app>成<note n="0097003" resp="Taisho" place="foot text" type="orig">（異）ィ＋法【原】</note><note n="0097003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（異）ィ＋法【原】</note><app n="0097003"><lem wit="【大】">法</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">異法</rdg></app>。無異止濫。何能建宗。<note n="0097004" resp="Taisho" place="foot text" type="orig">設＝復ィ【原】</note><note n="0097004" resp="CBETA" type="mod">設【大】，復【校異Ａ-原】</note><app n="0097004"><lem wit="【大】">設</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">復</rdg></app>有兩喻
+<lb n="0097b04" ed="T"/><note n="0097002" resp="Taisho" place="foot text" type="orig">返＝遍ィ【原】</note><note n="0097002" resp="CBETA" type="mod">返【大】，遍【校異Ａ-原】</note><app n="0097002"><lem wit="【大】">返</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遍</rdg></app>成<note n="0097003" resp="Taisho" place="foot text" type="orig">（異）ィ＋法【原】</note><note n="0097003" resp="CBETA" type="mod">法【大】，異法【校異Ａ-原】</note><app n="0097003"><lem wit="【大】">法</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">異法</rdg></app>。無異止濫。何能建宗。<note n="0097004" resp="Taisho" place="foot text" type="orig">設＝復ィ【原】</note><note n="0097004" resp="CBETA" type="mod">設【大】，復【校異Ａ-原】</note><app n="0097004"><lem wit="【大】">設</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">復</rdg></app>有兩喻
 <lb n="0097b05" ed="T"/>闕遍宗因。宗法既自不成。宗義何由得立。果
 <lb n="0097b06" ed="T"/>宗不<note n="0097005" resp="Taisho" place="foot text" type="orig">決＝立ィ【原】</note><note n="0097005" resp="CBETA" type="mod">決【大】，立【校異Ａ-原】</note><app n="0097005"><lem wit="【大】">決</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">立</rdg></app>。因比徒施。空致紛紜。競何由<note n="0097006" resp="Taisho" place="foot text" type="orig">消＝濟ィ【原】</note><note n="0097006" resp="CBETA" type="mod">消【大】，濟【校異Ａ-原】</note><app n="0097006"><lem wit="【大】">消</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">濟</rdg></app>。故
 <lb n="0097b07" ed="T"/>詳今古。能立具足。要藉多言<note n="0097007" resp="Taisho" place="foot text" type="orig">【原】此下原本奧書曰建武二年六月十八日書寫之社頭因明談義小字之本老眼難治之間不顧筆跡以反舊之裏乍臥移之染筆為緣出妄歸真矣一交了一交了權律師尊經七十二同七月八日點了教授或口說為本也</note><note n="0097007" resp="CBETA" type="mod">【原】此下原本奧書曰建武二年六月十八日書寫之社頭因明談義小字之本老眼難治之間不顧筆跡以反舊之裏乍臥移之染筆為緣出妄歸真矣一交了一交了權律師尊經七十二同七月八日點了教授或口說為本也</note>。</p>
@@ -825,7 +825,7 @@ Added comment  for Emacs
 <lb n="0098c13" ed="T"/>能有後法。復名有法。第三自性亦名所別。差
 <lb n="0098c14" ed="T"/>別亦名為能別者。立敵所許不諍先陳。諍先
 <lb n="0098c15" ed="T"/>陳上有後所說。以後所說別彼先陳。不以先
-<lb n="0098c16" ed="T"/>陳別於後。<note n="0098003" resp="Taisho" place="foot text" type="orig">（故）ィ＋先【原】</note><note n="0098003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（故）ィ＋先【原】</note><app n="0098003"><lem wit="【大】">先</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">故先</rdg></app>自性名為所別。後陳差別名為
+<lb n="0098c16" ed="T"/>陳別於後。<note n="0098003" resp="Taisho" place="foot text" type="orig">（故）ィ＋先【原】</note><note n="0098003" resp="CBETA" type="mod">先【大】，故先【校異Ａ-原】</note><app n="0098003"><lem wit="【大】">先</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">故先</rdg></app>自性名為所別。後陳差別名為
 <lb n="0098c17" ed="T"/>能別。若爾。此三名皆有失。其失者何。難初名
 <lb n="0098c18" ed="T"/>云。若體名自性。義名差別者。何故下云。如數
 <lb n="0098c19" ed="T"/>論師立我是思。我為自性。思為差別。彼文便
@@ -1080,7 +1080,7 @@ Added comment  for Emacs
 <lb n="0101b28" ed="T"/>相略以四門分別。一出體。二釋名。三辯差別。
 <lb n="0101b29" ed="T"/>四明廢立。初出體者。因有二種。一生。二了。
 <pb n="0101c" xml:id="T44.1840.0101c" ed="T"/>
-<lb n="0101c01" ed="T"/>如種生芽。能<note n="0101003" resp="Taisho" place="foot text" type="orig">（別）＋起ィ【原】</note><note n="0101003" resp="CBETA" type="mod">起【大】，別起【校異Ａ-原】</note><app n="0101003"><lem wit="【大】">起</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">別起</rdg></app>用<note n="0101004" resp="Taisho" place="foot text" type="orig">故＝者ィ【原】</note><note n="0101004" resp="CBETA" type="mod">故【大】，者【校異Ａ-原】</note><app n="0101004"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">者</rdg></app>名為生因。故理門云。
+<lb n="0101c01" ed="T"/>如種生芽。能<note n="0101003" resp="Taisho" place="foot text" type="orig">（別）＋起ィ【原】</note><note n="0101003" resp="CBETA" type="mod">起ィ【大】，別起ィ【原】</note><app n="0101003"><lem wit="【大】">起</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">別起</rdg></app>用<note n="0101004" resp="Taisho" place="foot text" type="orig">故＝者ィ【原】</note><note n="0101004" resp="CBETA" type="mod">故【大】，者【校異Ａ-原】</note><app n="0101004"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">者</rdg></app>名為生因。故理門云。
 <lb n="0101c02" ed="T"/>非如生因由能起用。如燈照物。能顯果故。名
 <lb n="0101c03" ed="T"/>為了因。生因有三。一言生因。二智生因。三義
 <lb n="0101c04" ed="T"/>生因。言生因者。謂立論者立因等言。能生敵
@@ -1529,7 +1529,7 @@ Added comment  for Emacs
 <lb n="0106b28" ed="T"/>相。若陳因言。必有體闕。三相既義故非無體。
 <lb n="0106b29" ed="T"/>無體闕者。此中相對互<note n="0106005" resp="Taisho" place="foot text" type="orig">說＝隨ィ【原】</note><note n="0106005" resp="CBETA" type="mod">說【大】，隨【校異Ａ-原】</note><app n="0106005"><lem wit="【大】">說</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">隨</rdg></app>有無亦為四句。有
 <pb n="0106c" xml:id="T44.1840.0106c" ed="T"/>
-<lb n="0106c01" ed="T"/>闕因非同異喻。有闕同異喻非因。<note n="0106006" resp="Taisho" place="foot text" type="orig">（闕）ィ＋有【原】</note><note n="0106006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（闕）ィ＋有【原】</note><app n="0106006"><lem wit="【大】">有</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">闕有</rdg></app>闕因亦
+<lb n="0106c01" ed="T"/>闕因非同異喻。有闕同異喻非因。<note n="0106006" resp="Taisho" place="foot text" type="orig">（闕）ィ＋有【原】</note><note n="0106006" resp="CBETA" type="mod">有【大】，闕有【校異Ａ-原】</note><app n="0106006"><lem wit="【大】">有</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">闕有</rdg></app>闕因亦
 <lb n="0106c02" ed="T"/>闕<note n="0106007" resp="Taisho" place="foot text" type="orig">同＝因ィ【原】</note><note n="0106007" resp="CBETA" type="mod">同【大】，因【校異Ａ-原】</note><app n="0106007"><lem wit="【大】">同</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">因</rdg></app>異喻。有非闕因非闕同異喻。此四句中。
 <lb n="0106c03" ed="T"/>初句闕一。第二句闕二。第三句闕三。第四句
 <lb n="0106c04" ed="T"/>非過。如是乃至三立皆闕。三皆不闕。有闕皆
@@ -1564,7 +1564,7 @@ Added comment  for Emacs
 <lb n="0107a03" ed="T"/>次第作處。道理定然。巨細分別更有多種。且
 <lb n="0107a04" ed="T"/><note n="0107001" resp="Taisho" place="foot text" type="orig">以＝依ィ【原】</note><note n="0107001" resp="CBETA" type="mod">以【大】，依【校異Ａ-原】</note><app n="0107001"><lem wit="【大】">以</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">依</rdg></app>初相三句之中一句為首。對餘二相作四
 <lb n="0107a05" ed="T"/>句者。有是宗法而非遍。非是同品非定有性。
-<lb n="0107a06" ed="T"/>有是同品非定有性。非是宗法而非遍有<note n="0107002" resp="Taisho" place="foot text" type="orig">（有）ィ＋是【原】</note><note n="0107002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ィ＋是【原】</note><app n="0107002"><lem wit="【大】">是</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有是</rdg></app>
+<lb n="0107a06" ed="T"/>有是同品非定有性。非是宗法而非遍有<note n="0107002" resp="Taisho" place="foot text" type="orig">（有）ィ＋是【原】</note><note n="0107002" resp="CBETA" type="mod">是【大】，有是【校異Ａ-原】</note><app n="0107002"><lem wit="【大】">是</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有是</rdg></app>
 <lb n="0107a07" ed="T"/>宗法而非遍。亦是同品非定有性。有非宗法
 <lb n="0107a08" ed="T"/>而非遍。亦<note n="0107003" resp="Taisho" place="foot text" type="orig">〔非〕ィ－【原】</note><note n="0107003" resp="CBETA" type="mod">非【大】，〔－〕【校異Ａ-原】</note><app n="0107003"><lem wit="【大】">非</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>同品非定有性。如是以初相第
 <lb n="0107a09" ed="T"/>一句。對第二相四句。有四種四句復以此句
@@ -1883,7 +1883,7 @@ Added comment  for Emacs
 <lb n="0110b21" ed="T"/>問。故非無窮成有能也。復難彼言。又不必定
 <lb n="0110b22" ed="T"/>有諸品類。若但瓶體為同喻者。非燒見等一
 <lb n="0110b23" ed="T"/>切皆類。便成過失。若如我說彼喻依中。但以
-<lb n="0110b24" ed="T"/>所作無常等類。便無彼過。<note n="0110002" resp="Taisho" place="foot text" type="orig">（彼）ィ＋又【原】</note><note n="0110002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（彼）ィ＋又【原】</note><app n="0110002"><lem wit="【大】">又</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">彼又</rdg></app>難言。若唯宗
+<lb n="0110b24" ed="T"/>所作無常等類。便無彼過。<note n="0110002" resp="Taisho" place="foot text" type="orig">（彼）ィ＋又【原】</note><note n="0110002" resp="CBETA" type="mod">又【大】，彼又【校異Ａ-原】</note><app n="0110002"><lem wit="【大】">又</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">彼又</rdg></app>難言。若唯宗
 <lb n="0110b25" ed="T"/>法是因性者。其有不定應亦成因。此意難言。
 <lb n="0110b26" ed="T"/>唯<note n="0110003" resp="Taisho" place="foot text" type="orig">〔以〕ィ－【原】</note><note n="0110003" resp="CBETA" type="mod">以【大】，〔－〕【校異Ａ-原】</note><app n="0110003"><lem wit="【大】">以</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>所作遍宗法性是其因性。同有異無但
 <lb n="0110b27" ed="T"/>喻非因。是故瓶空喻非因者。即不定因應亦
@@ -1895,7 +1895,7 @@ Added comment  for Emacs
 <lb n="0110c03" ed="T"/>陳那難云。若於爾時所立異品。非一種類。便
 <lb n="0110c04" ed="T"/>有此失。如初後三各最後喻。謂立量時。所立
 <lb n="0110c05" ed="T"/>異品亦有非有。非一種類。汝既但指瓶為同
-<lb n="0110c06" ed="T"/>品。空為異喻。雖具二喻。喻若非因。便<note n="0110004" resp="Taisho" place="foot text" type="orig">（有）ィ＋此【原】</note><note n="0110004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ィ＋此【原】</note><app n="0110004"><lem wit="【大】">此</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有此</rdg></app>不
+<lb n="0110c06" ed="T"/>品。空為異喻。雖具二喻。喻若非因。便<note n="0110004" resp="Taisho" place="foot text" type="orig">（有）ィ＋此【原】</note><note n="0110004" resp="CBETA" type="mod">此【大】，有此【校異Ａ-原】</note><app n="0110004"><lem wit="【大】">此</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有此</rdg></app>不
 <lb n="0110c07" ed="T"/>定。如初三最後喻者。謂九句中。初三第三句
 <lb n="0110c08" ed="T"/>同品有異品有非有。後三最後喻者。謂九句
 <lb n="0110c09" ed="T"/>中。後三第三句同品有非有異品亦有非有。
@@ -2606,7 +2606,7 @@ Added comment  for Emacs
 <lb n="0118b24" ed="T"/>句。對餘全句。復將全能別不成等句。對餘一
 <lb n="0118b25" ed="T"/>分句。皆理定有。隨其所應。諸兩俱過。皆名兩
 <lb n="0118b26" ed="T"/>俱不極成。諸自他過。皆名隨一不極成。由此
-<lb n="0118b27" ed="T"/>亦<note n="0118001" resp="Taisho" place="foot text" type="orig">（有）ィ＋兩【原】</note><note n="0118001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ィ＋兩【原】</note><app n="0118001"><lem wit="【大】">兩</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有兩</rdg></app>俱隨一猶預全分一分等過。能所別中
+<lb n="0118b27" ed="T"/>亦<note n="0118001" resp="Taisho" place="foot text" type="orig">（有）ィ＋兩【原】</note><note n="0118001" resp="CBETA" type="mod">兩【大】，有兩【校異Ａ-原】</note><app n="0118001"><lem wit="【大】">兩</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">有兩</rdg></app>俱隨一猶預全分一分等過。能所別中
 <lb n="0118b28" ed="T"/>俱生疑故。論中且說。隨他一全分俱不極成。
 <lb n="0118b29" ed="T"/>以示其法餘應准知。上來三過皆說自相。若
 <pb n="0118c" xml:id="T44.1840.0118c" ed="T"/>
@@ -2752,7 +2752,7 @@ Added comment  for Emacs
 <lb n="0120a19" ed="T"/>為自相。局附自體不共他故。立敵證智名之
 <lb n="0120a20" ed="T"/>為門。由能照顯法自相故。立法有法。擬生他
 <lb n="0120a21" ed="T"/>順智。今標宗義。他智解返生。異智既生。正解
-<lb n="0120a22" ed="T"/>不起。無由照解所立宗義。故名<note n="0120003" resp="Taisho" place="foot text" type="orig">（為）ィ＋遣【原】</note><note n="0120003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（為）ィ＋遣【原】</note><app n="0120003"><lem wit="【大】">遣</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">為遣</rdg></app>門。又則
+<lb n="0120a22" ed="T"/>不起。無由照解所立宗義。故名<note n="0120003" resp="Taisho" place="foot text" type="orig">（為）ィ＋遣【原】</note><note n="0120003" resp="CBETA" type="mod">遣【大】，為遣【校異Ａ-原】</note><app n="0120003"><lem wit="【大】">遣</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">為遣</rdg></app>門。又則
 <lb n="0120a23" ed="T"/>自相名之為門以能通生敵證智故凡立宗義
 <lb n="0120a24" ed="T"/>能生他智可名為門。前五立宗不令自相。正
 <lb n="0120a25" ed="T"/>生敵證真智解故。名遣諸法自相之門。不容
@@ -3095,7 +3095,7 @@ Added comment  for Emacs
 <lb n="0124a02" ed="T"/>同喻。故除勝論對立成過。</p>
 <lb n="0124a03" ed="T"/><p xml:id="pT44p0124a0301">論。此所聞性其猶何等。</p><p xml:id="pT44p0124a0310" rend="inline">述曰。指不定相。猶
 <lb n="0124a04" ed="T"/>者。如也。夫立論宗因喻能立。舉因無喻。因何
-<lb n="0124a05" ed="T"/>所成。其<note n="0124001" resp="Taisho" place="foot text" type="orig">（如）ィ＋何【原】</note><note n="0124001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（如）ィ＋何【原】</note><app n="0124001"><lem wit="【大】">何</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">如何</rdg></app>等。可舉方比。因既無方。明因不
+<lb n="0124a05" ed="T"/>所成。其<note n="0124001" resp="Taisho" place="foot text" type="orig">（如）ィ＋何【原】</note><note n="0124001" resp="CBETA" type="mod">何【大】，如何【校異Ａ-原】</note><app n="0124001"><lem wit="【大】">何</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">如何</rdg></app>等。可舉方比。因既無方。明因不
 <lb n="0124a06" ed="T"/>定。不能生他決定智故。問舉因能立。立未成
 <lb n="0124a07" ed="T"/>宗。無喻順成。其宗不立。宗既順先不立。此因
 <lb n="0124a08" ed="T"/>應非不定。答因闕同喻。宗義無能可成。亦不
@@ -3252,7 +3252,7 @@ Added comment  for Emacs
 <lb n="0125c09" ed="T"/>住。麁者無常。劫初成體非生。劫後壞體非滅。
 <lb n="0125c10" ed="T"/>二十空劫。散居處處。後劫成位。兩合生果。如
 <lb n="0125c11" ed="T"/>是展轉乃至大地。所生皆合一。能生皆離多。
-<lb n="0125c12" ed="T"/>廣如二十唯識疏中解。此空<note n="0125001" resp="Taisho" place="foot text" type="orig">（言）ィ＋等【原】</note><note n="0125001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（言）ィ＋等【原】</note><app n="0125001"><lem wit="【大】">等</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">言等</rdg></app>。等彼時
+<lb n="0125c12" ed="T"/>廣如二十唯識疏中解。此空<note n="0125001" resp="Taisho" place="foot text" type="orig">（言）ィ＋等【原】</note><note n="0125001" resp="CBETA" type="mod">等【大】，言等【校異Ａ-原】</note><app n="0125001"><lem wit="【大】">等</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">言等</rdg></app>。等彼時
 <lb n="0125c13" ed="T"/>等。極微言等。等取彼意等。如極微亦有礙故。
 <lb n="0125c14" ed="T"/>故此常宗。虛空極微為同喻。無質礙因。於空
 <lb n="0125c15" ed="T"/>等有。極微等無。故是同分。</p>
@@ -3551,7 +3551,7 @@ Added comment  for Emacs
 <lb n="0129a07" ed="T"/>所成立。意之所許所諍別義方名差別。因令
 <lb n="0129a08" ed="T"/>相違。名相違因。若不爾者。如立聲無常宗。聲
 <lb n="0129a09" ed="T"/>之上可聞不可聞等義。無常之上作彼緣性
-<lb n="0129a10" ed="T"/>非彼緣<note n="0129001" resp="Taisho" place="foot text" type="orig">（性非彼緣）ィ＋性【原】</note><note n="0129001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（性非彼緣）ィ＋性【原】</note><app n="0129001"><lem wit="【大】">性</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">性非彼緣性</rdg></app>等。如是一切皆謂相違。因令相違
+<lb n="0129a10" ed="T"/>非彼緣<note n="0129001" resp="Taisho" place="foot text" type="orig">（性非彼緣）ィ＋性【原】</note><note n="0129001" resp="CBETA" type="mod">性【大】，性非彼緣性【校異Ａ-原】</note><app n="0129001"><lem wit="【大】">性</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">性非彼緣性</rdg></app>等。如是一切皆謂相違。因令相違
 <lb n="0129a11" ed="T"/>名為彼因。若爾。便無相違因義。比量相違等。
 <lb n="0129a12" ed="T"/>皆准此釋。此中義說。若數論外道對佛弟子。
 <lb n="0129a13" ed="T"/>意欲成立我為受者。受用眼等。若我為有法
@@ -3796,13 +3796,13 @@ Added comment  for Emacs
 <lb n="0131c12" ed="T"/>意許為<note n="0131009" resp="Taisho" place="foot text" type="orig">〔差〕ィ－【原】</note><note n="0131009" resp="CBETA" type="mod">差【大】，〔－〕【校異Ａ-原】</note><app n="0131009"><lem wit="【大】">差</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>別。故無妨難。問於因三相是何過
 <lb n="0131c13" ed="T"/>耶。答有性有緣性。因本所成有法差別。宗無
 <lb n="0131c14" ed="T"/>同品。因於遍無。同異非有性有緣性是宗異
-<lb n="0131c15" ed="T"/>品。因於遍有。有一<note n="0131010" resp="Taisho" place="foot text" type="orig">（一）ィ＋實【原】</note><note n="0131010" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（一）ィ＋實【原】</note><app n="0131010"><lem wit="【大】">實</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">一實</rdg></app>因。同無異有。後二相
+<lb n="0131c15" ed="T"/>品。因於遍有。有一<note n="0131010" resp="Taisho" place="foot text" type="orig">（一）ィ＋實【原】</note><note n="0131010" resp="CBETA" type="mod">實【大】，一實【校異Ａ-原】</note><app n="0131010"><lem wit="【大】">實</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">一實</rdg></app>因。同無異有。後二相
 <lb n="0131c16" ed="T"/>過。故成相違。問如聲論言聲應非聲作有緣
 <lb n="0131c17" ed="T"/>性。所作性故。如瓶等。亦應說是有法差別相
 <lb n="0131c18" ed="T"/>違。答彼自違宗。故非彼過。本亦不諍聲非作
 <lb n="0131c19" ed="T"/>聲有緣性故。彼似破攝。如非聲有緣性。如是
 <lb n="0131c20" ed="T"/>應非擊發所生起等。皆准此知。問又如彼言
-<lb n="0131c21" ed="T"/>聲之無常<note n="0131011" resp="Taisho" place="foot text" type="orig">（遮）ィ＋應【原】</note><note n="0131011" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（遮）ィ＋應【原】</note><app n="0131011"><lem wit="【大】">應</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遮應</rdg></app>非作聲無常有緣性。所作性故。
+<lb n="0131c21" ed="T"/>聲之無常<note n="0131011" resp="Taisho" place="foot text" type="orig">（遮）ィ＋應【原】</note><note n="0131011" resp="CBETA" type="mod">應【大】，遮應【校異Ａ-原】</note><app n="0131011"><lem wit="【大】">應</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遮應</rdg></app>非作聲無常有緣性。所作性故。
 <lb n="0131c22" ed="T"/>如瓶<note n="0131012" resp="Taisho" place="foot text" type="orig">〔等〕ィ－【原】</note><note n="0131012" resp="CBETA" type="mod">等【大】，〔－〕【校異Ａ-原】</note><app n="0131012"><lem wit="【大】">等</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>。應是法差別相違。答亦不然。彼犯
 <lb n="0131c23" ed="T"/>兩俱不成。無常有法兩俱不許有所作性。亦
 <lb n="0131c24" ed="T"/>似破攝。如是應非緣息無常等。皆准此知。此
@@ -3873,7 +3873,7 @@ Added comment  for Emacs
 <lb n="0132b29" ed="T"/>異。欲顯相違。因必仍舊。喻或改新。其不定
 <pb n="0132c" xml:id="T44.1840.0132c" ed="T"/>
 <lb n="0132c01" ed="T"/>因。立順因正。破乃相違。因雖不改。通二品
-<lb n="0132c02" ed="T"/>轉。不生決<note n="0132004" resp="Taisho" place="foot text" type="orig">（定）ィ＋智【原】</note><note n="0132004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（定）ィ＋智【原】</note><app n="0132004"><lem wit="【大】">智</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">定智</rdg></app>。立不定名。此相違因。隨應所
+<lb n="0132c02" ed="T"/>轉。不生決<note n="0132004" resp="Taisho" place="foot text" type="orig">（定）ィ＋智【原】</note><note n="0132004" resp="CBETA" type="mod">智【大】，定智【校異Ａ-原】</note><app n="0132004"><lem wit="【大】">智</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">定智</rdg></app>。立不定名。此相違因。隨應所
 <lb n="0132c03" ed="T"/>成。立必同無異有。破必同有異無。決智既生。
 <lb n="0132c04" ed="T"/>故與前別。若立因正。破者相違。因通二品。豈
 <lb n="0132c05" ed="T"/>非不定。故此四因。不違四六。又將法自相因
@@ -3915,7 +3915,7 @@ Added comment  for Emacs
 <lb n="0133a11" ed="T"/>四因。皆自比違自。他比違他等。皆應准知。諸
 <lb n="0133a12" ed="T"/>自共比。違共及自。皆為過失。違他非過。他比
 <lb n="0133a13" ed="T"/>違他及共為失。違自非過。義<note n="0133002" resp="Taisho" place="foot text" type="orig">同＝如ィ【原】</note><note n="0133002" resp="CBETA" type="mod">同【大】，如【校異Ａ-原】</note><app n="0133002"><lem wit="【大】">同</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">如</rdg></app>前說。此但
-<lb n="0133a14" ed="T"/>說全。應詳一分。既<note n="0133003" resp="Taisho" place="foot text" type="orig">（詳）ィ＋許【原】</note><note n="0133003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（詳）ィ＋許【原】</note><app n="0133003"><lem wit="【大】">許</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">詳許</rdg></app>一因通違四種。故知
+<lb n="0133a14" ed="T"/>說全。應詳一分。既<note n="0133003" resp="Taisho" place="foot text" type="orig">（詳）ィ＋許【原】</note><note n="0133003" resp="CBETA" type="mod">許【大】，詳許【校異Ａ-原】</note><app n="0133003"><lem wit="【大】">許</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">詳許</rdg></app>一因通違四種。故知
 <lb n="0133a15" ed="T"/>此四非必相違。問四相違九句何句所攝。答
 <lb n="0133a16" ed="T"/>乍觀文勢。唯初一違是九句中第四第六。具
 <lb n="0133a17" ed="T"/>二因故。九中二因違法自相相違因故。今觀
@@ -3988,7 +3988,7 @@ Added comment  for Emacs
 <lb n="0133c24" ed="T"/>釋能立無。此處應言以諸極微常住性故。以
 <lb n="0133c25" ed="T"/>互意存影<note n="0133013" resp="Taisho" place="foot text" type="orig">略＝顯ィ【原】</note><note n="0133013" resp="CBETA" type="mod">略【大】，顯【校異Ａ-原】</note><app n="0133013"><lem wit="【大】">略</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">顯</rdg></app>故略無也。</p>
 <lb n="0133c26" ed="T"/><p xml:id="pT44p0133c2601">論。能成立法無質礙無以諸極微質礙性故。</p>
-<lb n="0133c27" ed="T"/><p xml:id="pT44p0133c2701">述曰。此釋能立無。此聲勝論計<note n="0133014" resp="Taisho" place="foot text" type="orig">（極）ィ＋微【原】</note><note n="0133014" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（極）ィ＋微【原】</note><app n="0133014"><lem wit="【大】">微</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">極微</rdg></app>質礙。故
+<lb n="0133c27" ed="T"/><p xml:id="pT44p0133c2701">述曰。此釋能立無。此聲勝論計<note n="0133014" resp="Taisho" place="foot text" type="orig">（極）ィ＋微【原】</note><note n="0133014" resp="CBETA" type="mod">微【大】，極微【校異Ａ-原】</note><app n="0133014"><lem wit="【大】">微</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">極微</rdg></app>質礙。故
 <lb n="0133c28" ed="T"/>無能立。問因為成宗。因有兩俱隨一等過。喻
 <lb n="0133c29" ed="T"/>亦成宗。何故但名能立不成。不明餘耶。答因
 <pb n="0134a" xml:id="T44.1840.0134a" ed="T"/>
@@ -4001,7 +4001,7 @@ Added comment  for Emacs
 <lb n="0134a07" ed="T"/>一。猶預不成准理有二。一宗二因。前已具顯。
 <lb n="0134a08" ed="T"/>今喻亦二。於中綺互。或因猶預非喻能立。或
 <lb n="0134a09" ed="T"/>喻能立非因猶預。或俱猶預。或俱不猶預。前
-<lb n="0134a10" ed="T"/>三是過。第四非過。<note n="0134003" resp="Taisho" place="foot text" type="orig">（且）ィ＋因【原】</note><note n="0134003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（且）ィ＋因【原】</note><app n="0134003"><lem wit="【大】">因</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">且因</rdg></app>猶預非喻能立者。如
+<lb n="0134a10" ed="T"/>三是過。第四非過。<note n="0134003" resp="Taisho" place="foot text" type="orig">（且）ィ＋因【原】</note><note n="0134003" resp="CBETA" type="mod">因【大】，且因【校異Ａ-原】</note><app n="0134003"><lem wit="【大】">因</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">且因</rdg></app>猶預非喻能立者。如
 <lb n="0134a11" ed="T"/>於霧等性起疑惑時。為烟為霧。即立彼處定
 <lb n="0134a12" ed="T"/>應有火。以現烟故。如厨舍等處。<note n="0134004" resp="Taisho" place="foot text" type="orig">〔或指…因喻〕ィ八字－【原】</note><note n="0134004" resp="CBETA" type="mod">（或指…因喻）八字【大】，〔－〕【校異Ａ-原】</note><app cb:word-count="8" n="0134004"><lem wit="【大】">或指如餘
 <lb n="0134a13" ed="T"/>疑惑因喻</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>舉<note n="0134005" resp="Taisho" place="foot text" type="orig">一＝二ィ【原】</note><note n="0134005" resp="CBETA" type="mod">一【大】，二【校異Ａ-原】</note><app n="0134005"><lem wit="【大】">一</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">二</rdg></app>例餘。即可思准。或可。<note n="0134006" resp="Taisho" place="foot text" type="orig">因＝同ィ【原】</note><note n="0134006" resp="CBETA" type="mod">因【大】，同【校異Ａ-原】</note><app n="0134006"><lem wit="【大】">因</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">同</rdg></app>是
@@ -4238,11 +4238,11 @@ Added comment  for Emacs
 <lb n="0136c04" ed="T"/>有前三。或亦有四。如立我無。許諦攝故。異喻
 <lb n="0136c05" ed="T"/>如空。對無空論雖無所依。亦不遣其所立法
 <lb n="0136c06" ed="T"/>故。此論所明。聲對勝論兩俱不遣。若對薩婆
-<lb n="0136c07" ed="T"/>多隨一不遣。薩婆多計<note n="0136007" resp="Taisho" place="foot text" type="orig">（極）ィ＋微【原】</note><note n="0136007" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（極）ィ＋微【原】</note><app n="0136007"><lem wit="【大】">微</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">極微</rdg></app>非常故。猶預不遣
+<lb n="0136c07" ed="T"/>多隨一不遣。薩婆多計<note n="0136007" resp="Taisho" place="foot text" type="orig">（極）ィ＋微【原】</note><note n="0136007" resp="CBETA" type="mod">微【大】，極微【校異Ａ-原】</note><app n="0136007"><lem wit="【大】">微</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">極微</rdg></app>非常故。猶預不遣
 <lb n="0136c08" ed="T"/>者。如言彼山等處定應有火。以現烟故。如餘
 <lb n="0136c09" ed="T"/>厨等處。異喻諸無火處皆不現烟。如餘處等。
 <lb n="0136c10" ed="T"/>然有火處亦無其烟。故懷猶預。不現烟處火
-<lb n="0136c11" ed="T"/>為有無。故猶預不遣。維摩經說。如無烟。<note n="0136008" resp="Taisho" place="foot text" type="orig">（之）ィ＋火【原】</note><note n="0136008" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（之）ィ＋火【原】</note><app n="0136008"><lem wit="【大】">火</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之火</rdg></app>
+<lb n="0136c11" ed="T"/>為有無。故猶預不遣。維摩經說。如無烟。<note n="0136008" resp="Taisho" place="foot text" type="orig">（之）ィ＋火【原】</note><note n="0136008" resp="CBETA" type="mod">火【大】，之火【校異Ａ-原】</note><app n="0136008"><lem wit="【大】">火</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">之火</rdg></app>
 <lb n="0136c12" ed="T"/>如燋穀芽。今據顯相故無<note n="0136009" resp="Taisho" place="foot text" type="orig">違＝遣ィ【原】</note><note n="0136009" resp="CBETA" type="mod">違【大】，遣【校異Ａ-原】</note><app n="0136009"><lem wit="【大】">違</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遣</rdg></app>也。然隨所應
 <lb n="0136c13" ed="T"/>有自他共全分一分等。</p>
 <lb n="0136c14" ed="T"/><p xml:id="pT44p0136c1401">論。能立不遣者。</p><p xml:id="pT44p0136c1407" rend="inline">述曰。下解第二有三。初牒
@@ -4338,7 +4338,7 @@ Added comment  for Emacs
 <lb n="0137c14" ed="T"/>亦唯二。當知唯言。但遮一向執異二量外。別
 <lb n="0137c15" ed="T"/>立至教及譬喻等。故不相違。廣此二量。如章
 <lb n="0137c16" ed="T"/>具辯。有依於此唯二量文。遂立量云。似現比
-<lb n="0137c17" ed="T"/>等皆比量攝。如疏具述。有過不習。又傳<note n="0137010" resp="Taisho" place="foot text" type="orig">〔立〕－ィ【原】</note><note n="0137010" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔立〕－ィ【原】</note><app n="0137010"><lem wit="【大】">立</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>
+<lb n="0137c17" ed="T"/>等皆比量攝。如疏具述。有過不習。又傳<note n="0137010" resp="Taisho" place="foot text" type="orig">〔立〕－ィ【原】</note><note n="0137010" resp="CBETA" type="mod">立【大】，〔－〕【校異Ａ-原】</note><app n="0137010"><lem wit="【大】">立</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg></app>
 <lb n="0137c18" ed="T"/>云。外道立宗。現比量外。有至教等量云。非比
 <lb n="0137c19" ed="T"/>極成現所有量。非現量攝。極成現量所不攝。
 <lb n="0137c20" ed="T"/>量所攝故。猶如比量。言非比量。簡一分相符。
@@ -4516,7 +4516,7 @@ Added comment  for Emacs
 <lb n="0139c13" ed="T"/>釋。理則無違。若通明四。意根非現。又闕其識
 <lb n="0139c14" ed="T"/>自體現名。但隨所應。依主持業二種釋也。</p>
 <lb n="0139c15" ed="T"/><p xml:id="pT44p0139c1501">論。言比量者。</p><p xml:id="pT44p0139c1506" rend="inline">述曰。下明比量。文分為四。初
-<lb n="0139c16" ed="T"/>牒<note n="0139010" resp="Taisho" place="foot text" type="orig">（量）ィ＋名【原】</note><note n="0139010" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（量）ィ＋名【原】</note><app n="0139010"><lem wit="【大】">名</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">量名</rdg></app>。二出體。三釋義。四結名。此即初也。</p>
+<lb n="0139c16" ed="T"/>牒<note n="0139010" resp="Taisho" place="foot text" type="orig">（量）ィ＋名【原】</note><note n="0139010" resp="CBETA" type="mod">名【大】，量名【校異Ａ-原】</note><app n="0139010"><lem wit="【大】">名</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">量名</rdg></app>。二出體。三釋義。四結名。此即初也。</p>
 <lb n="0139c17" ed="T"/><p xml:id="pT44p0139c1701">論。謂藉眾相而觀於義。</p><p xml:id="pT44p0139c1710" rend="inline">述曰。此出比體。謂
 <lb n="0139c18" ed="T"/>若有智。藉三相因。因相有三。故名為眾。而方
 <lb n="0139c19" ed="T"/>觀境義也。</p>

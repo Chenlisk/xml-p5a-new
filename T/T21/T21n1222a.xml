@@ -311,7 +311,7 @@ Added comment  for Emacs
 <lb n="0103b19" ed="T"/>女及修羅女作<note n="0103011" resp="Taisho" place="foot text" type="orig">（如）＋是【丙】【丁】</note><note n="0103011" resp="CBETA" type="mod">是【大】，如是【丙】【丁】</note><app n="0103011"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【丙】【丁】">如是</rdg></app>言。我等奉事尊者。持誦者
 <lb n="0103b20" ed="T"/>拍掌三遍。告言汝隨順我。即起慈心。於真
 <lb n="0103b21" ed="T"/>言句中加娑嚩<app type="star" corresp="#0103005"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">訶</rdg></app>字。彼等迷悶皆得醒悟。若
-<lb n="0103b22" ed="T"/>作此法由不入者。持誦人即閉目誦真言<note n="0103012" resp="Taisho" place="foot text" type="orig">（一百）＋八ヵ【甲】，（一千）＋八ヵ【甲】</note><note n="0103012" resp="CBETA" type="mod">八【大】，一百八【考偽-甲】，一千八【考偽-甲】</note><app n="0103012"><lem resp="Taisho" wit="【大】">八</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一百八</rdg><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一千八</rdg></app>
+<lb n="0103b22" ed="T"/>作此法由不入者。持誦人即閉目誦真言<note n="0103012" resp="Taisho" place="foot text" type="orig">（一百）＋八ヵ【甲】，（一千）＋八ヵ【甲】</note><note n="0103012" resp="CBETA" type="mod">八ヵ【大】，一百八ヵ【甲】，一千八ヵ【甲】</note><app n="0103012"><lem resp="Taisho" wit="【大】">八</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一百八</rdg><rdg resp="Taisho" wit="【甲】" type="correctionRemark">一千八</rdg></app>
 <lb n="0103b23" ed="T"/>遍。則聖者金剛童子現身告行者<note n="0103013" resp="Taisho" place="foot text" type="orig">〔言〕－【甲】</note><note n="0103013" resp="CBETA" type="mod">言【大】，〔－〕【甲】</note><app n="0103013"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。子汝
 <lb n="0103b24" ed="T"/>來。汝入修羅窟至第二重門。門即自開。若自
 <lb n="0103b25" ed="T"/>身入并諸眷屬等亦皆得入。阿修羅王所有
@@ -649,7 +649,7 @@ Added comment  for Emacs
 <lb n="0107a16" ed="T"/>那夜迦。及見羅剎極惡形容。即降伏為使者。
 <lb n="0107a17" ed="T"/>若見餘成就持誦人得悉地者。於彼起少忿
 <lb n="0107a18" ed="T"/>怒視彼人。彼所有成就法悉皆退失。彼羅剎
-<lb n="0107a19" ed="T"/>等立誓。所為所作一切所驅使處。皆悉成<choice><corr>辦</corr><sic>辨</sic></choice>
+<lb n="0107a19" ed="T"/>等立誓。所為所作一切所驅使處。皆悉成<note n="0107a1901" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0107a1901"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>
 <lb n="0107a20" ed="T"/>而為使者。</p>
 <lb n="0107a21" ed="T"/><p xml:id="pT21p0107a2101">又法於故園中或一逈樹下。或池側或山間。
 <lb n="0107a22" ed="T"/>或隨所愛樂處不語或乞食或飲乳。或食菜
@@ -737,7 +737,7 @@ Added comment  for Emacs
 <lb n="0108a14" ed="T"/>那。若光相<app type="star" corresp="#0108004"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【甲】【乙】【丁】">現</rdg></app>則飛騰虛空。一切無能沮壞。</p>
 <lb n="0108a15" ed="T"/><p xml:id="pT21p0108a1501">若於路中所逢象馬車乘自開路避之。行者
 <lb n="0108a16" ed="T"/>作法時。應著黃衣及以黃神線角<note n="0108006" resp="Taisho" place="foot text" type="orig">落如披袈娑＝絡如被袈裟【甲】【丁】</note><note n="0108006" resp="CBETA" type="mod">落如披袈娑【大】，絡如被袈裟【甲】【丁】</note><app n="0108006"><lem wit="【大】">落如披袈
-<lb n="0108a17" ed="T"/><note n="0108007" resp="Taisho" place="foot text" type="orig">娑＝裟【乙】</note><note n="0108007" resp="CBETA" type="mod">裟【乙】【CB】，娑【大】</note><app n="0108007"><lem resp="CBETA.maha" wit="【CBETA】">裟<note type="cf1">T21n1222bp0123a15</note></lem><rdg wit="【大】">娑</rdg><rdg resp="Taisho" wit="【乙】">裟</rdg></app></lem><rdg resp="Taisho" wit="【甲】【丁】">絡如被袈裟</rdg></app>。若求安膳那成就。以青埿染衣服著。或服
+<lb n="0108a17" ed="T"/><note n="0108007" resp="Taisho" place="foot text" type="orig">娑＝裟【乙】</note><note n="0108007" resp="CBETA" type="mod">裟【CB】【乙】，娑【大】</note><app n="0108007"><lem resp="CBETA.maha" wit="【CBETA】">裟<note type="cf1">T21n1222bp0123a15</note></lem><rdg wit="【大】">娑</rdg><rdg resp="Taisho" wit="【乙】">裟</rdg></app></lem><rdg resp="Taisho" wit="【甲】【丁】">絡如被袈裟</rdg></app>。若求安膳那成就。以青埿染衣服著。或服
 <lb n="0108a18" ed="T"/>赤衣。神線亦如是。金剛手菩薩作如是說。</p></lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>
 <lb n="0108a19" ed="T"/><p xml:id="pT21p0108a1901">我今說漫荼羅。當用<note n="0108008" resp="Taisho" place="foot text" type="orig">正月＝正月五月【甲】，五月【乙】【丙】</note><note n="0108008" resp="CBETA" type="mod">正月【大】，正月五月【甲】，五月【乙】【丙】</note><app n="0108008"><lem wit="【大】">正月</lem><rdg resp="Taisho" wit="【甲】">正月五月</rdg><rdg resp="Taisho" wit="【乙】【丙】">五月</rdg></app>九月於黑分。先應
 <lb n="0108a20" ed="T"/>令欲念誦者殷重供養師。然後取吉祥木長
@@ -913,7 +913,7 @@ Added comment  for Emacs
 <lb n="0110a09" ed="T"/><p xml:id="pT21p0110a0901"><note n="0110003" resp="Taisho" place="foot text" type="orig">〔又法…食〕十五字－【丁】</note><note n="0110003" resp="CBETA" type="mod">（又法…食）十五字【大】，〔－〕【丁】</note><app cb:word-count="15" n="0110003"><lem wit="【大】">又法取齒木搵油嚼揩齒。當即獲美食</lem><rdg resp="Taisho" wit="【丁】"><space quantity="0"/></rdg></app>。</p>
 <lb n="0110a10" ed="T"/><p xml:id="pT21p0110a1001">又法晨朝取水一掬。加持七遍飲之。不求飲
 <lb n="0110a11" ed="T"/>食<note n="0110004" resp="Taisho" place="foot text" type="orig">〔飲食〕－【甲】</note><note n="0110004" resp="CBETA" type="mod">飲食【大】，〔－〕【甲】</note><app n="0110004"><lem wit="【大】">飲食</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>自至。</p>
-<lb n="0110a12" ed="T"/><p xml:id="pT21p0110a1201">又法左手把袈<note n="0110005" resp="Taisho" place="foot text" type="orig">娑＝裟【甲】</note><note n="0110005" resp="CBETA" type="mod">裟【甲】【CB】，娑【大】</note><app n="0110005"><lem resp="CBETA.maha" wit="【CBETA】">裟<note type="cf1">T21n1222bp0124c02</note></lem><rdg wit="【大】">娑</rdg><rdg resp="Taisho" wit="【甲】">裟</rdg></app>角。加持二十一遍共人論
+<lb n="0110a12" ed="T"/><p xml:id="pT21p0110a1201">又法左手把袈<note n="0110005" resp="Taisho" place="foot text" type="orig">娑＝裟【甲】</note><note n="0110005" resp="CBETA" type="mod">裟【CB】【甲】，娑【大】</note><app n="0110005"><lem resp="CBETA.maha" wit="【CBETA】">裟<note type="cf1">T21n1222bp0124c02</note></lem><rdg wit="【大】">娑</rdg><rdg resp="Taisho" wit="【甲】">裟</rdg></app>角。加持二十一遍共人論
 <lb n="0110a13" ed="T"/>議。皆悉得勝辭辯無礙。</p>
 <lb n="0110a14" ed="T"/><p xml:id="pT21p0110a1401">又法經過賊境一心念誦。即不被劫奪傷害。</p>
 <lb n="0110a15" ed="T"/><p xml:id="pT21p0110a1501"><note n="0110006" resp="Taisho" place="foot text" type="orig">〔又法…魅〕十四字－【丁】</note><note n="0110006" resp="CBETA" type="mod">（又法…魅）十四字【大】，〔－〕【丁】</note><app cb:word-count="14" n="0110006"><lem wit="【大】">又法取佉陀羅木護摩。除一切鬼魅</lem><rdg resp="Taisho" wit="【丁】"><space quantity="0"/></rdg></app>。</p>
@@ -1080,7 +1080,7 @@ Added comment  for Emacs
 <lb n="0111c28" ed="T"/>誦真言。一遍一擲一撮於水中滿八千遍。即
 <lb n="0111c29" ed="T"/>得穀麥豐饒。</p>
 <pb n="0112a" xml:id="T21.1222a.0112a" ed="T"/>
-<lb n="0112a01" ed="T"/><p xml:id="pT21p0112a0101">又法每日取有香氣花一百八枚。<note n="0112001" resp="Taisho" place="foot text" type="orig">（七日）ヵ＋誦【甲】</note><note n="0112001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（七日）ヵ＋誦【甲】</note><app n="0112001"><lem resp="Taisho" wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">七日誦</rdg></app>真言一
+<lb n="0112a01" ed="T"/><p xml:id="pT21p0112a0101">又法每日取有香氣花一百八枚。<note n="0112001" resp="Taisho" place="foot text" type="orig">（七日）ヵ＋誦【甲】</note><note n="0112001" resp="CBETA" type="mod">誦【大】，七日誦【考偽-甲】</note><app n="0112001"><lem resp="Taisho" wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">七日誦</rdg></app>真言一
 <lb n="0112a02" ed="T"/>遍一獻本尊。<note n="0112002" resp="Taisho" place="foot text" type="orig">（七日）＋滿【甲】</note><note n="0112002" resp="CBETA" type="mod">滿【大】，七日滿【甲】</note><app n="0112002"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【甲】">七日滿</rdg></app>已則獲大福德。</p>
 <lb n="0112a03" ed="T"/><p xml:id="pT21p0112a0301"><note n="0112003" resp="Taisho" place="foot text" type="orig">〔又法…所〕四十字－【丁】</note><note n="0112003" resp="CBETA" type="mod">（又法…所）四十字【大】，〔－〕【丁】</note><app cb:word-count="40" n="0112003"><lem wit="【大】">又法每日取牛膝搵酥蜜酪七日護摩。每
 <lb n="0112a04" ed="T"/>時誦真言一百八遍。一遍一擲火中滿七日
@@ -1434,7 +1434,7 @@ Added comment  for Emacs
 <lb n="0115c21" ed="T"/>鬼魅一切障難悉皆消滅。於此壇亦能成就
 <lb n="0115c22" ed="T"/>一切藥物安怛但那。入阿修羅宮悉皆成就。</p>
 <lb n="0115c23" ed="T"/><p xml:id="pT21p0115c2301">爾時金<note n="0115010" resp="Taisho" place="foot text" type="orig">剛＋（手）【甲】【丁】</note><note n="0115010" resp="CBETA" type="mod">剛【大】，剛手【甲】【丁】</note><app n="0115010"><lem wit="【大】">剛</lem><rdg resp="Taisho" wit="【甲】【丁】">剛手</rdg></app>祕密主見未來一切有情。為利益
-<lb n="0115c24" ed="T"/>安樂故。略說成<choice><corr>辦</corr><sic>辨</sic></choice>一切漫<app type="star" corresp="#0115005"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【甲】">荼</rdg></app>羅。以少財寶
+<lb n="0115c24" ed="T"/>安樂故。略說成<note n="0115c2401" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0115c2401"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>一切漫<app type="star" corresp="#0115005"><lem wit="【大】">茶</lem><rdg resp="Taisho" wit="【甲】">荼</rdg></app>羅。以少財寶
 <lb n="0115c25" ed="T"/>以少時分。須臾日月持誦者。但清淨住戒。兼
 <lb n="0115c26" ed="T"/>助伴清淨修行。或於白月一日或二日。或五
 <lb n="0115c27" ed="T"/>日或六日或八日<note n="0115011" resp="Taisho" place="foot text" type="orig">〔或〕－【甲】</note><note n="0115011" resp="CBETA" type="mod">或【大】，〔－〕【甲】</note><app n="0115011"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>十四日。或於滿月十五
@@ -1491,7 +1491,7 @@ Added comment  for Emacs
 <cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh-Hant"><note n="0116009" resp="Taisho" place="foot text" type="orig">囉＝羅【甲】【丙】</note><note n="0116009" resp="CBETA" type="mod">囉【大】，羅【甲】【丙】</note><app n="0116009"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】【丙】">羅</rdg></app><note place="inline">三</note></cb:t></cb:tt>
 <cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A5FD"/></cb:t><cb:t xml:lang="zh-Hant">囉</cb:t></cb:tt>
 <cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A6B4"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>乞灑</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt>
-<cb:tt><cb:t xml:lang="sa-Sidd"><choice><corr><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/></corr><sic><g ref="#SD-D957"/></sic></choice></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>囉乞灑</cb:zi><cb:sg>二合</cb:sg></cb:yin><note place="inline">四</note></cb:t></cb:tt>
+<cb:tt><cb:t xml:lang="sa-Sidd"><note n="0116b1501" resp="CBETA" type="add"><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/>【CB】，<g ref="#SD-D957"/>【大】</note><app n="0116b1501"><lem wit="【CB】" resp="CBETA"><g ref="#SD-A5FD"/><g ref="#SD-A6B4"/></lem><rdg wit="【大】"><g ref="#SD-D957"/></rdg></app></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>囉乞灑</cb:zi><cb:sg>二合</cb:sg></cb:yin><note place="inline">四</note></cb:t></cb:tt>
 <lb n="0116b16" ed="T"/>
 <lb n="0116b17" ed="T"/><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A67A"/></cb:t><cb:t xml:lang="zh-Hant">薩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B7A3"/></cb:t><cb:t xml:lang="zh-Hant">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-AA76"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>捺囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A8BE"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>尾野</cb:zi><cb:sg>二合引</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A54D"/></cb:t><cb:t xml:lang="zh-Hant">抳</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-B065"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>娑嚩</cb:zi><cb:sg>二合<note n="0116010" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】【乙】【丙】</note><note n="0116010" resp="CBETA" type="mod">引【大】，〔－〕【甲】【乙】【丙】</note><app n="0116010"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app></cb:sg></cb:yin></cb:t></cb:tt>
 <lb n="0116b18" ed="T"/>

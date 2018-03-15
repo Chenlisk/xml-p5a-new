@@ -651,7 +651,7 @@ Added comment  for Emacs
 <lb n="0382a15" ed="T"/>度十外道。從憍陳如品訖經也。案曇纖曰。大
 <lb n="0382a16" ed="T"/>分此經為兩別。前略後廣。就略門中。分為五
 <lb n="0382a17" ed="T"/>段。第一序品也。第二開宗。明常住因果。從
-<lb n="0382a18" ed="T"/><note n="0382001" resp="Taisho" place="foot text" type="orig">（純）＋陀ヵ【原】</note><note n="0382001" resp="CBETA" type="mod">陀【大】，純陀【考偽-原】</note><app n="0382001"><lem resp="Taisho" wit="【大】">陀</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">純陀</rdg></app>品。訖哀歎品。第三問。從長壽品訖問也。
+<lb n="0382a18" ed="T"/><note n="0382001" resp="Taisho" place="foot text" type="orig">（純）＋陀ヵ【原】</note><note n="0382001" resp="CBETA" type="mod">陀ヵ【大】，純陀ヵ【原】</note><app n="0382001"><lem resp="Taisho" wit="【大】">陀</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">純陀</rdg></app>品。訖哀歎品。第三問。從長壽品訖問也。
 <lb n="0382a19" ed="T"/>第四答。從讚迦葉。入大眾問品後也。第五付
 <lb n="0382a20" ed="T"/>囑。從爾時大眾白佛訖品也。就廣門中。分為
 <lb n="0382a21" ed="T"/>五段。第一廣果。即現病品也。第二廣因。即
@@ -751,7 +751,7 @@ Added comment  for Emacs
 <lb n="0383a25" ed="T"/>千載之下。終為流通之病。是以第三度諸外
 <lb n="0383a26" ed="T"/>道以滅邪群。使弘通大士身心無礙。故曰廣
 <lb n="0383a27" ed="T"/>前付囑從爾時諸外道以下。訖經文也。</p></cb:div></cb:div>
-<lb n="0383a28" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>大般涅<choice><corr>槃</corr><sic>樂</sic></choice>經集解卷第一</cb:jhead></cb:juan>
+<lb n="0383a28" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>大般涅<note n="0383a2801" resp="CBETA" type="add">槃【CB】，樂【大】</note><app n="0383a2801"><lem wit="【CB】" resp="CBETA">槃</lem><rdg wit="【大】">樂</rdg></app>經集解卷第一</cb:jhead></cb:juan>
 <pb n="0383b" xml:id="T37.1763.0383b" ed="T"/>
 <lb n="0383b01" ed="T"/>
 <milestone n="2" unit="juan"/>
@@ -2345,7 +2345,7 @@ Added comment  for Emacs
 <lb n="0400c28" ed="T"/>常。三界外也。昔以三無為為常。今明妙有以
 <lb n="0400c29" ed="T"/>為常也。寶亮曰。此下第二舉因果。總勸問也。
 <pb n="0401a" xml:id="T37.1763.0401a" ed="T"/>
-<lb n="0401a01" ed="T"/>智秀曰。第二廣舉諸法。以勸<choice><corr>問</corr><sic>間</sic></choice>也。</p>
+<lb n="0401a01" ed="T"/>智秀曰。第二廣舉諸法。以勸<note n="0401a0101" resp="CBETA" type="add">問【CB】，間【大】</note><app n="0401a0101"><lem wit="【CB】" resp="CBETA">問</lem><rdg wit="【大】">間</rdg></app>也。</p>
 <lb n="0401a02" ed="T"/><p xml:id="pT37p0401a0201">亦當為汝先說甘露然後乃當入於涅槃。</p><p xml:id="pT37p0401a0217" rend="inline">案。
 <lb n="0401a03" ed="T"/>道生曰。如必不疑不知問者。亦當自為汝說。
 <lb n="0401a04" ed="T"/>終不使汝。遂墮疑惑也。僧亮曰。謂汝自有疑。
@@ -5623,7 +5623,7 @@ Added comment  for Emacs
 <lb n="0437b12" ed="T"/>明不還義也。</p>
 <lb n="0437b13" ed="T"/><p xml:id="pT37p0437b1301">第四人者名阿羅漢<note place="inline">至</note>名人中勝為歸依處。</p>
 <lb n="0437b14" ed="T"/><p xml:id="pT37p0437b1401">案。慧朗曰。略舉三德。釋羅漢也。斷諸煩惱。
-<lb n="0437b15" ed="T"/>釋殺賊也。逮得己利。釋應供也。所作已<note n="0437002" resp="Taisho" place="foot text" type="orig">辯＝辨【甲】</note><note n="0437002" resp="CBETA" type="mod">辨【甲】【CB】，辯【大】</note><app n="0437002"><lem wit="【CBETA】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辯</rdg><rdg resp="Taisho" wit="【甲】">辨</rdg></app>。
+<lb n="0437b15" ed="T"/>釋殺賊也。逮得己利。釋應供也。所作已<note n="0437002" resp="Taisho" place="foot text" type="orig">辯＝辨【甲】</note><note n="0437002" resp="CBETA" type="mod">辨【CB】【甲】，辯【大】</note><app n="0437002"><lem wit="【CBETA】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辯</rdg><rdg resp="Taisho" wit="【甲】">辨</rdg></app>。
 <lb n="0437b16" ed="T"/>釋不生也。如序品中所釋也。</p>
 <lb n="0437b17" ed="T"/><p xml:id="pT37p0437b1701">迦葉菩薩白佛言世尊<note place="inline">至</note>亦無敬念而作依止。</p>
 <lb n="0437b18" ed="T"/><p xml:id="pT37p0437b1801">案。道生曰。執無常者。必畏常說。如必畏
@@ -7013,7 +7013,7 @@ Added comment  for Emacs
 <lb n="0452c23" ed="T"/>未在已。而信解可得。既因譬獲悟。如面覩
 <lb n="0452c24" ed="T"/>明<note n="0452012" resp="Taisho" place="foot text" type="orig">〔鏡〕－【聖】</note><note n="0452012" resp="CBETA" type="mod">鏡【大】，〔－〕【聖】</note><app n="0452012"><lem wit="【大】">鏡</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>。分明見影。此譬是佛所說。故言醫執
 <lb n="0452c25" ed="T"/>鏡也。</p>
-<lb n="0452c26" ed="T"/><p xml:id="pT37p0452c2601">力士見<choice><corr>已</corr><sic>巳</sic></choice>心懷驚怪生奇特想。</p><p xml:id="pT37p0452c2613" rend="inline">案。法瑤曰。
+<lb n="0452c26" ed="T"/><p xml:id="pT37p0452c2601">力士見<note n="0452c2601" resp="CBETA" type="add">已【CB】，巳【大】</note><app n="0452c2601"><lem wit="【CB】" resp="CBETA">已</lem><rdg wit="【大】">巳</rdg></app>心懷驚怪生奇特想。</p><p xml:id="pT37p0452c2613" rend="inline">案。法瑤曰。
 <lb n="0452c27" ed="T"/>受教之徒。聞見佛性。方生信解。身中乃有此
 <lb n="0452c28" ed="T"/>之勝理。生奇特想也。僧宗曰。解生意表。如驚
 <lb n="0452c29" ed="T"/>也。貴重所悟。奇特想也。</p>
@@ -8322,7 +8322,7 @@ Added comment  for Emacs
 <lb n="0467b08" ed="T"/><p xml:id="pT37p0467b0801">迦葉菩薩白佛言世尊<note place="inline">至</note>云何能斷一切煩惱。</p>
 <lb n="0467b09" ed="T"/><p xml:id="pT37p0467b0901">案。僧亮曰。夫有三障。則不受道。若聞皆作
 <lb n="0467b10" ed="T"/>菩提因者。則善惡無差也。如來何故。說四依
-<lb n="0467b11" ed="T"/>義者。若一經耳。以是耳識所得。<choice><corr>已</corr><sic>巳</sic></choice>為菩提因
+<lb n="0467b11" ed="T"/>義者。若一經耳。以是耳識所得。<note n="0467b1101" resp="CBETA" type="add">已【CB】，巳【大】</note><app n="0467b1101"><lem wit="【CB】" resp="CBETA">已</lem><rdg wit="【大】">巳</rdg></app>為菩提因
 <lb n="0467b12" ed="T"/>者。何故。昔云依智不依識耶。云何斷一切煩
 <lb n="0467b13" ed="T"/>惱者。夫不退菩薩。要伏斷煩惱。若不解義。云
 <lb n="0467b14" ed="T"/>何伏結耶。寶亮曰。兩難各有兩關。便成四也。
@@ -8524,7 +8524,7 @@ Added comment  for Emacs
 <lb n="0469c07" ed="T"/>解喻子。令人受持。譬與母藥也。由經故有慧。
 <lb n="0469c08" ed="T"/>譬命全也。脩十地行。譬十月也。除愛慢故。譬
 <lb n="0469c09" ed="T"/>推乾去濕也。得果之日。酬於本期。譬報恩也。
-<lb n="0469c10" ed="T"/>力者三十二相。乃至十力也。四部<note n="0469004" resp="Taisho" place="foot text" type="orig">第＝弟【甲】</note><note n="0469004" resp="CBETA" type="mod">弟【甲】【CB】，第【大】</note><app n="0469004"><lem wit="【CBETA】" resp="CBETA.maha">弟</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【甲】">弟</rdg></app>子。如
+<lb n="0469c10" ed="T"/>力者三十二相。乃至十力也。四部<note n="0469004" resp="Taisho" place="foot text" type="orig">第＝弟【甲】</note><note n="0469004" resp="CBETA" type="mod">弟【CB】【甲】，第【大】</note><app n="0469004"><lem wit="【CBETA】" resp="CBETA.maha">弟</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【甲】">弟</rdg></app>子。如
 <lb n="0469c11" ed="T"/>侍衛也。</p>
 <lb n="0469c12" ed="T"/><p xml:id="pT37p0469c1201">復次善男子譬如良醫<note place="inline">至</note>唯除大龍一闡提輩。</p>
 <lb n="0469c13" ed="T"/><p xml:id="pT37p0469c1301">案。僧亮曰。醫譬佛也。子譬菩薩也。無上
@@ -9198,7 +9198,7 @@ Added comment  for Emacs
 <lb n="0477a23" ed="T"/><cb:div type="other"><p xml:id="pT37p0477a2301">　出求戒方便　釋菩薩五支戒
 <lb n="0477a24" ed="T"/>　釋世教戒正法戒　釋性重戒息<note n="0477006" resp="Taisho" place="foot text" type="orig">譏＝機【甲】</note><note n="0477006" resp="CBETA" type="mod">譏【大】，機【甲】</note><app n="0477006"><lem wit="【大】">譏</lem><rdg resp="Taisho" wit="【甲】">機</rdg></app>嫌戒
 <lb n="0477a25" ed="T"/>　釋不<note n="0477a2501" resp="CBETA" type="add">析【CB】，折【大】</note><app n="0477a2501"><lem wit="【CB】" resp="CBETA.maha">析<note type="cf1">T12n0374_p0433b24</note></lem><rdg wit="【大】">折</rdg></app>戒等九戒　結持戒果</p></cb:div>
-<lb n="0477a26" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">19 聖行品(二七-三五)</cb:mulu><cb:mulu level="2">1</cb:mulu><head>聖行品<note n="0477007" resp="Taisho" place="foot text" type="orig">第＋（十）【甲】</note><note n="0477007" resp="CBETA" type="mod">第十【甲】【CB】，第【大】</note><app n="0477007"><lem resp="CBETA.maha" wit="【CBETA】">第十</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【甲】">第十</rdg></app>九</head>
+<lb n="0477a26" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">19 聖行品(二七-三五)</cb:mulu><cb:mulu level="2">1</cb:mulu><head>聖行品<note n="0477007" resp="Taisho" place="foot text" type="orig">第＋（十）【甲】</note><note n="0477007" resp="CBETA" type="mod">第十【CB】【甲】，第【大】</note><app n="0477007"><lem resp="CBETA.maha" wit="【CBETA】">第十</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【甲】">第十</rdg></app>九</head>
 <lb n="0477a27" ed="T"/><p xml:id="pT37p0477a2701">案。僧亮曰。次答問我今請如來。為諸菩薩故。
 <lb n="0477a28" ed="T"/><note n="0477008" resp="Taisho" place="foot text" type="orig">須＝願【甲】</note><note n="0477008" resp="CBETA" type="mod">須【大】，願【甲】</note><app n="0477008"><lem wit="【大】">須</lem><rdg resp="Taisho" wit="【甲】">願</rdg></app>為說甚深微妙諸行等也。前品已說病行。
 <lb n="0477a29" ed="T"/>請其餘者。故名等也。五行者。上雖說病行
@@ -12165,11 +12165,11 @@ Added comment  for Emacs
 <lb n="0510b10" ed="T"/>罪。四明若信因果。生重慚愧。發露悔過。<note n="0510003" resp="Taisho" place="foot text" type="orig">加＝如ヵ【原】</note><note n="0510003" resp="CBETA" type="mod">加【大】，如【考偽-原】</note><app n="0510003"><lem resp="Taisho" wit="【大】">加</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">如</rdg></app>
 <lb n="0510b11" ed="T"/>闍世者。為可拔。不如是者。不可救也。此先明
 <lb n="0510b12" ed="T"/>造罪之緣起。內具十惡。不見未來。外黨凶人。
-<lb n="0510b13" ed="T"/>遂興重逆。曇濟曰。有六意。一明慈有<note n="0510004" resp="Taisho" place="foot text" type="orig">〔有〕－ヵ【原】</note><note n="0510004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔有〕－ヵ【原】</note><app n="0510004"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>益。
+<lb n="0510b13" ed="T"/>遂興重逆。曇濟曰。有六意。一明慈有<note n="0510004" resp="Taisho" place="foot text" type="orig">〔有〕－ヵ【原】</note><note n="0510004" resp="CBETA" type="mod">有【大】，〔－〕【考偽-原】</note><app n="0510004"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>益。
 <lb n="0510b14" ed="T"/>二明怨親等。三明外淨眾生。四明能除。五明
 <lb n="0510b15" ed="T"/>悔過。六明應近善友也。僧宗曰。此下有二意。
 <lb n="0510b16" ed="T"/>一者猶是歎經。二者證成梵行有益也。敬遺
-<lb n="0510b17" ed="T"/>記曰。有五意。<note n="0510005" resp="Taisho" place="foot text" type="orig">（第）ヵ＋一【原】</note><note n="0510005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（第）ヵ＋一【原】</note><app n="0510005"><lem resp="Taisho" wit="【大】">一</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">第一</rdg></app>歎經。第二內臣勸詣佛。第
+<lb n="0510b17" ed="T"/>記曰。有五意。<note n="0510005" resp="Taisho" place="foot text" type="orig">（第）ヵ＋一【原】</note><note n="0510005" resp="CBETA" type="mod">一【大】，第一【考偽-原】</note><app n="0510005"><lem resp="Taisho" wit="【大】">一</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">第一</rdg></app>歎經。第二內臣勸詣佛。第
 <lb n="0510b18" ed="T"/>三空中聲告勸隨耆婆。第四明佛慈無偏。第
 <lb n="0510b19" ed="T"/>五明除罪也。又一解云。第一外臣勸以邪師。
 <lb n="0510b20" ed="T"/>二證梵行。三示為慈有改悔之方。四示有真
@@ -13180,7 +13180,7 @@ Added comment  for Emacs
 <lb n="0521c01" ed="T"/><p xml:id="pT37p0521c0101">復次世尊可見之法<note place="inline">至</note>則得斷除一切煩惱。</p>
 <lb n="0521c02" ed="T"/><p xml:id="pT37p0521c0201">案。僧亮曰。第四難。可見故。則無常也。寶亮
 <lb n="0521c03" ed="T"/>曰。若見涅槃。而斷煩惱者。不容是常也。</p>
-<lb n="0521c04" ed="T"/><p xml:id="pT37p0521c0401">復次世尊譬<choice><corr>如</corr><sic>知</sic></choice>虛空<note place="inline">至</note>若不如是云何名常。</p>
+<lb n="0521c04" ed="T"/><p xml:id="pT37p0521c0401">復次世尊譬<note n="0521c0401" resp="CBETA" type="add">如【CB】，知【大】</note><app n="0521c0401"><lem wit="【CB】" resp="CBETA">如</lem><rdg wit="【大】">知</rdg></app>虛空<note place="inline">至</note>若不如是云何名常。</p>
 <lb n="0521c05" ed="T"/><p xml:id="pT37p0521c0501">案。僧亮曰。第五難。不共有故。則無常也。僧
 <lb n="0521c06" ed="T"/>宗曰。既不平等。云何言常。寶亮曰。若是常
 <lb n="0521c07" ed="T"/>者。應如虛空。而有得不得。故不應常也。</p>
@@ -13255,7 +13255,7 @@ Added comment  for Emacs
 <lb n="0522b15" ed="T"/>　論闡提斷善根義
 <lb n="0522b16" ed="T"/>　廣辯諸佛非天非非天等事
 <lb n="0522b17" ed="T"/>　辨三漏義　辨七漏義</p>
-<lb n="0522b18" ed="T"/><head>德王品之第<note n="0522008" resp="Taisho" place="foot text" type="orig">二＝三【聖】</note><note n="0522008" resp="CBETA" type="mod">三【聖】【CB】，二【大】</note><app n="0522008"><lem resp="CBETA.maha" wit="【CBETA】">三</lem><rdg wit="【大】">二</rdg><rdg resp="Taisho" wit="【聖】">三</rdg></app></head>
+<lb n="0522b18" ed="T"/><head>德王品之第<note n="0522008" resp="Taisho" place="foot text" type="orig">二＝三【聖】</note><note n="0522008" resp="CBETA" type="mod">三【CB】【聖】，二【大】</note><app n="0522008"><lem resp="CBETA.maha" wit="【CBETA】">三</lem><rdg wit="【大】">二</rdg><rdg resp="Taisho" wit="【聖】">三</rdg></app></head>
 <lb n="0522b19" ed="T"/><p xml:id="pT37p0522b1901">善男子云何菩薩摩訶薩<note place="inline">至</note>是名不聞而聞。</p>
 <lb n="0522b20" ed="T"/><p xml:id="pT37p0522b2001">案。僧亮曰。上說有為作因無常。涅槃從了因
 <lb n="0522b21" ed="T"/>得則常。若爾者。十二部經。皆是涅槃了因。即
@@ -13604,7 +13604,7 @@ Added comment  for Emacs
 <lb n="0526b03" ed="T"/>寶亮曰。斷無明住地惑。得於佛果。乃通三界
 <lb n="0526b04" ed="T"/>內外。皆是河義。而今取無明住地惑難斷者。
 <lb n="0526b05" ed="T"/>為河也。即取草木為栰者。於三界外。既未
-<lb n="0526b06" ed="T"/>有<note n="0526001" resp="Taisho" place="foot text" type="orig">〔有〕－ヵ【原】</note><note n="0526001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔有〕－ヵ【原】</note><app n="0526001"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>治道。欲修行萬善。以趣極果也。從我
+<lb n="0526b06" ed="T"/>有<note n="0526001" resp="Taisho" place="foot text" type="orig">〔有〕－ヵ【原】</note><note n="0526001" resp="CBETA" type="mod">有【大】，〔－〕【考偽-原】</note><app n="0526001"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>治道。欲修行萬善。以趣極果也。從我
 <lb n="0526b07" ed="T"/>設住此下。說蛇賊所害者。若指斷三界結盡。
 <lb n="0526b08" ed="T"/>而終未免於蛇賊。既與已相隣。云何相免。寧
 <lb n="0526b09" ed="T"/>當任無明住地。或牽於生死。終不為彼蛇賊
@@ -15532,7 +15532,7 @@ Added comment  for Emacs
 <lb n="0547c05" ed="T"/>死得稱。是為果上立果。故云果果也。</p>
 <lb n="0547c06" ed="T"/><p xml:id="pT37p0547c0601">有因者即十二因緣。</p><p xml:id="pT37p0547c0609" rend="inline">案。僧亮曰。十二因緣。
 <lb n="0547c07" ed="T"/>能生觀智。故名因也。</p>
-<lb n="0547c08" ed="T"/><p xml:id="pT37p0547c0801">因因者即是智慧。</p><p xml:id="pT37p0547c0808" rend="inline"><note n="0547002" resp="Taisho" place="foot text" type="orig">安＝案【聖】【甲】</note><note n="0547002" resp="CBETA" type="mod">案【聖】【甲】【CB】，安【大】</note><app n="0547002"><lem resp="CBETA.maha" wit="【CBETA】">案</lem><rdg wit="【大】">安</rdg><rdg resp="Taisho" wit="【聖】【甲】">案</rdg></app>。道生曰。智解十二因
+<lb n="0547c08" ed="T"/><p xml:id="pT37p0547c0801">因因者即是智慧。</p><p xml:id="pT37p0547c0808" rend="inline"><note n="0547002" resp="Taisho" place="foot text" type="orig">安＝案【聖】【甲】</note><note n="0547002" resp="CBETA" type="mod">案【CB】【聖】【甲】，安【大】</note><app n="0547002"><lem resp="CBETA.maha" wit="【CBETA】">案</lem><rdg wit="【大】">安</rdg><rdg resp="Taisho" wit="【聖】【甲】">案</rdg></app>。道生曰。智解十二因
 <lb n="0547c09" ed="T"/>緣。是因佛性也。今分為二。以理由解得。從理
 <lb n="0547c10" ed="T"/>故成佛果。理為佛因也。解既得理。解為理因。
 <lb n="0547c11" ed="T"/>是謂因之因也。僧亮曰。觀智於涅槃為因因
@@ -17038,7 +17038,7 @@ Added comment  for Emacs
 <lb n="0564b12" ed="T"/>也。</p>
 <lb n="0564b13" ed="T"/><p xml:id="pT37p0564b1301">善男子若言智慧能破煩惱<note place="inline">至</note>而能破者是義
 <lb n="0564b14" ed="T"/>不然。</p><p xml:id="pT37p0564b1403" rend="inline">案。僧亮曰。第三門有無也。智起則有。
-<lb n="0564b15" ed="T"/>故名到<note n="0564005" resp="Taisho" place="foot text" type="orig">（不）ヵ＋起【原】</note><note n="0564005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（不）ヵ＋起【原】</note><app n="0564005"><lem resp="Taisho" wit="【大】">起</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">不起</rdg></app>則無。故不到也。初念應破者。一
+<lb n="0564b15" ed="T"/>故名到<note n="0564005" resp="Taisho" place="foot text" type="orig">（不）ヵ＋起【原】</note><note n="0564005" resp="CBETA" type="mod">起【大】，不起【考偽-原】</note><app n="0564005"><lem resp="Taisho" wit="【大】">起</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">不起</rdg></app>則無。故不到也。初念應破者。一
 <lb n="0564b16" ed="T"/>念破一切結。是則不到者。如明闇相違。明起
 <lb n="0564b17" ed="T"/>闇以過去。明不及闇不到。則同凡夫也。寶亮
 <lb n="0564b18" ed="T"/>曰。第三門語勢。如<note n="0564006" resp="Taisho" place="foot text" type="orig">以＝似【聖】</note><note n="0564006" resp="CBETA" type="mod">以【大】，似【聖】</note><app n="0564006"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【聖】">似</rdg></app>智到煩惱時破。不到
@@ -18183,7 +18183,7 @@ Added comment  for Emacs
 <lb n="0577a21" ed="T"/>我所。</p><p xml:id="pT37p0577a2103" rend="inline">案。僧亮曰。我者。情靈之總號也。眾生壽
 <lb n="0577a22" ed="T"/>者。常用之別名。名有十六。而義言三世。總去
 <lb n="0577a23" ed="T"/>來今。假名為一故。即我身是也。而或者謂。佛
-<lb n="0577a24" ed="T"/>別說一我。從昔<note n="0577002" resp="Taisho" place="foot text" type="orig">〔至〕－ヵ【原】</note><note n="0577002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔至〕－ヵ【原】</note><app n="0577002"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。至今。始終不變。故起諍
+<lb n="0577a24" ed="T"/>別說一我。從昔<note n="0577002" resp="Taisho" place="foot text" type="orig">〔至〕－ヵ【原】</note><note n="0577002" resp="CBETA" type="mod">至【大】，〔－〕【考偽-原】</note><app n="0577002"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。至今。始終不變。故起諍
 <lb n="0577a25" ed="T"/>也。</p>
 <lb n="0577a26" ed="T"/><p xml:id="pT37p0577a2601">又我一時為諸眾生說言我者即是性也。</p>
 <lb n="0577a27" ed="T"/><p xml:id="pT37p0577a2701">案。僧亮曰。積習所成。故說之為性也。</p>
@@ -18484,7 +18484,7 @@ Added comment  for Emacs
 <lb n="0580b21" ed="T"/><p xml:id="pT37p0580b2101">以何因緣名無作色非異色因不作異色因果。</p>
 <lb n="0580b22" ed="T"/><p xml:id="pT37p0580b2201">案。僧亮曰。非異色因者。身口作法是色性。
 <lb n="0580b23" ed="T"/>三種善惡無記也。戒以善作為因。善作異於
-<lb n="0580b24" ed="T"/>不善無記。名異色<note n="0580009" resp="Taisho" place="foot text" type="orig">〔異色〕－ヵ【原】</note><note n="0580009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔異色〕－ヵ【原】</note><app n="0580009"><lem resp="Taisho" wit="【大】">異色</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>因也。不作異色因
+<lb n="0580b24" ed="T"/>不善無記。名異色<note n="0580009" resp="Taisho" place="foot text" type="orig">〔異色〕－ヵ【原】</note><note n="0580009" resp="CBETA" type="mod">異色【大】，〔－〕【考偽-原】</note><app n="0580009"><lem resp="Taisho" wit="【大】">異色</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>因也。不作異色因
 <lb n="0580b25" ed="T"/>果者。無作是異色因之果。言無異為因。無此
 <lb n="0580b26" ed="T"/>果同之果也。僧宗曰。非異色因者。異色即是
 <lb n="0580b27" ed="T"/>無作體。若餘色不發無作。非無作之因。如無
@@ -18627,7 +18627,7 @@ Added comment  for Emacs
 <lb n="0582a14" ed="T"/>戒也。具受乃得者。以一日一夜為具。何者。在
 <lb n="0582a15" ed="T"/>家戒有二種。一終身。二不終身。不終身者。以
 <lb n="0582a16" ed="T"/>心為期。或一日。或十五日。或一日一夜。或但
-<lb n="0582a17" ed="T"/>一月。成但一夜皆得成齋。經有證。迦旃<note n="0582004" resp="Taisho" place="foot text" type="orig">〔所〕－ヵ【原】</note><note n="0582004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔所〕－ヵ【原】</note><app n="0582004"><lem resp="Taisho" wit="【大】">所</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。
+<lb n="0582a17" ed="T"/>一月。成但一夜皆得成齋。經有證。迦旃<note n="0582004" resp="Taisho" place="foot text" type="orig">〔所〕－ヵ【原】</note><note n="0582004" resp="CBETA" type="mod">所【大】，〔－〕【考偽-原】</note><app n="0582004"><lem resp="Taisho" wit="【大】">所</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。
 <lb n="0582a18" ed="T"/>乃至一時念。以時念促故。心<note n="0582005" resp="Taisho" place="foot text" type="orig">若＝弱【聖】</note><note n="0582005" resp="CBETA" type="mod">若【大】，弱【聖】</note><app n="0582005"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【聖】">弱</rdg></app>不能發戒。
 <lb n="0582a19" ed="T"/>答言不成也。或者聞之。以一日一夜為定限。
 <lb n="0582a20" ed="T"/>多少皆不成齋。失旨也。僧宗曰。第十六諍論
@@ -18859,7 +18859,7 @@ Added comment  for Emacs
 <lb n="0584c05" ed="T"/><p xml:id="pT37p0584c0501">案。僧亮曰。凡有四問。此第一問。夫有法不
 <lb n="0584c06" ed="T"/>應三世。今定何世所攝耶。僧宗曰。凡有二問。
 <lb n="0584c07" ed="T"/>初問佛性三世攝不。次問闡提現在有佛性
-<lb n="0584c08" ed="T"/>不。若有。不應言斷善根也。若無<note n="0584001" resp="Taisho" place="foot text" type="orig">〔不應…無〕九字－ヵ【原】</note><note n="0584001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔不應…無〕九字－ヵ【原】</note><app n="0584001"><lem resp="Taisho" wit="【大】">不應言斷
+<lb n="0584c08" ed="T"/>不。若有。不應言斷善根也。若無<note n="0584001" resp="Taisho" place="foot text" type="orig">〔不應…無〕九字－ヵ【原】</note><note n="0584001" resp="CBETA" type="mod">（不應…無）九字【大】，〔－〕【考偽-原】</note><app n="0584001"><lem resp="Taisho" wit="【大】">不應言斷
 <lb n="0584c09" ed="T"/>善根也。若無</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>不應悉有也。寶亮曰。凡有三
 <lb n="0584c10" ed="T"/>難。第一舉果性作難。問斷善根人。有佛性者。
 <lb n="0584c11" ed="T"/>此佛性為在過去。為在未來。為在現在。為遍
@@ -19102,7 +19102,7 @@ Added comment  for Emacs
 <lb n="0587b08" ed="T"/>起。性自無闇。名為破闇。善惡之性。性自相
 <lb n="0587b09" ed="T"/>違。善生則惡滅也。寶亮曰。此人乘過去善為
 <lb n="0587b10" ed="T"/>因。現在善知識為緣。則能滅惡生善也。智秀
-<lb n="0587b11" ed="T"/>曰。<note n="0587004" resp="Taisho" place="foot text" type="orig">（日）ヵ＋雖【原】</note><note n="0587004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（日）ヵ＋雖【原】</note><app n="0587004"><lem resp="Taisho" wit="【大】">雖</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">日雖</rdg></app>未出性能破闇。佛性未來。能生善根。
+<lb n="0587b11" ed="T"/>曰。<note n="0587004" resp="Taisho" place="foot text" type="orig">（日）ヵ＋雖【原】</note><note n="0587004" resp="CBETA" type="mod">雖【大】，日雖【考偽-原】</note><app n="0587004"><lem resp="Taisho" wit="【大】">雖</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">日雖</rdg></app>未出性能破闇。佛性未來。能生善根。
 <lb n="0587b12" ed="T"/>其如此也。是少分譬。可善消息取之。</p>
 <lb n="0587b13" ed="T"/><p xml:id="pT37p0587b1301">迦葉菩薩白佛言世尊<note place="inline">至</note>眾生佛性非內非外。</p>
 <lb n="0587b14" ed="T"/><p xml:id="pT37p0587b1401">案。僧亮曰。廣上分別答也。以偏執生諍。終

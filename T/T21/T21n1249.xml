@@ -180,7 +180,7 @@ Added comment  for Emacs
 <lb n="0228b19" ed="T"/>僧曰此是何人。大廣智曰。此是北方毘沙門
 <lb n="0228b20" ed="T"/>天王第二子獨健。領天兵救援安西故來辭。
 <lb n="0228b21" ed="T"/>聖人設食發遣。至其年四月日。安西表到云。
-<lb n="0228b22" ed="T"/>去二月十一日<choice><corr>巳</corr><sic>已</sic></choice>後午前。去城東北三十里。
+<lb n="0228b22" ed="T"/>去二月十一日<note n="0228b2201" resp="CBETA" type="add">巳【CB】，已【大】</note><app n="0228b2201"><lem wit="【CB】" resp="CBETA">巳</lem><rdg wit="【大】">已</rdg></app>後午前。去城東北三十里。
 <lb n="0228b23" ed="T"/>有雲霧斗闇。霧中有人。身長一丈。約三五百
 <lb n="0228b24" ed="T"/>人盡著金甲。至酉後鼓角大鳴。聲震三百里。
 <lb n="0228b25" ed="T"/>地動山崩停住三日。五國大懼盡退軍。抽兵
@@ -290,7 +290,7 @@ Added comment  for Emacs
 <lb n="0229c09" ed="T"/>之。</p><p xml:id="pT21p0229c0902" rend="inline">若患一切鬼病者。呪石榴杖百八遍。打
 <lb n="0229c10" ed="T"/>病人即差。</p><p xml:id="pT21p0229c1005" rend="inline"><note n="0229010" resp="Taisho" place="foot text" type="orig">原ぃ本註云智明曰此印出吠室囉末那軌之畢</note>作印法。二小指相鉤。二無名指
 <lb n="0229c11" ed="T"/>向外直竪。二中指二頭指反相叉。二大母指
-<lb n="0229c12" ed="T"/>向外直竪。手掌相背是<note place="inline">以上所說<note n="0229011" resp="Taisho" place="foot text" type="orig">〔二〕ぃ－ヵ【原】</note><note n="0229011" resp="CBETA" type="mod">二【大】，〔－〕【校異Ｂ-原】，<!--CBETA todo type: newmod-->〔二〕－ヵ【原】</note><app n="0229011"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>法中皆用此印</note>誦此真
+<lb n="0229c12" ed="T"/>向外直竪。手掌相背是<note place="inline">以上所說<note n="0229011" resp="Taisho" place="foot text" type="orig">〔二〕ぃ－ヵ【原】</note><note n="0229011" resp="CBETA" type="mod">二【大】，〔－〕【校異Ｂ-原】，〔－〕【考偽-原】</note><app n="0229011"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>法中皆用此印</note>誦此真
 <lb n="0229c13" ed="T"/>言數滿。即誦使者真言七遍。又誦八天真言
 <lb n="0229c14" ed="T"/>各三遍。</p>
 <lb n="0229c15" ed="T"/><p xml:id="pT21p0229c1501">毘沙門天王使者呪</p>

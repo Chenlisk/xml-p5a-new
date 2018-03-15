@@ -143,7 +143,7 @@ Added comment  for Emacs
 <lb n="0653a08" ed="T"/>安穩無諸衰患。世尊我今有一神呪。能去邪
 <lb n="0653a09" ed="T"/>心。復能驅使諸惡鬼等。令一切眾生悉皆通
 <lb n="0653a10" ed="T"/>達。若修行人被諸魔惱者。當作我此法不違。
-<lb n="0653a11" ed="T"/>一切鬼神若欲驅使。隨意所須一一當<choice><corr>辦</corr><sic>辨</sic></choice>。若
+<lb n="0653a11" ed="T"/>一切鬼神若欲驅使。隨意所須一一當<note n="0653a1101" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0653a1101"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>。若
 <lb n="0653a12" ed="T"/>誦此呪及此法者。三日三夜令得成就。世尊
 <lb n="0653a13" ed="T"/>若有人發意驅役除去災禍。欲知未來事者。
 <lb n="0653a14" ed="T"/>及通宿命智自然智。具此三。又令未合者令
@@ -272,14 +272,14 @@ Added comment  for Emacs
 <lb n="0654b17" ed="T"/>□□□。世</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">之皆悉有驗世</rdg></app>尊若作法之時。隨意勿擇淨與不
 <lb n="0654b18" ed="T"/>淨。但隨心所作。或於本坐臥房中。或於別處
 <lb n="0654b19" ed="T"/>房舍。或於佛塔中。或於曠野間。或於潔淨山
-<lb n="0654b20" ed="T"/>中。如是等種種隨意力<choice><corr>辦</corr><sic>辨</sic></choice>切急中作之。<note n="0654027" resp="Taisho" place="foot text" type="orig">其□□□法＝其所作法ヵ【原】</note><note n="0654027" resp="CBETA" type="mod">其□□□法【大】，其所作法【考偽-原】</note><app n="0654027"><lem resp="Taisho" wit="【大】">其□
-<lb n="0654b21" ed="T"/>□□法</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">其所作法</rdg></app>即速成就。或時人多處<note n="0654028" resp="Taisho" place="foot text" type="orig">（乃）ヵ＋至【原】</note><note n="0654028" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（乃）ヵ＋至【原】</note><app n="0654028"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">乃至</rdg></app>時人少處。
+<lb n="0654b20" ed="T"/>中。如是等種種隨意力<note n="0654b2001" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0654b2001"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>切急中作之。<note n="0654027" resp="Taisho" place="foot text" type="orig">其□□□法＝其所作法ヵ【原】</note><note n="0654027" resp="CBETA" type="mod">其□□□法【大】，其所作法【考偽-原】</note><app n="0654027"><lem resp="Taisho" wit="【大】">其□
+<lb n="0654b21" ed="T"/>□□法</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">其所作法</rdg></app>即速成就。或時人多處<note n="0654028" resp="Taisho" place="foot text" type="orig">（乃）ヵ＋至【原】</note><note n="0654028" resp="CBETA" type="mod">至【大】，乃至【考偽-原】</note><app n="0654028"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">乃至</rdg></app>時人少處。
 <lb n="0654b22" ed="T"/>或獨自一身。或有妻子。如是種種皆無所妨。
 <lb n="0654b23" ed="T"/>但心生勵莫苦役自身。於三日夜即自成就。
 <lb n="0654b24" ed="T"/>即須念地藏菩薩名字。世尊但行人修此法。
 <lb n="0654b25" ed="T"/>我常不離其人。所指示道路不令告徑。<note n="0654029" resp="Taisho" place="foot text" type="orig">又□□鬼＝又修法人鬼ヵ【原】</note><note n="0654029" resp="CBETA" type="mod">又□□鬼【大】，又修法人鬼【考偽-原】</note><app n="0654029"><lem resp="Taisho" wit="【大】">又□
 <lb n="0654b26" ed="T"/>□鬼</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">又修法人鬼</rdg></app>神役使疾得氣力。令<note n="0654030" resp="Taisho" place="foot text" type="orig">彼□□□□達＝彼一一報示達ヵ【原】</note><note n="0654030" resp="CBETA" type="mod">彼□□□□達【大】，彼一一報示達【考偽-原】</note><app n="0654030"><lem resp="Taisho" wit="【大】">彼□□□□達</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">彼一一報示達</rdg></app>玄
-<lb n="0654b27" ed="T"/>靈表。<note n="0654031" resp="Taisho" place="foot text" type="orig">（知）ヵ＋生【原】</note><note n="0654031" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（知）ヵ＋生【原】</note><app n="0654031"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">知生</rdg></app>知死。其所行法速離世間。世尊凡
+<lb n="0654b27" ed="T"/>靈表。<note n="0654031" resp="Taisho" place="foot text" type="orig">（知）ヵ＋生【原】</note><note n="0654031" resp="CBETA" type="mod">生【大】，知生【考偽-原】</note><app n="0654031"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">知生</rdg></app>知死。其所行法速離世間。世尊凡
 <lb n="0654b28" ed="T"/>欲誦呪作諸方法者。點誦呪及呼喚鬼神。並
 <lb n="0654b29" ed="T"/>須闇密作之。勿令出聲。當作使喚時。憶得隨
 <pb n="0654c" xml:id="T20.1159A.0654c" ed="T"/>
@@ -302,7 +302,7 @@ Added comment  for Emacs
 <lb n="0654c17" ed="T"/>書。足一年行用也。其<note n="0654037" resp="Taisho" place="foot text" type="orig">苻□□□日＝苻用初年日ヵ【原】</note><note n="0654037" resp="CBETA" type="mod">苻□□□日【大】，苻用初年日【考偽-原】</note><app n="0654037"><lem resp="Taisho" wit="【大】">苻□□□日</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">苻用初年日</rdg></app>至此日
 <lb n="0654c18" ed="T"/>作之大驗。其初年日不等。西國三月一日為
 <lb n="0654c19" ed="T"/>初年。東次毘漢國正月為初年。各依本國法
-<lb n="0654c20" ed="T"/>作。若<note n="0654038" resp="Taisho" place="foot text" type="orig">〔問〕－ヵ【原】</note><note n="0654038" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔問〕－ヵ【原】</note><app n="0654038"><lem resp="Taisho" wit="【大】">問</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>過此日者其苻失度。世尊此已上
+<lb n="0654c20" ed="T"/>作。若<note n="0654038" resp="Taisho" place="foot text" type="orig">〔問〕－ヵ【原】</note><note n="0654038" resp="CBETA" type="mod">問【大】，〔－〕【考偽-原】</note><app n="0654038"><lem resp="Taisho" wit="【大】">問</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>過此日者其苻失度。世尊此已上
 <lb n="0654c21" ed="T"/>四十道苻上二十道修神苻能除一切衰患。
 <lb n="0654c22" ed="T"/><note n="0654039" resp="Taisho" place="foot text" type="orig">□□＝若ヵ【原】</note><note n="0654039" resp="CBETA" type="mod">□□【大】，若【考偽-原】</note><app n="0654039"><lem resp="Taisho" wit="【大】">□□</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">若</rdg></app>修法人療治眾生病苦。書<note n="0654040" resp="Taisho" place="foot text" type="orig">（一…吞）八字＝（一千枚符書之吞）七字ヵ【原】</note><note n="0654040" resp="CBETA" type="mod">（一…吞）八字【大】，一千枚符書之吞【原】</note><app n="0654040"><lem resp="Taisho" wit="【大】">一□□□
 <lb n="0654c23" ed="T"/>書之□吞</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">一千枚符書之吞</rdg></app>帶所有惡病惡瘡朱沙書苻向之即

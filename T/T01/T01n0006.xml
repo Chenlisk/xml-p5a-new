@@ -570,7 +570,7 @@ Added comment  for Emacs
 <lb n="0180b10" ed="T"/><note n="0180011" resp="Taisho" type="orig" place="foot text">繕＝縫【宋】</note><note n="0180011" resp="CBETA" type="mod">繕【大】，縫【宋】</note><app n="0180011"><lem wit="【大】">繕</lem><rdg resp="Taisho" wit="【宋】">縫</rdg></app>衣畢，佛<app type="star" corresp="#0177010"><lem wit="【大】">請</lem><rdg resp="Taisho" wit="【宋】【元】【明】">語</rdg></app>賢者阿難，俱至維耶離，受教
 <lb n="0180b11" ed="T"/>即行。既到止猨猴館，行乞食畢，滌鉢澡洗，
 <lb n="0180b12" ed="T"/>又與阿難俱，到急疾神地。佛言：「阿難！維耶
-<lb n="0180b13" ed="T"/>離樂，越<note n="0180012" resp="Taisho" type="orig" place="foot text">施＝祇【元】【明】</note><note n="0180012" resp="CBETA" type="mod">祇【元】【明】【CB】，施【大】</note><app n="0180012"><lem wit="【CBETA】" resp="CBETA.maha">祇</lem><rdg wit="【大】">施</rdg><rdg resp="Taisho" wit="【元】【明】">祇</rdg></app>亦樂，今此天下，十六大國，其
+<lb n="0180b13" ed="T"/>離樂，越<note n="0180012" resp="Taisho" type="orig" place="foot text">施＝祇【元】【明】</note><note n="0180012" resp="CBETA" type="mod">祇【CB】【元】【明】，施【大】</note><app n="0180012"><lem wit="【CBETA】" resp="CBETA.maha">祇</lem><rdg wit="【大】">施</rdg><rdg resp="Taisho" wit="【元】【明】">祇</rdg></app>亦樂，今此天下，十六大國，其
 <lb n="0180b14" ed="T"/>諸郡邑皆樂。熙連<note n="0180013" resp="Taisho" type="orig" place="foot text">然＝禪【明】</note><note n="0180013" resp="CBETA" type="mod">然【大】，禪【明】</note><app n="0180013"><lem wit="【大】">然</lem><rdg resp="Taisho" wit="【明】">禪</rdg></app>河，多出黃金，閻浮提
 <lb n="0180b15" ed="T"/>地，<note n="0180014" resp="Taisho" type="orig" place="foot text">（如）＋五【元】【明】</note><note n="0180014" resp="CBETA" type="mod">五【大】，如五【元】【明】</note><app n="0180014"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【元】【明】">如五</rdg></app>色畫，人生於世，以壽為樂。若比丘
 <lb n="0180b16" ed="T"/>比丘尼，知四神足，是為拔苦，多修習行，<note n="0180015" resp="Taisho" type="orig" place="foot text">當＝常【元】【明】</note><note n="0180015" resp="CBETA" type="mod">當【大】，常【元】【明】</note><app n="0180015"><lem wit="【大】">當</lem><rdg resp="Taisho" wit="【元】【明】">常</rdg></app>
@@ -630,7 +630,7 @@ Added comment  for Emacs
 <lb n="0181a10" ed="T"/><p xml:id="pT01p0181a1001">對曰：「不也。」</p><p xml:id="pT01p0181a1005" rend="inline">「如是阿難！夫不智者既自發言
 <lb n="0181a11" ed="T"/>而追違之；我無是也。」</p><p xml:id="pT01p0181a1109" rend="inline">阿難垂涕曰：「亦何<note n="0181004" resp="Taisho" type="orig" place="foot text">駛＝駃【宋】【元】</note><note n="0181004" resp="CBETA" type="mod">駛【大】，駃【宋】【元】</note><app n="0181004"><lem wit="【大】">駛</lem><rdg resp="Taisho" wit="【宋】【元】">駃</rdg></app>
 <lb n="0181a12" ed="T"/>哉！佛取泥洹，一何疾哉！世間眼滅。」</p><p xml:id="pT01p0181a1214" rend="inline">彼時，佛
-<lb n="0181a13" ed="T"/>勅賢者阿難，請維耶離國<note n="0181005" resp="Taisho" type="orig" place="foot text">猗＝倚【三】</note><note n="0181005" resp="CBETA" type="mod">倚【宋】【元】【明】【CB】，猗【大】</note><app n="0181005"><lem wit="【CBETA】" resp="CBETA.maha">倚</lem><rdg wit="【大】">猗</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">倚</rdg></app>行比丘。受教
+<lb n="0181a13" ed="T"/>勅賢者阿難，請維耶離國<note n="0181005" resp="Taisho" type="orig" place="foot text">猗＝倚【三】</note><note n="0181005" resp="CBETA" type="mod">倚【CB】【宋】【元】【明】，猗【大】</note><app n="0181005"><lem wit="【CBETA】" resp="CBETA.maha">倚</lem><rdg wit="【大】">猗</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">倚</rdg></app>行比丘。受教
 <lb n="0181a14" ed="T"/>即請，悉<note n="0181a1401" resp="CBETA" type="add">會【CB】【麗-CB】，曾【大】</note><app n="0181a1401"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">會<note type="cf1">K19n0654_p0212b02</note><note type="cf2">T01n0006_p0176b17</note></lem><rdg wit="【大】">曾</rdg></app>講堂，稽首畢一面住。佛告諸比
 <lb n="0181a15" ed="T"/>丘：「世間無常，無有牢固，皆當離散，無常在
 <lb n="0181a16" ed="T"/>者，心識所行，但為自欺，恩愛合會，其誰得
@@ -791,7 +791,7 @@ Added comment  for Emacs
 <lb n="0182c21" ed="T"/>說不近不經虧損正法，當持法句義解說之。
 <lb n="0182c22" ed="T"/>若經不入與法意諍則當諫謂：『正賢者且聽，
 <lb n="0182c23" ed="T"/>賢哲高明曉法律，此非法律，吾子妄受；不應
-<lb n="0182c24" ed="T"/>於經與法意違，不如<note n="0182021" resp="Taisho" type="orig" place="foot text">教佛＝佛教【三】</note><note n="0182021" resp="CBETA" type="mod">佛教【宋】【元】【明】【CB】，教佛【大】</note><app n="0182021"><lem wit="【CBETA】" resp="CBETA.maha">佛教</lem><rdg wit="【大】">教佛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">佛教</rdg></app>，知棄是。』</p><p xml:id="pT01p0182c2414" rend="inline">「又復阿
+<lb n="0182c24" ed="T"/>於經與法意違，不如<note n="0182021" resp="Taisho" type="orig" place="foot text">教佛＝佛教【三】</note><note n="0182021" resp="CBETA" type="mod">佛教【CB】【宋】【元】【明】，教佛【大】</note><app n="0182021"><lem wit="【CBETA】" resp="CBETA.maha">佛教</lem><rdg wit="【大】">教佛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">佛教</rdg></app>，知棄是。』</p><p xml:id="pT01p0182c2414" rend="inline">「又復阿
 <lb n="0182c25" ed="T"/>難！若有<note n="0182c2501" resp="CBETA" type="add">言【CB】【麗-CB】，者【大】</note><app n="0182c2501"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">言<note type="cf1">K19n0654_p0214c22</note><note type="cf2">T01n0006_p0182c26</note></lem><rdg wit="【大】">者</rdg></app>：『我得從佛受是法語。』而其言謬
 <lb n="0182c26" ed="T"/>不合經法；若有言：『我從依聖眾奉法者受。』
 <lb n="0182c27" ed="T"/>而其言謬不合經法；若復言：『我口從耆舊
@@ -1241,7 +1241,7 @@ Added comment  for Emacs
 <lb n="0187c21" ed="T"/>亦妙乎。今受聖恩，乃聞是法，願得捨家，受
 <lb n="0187c22" ed="T"/>成就戒。」</p><p xml:id="pT01p0187c2204" rend="inline">阿難白佛：「異學須跋！願受眾祐自
 <lb n="0187c23" ed="T"/>然法律，捨家就戒沙門之行。」</p><p xml:id="pT01p0187c2312" rend="inline">佛以可其就戒
-<lb n="0187c24" ed="T"/>之志，曰：「是吾<note n="0187016" resp="Taisho" type="orig" place="foot text">未＝末【三】</note><note n="0187016" resp="CBETA" type="mod">末【宋】【元】【明】【CB】，未【大】</note><app n="0187016"><lem wit="【CBETA】" resp="CBETA.maha">末</lem><rdg wit="【大】">未</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">末</rdg></app>後得證見淨者，異學須跋
+<lb n="0187c24" ed="T"/>之志，曰：「是吾<note n="0187016" resp="Taisho" type="orig" place="foot text">未＝末【三】</note><note n="0187016" resp="CBETA" type="mod">末【CB】【宋】【元】【明】，未【大】</note><app n="0187016"><lem wit="【CBETA】" resp="CBETA.maha">末</lem><rdg wit="【大】">未</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">末</rdg></app>後得證見淨者，異學須跋
 <lb n="0187c25" ed="T"/>也。」即授戒為比丘，一心受不放逸，以健制
 <lb n="0187c26" ed="T"/>以志惟以斷却，如所欲下鬚髮被袈裟，以家
 <lb n="0187c27" ed="T"/>之信離家，為道得法，意具淨行，自知作證，

@@ -369,7 +369,7 @@ Added comment  for Emacs
 <lb n="1341a17" ed="T"/>尊。我念往昔。久遠過去。無量世時。有佛世尊。
 <lb n="1341a18" ed="T"/>名曰寶勝。一聞名者。皆得生天。於後不久。天
 <lb n="1341a19" ed="T"/>自在光王國內。曠野澤中。有一大池。其水枯
-<lb n="1341a20" ed="T"/>涸。於彼池中。有十千大魚。為日所<choice><corr>曝</corr><sic><g ref="#CB02720"/></sic></choice>。欲入死
+<lb n="1341a20" ed="T"/>涸。於彼池中。有十千大魚。為日所<note n="1341a2001" resp="CBETA" type="add">曝【CB】，<g ref="#CB02720"/>【大】</note><app n="1341a2001"><lem wit="【CB】" resp="CBETA">曝</lem><rdg wit="【大】"><g ref="#CB02720"/></rdg></app>。欲入死
 <lb n="1341a21" ed="T"/>門。有一大士。名曰流水。見是大魚。心生慈
 <lb n="1341a22" ed="T"/>悲。施水飲食。少日得活。知命不久。即為三稱。
 <lb n="1341a23" ed="T"/>寶勝佛名。是魚聞已。即便命終。生忉利天。以
@@ -556,7 +556,7 @@ Added comment  for Emacs
 <lb n="1343a24" ed="T"/>淨身佛。南無華光佛。南無光明佛。南無華足
 <lb n="1343a25" ed="T"/>佛。南無名相佛。南無閻浮那提金光佛。南無
 <lb n="1343a26" ed="T"/>法明佛。南無寶明佛。南無普明佛。南無普相
-<lb n="1343a27" ed="T"/>佛。南無普光佛。南無山海慧佛。南無<choice><corr>自</corr><sic>目</sic></choice>在通
+<lb n="1343a27" ed="T"/>佛。南無普光佛。南無山海慧佛。南無<note n="1343a2701" resp="CBETA" type="add">自【CB】，目【大】</note><app n="1343a2701"><lem wit="【CB】" resp="CBETA">自</lem><rdg wit="【大】">目</rdg></app>在通
 <lb n="1343a28" ed="T"/>王佛。南無寶莊嚴佛。南無弗沙佛。南無百
 <lb n="1343a29" ed="T"/>億自在登王佛。南無寶相佛。南無喜見佛。南
 <pb n="1343b" ed="T" xml:id="T85.2871.1343b"/>
@@ -1473,7 +1473,7 @@ Added comment  for Emacs
 <lb n="1353a12" ed="T"/>燒種種妙香。深心供養。以此至心。是人懺悔。
 <lb n="1353a13" ed="T"/>震動十方。我於爾時。與無量無邊恒沙諸佛。
 <lb n="1353a14" ed="T"/>無量無邊恒沙菩薩。隨其音聲。入其室內。與
-<lb n="1353a15" ed="T"/>作證明。如是七日。定得<note n="1353002" resp="Taisho" type="orig" place="foot text">滅＋（罪）【甲】</note><note n="1353002" resp="CBETA" type="mod">滅罪【甲】【CB】，滅【大】</note><app n="1353002"><lem resp="CBETA.maha" wit="【CBETA】">滅罪<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】">滅</rdg><rdg resp="Taisho" wit="【甲】">滅罪</rdg></app>。所以知者。凡夫
+<lb n="1353a15" ed="T"/>作證明。如是七日。定得<note n="1353002" resp="Taisho" type="orig" place="foot text">滅＋（罪）【甲】</note><note n="1353002" resp="CBETA" type="mod">滅罪【CB】【甲】，滅【大】</note><app n="1353002"><lem resp="CBETA.maha" wit="【CBETA】">滅罪<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】">滅</rdg><rdg resp="Taisho" wit="【甲】">滅罪</rdg></app>。所以知者。凡夫
 <lb n="1353a16" ed="T"/>之人。未合真諦。當取夢相。若見一夢。即滅一
 <lb n="1353a17" ed="T"/>逆。見此五夢。即滅五逆。是人其夜。夢見自身。
 <lb n="1353a18" ed="T"/>欲渡大河。上大橋行。當知是人。定得度脫。其
@@ -1524,13 +1524,13 @@ Added comment  for Emacs
 <lb n="1353c03" ed="T"/>切毛孔。皆出猛火。其烟臭惡。世間臭物。無以
 <lb n="1353c04" ed="T"/>可比。其獄四門。一一門邊。復有十八獄卒。頭
 <lb n="1353c05" ed="T"/>如羅剎頭。口如羅剎口。頭上十八角。手捉鐵
-<lb n="1353c06" ed="T"/>叉。七重城內。有無數鐵<choice><corr>幢</corr><sic>憧</sic></choice>。<choice><corr>幢</corr><sic>憧</sic></choice>頭火涌。如沸涌
+<lb n="1353c06" ed="T"/>叉。七重城內。有無數鐵<note n="1353c0601" resp="CBETA" type="add">幢【CB】，憧【大】</note><app n="1353c0601"><lem wit="【CB】" resp="CBETA">幢</lem><rdg wit="【大】">憧</rdg></app>。<note n="1353c0602" resp="CBETA" type="add">幢【CB】，憧【大】</note><app n="1353c0602"><lem wit="【CB】" resp="CBETA">幢</lem><rdg wit="【大】">憧</rdg></app>頭火涌。如沸涌
 <lb n="1353c07" ed="T"/>泉。其鐵流迸。滿阿鼻城<note n="1353007" resp="Taisho" type="orig" place="foot text">〔中〕－【甲】</note><note n="1353007" resp="CBETA" type="mod">中【大】，〔－〕【甲】</note><app n="1353007"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。阿鼻四門。其一
 <lb n="1353c08" ed="T"/>一門上。復有十八銅釜。沸鐵涌出。四門漫流。
 <lb n="1353c09" ed="T"/>滿阿鼻城。一一鬲間。復有八萬四千鐵蟒大
 <lb n="1353c10" ed="T"/>蛇。吐毒吐火。身滿城中。其蛇哮吼。如天大雷。
 <lb n="1353c11" ed="T"/>雨大鐵丸。滿阿鼻城。此城苦事。八萬億千。苦
-<lb n="1353c12" ed="T"/>中苦者。<note n="1353008" resp="Taisho" type="orig" place="foot text">腦＝惱【甲】＊</note><note n="1353008" resp="CBETA" type="mod">惱【甲】＊【CB】＊，腦【大】＊</note><app n="1353008"><lem resp="CBETA.maha" wit="【CBETA】">惱</lem><rdg wit="【大】">腦</rdg><rdg resp="Taisho" wit="【甲】">惱</rdg></app>中<app type="star" corresp="#1353008"><lem resp="CBETA.maha" wit="【CBETA】">惱</lem><rdg wit="【大】">腦</rdg><rdg resp="Taisho" wit="【甲】">惱</rdg></app>者。皆集此城。阿鼻地獄。四
+<lb n="1353c12" ed="T"/>中苦者。<note n="1353008" resp="Taisho" type="orig" place="foot text">腦＝惱【甲】＊</note><note n="1353008" resp="CBETA" type="mod">惱【CB】＊【甲】＊，腦【大】＊</note><app n="1353008"><lem resp="CBETA.maha" wit="【CBETA】">惱</lem><rdg wit="【大】">腦</rdg><rdg resp="Taisho" wit="【甲】">惱</rdg></app>中<app type="star" corresp="#1353008"><lem resp="CBETA.maha" wit="【CBETA】">惱</lem><rdg wit="【大】">腦</rdg><rdg resp="Taisho" wit="【甲】">惱</rdg></app>者。皆集此城。阿鼻地獄。四
 <lb n="1353c13" ed="T"/>方有門。一一門外。各有猛火。東西南北。交過
 <lb n="1353c14" ed="T"/>通徹。八萬由旬。周匝鐵牆。鐵網彌覆。其地亦
 <lb n="1353c15" ed="T"/>鐵。上火徹下。下火徹上。四維上下。周匝一時。
@@ -1572,7 +1572,7 @@ Added comment  for Emacs
 <lb n="1354a21" ed="T"/>相三昧起入光明相三昧。從光明相三昧起
 <lb n="1354a22" ed="T"/>入師子音聲三昧。從師子音聲三昧起入師
 <lb n="1354a23" ed="T"/>子奮迅三昧。從師子奮迅三昧起入海意三
-<lb n="1354a24" ed="T"/>昧。從海意三昧起入普<note n="1354002" resp="Taisho" type="orig" place="foot text">知＝智【甲】＊</note><note n="1354002" resp="CBETA" type="mod">智【甲】＊【CB】＊，知【大】＊</note><app n="1354002"><lem resp="CBETA.maha" wit="【CBETA】">智</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【甲】">智</rdg></app>三昧。從普智三
+<lb n="1354a24" ed="T"/>昧。從海意三昧起入普<note n="1354002" resp="Taisho" type="orig" place="foot text">知＝智【甲】＊</note><note n="1354002" resp="CBETA" type="mod">智【CB】＊【甲】＊，知【大】＊</note><app n="1354002"><lem resp="CBETA.maha" wit="【CBETA】">智</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【甲】">智</rdg></app>三昧。從普智三
 <lb n="1354a25" ed="T"/>昧起入陀羅尼印三昧。從陀羅尼印三昧起
 <lb n="1354a26" ed="T"/>入普現色身三昧。從普現色身三昧起入法
 <lb n="1354a27" ed="T"/>界性三昧。從法界性三昧起入師子王三昧。
@@ -1605,13 +1605,13 @@ Added comment  for Emacs
 <lb n="1354b24" ed="T"/><l>摩伽陀國人</l><l>悉發菩提心</l><l>皆<note n="1354006" resp="Taisho" type="orig" place="foot text">由＝心【甲】</note><note n="1354006" resp="CBETA" type="mod">由【大】，心【甲】</note><app n="1354006"><lem wit="【大】">由</lem><rdg resp="Taisho" wit="【甲】">心</rdg></app>恭敬禮</l>
 <lb n="1354b25" ed="T"/><l>十方三世佛</l><l>阿若憍陳如</l><l>五百聲聞等</l>
 <lb n="1354b26" ed="T"/><l>來世成佛道</l><l>皆由恭敬禮</l><l>十方三世佛</l>
-<lb n="1354b27" ed="T"/><l>外道婆羅門</l><l>十仙大梵志</l><l><note n="1354007" resp="Taisho" type="orig" place="foot text">念＝今【甲】</note><note n="1354007" resp="CBETA" type="mod">今【甲】【CB】，念【大】</note><app n="1354007"><lem resp="CBETA.maha" wit="【CBETA】">今</lem><rdg wit="【大】">念</rdg><rdg resp="Taisho" wit="【甲】">今</rdg></app>得阿羅漢</l>
+<lb n="1354b27" ed="T"/><l>外道婆羅門</l><l>十仙大梵志</l><l><note n="1354007" resp="Taisho" type="orig" place="foot text">念＝今【甲】</note><note n="1354007" resp="CBETA" type="mod">今【CB】【甲】，念【大】</note><app n="1354007"><lem resp="CBETA.maha" wit="【CBETA】">今</lem><rdg wit="【大】">念</rdg><rdg resp="Taisho" wit="【甲】">今</rdg></app>得阿羅漢</l>
 <lb n="1354b28" ed="T"/><l>乃往過去世</l><l>皆由恭敬禮</l><l>十方三世佛</l>
 <lb n="1354b29" ed="T"/><l>自悟第一義</l><l>十方佛土中</l><l>一切菩薩眾</l>
 <pb n="1354c" ed="T" xml:id="T85.2871.1354c"/>
 <lb n="1354c01" ed="T"/><l>往生無量壽</l><l>皆由恭敬禮</l><l>十方三世佛</l>
 <lb n="1354c02" ed="T"/><l>復次善見王</l><l>我昔作國王</l><l>名<note n="1354008" resp="Taisho" type="orig" place="foot text">曰＝為【甲】</note><note n="1354008" resp="CBETA" type="mod">曰【大】，為【甲】</note><app n="1354008"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】">為</rdg></app>大仙<note n="1354009" resp="Taisho" type="orig" place="foot text">譽＝與【甲】</note><note n="1354009" resp="CBETA" type="mod">譽【大】，與【甲】</note><app n="1354009"><lem wit="【大】">譽</lem><rdg resp="Taisho" wit="【甲】">與</rdg></app></l>
-<lb n="1354c03" ed="T"/><l>佛日未出<note n="1354010" resp="Taisho" type="orig" place="foot text">昧＝時【甲】</note><note n="1354010" resp="CBETA" type="mod">時【甲】【CB】，昧【大】</note><app n="1354010"><lem resp="CBETA.maha" wit="【CBETA】">時</lem><rdg wit="【大】">昧</rdg><rdg resp="Taisho" wit="【甲】">時</rdg></app></l><l>供養出家人</l><l>五百婆羅門</l>
+<lb n="1354c03" ed="T"/><l>佛日未出<note n="1354010" resp="Taisho" type="orig" place="foot text">昧＝時【甲】</note><note n="1354010" resp="CBETA" type="mod">時【CB】【甲】，昧【大】</note><app n="1354010"><lem resp="CBETA.maha" wit="【CBETA】">時</lem><rdg wit="【大】">昧</rdg><rdg resp="Taisho" wit="【甲】">時</rdg></app></l><l>供養出家人</l><l>五百婆羅門</l>
 <lb n="1354c04" ed="T"/><l>飲食及衣服</l><l>房舍及臥具</l><l>悉滿<note n="1354011" resp="Taisho" type="orig" place="foot text">二十＝十二【甲】</note><note n="1354011" resp="CBETA" type="mod">二十【大】，十二【甲】</note><app n="1354011"><lem wit="【大】">二十</lem><rdg resp="Taisho" wit="【甲】">十二</rdg></app>年</l>
 <lb n="1354c05" ed="T"/><l>我時即告言</l><l>師等發菩提</l><l>是諸婆羅門</l>
 <lb n="1354c06" ed="T"/><l>雖復受供養</l><l>實不信三寶</l><l>師便答我言</l>

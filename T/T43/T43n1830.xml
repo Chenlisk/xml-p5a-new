@@ -6206,7 +6206,7 @@ Added comment  for Emacs
 <lb n="0296a16" ed="T"/>各別。以相似故可假說者。理亦不然。</p>
 <lb n="0296a17" ed="T"/><p xml:id="pT43p0296a1701">論。說火在人不在德故。</p><p xml:id="pT43p0296a1710" rend="inline">述曰。世間但說人
 <lb n="0296a18" ed="T"/>似於火。不說德似火。德似火時。應當猛
-<lb n="0296a19" ed="T"/>似猛。赤似赤。德是實家德。可依<note n="0296002" resp="Taisho" place="foot text" type="orig">（實）ィ＋假【原】</note><note n="0296002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（實）ィ＋假【原】</note><app n="0296002"><lem wit="【大】">假</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">實假</rdg></app>說。今
+<lb n="0296a19" ed="T"/>似猛。赤似赤。德是實家德。可依<note n="0296002" resp="Taisho" place="foot text" type="orig">（實）ィ＋假【原】</note><note n="0296002" resp="CBETA" type="mod">假【大】，實假【校異-原】</note><app n="0296002"><lem wit="【大】">假</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">實假</rdg></app>說。今
 <lb n="0296a20" ed="T"/>不在德。唯在於人。乃言假依實說。此<note n="0296003" resp="Taisho" place="foot text" type="orig">既字祕作即</note>既
 <lb n="0296a21" ed="T"/>便依假人說實火故。若說火在德。德是實
 <lb n="0296a22" ed="T"/>德。以德相似名火依實。既說火在人。應
@@ -7168,7 +7168,7 @@ Added comment  for Emacs
 <lb n="0306c18" ed="T"/>廣破分別論者。三申正義。四釋相違。五總
 <lb n="0306c19" ed="T"/>結。此下即初也。有為無漏即見道等。無本有
 <lb n="0306c20" ed="T"/>種。無因緣故。應不得生。量云。汝初無漏
-<lb n="0306c21" ed="T"/>應不得生。無因緣故。如<choice><corr>兔</corr><sic>免</sic></choice>角等。</p>
+<lb n="0306c21" ed="T"/>應不得生。無因緣故。如<note n="0306c2101" resp="CBETA" type="add">兔【CB】，免【大】</note><app n="0306c2101"><lem wit="【CB】" resp="CBETA">兔</lem><rdg wit="【大】">免</rdg></app>角等。</p>
 <lb n="0306c22" ed="T"/><p xml:id="pT43p0306c2201">若彼救言以世第一法為其因緣。有漏法
 <lb n="0306c23" ed="T"/>中此為勝故。此義不然。</p>
 <lb n="0306c24" ed="T"/><p xml:id="pT43p0306c2401">論。有漏不應至生有漏故。</p><p xml:id="pT43p0306c2411" rend="inline">述曰。此二相違。
@@ -19663,7 +19663,7 @@ Added comment  for Emacs
 <lb n="0445c25" ed="T"/>不從他起。言色是我。已分別訖。不是不
 <lb n="0445c26" ed="T"/>分別其所起處。我所必依我見後起故不．
 <lb n="0445c27" ed="T"/>同也　其六十二見等准此應知　六十五
-<lb n="0445c28" ed="T"/>者。婆<choice><corr>沙</corr><sic>娑</sic></choice>雜蘊第一世第一品末第十卷。約蘊
+<lb n="0445c28" ed="T"/>者。婆<note n="0445c2801" resp="CBETA" type="add">沙【CB】，娑【大】</note><app n="0445c2801"><lem wit="【CB】" resp="CBETA">沙</lem><rdg wit="【大】">娑</rdg></app>雜蘊第一世第一品末第十卷。約蘊
 <lb n="0445c29" ed="T"/>約界．處等分別。此言等者。等處。等界<note n="0445005" resp="Taisho" place="foot text" type="orig">也＝色【甲】</note><note n="0445005" resp="CBETA" type="mod">也【大】，色【甲】</note><app n="0445005"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">色</rdg></app>。
 <pb n="0446a" xml:id="T43.1830.0446a" ed="T"/>
 <lb n="0446a01" ed="T"/>謂如以色為我。於餘四蘊各有三所。謂是
@@ -19832,7 +19832,7 @@ Added comment  for Emacs
 <lb n="0447c14" ed="T"/>色界有形加行易起。可見後地法。不別計
 <lb n="0447c15" ed="T"/>為斷滅。但約總界說為斷滅。其實地地皆
 <lb n="0447c16" ed="T"/>有。欲界之中。人．天趣異。故別別開。論實處
-<lb n="0447c17" ed="T"/>處皆別起斷。若廣分別如毘婆<choice><corr>沙</corr><sic>娑</sic></choice>。其<note n="0447004" resp="Taisho" place="foot text" type="orig">等＝中【乙】</note><note n="0447004" resp="CBETA" type="mod">等【大】，中【乙】</note><app n="0447004"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【乙】">中</rdg></app>等
+<lb n="0447c17" ed="T"/>處皆別起斷。若廣分別如毘婆<note n="0447c1701" resp="CBETA" type="add">沙【CB】，娑【大】</note><app n="0447c1701"><lem wit="【CB】" resp="CBETA">沙</lem><rdg wit="【大】">娑</rdg></app>。其<note n="0447004" resp="Taisho" place="foot text" type="orig">等＝中【乙】</note><note n="0447004" resp="CBETA" type="mod">等【大】，中【乙】</note><app n="0447004"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【乙】">中</rdg></app>等
 <lb n="0447c18" ed="T"/>十四不可記事中無常斷見。如前已說。</p>
 <lb n="0447c19" ed="T"/><p xml:id="pT43p0447c1901">論。三邪見至名義遍故。</p><p xml:id="pT43p0447c1910" rend="inline">述曰。謗因者。謂對
 <lb n="0447c20" ed="T"/>法云。謂無施與。無愛樂。無祠祀。無妙行。
@@ -19974,7 +19974,7 @@ Added comment  for Emacs
 <lb n="0449b06" ed="T"/>能得清淨解脫名見取。亦戒取亦然。及彼
 <lb n="0449b07" ed="T"/>解迷四諦中皆有此說。故知影說　又彼
 <lb n="0449b08" ed="T"/>多文非為盡理。隨小乘相說。</p>
-<lb n="0449b09" ed="T"/><p xml:id="pT43p0449b0901">論。不爾如何至非二取攝。</p><p xml:id="pT43p0449b0911" rend="inline"><choice><corr>述</corr><sic>迷</sic></choice>曰。若非影說
+<lb n="0449b09" ed="T"/><p xml:id="pT43p0449b0901">論。不爾如何至非二取攝。</p><p xml:id="pT43p0449b0911" rend="inline"><note n="0449b0901" resp="CBETA" type="add">述【CB】，迷【大】</note><app n="0449b0901"><lem wit="【CB】" resp="CBETA">述</lem><rdg wit="【大】">迷</rdg></app>曰。若非影說
 <lb n="0449b10" ed="T"/>及隨轉者。即五十八迷四諦中。如滅諦下。
 <lb n="0449b11" ed="T"/>非滅計滅。非勝計勝。故應是見取。迷道
 <lb n="0449b12" ed="T"/>諦中。非道計道。亦得淨故應名戒取。彼
@@ -21944,7 +21944,7 @@ Added comment  for Emacs
 <lb n="0471c22" ed="T"/>有住異熟故。此異熟生心非實異熟。尋．伺
 <lb n="0471c23" ed="T"/>亦然。不與第三第八識中文相違也。</p>
 <lb n="0471c24" ed="T"/><p xml:id="pT43p0471c2401">論。尋伺除初至名等義故。</p><p xml:id="pT43p0471c2411" rend="inline">述曰。除異熟心。
-<lb n="0471c25" ed="T"/>異<choice><corr>熟</corr><sic>熱</sic></choice>心解微劣。不能尋求伺察名等法故。
+<lb n="0471c25" ed="T"/>異<note n="0471c2501" resp="CBETA" type="add">熟【CB】，熱【大】</note><app n="0471c2501"><lem wit="【CB】" resp="CBETA">熟</lem><rdg wit="【大】">熱</rdg></app>心解微劣。不能尋求伺察名等法故。
 <lb n="0471c26" ed="T"/>大論第一七分別中說。不染污分別此有善．
 <lb n="0471c27" ed="T"/>淨無記。善謂隨與一信等善法相應。非謂
 <lb n="0471c28" ed="T"/>信等別唯起一。此總舉善。隨設與一即名
@@ -21971,7 +21971,7 @@ Added comment  for Emacs
 <lb n="0472a18" ed="T"/>得起上。上得起下。欲界入初定名下起
 <lb n="0472a19" ed="T"/>上。第二定以上至第四定。起初定及欲界邪
 <lb n="0472a20" ed="T"/>見。<note n="0472001" resp="Taisho" place="foot text" type="orig">辨＝并？</note><note n="0472001" resp="CBETA" type="mod">辨【大】，并【考偽-大】</note><app n="0472001"><lem resp="Taisho" wit="【大】">辨</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">并</rdg></app>無色界起下色欲界潤生心等。故名
-<lb n="0472a21" ed="T"/>上起<choice><corr>下</corr><sic>不</sic></choice>。</p>
+<lb n="0472a21" ed="T"/>上起<note n="0472a2101" resp="CBETA" type="add">下【CB】，不【大】</note><app n="0472a2101"><lem wit="【CB】" resp="CBETA">下</lem><rdg wit="【大】">不</rdg></app>。</p>
 <lb n="0472a22" ed="T"/><p xml:id="pT43p0472a2201">論。下上尋伺能緣上下。</p><p xml:id="pT43p0472a2210" rend="inline">述曰。第三子門。下
 <lb n="0472a23" ed="T"/>上尋．伺互得緣上下。境界寬故。欲界者緣
 <lb n="0472a24" ed="T"/>上二界。色界者緣上下二界<note n="0472002" resp="Taisho" place="foot text" type="orig">地＝起【甲】</note><note n="0472002" resp="CBETA" type="mod">地【大】，起【甲】</note><app n="0472002"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【甲】">起</rdg></app>。</p>
@@ -31066,7 +31066,7 @@ Added comment  for Emacs
 <lb n="0573a11" ed="T"/>輪聖王。王此洲<note n="0573001" resp="Taisho" place="foot text" type="orig">化＝花？</note><note n="0573001" resp="CBETA" type="mod">化【大】，花【考偽-大】</note><app n="0573001"><lem resp="Taisho" wit="【大】">化</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">花</rdg></app>果也。</p>
 <lb n="0573a12" ed="T"/><p xml:id="pT43p0573a1201">論。善達法界得諸平等。</p><p xml:id="pT43p0573a1210" rend="inline">述曰。無性云。於此
 <lb n="0573a13" ed="T"/>法界深作證故　得諸平等者。佛地經說
-<lb n="0573a14" ed="T"/>得十平等。攝論第六云。得<choice><corr>一</corr><sic>　</sic></choice>切有情．一切
+<lb n="0573a14" ed="T"/>得十平等。攝論第六云。得<note n="0573a1401" resp="CBETA" type="add">一【CB】，［－］【大】</note><app n="0573a1401"><lem wit="【CB】" resp="CBETA">一</lem><rdg wit="【大】">　</rdg></app>切有情．一切
 <lb n="0573a15" ed="T"/>菩薩．一切如來三種平等心性故。廣如彼
 <lb n="0573a16" ed="T"/>釋。</p>
 <lb n="0573a17" ed="T"/><p xml:id="pT43p0573a1701">論。常生諸佛大集會中。</p><p xml:id="pT43p0573a1710" rend="inline">述曰。即常生在他
@@ -33648,7 +33648,7 @@ Added comment  for Emacs
 <lb n="0601c07" ed="T"/>餘菩薩．及異生等。雖依此佛所變上變為
 <lb n="0601c08" ed="T"/>佛身．土。然佛變細。餘變者麁。佛變細者非
 <lb n="0601c09" ed="T"/>五境攝。他之所變義有二途。<note n="0601003" resp="Taisho" place="foot text" type="orig">一＋（有義定色故）ィ【原】</note><note n="0601003" resp="CBETA" type="mod">一【大】，一有義定色故【校異-原】</note><app n="0601003"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">一有義定色故</rdg></app>色或定收。
-<lb n="0601c10" ed="T"/>如來第八<note n="0601004" resp="Taisho" place="foot text" type="orig">（從）ィ＋勝【甲】</note><note n="0601004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（從）ィ＋勝【甲】</note><app n="0601004"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">從勝</rdg></app>定所引<note n="0601005" resp="Taisho" place="foot text" type="orig">〔住〕－【甲】</note><note n="0601005" resp="CBETA" type="mod">住【大】，〔－〕【甲】</note><app n="0601005"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>故。何故第八定所
+<lb n="0601c10" ed="T"/>如來第八<note n="0601004" resp="Taisho" place="foot text" type="orig">（從）ィ＋勝【甲】</note><note n="0601004" resp="CBETA" type="mod">勝【大】，從勝【校異-甲】</note><app n="0601004"><lem wit="【大】">勝</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">從勝</rdg></app>定所引<note n="0601005" resp="Taisho" place="foot text" type="orig">〔住〕－【甲】</note><note n="0601005" resp="CBETA" type="mod">住【大】，〔－〕【甲】</note><app n="0601005"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>故。何故第八定所
 <lb n="0601c11" ed="T"/>引即彼五<note n="0601006" resp="Taisho" place="foot text" type="orig">識＝境ィ【原】，境【甲】</note><note n="0601006" resp="CBETA" type="mod">識【大】，境【校異-原】，境【甲】</note><app n="0601006"><lem wit="【大】">識</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">境</rdg><rdg resp="Taisho" wit="【甲】">境</rdg></app>不爾。五稱散<note n="0601007" resp="Taisho" place="foot text" type="orig">五＋（識）ィ【原】</note><note n="0601007" resp="CBETA" type="mod">五【大】，五識【校異-原】</note><app n="0601007"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">五識</rdg></app>常緣故。理
 <lb n="0601c12" ed="T"/>亦少難熟思之也。根．境既無如來五識亦非
 <lb n="0601c13" ed="T"/>五識界。根雖非實似其根相故佛現有。他
@@ -33665,7 +33665,7 @@ Added comment  for Emacs
 <lb n="0601c24" ed="T"/>可一識二智生故。</p>
 <lb n="0601c25" ed="T"/><p xml:id="pT43p0601c2501">論。彼觀諸法至故有差別。</p><p xml:id="pT43p0601c2511" rend="inline">述曰。此論主答。
 <lb n="0601c26" ed="T"/>彼觀察智能觀諸法自相．共相。此成事智唯
-<lb n="0601c27" ed="T"/>起化<note n="0601009" resp="Taisho" place="foot text" type="orig">（作）ィ＋用【原】</note><note n="0601009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（作）ィ＋用【原】</note><app n="0601009"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">作用</rdg></app>故二智別。</p>
+<lb n="0601c27" ed="T"/>起化<note n="0601009" resp="Taisho" place="foot text" type="orig">（作）ィ＋用【原】</note><note n="0601009" resp="CBETA" type="mod">用【大】，作用【校異-原】</note><app n="0601009"><lem wit="【大】">用</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">作用</rdg></app>故二智別。</p>
 <lb n="0601c28" ed="T"/><p xml:id="pT43p0601c2801">論。此二智品至不俱起故。</p><p xml:id="pT43p0601c2811" rend="inline">述曰。外人復問。
 <lb n="0601c29" ed="T"/>此二智品應不並起。餘論等說無處無容
 <pb n="0602a" xml:id="T43.1830.0602a" ed="T"/>
@@ -33720,7 +33720,7 @@ Added comment  for Emacs
 <lb n="0602b19" ed="T"/><p xml:id="pT43p0602b1901">論。又處處說至是密意說。</p><p xml:id="pT43p0602b1911" rend="inline">述曰。又涅槃經．
 <lb n="0602b20" ed="T"/>莊嚴論等說。轉無常蘊獲得常蘊。勝鬘等
 <lb n="0602b21" ed="T"/>說。如來妙色身等。故諸經中說為非色等
-<lb n="0602b22" ed="T"/>是密意說。<note n="0602002" resp="Taisho" place="foot text" type="orig">密＝蜜【甲】＊</note><note n="0602002" resp="CBETA" type="mod">密【大】＊，蜜【甲】＊</note><app n="0602002"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】">蜜</rdg></app>意說者。顯非麁淺<note n="0602003" resp="Taisho" place="foot text" type="orig">（識）ィ＋智【甲】</note><note n="0602003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（識）ィ＋智【甲】</note><app n="0602003"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">識智</rdg></app>境界
+<lb n="0602b22" ed="T"/>是密意說。<note n="0602002" resp="Taisho" place="foot text" type="orig">密＝蜜【甲】＊</note><note n="0602002" resp="CBETA" type="mod">密【大】＊，蜜【甲】＊</note><app n="0602002"><lem wit="【大】">密</lem><rdg resp="Taisho" wit="【甲】">蜜</rdg></app>意說者。顯非麁淺<note n="0602003" resp="Taisho" place="foot text" type="orig">（識）ィ＋智【甲】</note><note n="0602003" resp="CBETA" type="mod">智【大】，識智【校異-甲】</note><app n="0602003"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">識智</rdg></app>境界
 <lb n="0602b23" ed="T"/>故。以上皆是破前第一師計。</p>
 <lb n="0602b24" ed="T"/><p xml:id="pT43p0602b2401">論。又說五識至非佛所成。</p><p xml:id="pT43p0602b2411" rend="inline">述曰。文意可解。
 <lb n="0602b25" ed="T"/>破前第二師。</p>

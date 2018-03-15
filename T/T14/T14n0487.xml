@@ -218,7 +218,7 @@ Added comment  for Emacs
 <lb n="0699b13" ed="T"/><p xml:id="pT14p0699b1301">「『南無下方毘盧遮那如來。廣及彼方無量世
 <lb n="0699b14" ed="T"/>界一切如來，諸大法藏，并諸菩薩、聲聞、緣覺
 <lb n="0699b15" ed="T"/>一切賢聖。</p>
-<lb n="0699b16" ed="T"/><p xml:id="pT14p0699b1601">「『次又歸命娑<choice><corr>婆</corr><sic>訶</sic></choice>世界本師釋迦牟尼如來。廣
+<lb n="0699b16" ed="T"/><p xml:id="pT14p0699b1601">「『次又歸命娑<note n="0699b1601" resp="CBETA" type="add">婆【CB】，訶【大】</note><app n="0699b1601"><lem wit="【CB】" resp="CBETA">婆</lem><rdg wit="【大】">訶</rdg></app>世界本師釋迦牟尼如來。廣
 <lb n="0699b17" ed="T"/>及十方無量世界一切如來，諸大法藏，及入
 <lb n="0699b18" ed="T"/>地菩薩摩訶薩、聲聞、緣覺一切賢聖。』</p>
 <lb n="0699b19" ed="T"/><p xml:id="pT14p0699b1901">「又作是言：『我今一心頂禮如上一切佛、法、諸
@@ -283,7 +283,7 @@ Added comment  for Emacs
 <lb n="0700a18" ed="T"/><l>世事悉棄捨，</l><l>諸欲皆遠離。</l>
 <lb n="0700a19" ed="T"/><l>正語住法念，</l><l>莊嚴菩提心，</l>
 <lb n="0700a20" ed="T"/><l>敬事善知識，</l><l>有情咸見重。</l>
-<lb n="0700a21" ed="T"/><l><note n="0700003" resp="Taisho" type="orig" place="foot text">戒＝威【三】【宮】</note><note n="0700003" resp="CBETA" type="mod">戒【大】，威【宋】【元】【明】【宮】</note><app n="0700003"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">威</rdg></app>儀既具足，</l><l>淨<note n="0700004" resp="Taisho" type="orig" place="foot text">受念＝念受【宮】</note><note n="0700004" resp="CBETA" type="mod">念受【宮】【麗-CB】【CB】，受念【大】</note><app n="0700004"><lem wit="【CBETA】【麗】" resp="CBETA.maha">念受<note type="cf1">K13n0491_p1314a22</note></lem><rdg wit="【大】">受念</rdg><rdg resp="Taisho" wit="【宮】">念受</rdg></app>樂報，</l>
+<lb n="0700a21" ed="T"/><l><note n="0700003" resp="Taisho" type="orig" place="foot text">戒＝威【三】【宮】</note><note n="0700003" resp="CBETA" type="mod">戒【大】，威【宋】【元】【明】【宮】</note><app n="0700003"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">威</rdg></app>儀既具足，</l><l>淨<note n="0700004" resp="Taisho" type="orig" place="foot text">受念＝念受【宮】</note><note n="0700004" resp="CBETA" type="mod">念受【CB】【麗-CB】【宮】，受念【大】</note><app n="0700004"><lem wit="【CBETA】【麗】" resp="CBETA.maha">念受<note type="cf1">K13n0491_p1314a22</note></lem><rdg wit="【大】">受念</rdg><rdg resp="Taisho" wit="【宮】">念受</rdg></app>樂報，</l>
 <lb n="0700a22" ed="T"/><l>常畏彼惡業，</l><l>遊步於善法。</l>
 <lb n="0700a23" ed="T"/><l>恒依十度行，</l><l>故得成菩提，</l>
 <lb n="0700a24" ed="T"/><l>乃至最後身，</l><l>常與眾生樂。</l>

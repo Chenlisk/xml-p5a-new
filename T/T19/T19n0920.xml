@@ -208,7 +208,7 @@ Added comment  for Emacs
 <lb n="0002c13" ed="T"/>天眾常擁護故。諸大藥叉羅剎成助法眾故。
 <lb n="0002c14" ed="T"/>能令一切諸大鬼神生歡喜故。能令所持誦
 <lb n="0002c15" ed="T"/>者等佛力故。等佛心故。等佛智故。等佛威故。
-<lb n="0002c16" ed="T"/>能令持者心所為作無不<choice><corr>辦</corr><sic>辨</sic></choice>故。能令所有障
+<lb n="0002c16" ed="T"/>能令持者心所為作無不<note n="0002c1601" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0002c1601"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>故。能令所有障
 <lb n="0002c17" ed="T"/>難皆斷絕故。帝釋梵王常扶持故。能令一切
 <lb n="0002c18" ed="T"/>直至菩提無退轉故。世間所有事業自明了
 <lb n="0002c19" ed="T"/>故。乃至過去未來現在。一切世界有通無通
@@ -309,7 +309,7 @@ Added comment  for Emacs
 <lb n="0003c24" ed="T"/>即退。世間小小諸病及難治不可識者。但結
 <lb n="0003c25" ed="T"/>契呪滿一日癲病亦除。除不至心。若於龍藏
 <lb n="0003c26" ed="T"/>所須法要。結契誦呪呼龍王名。不經一宿其
-<lb n="0003c27" ed="T"/>法自現。當見之時。誦持不得更不<choice><corr>忘</corr><sic>妄</sic></choice>失。若得
+<lb n="0003c27" ed="T"/>法自現。當見之時。誦持不得更不<note n="0003c2701" resp="CBETA" type="add">忘【CB】，妄【大】</note><app n="0003c2701"><lem wit="【CB】" resp="CBETA">忘</lem><rdg wit="【大】">妄</rdg></app>失。若得
 <lb n="0003c28" ed="T"/>此法但自祕之。勿傳非人慎之慎之。欲用此
 <lb n="0003c29" ed="T"/>契量事大小。大事行。小事莫行。用損其靈驗。
 <pb n="0004a" xml:id="T19.0920.0004a" ed="T"/>
@@ -952,7 +952,7 @@ Added comment  for Emacs
 <lb n="0011a11" ed="T"/>傾覆。一切山河大海目真隣陀山鐵圍山大
 <lb n="0011a12" ed="T"/>鐵圍山。及十寶山一時傾覆。龍藏浩沸天地
 <lb n="0011a13" ed="T"/>變滅。星宿墮落眾生都盡。此人不畏滅沒破
-<lb n="0011a14" ed="T"/><choice><corr>壞</corr><sic>壤</sic></choice>。無有一切諸惡能得其便。何以故佛日護
+<lb n="0011a14" ed="T"/><note n="0011a1401" resp="CBETA" type="add">壞【CB】，壤【大】</note><app n="0011a1401"><lem wit="【CB】" resp="CBETA">壞</lem><rdg wit="【大】">壤</rdg></app>。無有一切諸惡能得其便。何以故佛日護
 <lb n="0011a15" ed="T"/>故。於佛衣下自藏隱故。菩薩蓋中自安身故
 <lb n="0011a16" ed="T"/>一切金剛得佛所勅衛此人故。一切所有自
 <lb n="0011a17" ed="T"/>恭敬故。若常持者。當知此人必得佛身不錯
@@ -1069,7 +1069,7 @@ Added comment  for Emacs
 <lb n="0012b08" ed="T"/><l>如是一味遍眾生</l><l>爾乃名為大慈悲</l>
 <lb n="0012b09" ed="T"/><l>我今下愚凡夫智</l><l>若欲歎佛無窮盡</l>
 <lb n="0012b10" ed="T"/><l><note n="0012004" resp="Taisho" place="foot text" type="orig">具＝且ヵ【原】</note><note n="0012004" resp="CBETA" type="mod">具【大】，且【考偽-原】</note><app n="0012004"><lem resp="Taisho" wit="【大】">具</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">且</rdg></app>以微心少歎耳</l><l>願佛慈悲納受之</l></lg>
-<lb n="0012b11" ed="T"/><p xml:id="pT19p0012b1101">爾時阿<note n="0012005" resp="Taisho" place="foot text" type="orig">難＋（以）ヵ【原】</note><note n="0012005" resp="CBETA" type="mod">難【大】，難以【考偽-原】</note><app n="0012005"><lem resp="Taisho" wit="【大】">難</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">難以</rdg></app>偈歎佛<note n="0012006" resp="Taisho" place="foot text" type="orig">〔以〕－ヵ【原】</note><note n="0012006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔以〕－ヵ【原】</note><app n="0012006"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>白佛言。世尊我今愚
+<lb n="0012b11" ed="T"/><p xml:id="pT19p0012b1101">爾時阿<note n="0012005" resp="Taisho" place="foot text" type="orig">難＋（以）ヵ【原】</note><note n="0012005" resp="CBETA" type="mod">難【大】，難以【考偽-原】</note><app n="0012005"><lem resp="Taisho" wit="【大】">難</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">難以</rdg></app>偈歎佛<note n="0012006" resp="Taisho" place="foot text" type="orig">〔以〕－ヵ【原】</note><note n="0012006" resp="CBETA" type="mod">以【大】，〔－〕【考偽-原】</note><app n="0012006"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>白佛言。世尊我今愚
 <lb n="0012b12" ed="T"/>淺雖以歎佛。佛神德故我不能宣。世尊如是
 <lb n="0012b13" ed="T"/>因緣。如是神力如是自在如是決定。我未聞
 <lb n="0012b14" ed="T"/>見。如來因何今乃說爾。如來久知眾生根性
@@ -1122,7 +1122,7 @@ Added comment  for Emacs
 <lb n="0013a01" ed="T"/>此人來時多喜。於綺言中生決定心。於誑語
 <lb n="0013a02" ed="T"/>中生直信。於清淨中生貪欲心。生染污心令
 <lb n="0013a03" ed="T"/>人顛<note n="0013001" resp="Taisho" place="foot text" type="orig">倒＋（即令此人無所能為）ヵ【原】</note><note n="0013001" resp="CBETA" type="mod">倒【大】，倒即令此人無所能為【考偽-原】</note><app n="0013001"><lem resp="Taisho" wit="【大】">倒</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">倒即令此人無所能為</rdg></app>。即以尸羅波羅蜜攝入號為善巧方
-<lb n="0013a04" ed="T"/>便主。<note n="0013002" resp="Taisho" place="foot text" type="orig">〔即令此人無所能為〕－ヵ【原】</note><note n="0013002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔即令此人無所能為〕－ヵ【原】</note><app n="0013002"><lem resp="Taisho" wit="【大】">即令此人無所能為</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。第四毘那夜迦名
+<lb n="0013a04" ed="T"/>便主。<note n="0013002" resp="Taisho" place="foot text" type="orig">〔即令此人無所能為〕－ヵ【原】</note><note n="0013002" resp="CBETA" type="mod">即令此人無所能為【大】，〔－〕【考偽-原】</note><app n="0013002"><lem resp="Taisho" wit="【大】">即令此人無所能為</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>。第四毘那夜迦名
 <lb n="0013a05" ed="T"/>為執縛。此人來時即令行者翻禮魔王。其此
 <lb n="0013a06" ed="T"/>毘那夜迦常與一切魔王共為伴侶。所以現
 <lb n="0013a07" ed="T"/>魔大身令歸依。攝入信心轉動惑亂。既覺知
@@ -1188,9 +1188,9 @@ Added comment  for Emacs
 <lb n="0013c07" ed="T"/><p xml:id="pT19p0013c0701">若受持者不須擇日。不擇星宿日月。不問齊
 <lb n="0013c08" ed="T"/>與不<note n="0013009" resp="Taisho" place="foot text" type="orig">齊＝齋ヵ【原】</note><note n="0013009" resp="CBETA" type="mod">齊【大】，齋【考偽-原】</note><app n="0013009"><lem resp="Taisho" wit="【大】">齊</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">齋</rdg></app>。於如來前或於像前或於淨室或舍
 <lb n="0013c09" ed="T"/>利塔前。隨心所持香花盡心供養。於白月十
-<lb n="0013c10" ed="T"/>五日洗浴清淨著新淨衣。隨力所<choice><corr>辦</corr><sic>辨</sic></choice>供養。為
+<lb n="0013c10" ed="T"/>五日洗浴清淨著新淨衣。隨力所<note n="0013c1001" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0013c1001"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>供養。為
 <lb n="0013c11" ed="T"/>護法故須三種白食。作一方壇隨心作之。幡
-<lb n="0013c12" ed="T"/>燈隨力<choice><corr>辦</corr><sic>辨</sic></choice>。誦心中心及隨心呪。各一千八十
+<lb n="0013c12" ed="T"/>燈隨力<note n="0013c1201" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0013c1201"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>。誦心中心及隨心呪。各一千八十
 <lb n="0013c13" ed="T"/>遍。於像足下便取睡眠。於晨朝時如來即為
 <lb n="0013c14" ed="T"/>現身。及聖者金剛亦為現身。十方菩薩諸天
 <lb n="0013c15" ed="T"/>即來圍遶。一切行願皆悉滿足。若身自知犯

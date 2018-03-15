@@ -136,7 +136,7 @@ Added comment  for Emacs
 <lb n="0375a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><cb:jhead><note n="0375001" resp="Taisho" place="foot text" type="orig">【原】大日本續藏經</note><note n="0375001" resp="CBETA" type="mod">【原】大日本續藏經</note>勸發菩提心集卷上</cb:jhead></cb:juan>
 <lb n="0375a04" ed="T"/>
 <lb n="0375a05" ed="T"/><byline cb:type="author">翻經沙門慧沼撰</byline>
-<lb n="0375a06" ed="T"/><cb:div type="jing"><p xml:id="pT45p0375a0601">一明菩薩種姓相門　二明發心因緣門　<choice><corr>三</corr><sic>二</sic></choice>
+<lb n="0375a06" ed="T"/><cb:div type="jing"><p xml:id="pT45p0375a0601">一明菩薩種姓相門　二明發心因緣門　<note n="0375a0601" resp="CBETA" type="add">三【CB】，二【大】</note><app n="0375a0601"><lem wit="【CB】" resp="CBETA">三</lem><rdg wit="【大】">二</rdg></app>
 <lb n="0375a07" ed="T"/>顯勝負論門　四譬喻讚歎門　五勸發勝劣
 <lb n="0375a08" ed="T"/>重廣門　六立誓發願門　七復說發心及哀
 <lb n="0375a09" ed="T"/>愍門　八雜明修行及退不退門　九依觀普
@@ -488,7 +488,7 @@ Added comment  for Emacs
 <lb n="0378c25" ed="T"/>菩提心無限齊故。次說發菩提心因緣云。若
 <lb n="0378c26" ed="T"/>諸菩薩親近善知識。供養諸佛。修集善根。志
 <lb n="0378c27" ed="T"/>求勝法。心常柔和。遭苦能忍。慈悲淳厚。深心
-<lb n="0378c28" ed="T"/>平等。信樂<choice><corr>大</corr><sic>太</sic></choice>乘。求佛智慧。若人能具如是十
+<lb n="0378c28" ed="T"/>平等。信樂<note n="0378c2801" resp="CBETA" type="add">大【CB】，太【大】</note><app n="0378c2801"><lem wit="【CB】" resp="CBETA">大</lem><rdg wit="【大】">太</rdg></app>乘。求佛智慧。若人能具如是十
 <lb n="0378c29" ed="T"/>法。乃能發阿耨菩提之心。且親近善友有八。
 <pb n="0379a" xml:id="T45.1862.0379a" ed="T"/>
 <lb n="0379a01" ed="T"/>大莊嚴論第九偈云。調靜除德增。有勇阿含
@@ -965,7 +965,7 @@ Added comment  for Emacs
 <lb n="0384a21" ed="T"/>切皆失。譬如有人常供養天。其人貧窮。一心
 <lb n="0384a22" ed="T"/>供養。滿十二歲。求索富貴天愍此人。自現其
 <lb n="0384a23" ed="T"/>身<note place="inline">廣說如常也</note>。復次持戒之人人所樂施不惜財物。
-<lb n="0384a24" ed="T"/>不修世利而無所乏。得<note n="0384001" resp="Taisho" place="foot text" type="orig">〔得〕－ヵ【原】</note><note n="0384001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔得〕－ヵ【原】</note><app n="0384001"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>生天上十方佛前。
+<lb n="0384a24" ed="T"/>不修世利而無所乏。得<note n="0384001" resp="Taisho" place="foot text" type="orig">〔得〕－ヵ【原】</note><note n="0384001" resp="CBETA" type="mod">得【大】，〔－〕【考偽-原】</note><app n="0384001"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>生天上十方佛前。
 <lb n="0384a25" ed="T"/>入三乘道而得解脫。唯種種邪見而持戒者。
 <lb n="0384a26" ed="T"/>後無所獲。復次持戒之人。雖無兵杖。眾苦
 <lb n="0384a27" ed="T"/>不加。持戒之財無能奪者。持戒親親雖死不
@@ -1034,7 +1034,7 @@ Added comment  for Emacs
 <pb n="0385a" xml:id="T45.1862.0385a" ed="T"/>
 <lb n="0385a01" ed="T"/>不善事。今乃得為持淨戒。故不惜此身捨命
 <lb n="0385a02" ed="T"/>持戒。勝於捨戒全身。百千萬倍不可為喻。如
-<lb n="0385a03" ed="T"/>是定心。應當捨身以護淨戒。<note n="0385001" resp="Taisho" place="foot text" type="orig">〔全〕－ヵ【原】</note><note n="0385001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔全〕－ヵ【原】</note><app n="0385001"><lem resp="Taisho" wit="【大】">全</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>如一須陀洹
+<lb n="0385a03" ed="T"/>是定心。應當捨身以護淨戒。<note n="0385001" resp="Taisho" place="foot text" type="orig">〔全〕－ヵ【原】</note><note n="0385001" resp="CBETA" type="mod">全【大】，〔－〕【考偽-原】</note><app n="0385001"><lem resp="Taisho" wit="【大】">全</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>如一須陀洹
 <lb n="0385a04" ed="T"/>人生屠殺家。年向成人。應當修其家業。而不
 <lb n="0385a05" ed="T"/>背殺。父母與刀并一口羊。閉著屋中而語之
 <lb n="0385a06" ed="T"/>言。若不殺羊。不令汝出得見日月生活飲食。
@@ -1046,7 +1046,7 @@ Added comment  for Emacs
 <lb n="0385a12" ed="T"/>當嗔。二者重疑。三者非時行不籌度。四者朋
 <lb n="0385a13" ed="T"/>黨惡人。遠離賢善。五者破善相。六者得罪於
 <lb n="0385a14" ed="T"/>官。七者財物沒入。八者種貧窮業。九者死入
-<lb n="0385a15" ed="T"/>地獄。十者若出為人勤苦求財。五家<note n="0385002" resp="Taisho" place="foot text" type="orig">〔苦〕－ヵ【原】</note><note n="0385002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔苦〕－ヵ【原】</note><app n="0385002"><lem resp="Taisho" wit="【大】">苦</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>共
+<lb n="0385a15" ed="T"/>地獄。十者若出為人勤苦求財。五家<note n="0385002" resp="Taisho" place="foot text" type="orig">〔苦〕－ヵ【原】</note><note n="0385002" resp="CBETA" type="mod">苦【大】，〔－〕【考偽-原】</note><app n="0385002"><lem resp="Taisho" wit="【大】">苦</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>共
 <lb n="0385a16" ed="T"/>有邪婬者。問曰。若夫主不知不見不惱他有
 <lb n="0385a17" ed="T"/>何罪。答曰。夫妻之情異身同體。奪所愛敬破
 <lb n="0385a18" ed="T"/>他本心。是名為賊。又復惡名醜聲為人所憎。
@@ -1195,7 +1195,7 @@ Added comment  for Emacs
 <lb n="0386c11" ed="T"/><p xml:id="pT45p0386c1101">引蘇陀摩王經中說。不惜身命。以全禁戒。如
 <lb n="0386c12" ed="T"/>菩薩本身曾作大力毒龍。若眾生在前身力
 <lb n="0386c13" ed="T"/>弱者。眼視便死。身力強者。氣往而死。是龍受
-<lb n="0386c14" ed="T"/>一日戒。出家<note n="0386002" resp="Taisho" place="foot text" type="orig">〔出家〕－ヵ【原】</note><note n="0386002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔出家〕－ヵ【原】</note><app n="0386002"><lem resp="Taisho" wit="【大】">出家</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>求靜入林樹間思惟。坐久
+<lb n="0386c14" ed="T"/>一日戒。出家<note n="0386002" resp="Taisho" place="foot text" type="orig">〔出家〕－ヵ【原】</note><note n="0386002" resp="CBETA" type="mod">出家【大】，〔－〕【考偽-原】</note><app n="0386002"><lem resp="Taisho" wit="【大】">出家</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>求靜入林樹間思惟。坐久
 <lb n="0386c15" ed="T"/>疲懈而睡時。形狀如蛇。身有文章。七寶雜色。
 <lb n="0386c16" ed="T"/>獵者見之驚喜言曰。以此希有難得之皮。獻
 <lb n="0386c17" ed="T"/>上國王。以為服飾。不亦宜乎。便以杖按其頭。
@@ -1687,7 +1687,7 @@ Added comment  for Emacs
 <lb n="0392a23" ed="T"/>合一果入一切果故。文殊問經上卷云。有三
 <lb n="0392a24" ed="T"/>十五大供養。是菩薩摩訶薩應知。然燈燒香
 <lb n="0392a25" ed="T"/>塗身塗地香末香袈裟及繖若龍子幡并諸餘
-<lb n="0392a26" ed="T"/>幡螺鼓大鼓鈴盤舞歌<note n="0392001" resp="Taisho" place="foot text" type="orig">（及）ヵ＋以【原】</note><note n="0392001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（及）ヵ＋以【原】</note><app n="0392001"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">及以</rdg></app>臥具或三節鼓腰
+<lb n="0392a26" ed="T"/>幡螺鼓大鼓鈴盤舞歌<note n="0392001" resp="Taisho" place="foot text" type="orig">（及）ヵ＋以【原】</note><note n="0392001" resp="CBETA" type="mod">以【大】，及以【考偽-原】</note><app n="0392001"><lem resp="Taisho" wit="【大】">以</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">及以</rdg></app>臥具或三節鼓腰
 <lb n="0392a27" ed="T"/>鼓節鼓并及截鼓曼陀羅華掃地灑地貫華懸
 <lb n="0392a28" ed="T"/>繒飯水漿飲可食可噉及以可味香和檳榔楊
 <lb n="0392a29" ed="T"/>枝浴香并及澡豆。此謂大供養。</p></cb:div>
@@ -2086,7 +2086,7 @@ Added comment  for Emacs
 <lb n="0396c01" ed="T"/>一切出家人所。若有戒若無戒。持戒破戒打
 <lb n="0396c02" ed="T"/>罵呵責。說其過惡。禁閉牢獄。或奪袈裟。逼令
 <lb n="0396c03" ed="T"/>還俗。策役驅使。責其發調。斷其命根。或殺
-<lb n="0396c04" ed="T"/>父。害母。出佛身血。殺阿羅<choice><corr>漢</corr><sic>漠</sic></choice>。破和合僧。起
+<lb n="0396c04" ed="T"/>父。害母。出佛身血。殺阿羅<note n="0396c0401" resp="CBETA" type="add">漢【CB】，漠【大】</note><app n="0396c0401"><lem wit="【CB】" resp="CBETA">漢</lem><rdg wit="【大】">漠</rdg></app>。破和合僧。起
 <lb n="0396c05" ed="T"/>大邪見。謗無因果。長夜常行十不善業。所謂
 <lb n="0396c06" ed="T"/>身業不善。行殺盜婬。語業不善。妄言綺語兩
 <lb n="0396c07" ed="T"/>舌惡口。意業不善。貪瞋邪見污父污母。污比
@@ -2110,7 +2110,7 @@ Added comment  for Emacs
 <lb n="0396c25" ed="T"/>淨戒。過去一切菩薩已學。未來一切菩薩當
 <lb n="0396c26" ed="T"/>學。現在一切菩薩今學。汝等從今時盡未來
 <lb n="0396c27" ed="T"/>際不得犯。能持不。教答言能<note place="inline">三說</note>。</p>
-<lb n="0396c28" ed="T"/><p xml:id="pT45p0396c2801">次受戒師自稱己名。請<note n="0396006" resp="Taisho" place="foot text" type="orig">（諸）ィ＋佛【原】</note><note n="0396006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（諸）ィ＋佛【原】</note><app n="0396006"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">諸佛</rdg></app>證明。起立手執香
+<lb n="0396c28" ed="T"/><p xml:id="pT45p0396c2801">次受戒師自稱己名。請<note n="0396006" resp="Taisho" place="foot text" type="orig">（諸）ィ＋佛【原】</note><note n="0396006" resp="CBETA" type="mod">佛【大】，諸佛【校異-原】</note><app n="0396006"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">諸佛</rdg></app>證明。起立手執香
 <lb n="0396c29" ed="T"/>爐。若在高座不須起立<app type="star" corresp="#0396001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">曰</rdg></app>。</p>
 <pb n="0397a" xml:id="T45.1862.0397a" ed="T"/>
 <lb n="0397a01" ed="T"/><p xml:id="pT45p0397a0101">弟子某甲等。仰啟盡虛空遍法界一切諸佛。

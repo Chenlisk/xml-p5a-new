@@ -217,7 +217,7 @@ Added comment  for Emacs
 <lb n="0943b06" ed="T"/>勝最上大律儀戒否。此名所謂三聚淨戒。攝
 <lb n="0943b07" ed="T"/>律儀戒。攝善法戒。饒益有情戒。汝等從今身
 <lb n="0943b08" ed="T"/>乃至成佛。於其中間誓不犯能持否<note n="0943007" resp="Taisho" place="foot text" type="orig">答能二字甲丙二本作本文</note><note n="0943007" resp="CBETA" type="mod">（答能）二字夾註【大】，（答能）二字本文【甲】【丙】</note><app n="0943007"><lem wit="【大】"><note place="inline">答能</note></lem><rdg resp="Taisho" wit="【甲】【丙】">答能</rdg></app>。</p>
-<lb n="0943b09" ed="T"/><p xml:id="pT18p0943b0901"><note n="0943008" resp="Taisho" place="foot text" type="orig">〔於其…能〕二十字－ヵ【原】</note><note n="0943008" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔於其…能〕二十字－ヵ【原】</note><app n="0943008"><lem resp="Taisho" wit="【大】">於其中間。不捨離三聚淨戒四弘誓願能持
+<lb n="0943b09" ed="T"/><p xml:id="pT18p0943b0901"><note n="0943008" resp="Taisho" place="foot text" type="orig">〔於其…能〕二十字－ヵ【原】</note><note n="0943008" resp="CBETA" type="mod">（於其…能）二十字【大】，〔－〕【考偽-原】</note><app n="0943008"><lem resp="Taisho" wit="【大】">於其中間。不捨離三聚淨戒四弘誓願能持
 <lb n="0943b10" ed="T"/>否<note place="inline">答能</note></lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app><note n="0943009" resp="Taisho" place="foot text" type="orig">既＋（能）【甲】ィ【乙】</note><note n="0943009" resp="CBETA" type="mod">既【大】，既能【甲】ィ【乙】</note><app n="0943009"><lem wit="【大】">既</lem><rdg resp="Taisho" wit="【甲】【乙】" type="variantRemark">既能</rdg></app>發菩提心受菩薩戒。惟願十方一
 <lb n="0943b11" ed="T"/>切諸佛大菩薩。證明我等加持我等。令我永
 <lb n="0943b12" ed="T"/>不退轉。至心頂禮。</p></cb:div>
@@ -248,7 +248,7 @@ Added comment  for Emacs
 <lb n="0943c07" ed="T"/><p xml:id="pT18p0943c0701">諸佛子等。如上已發菩提心。具菩薩戒已。然
 <lb n="0943c08" ed="T"/>應修四攝法及十重戒。不應虧犯。其四攝者。
 <lb n="0943c09" ed="T"/>所謂布施愛語利行同事。為欲調伏無始慳
-<lb n="0943c10" ed="T"/>貪。及饒益眾生故應行布施。為欲調伏<note n="0943012" resp="Taisho" place="foot text" type="orig">（無始）＋瞋ィ【原】ィ【乙】</note><note n="0943012" resp="CBETA" type="mod">瞋【大】，無始瞋【校異-原】ィ【乙】</note><app n="0943012"><lem wit="【大】">瞋</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark">無始瞋</rdg></app>
+<lb n="0943c10" ed="T"/>貪。及饒益眾生故應行布施。為欲調伏<note n="0943012" resp="Taisho" place="foot text" type="orig">（無始）＋瞋ィ【原】ィ【乙】</note><note n="0943012" resp="CBETA" type="mod">瞋ィ【大】，無始瞋ィ【原】ィ【乙】</note><app n="0943012"><lem wit="【大】">瞋</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark">無始瞋</rdg></app>
 <lb n="0943c11" ed="T"/>恚憍慢煩惱。及利益眾生故應行愛語。為欲
 <lb n="0943c12" ed="T"/>饒益眾生。及滿本願故應修利行。為欲親近
 <lb n="0943c13" ed="T"/>大善知識。及令善心無間斷故應行同事<note place="inline">如是四法
@@ -290,7 +290,7 @@ Added comment  for Emacs
 <lb n="0944a19" ed="T"/>坐。寂然不動如入禪定可經良久。方<note n="0944007" resp="Taisho" place="foot text" type="orig">從＝更【甲】</note><note n="0944007" resp="CBETA" type="mod">從【大】，更【甲】</note><app n="0944007"><lem wit="【大】">從</lem><rdg resp="Taisho" wit="【甲】">更</rdg></app>定起
 <lb n="0944a20" ed="T"/>遍觀四眾。四眾合掌扣頭。珍重再三而已。</p>
 <lb n="0944a21" ed="T"/><p xml:id="pT18p0944a2101">三藏久乃發言曰。前雖受菩薩淨戒。今須重
-<lb n="0944a22" ed="T"/>受諸佛內證無漏清淨法戒。方<note n="0944008" resp="Taisho" place="foot text" type="orig">〔今〕－【甲】，〔今〕－ィ【乙】</note><note n="0944008" resp="CBETA" type="mod">今【大】，〔－〕【甲】，<!--CBETA todo type: newmod-->〔今〕－ィ【乙】</note><app n="0944008"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】" type="variantRemark"><space quantity="0"/></rdg></app>可入禪門。
+<lb n="0944a22" ed="T"/>受諸佛內證無漏清淨法戒。方<note n="0944008" resp="Taisho" place="foot text" type="orig">〔今〕－【甲】，〔今〕－ィ【乙】</note><note n="0944008" resp="CBETA" type="mod">今【大】，〔－〕【甲】，〔－〕【校異-乙】</note><app n="0944008"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【乙】" type="variantRemark"><space quantity="0"/></rdg></app>可入禪門。
 <lb n="0944a23" ed="T"/>入禪門已。要須誦此陀羅尼。陀羅尼者。究竟
 <lb n="0944a24" ed="T"/>至極同於諸佛。乘法悟入一切智海。是名真
 <lb n="0944a25" ed="T"/>法戒也。此法祕密不令輒聞。若欲聞者。先受
@@ -438,8 +438,8 @@ Added comment  for Emacs
 <lb n="0945c15" ed="T"/>於此自驗。三乘凡夫聖位可自分別矣。汝等
 <lb n="0945c16" ed="T"/>行人初學修定。應行過去諸佛祕密方便加
 <lb n="0945c17" ed="T"/>持<note n="0945024" resp="Taisho" place="foot text" type="orig">〔修〕－【甲】</note><note n="0945024" resp="CBETA" type="mod">修【大】，〔－〕【甲】</note><app n="0945024"><lem wit="【大】">修</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>定法。一體與一切總持門相應。是故。
-<lb n="0945c18" ed="T"/>應須受此四陀羅尼。<note n="0945025" resp="Taisho" place="foot text" type="orig">〔陀羅尼〕－ィ【原】【乙】</note><note n="0945025" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔陀羅尼〕－ィ【原】【乙】</note><app n="0945025"><lem wit="【大】">陀羅尼</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark"><space quantity="0"/></rdg></app>曰。</p>
-<lb n="0945c19" ed="T"/><p xml:id="pT18p0945c1901" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh-Hant"><note n="0945026" resp="Taisho" place="foot text" type="orig">乙丙二本漢字陀羅尼無</note>唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E043"/></cb:t><cb:t xml:lang="zh-Hant">速</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1B3"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>乞叉摩</cb:zi><cb:sg><choice><corr>三</corr><sic>二</sic></choice>合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh-Hant">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt></p>
+<lb n="0945c18" ed="T"/>應須受此四陀羅尼。<note n="0945025" resp="Taisho" place="foot text" type="orig">〔陀羅尼〕－ィ【原】【乙】</note><note n="0945025" resp="CBETA" type="mod">陀羅尼【大】，〔－〕【校異-原】【乙】</note><app n="0945025"><lem wit="【大】">陀羅尼</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark"><space quantity="0"/></rdg></app>曰。</p>
+<lb n="0945c19" ed="T"/><p xml:id="pT18p0945c1901" cb:type="dharani"><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-DA42"/></cb:t><cb:t xml:lang="zh-Hant"><note n="0945026" resp="Taisho" place="foot text" type="orig">乙丙二本漢字陀羅尼無</note>唵</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E043"/></cb:t><cb:t xml:lang="zh-Hant">速</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-E1B3"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>乞叉摩</cb:zi><cb:sg><note n="0945c1901" resp="CBETA" type="add">三【CB】，二【大】</note><app n="0945c1901"><lem wit="【CB】" resp="CBETA">三</lem><rdg wit="【大】">二</rdg></app>合</cb:sg></cb:yin></cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A656"/></cb:t><cb:t xml:lang="zh-Hant">嚩</cb:t></cb:tt><cb:tt><cb:t xml:lang="sa-Sidd"><g ref="#SD-A9BD"/></cb:t><cb:t xml:lang="zh-Hant"><cb:yin><cb:zi>日囉</cb:zi><cb:sg>二合</cb:sg></cb:yin></cb:t></cb:tt></p>
 <lb n="0945c20" ed="T"/>
 <lb n="0945c21" ed="T"/><p xml:id="pT18p0945c2101"><note n="0945027" resp="Taisho" place="foot text" type="orig">〔別本…囉〕十一字－【甲】</note><note n="0945027" resp="CBETA" type="mod">（別本…囉）十一字【大】，〔－〕【甲】</note><app cb:word-count="11" n="0945027"><lem wit="【大】"><note place="inline">別本漢注唵蘇乞<note n="0945028" resp="Taisho" place="foot text" type="orig">叉＋（摩）ヵ【原】【乙】</note><note n="0945028" resp="CBETA" type="mod">叉【大】，叉摩【考偽-原】【乙】</note><app n="0945028"><lem resp="Taisho" wit="【大】">叉</lem><rdg resp="Taisho" wit="【原】【乙】" type="correctionRemark">叉摩</rdg></app>嚩日囉</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。</p>
 <lb n="0945c22" ed="T"/><p xml:id="pT18p0945c2201">此陀羅尼。能令所觀成就。</p>

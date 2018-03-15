@@ -130,7 +130,7 @@ Added comment  for Emacs
 <lb n="0441c02" ed="T"/><cb:docNumber>No. 459</cb:docNumber>
 <lb n="0441c03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>佛說文殊悔過經</cb:jhead></cb:juan>
 <lb n="0441c04" ed="T"/>
-<lb n="0441c05" ed="T"/><byline cb:type="Translator">西晉<note n="0441008" resp="Taisho" type="orig" place="foot text">〔月支國〕－【三】【宮】</note><note n="0441008" resp="CBETA" type="mod">月氏國【麗-CB】【CB】，月支國【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0441008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">月氏國<note type="cf1">K14n0538_p0439b02</note></lem><rdg wit="【大】">月支國</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>三<note n="0441009" resp="Taisho" type="orig" place="foot text">藏＋（法師）【三】【宮】</note><note n="0441009" resp="CBETA" type="mod">藏【大】，藏法師【宋】【元】【明】【宮】</note><app n="0441009"><lem wit="【大】">藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">藏法師</rdg></app>竺法護譯</byline>
+<lb n="0441c05" ed="T"/><byline cb:type="Translator">西晉<note n="0441008" resp="Taisho" type="orig" place="foot text">〔月支國〕－【三】【宮】</note><note n="0441008" resp="CBETA" type="mod">月氏國【CB】【麗-CB】，月支國【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0441008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">月氏國<note type="cf1">K14n0538_p0439b02</note></lem><rdg wit="【大】">月支國</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>三<note n="0441009" resp="Taisho" type="orig" place="foot text">藏＋（法師）【三】【宮】</note><note n="0441009" resp="CBETA" type="mod">藏【大】，藏法師【宋】【元】【明】【宮】</note><app n="0441009"><lem wit="【大】">藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">藏法師</rdg></app>竺法護譯</byline>
 <lb n="0441c06" ed="T"/><cb:div type="jing"><p xml:id="pT14p0441c0601">聞如是：</p><p xml:id="pT14p0441c0604" rend="inline">一時佛在羅閱祇耆闍崛山中，與大
 <lb n="0441c07" ed="T"/>比丘眾俱，比丘千二百五十，菩薩無央數——
 <lb n="0441c08" ed="T"/>一切大聖神通已達，逮得總持，攬十方慧，立
@@ -700,7 +700,7 @@ Added comment  for Emacs
 <lb n="0448a02" ed="T"/>說，尋以讚曰：「善哉，善哉！仁快說此除諸菩
 <lb n="0448a03" ed="T"/>薩罣礙罪蓋勸助入道。若有菩薩，儻聞說此
 <lb n="0448a04" ed="T"/>勸助教者，即能奉持、諷誦、講說，如是不久皆
-<lb n="0448a05" ed="T"/>當滅盡一切罪蓋，令無罣<choice><corr>礙</corr><sic>疑</sic></choice>。如燈及燭入於
+<lb n="0448a05" ed="T"/>當滅盡一切罪蓋，令無罣<note n="0448a0501" resp="CBETA" type="add">礙【CB】，疑【大】</note><app n="0448a0501"><lem wit="【CB】" resp="CBETA">礙</lem><rdg wit="【大】">疑</rdg></app>。如燈及燭入於
 <lb n="0448a06" ed="T"/>冥室眾闇消索、猶如日出照于天下靡不蒙
 <lb n="0448a07" ed="T"/>明、如盲得目、聾者得聽、瘂者<note n="0448001" resp="Taisho" type="orig" place="foot text">能＝得【三】【宮】</note><note n="0448001" resp="CBETA" type="mod">能【大】，得【宋】【元】【明】【宮】</note><app n="0448001"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">得</rdg></app>言、跛者能行、
 <lb n="0448a08" ed="T"/>塞者得通。五陰自消、六衰則滅，昇於法堂、入

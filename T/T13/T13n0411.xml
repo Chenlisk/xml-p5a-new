@@ -536,10 +536,10 @@ Added comment  for Emacs
 <lb n="0724c14" ed="T"/>念誦、歸敬、供養地藏菩薩摩訶薩者，一切皆
 <lb n="0724c15" ed="T"/>得捨毒害心，共相和穆，歡喜忍受，展轉悔愧，
 <lb n="0724c16" ed="T"/>慈心相向，隨其所應，安置生天、涅槃之道。
-<lb n="0724c17" ed="T"/>隨所在處，若諸有情，閉在牢獄、杻械、枷<choice><corr>鎖</corr><sic>銷</sic></choice>、
+<lb n="0724c17" ed="T"/>隨所在處，若諸有情，閉在牢獄、杻械、枷<note n="0724c1701" resp="CBETA" type="add">鎖【CB】，銷【大】</note><app n="0724c1701"><lem wit="【CB】" resp="CBETA">鎖</lem><rdg wit="【大】">銷</rdg></app>、
 <lb n="0724c18" ed="T"/>檢繫其身，具受眾苦；有能至心稱名、念誦、
 <lb n="0724c19" ed="T"/>歸敬、供養地藏菩薩摩訶薩者，一切皆得
-<lb n="0724c20" ed="T"/>解脫牢獄、杻械、枷<choice><corr>鎖</corr><sic>銷</sic></choice>，自在歡<note n="0724005" resp="Taisho" type="orig" place="foot text">喜＝樂【三】【宮】</note><note n="0724005" resp="CBETA" type="mod">喜【大】，樂【宋】【元】【明】【宮】</note><app n="0724005"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app>，隨其所應，
+<lb n="0724c20" ed="T"/>解脫牢獄、杻械、枷<note n="0724c2001" resp="CBETA" type="add">鎖【CB】，銷【大】</note><app n="0724c2001"><lem wit="【CB】" resp="CBETA">鎖</lem><rdg wit="【大】">銷</rdg></app>，自在歡<note n="0724005" resp="Taisho" type="orig" place="foot text">喜＝樂【三】【宮】</note><note n="0724005" resp="CBETA" type="mod">喜【大】，樂【宋】【元】【明】【宮】</note><app n="0724005"><lem wit="【大】">喜</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">樂</rdg></app>，隨其所應，
 <lb n="0724c21" ed="T"/>安置生天、涅槃之道。隨所在處，若諸有情，應
 <lb n="0724c22" ed="T"/>被囚執、鞭撻、拷楚、臨當被害；有能至心稱
 <lb n="0724c23" ed="T"/>名、念誦、歸敬、供養地藏菩薩摩訶薩者，一
@@ -2207,7 +2207,7 @@ Added comment  for Emacs
 <lb n="0743b02" ed="T"/><note n="0743003" resp="Taisho" type="orig" place="foot text">已＝以【三】</note><note n="0743003" resp="CBETA" type="mod">已【大】，以【宋】【元】【明】</note><app n="0743003"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】【明】">以</rdg></app>後於我國中，有佛弟子，若持戒、若破戒、
 <lb n="0743b03" ed="T"/>下至無戒，但剃鬚髮被服袈裟，諸有侵<app type="star" corresp="#0741001"><lem wit="【大】">凌</lem><rdg resp="Taisho" wit="【聖】">陵</rdg></app>
 <lb n="0743b04" ed="T"/>或加害者，當以死罪而刑罰之。』由此因
-<lb n="0743b05" ed="T"/>緣，眾人慕德，漸<choice><corr>漸</corr><sic>慚</sic></choice>歸化王贍部洲，皆共誠
+<lb n="0743b05" ed="T"/>緣，眾人慕德，漸<note n="0743b0501" resp="CBETA" type="add">漸【CB】，慚【大】</note><app n="0743b0501"><lem wit="【CB】" resp="CBETA">漸</lem><rdg wit="【大】">慚</rdg></app>歸化王贍部洲，皆共誠
 <lb n="0743b06" ed="T"/>心歸敬三寶。</p><p xml:id="pT13p0743b0606" rend="inline">「善男子！當觀如是過去羅剎，
 <lb n="0743b07" ed="T"/>雖受無暇餓鬼趣身，吸人精氣，飲噉血肉，
 <lb n="0743b08" ed="T"/>惡心熾盛，無有慈悲；而見無戒剃除鬚髮
@@ -3471,7 +3471,7 @@ Added comment  for Emacs
 <lb n="0757b08" ed="T"/><l>破亂我法惑眾生，</l><l>由此人身難復得。</l>
 <lb n="0757b09" ed="T"/><l>惱亂我法諸賢聖，</l><l><note n="0757002" resp="Taisho" type="orig" place="foot text">讁＝謫【三】【宮】</note><note n="0757002" resp="CBETA" type="mod">讁【大】，謫【宋】【元】【明】【宮】</note><app n="0757002"><lem wit="【大】">讁</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">謫</rdg></app>罰被赤袈裟人，</l>
 <lb n="0757b10" ed="T"/><l>呵罵遮奪衣鉢等，</l><l>長時退失人天趣。</l>
-<lb n="0757b11" ed="T"/><l>是故若欲復人身，</l><l>不患舌<note n="0757003" resp="Taisho" type="orig" place="foot text">庈＝𦧈【三】【宮】</note><note n="0757003" resp="CBETA" type="mod">𤴽【麗-CB】【CB】，庈【大】，𦧈【宋】【元】【明】【宮】</note><app n="0757003"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𤴽<note type="cf1">K07n0057_p0633a21</note></lem><rdg wit="【大】">庈</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">𦧈</rdg></app>而捨命，</l>
+<lb n="0757b11" ed="T"/><l>是故若欲復人身，</l><l>不患舌<note n="0757003" resp="Taisho" type="orig" place="foot text">庈＝𦧈【三】【宮】</note><note n="0757003" resp="CBETA" type="mod">𤴽【CB】【麗-CB】，庈【大】，𦧈【宋】【元】【明】【宮】</note><app n="0757003"><lem wit="【CBETA】【麗】" resp="CBETA.maha">𤴽<note type="cf1">K07n0057_p0633a21</note></lem><rdg wit="【大】">庈</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">𦧈</rdg></app>而捨命，</l>
 <lb n="0757b12" ed="T"/><l>常樂值遇諸佛者，</l><l>普應弘護三乘法。</l>
 <lb n="0757b13" ed="T"/><l>欲得三乘最上乘，</l><l>應善觀察三乘法，</l>
 <lb n="0757b14" ed="T"/><l>歡喜為他普開示，</l><l>當得成佛定無疑。</l>
@@ -3883,7 +3883,7 @@ Added comment  for Emacs
 <lb n="0762a02" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="008" type="卷"/><cb:jhead><title>大乘大集地藏十輪經</title>卷第八</cb:jhead></cb:juan>
 <lb n="0762a03" ed="T"/>
 <lb n="0762a04" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT13p0762a01"/>三藏法師玄奘奉　詔譯</byline>
-<lb n="0762a05" ed="T"/><cb:mulu level="1" n="7" type="品">6 善業道品</cb:mulu><head>善業道品第<note n="0762001" resp="Taisho" type="orig" place="foot text">六＋（之一）【明】</note><note n="0762001" resp="CBETA" type="mod">六之一【明】【麗-CB】【CB】，六【大】</note><app n="0762001"><lem wit="【CBETA】【麗】" resp="CBETA.maha">六之一<note type="cf1">K07n0057_p0640a03</note></lem><rdg wit="【大】">六</rdg><rdg resp="Taisho" wit="【明】">六之一</rdg></app></head>
+<lb n="0762a05" ed="T"/><cb:mulu level="1" n="7" type="品">6 善業道品</cb:mulu><head>善業道品第<note n="0762001" resp="Taisho" type="orig" place="foot text">六＋（之一）【明】</note><note n="0762001" resp="CBETA" type="mod">六之一【CB】【麗-CB】【明】，六【大】</note><app n="0762001"><lem wit="【CBETA】【麗】" resp="CBETA.maha">六之一<note type="cf1">K07n0057_p0640a03</note></lem><rdg wit="【大】">六</rdg><rdg resp="Taisho" wit="【明】">六之一</rdg></app></head>
 <lb n="0762a06" ed="T"/><p xml:id="pT13p0762a0601">爾時，金剛藏菩薩摩訶薩，復白佛言：「大德世
 <lb n="0762a07" ed="T"/>尊！菩薩摩訶薩，云何於聲聞乘得無誤失？
 <lb n="0762a08" ed="T"/>云何於聲聞乘補特伽羅得無誤失？云何
@@ -4878,7 +4878,7 @@ Added comment  for Emacs
 <lb n="0773a04" ed="T"/>有情心多散亂，勸修靜慮。若諸有情具足
 <lb n="0773a05" ed="T"/>惡慧，為說正法，謂以記說教誡方便，令其
 <lb n="0773a06" ed="T"/>成熟。若諸有情不敬三寶具無依行，勸受
-<lb n="0773a07" ed="T"/>三歸令敬三寶、或勸受學近事律<note n="0773001" resp="Taisho" type="orig" place="foot text">義＝儀【宮】</note><note n="0773001" resp="CBETA" type="mod">儀【宮】【麗-CB】【CB】，義【大】</note><app n="0773001"><lem wit="【CBETA】【麗】" resp="CBETA.maha">儀<note type="cf1">K07n0057_p0655c16</note></lem><rdg wit="【大】">義</rdg><rdg resp="Taisho" wit="【宮】">儀</rdg></app>、或勸
+<lb n="0773a07" ed="T"/>三歸令敬三寶、或勸受學近事律<note n="0773001" resp="Taisho" type="orig" place="foot text">義＝儀【宮】</note><note n="0773001" resp="CBETA" type="mod">儀【CB】【麗-CB】【宮】，義【大】</note><app n="0773001"><lem wit="【CBETA】【麗】" resp="CBETA.maha">儀<note type="cf1">K07n0057_p0655c16</note></lem><rdg wit="【大】">義</rdg><rdg resp="Taisho" wit="【宮】">儀</rdg></app>、或勸
 <lb n="0773a08" ed="T"/>受學近住律儀，令其成熟。或勸修習種種
 <lb n="0773a09" ed="T"/>工巧伎術業處，令其成熟。如是等菩薩摩訶
 <lb n="0773a10" ed="T"/>薩，種種世間巧方便智，過殑伽沙菩薩摩訶

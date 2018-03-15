@@ -209,7 +209,7 @@ Added comment  for Emacs
 <lb n="0611b23" ed="T"/><p xml:id="pT20p0611b2301" cb:type="dharani"><app type="star" corresp="#0611007"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>嚩日囉<note place="inline">二合引</note>吠舍惡</p>
 <lb n="0611b24" ed="T"/><lg xml:id="lgT20p0611b2401"><l>次結金剛拳</l><l>進力<note n="0611011" resp="Taisho" place="foot text" type="orig">跓＝拄【甲】</note><note n="0611011" resp="CBETA" type="mod">跓【大】，拄【甲】</note><app n="0611011"><lem wit="【大】">跓</lem><rdg resp="Taisho" wit="【甲】">拄</rdg></app>禪<note n="0611012" resp="Taisho" place="foot text" type="orig">智＋（以附拄心門）ィ【甲】</note><note n="0611012" resp="CBETA" type="mod">智【大】，智以附拄心門【校異-甲】</note><app n="0611012"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">智以附拄心門</rdg></app></l>
 <lb n="0611b25" ed="T"/><l>金剛身語意</l><l>密合不傾動</l></lg>
-<lb n="0611b26" ed="T"/><p xml:id="pT20p0611b2601"><note n="0611013" resp="Taisho" place="foot text" type="orig">（即）ィ＋誦【甲】＊</note><note n="0611013" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（即）ィ＋誦【甲】＊</note><app n="0611013"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦</rdg></app>金剛拳真言曰。</p>
+<lb n="0611b26" ed="T"/><p xml:id="pT20p0611b2601"><note n="0611013" resp="Taisho" place="foot text" type="orig">（即）ィ＋誦【甲】＊</note><note n="0611013" resp="CBETA" type="mod">誦【大】＊，即誦【校異-甲】＊</note><app n="0611013"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦</rdg></app>金剛拳真言曰。</p>
 <lb n="0611b27" ed="T"/><p xml:id="pT20p0611b2701" cb:type="dharani">嚩日囉<note place="inline">二合</note>畝瑟置<note place="inline">二合</note><note n="0611014" resp="Taisho" place="foot text" type="orig">𤚥＝鑁ィ【甲】</note><note n="0611014" resp="CBETA" type="mod">𤚥【大】，鑁【校異-甲】</note><app n="0611014"><lem wit="【大】">𤚥</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">鑁</rdg></app></p>
 <lb n="0611b28" ed="T"/><lg xml:id="lgT20p0611b2801"><l>即結三昧耶</l><l>自成普賢故</l>
 <lb n="0611b29" ed="T"/><l><note n="0611015" resp="Taisho" place="foot text" type="orig">結已＝縛以ィ【甲】</note><note n="0611015" resp="CBETA" type="mod">結已【大】，縛以【校異-甲】</note><app n="0611015"><lem wit="【大】">結已</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">縛以</rdg></app>竪忍願</l><l>身處於月輪</l></lg>
@@ -225,7 +225,7 @@ Added comment  for Emacs
 <lb n="0611c09" ed="T"/><l>二羽金剛拳</l><l>檀慧進力屈</l>
 <lb n="0611c10" ed="T"/><l>置於口兩頰</l><l>想身同彼尊</l>
 <lb n="0611c11" ed="T"/><l>厲聲誦真言</l><l>左右而顧視</l></lg>
-<lb n="0611c12" ed="T"/><p xml:id="pT20p0611c1201"><note n="0611018" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋金【甲】＊</note><note n="0611018" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（即誦）ィ＋金【甲】＊</note><app n="0611018"><lem wit="【大】">金</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦金</rdg></app>剛藥叉真言曰。</p>
+<lb n="0611c12" ed="T"/><p xml:id="pT20p0611c1201"><note n="0611018" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋金【甲】＊</note><note n="0611018" resp="CBETA" type="mod">金【大】＊，即誦金【校異-甲】＊</note><app n="0611018"><lem wit="【大】">金</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦金</rdg></app>剛藥叉真言曰。</p>
 <lb n="0611c13" ed="T"/><p xml:id="pT20p0611c1301" cb:type="dharani"><app type="star" corresp="#0611007"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>嚩日囉<note place="inline">二合</note>藥乞叉<note place="inline">二合</note>𤙖</p>
 <lb n="0611c14" ed="T"/><lg xml:id="lgT20p0611c1401"><l>所有諸障者</l><l>悉皆四馳散</l>
 <lb n="0611c15" ed="T"/><l>二目想麼吒</l><l>轉如日月輪</l>
@@ -248,7 +248,7 @@ Added comment  for Emacs
 <lb n="0612a02" ed="T"/><p xml:id="pT20p0612a0201">行者既入。般若波羅蜜甚深體性三摩地。則
 <lb n="0612a03" ed="T"/>於真實性中證大月輪量同法界。光明普照
 <lb n="0612a04" ed="T"/>寂然清涼。起大悲愍一切有情三界熾然。如
-<lb n="0612a05" ed="T"/>一子想深生拔濟。而作是念我今云何。<note n="0612002" resp="Taisho" place="foot text" type="orig">〔令〕－ヵ【甲】</note><note n="0612002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔令〕－ヵ【甲】</note><app n="0612002"><lem resp="Taisho" wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>未
+<lb n="0612a05" ed="T"/>一子想深生拔濟。而作是念我今云何。<note n="0612002" resp="Taisho" place="foot text" type="orig">〔令〕－ヵ【甲】</note><note n="0612002" resp="CBETA" type="mod">令【大】，〔－〕【考偽-甲】</note><app n="0612002"><lem resp="Taisho" wit="【大】">令</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>未
 <lb n="0612a06" ed="T"/>得度而令得<note n="0612003" resp="Taisho" place="foot text" type="orig">度＋（者）ヵ【甲】</note><note n="0612003" resp="CBETA" type="mod">度【大】，度者【考偽-甲】</note><app n="0612003"><lem resp="Taisho" wit="【大】">度</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">度者</rdg></app>。未解脫者令得解脫。未安慰
 <lb n="0612a07" ed="T"/>者令得安慰。未涅槃者令得涅槃。則入本尊
 <lb n="0612a08" ed="T"/>瑜伽三摩地。觀身為般若波羅蜜佛母。戴五
@@ -257,13 +257,13 @@ Added comment  for Emacs
 <lb n="0612a11" ed="T"/>無二無別。即以金剛護菩薩加持四處。</p>
 <lb n="0612a12" ed="T"/><lg xml:id="lgT20p0612a1201"><l>二羽金剛縛</l><l>進力竪如針</l>
 <lb n="0612a13" ed="T"/><l>印心頞喉頂</l><l>成本尊瑜伽</l></lg>
-<lb n="0612a14" ed="T"/><p xml:id="pT20p0612a1401">即誦<note n="0612004" resp="Taisho" place="foot text" type="orig">（金剛護）ィ＋真【甲】</note><note n="0612004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（金剛護）ィ＋真【甲】</note><app n="0612004"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">金剛護真</rdg></app>言曰。</p>
+<lb n="0612a14" ed="T"/><p xml:id="pT20p0612a1401">即誦<note n="0612004" resp="Taisho" place="foot text" type="orig">（金剛護）ィ＋真【甲】</note><note n="0612004" resp="CBETA" type="mod">真【大】，金剛護真【校異-甲】</note><app n="0612004"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">金剛護真</rdg></app>言曰。</p>
 <lb n="0612a15" ed="T"/><p xml:id="pT20p0612a1501" cb:type="dharani">嚩日囉<note place="inline">二合</note>囉乞叉<note place="inline">二合</note>憾</p>
 <lb n="0612a16" ed="T"/><lg xml:id="lgT20p0612a1601"><l>次結五佛冠</l><l>二手金剛縛</l>
 <lb n="0612a17" ed="T"/><l>忍願形如刀</l><l>進力附上節</l>
 <lb n="0612a18" ed="T"/><l>置頂次四方</l><l>二拳額前遶</l>
 <lb n="0612a19" ed="T"/><l>如鬘頂後繫</l><l>垂下勢如帶</l></lg>
-<lb n="0612a20" ed="T"/><p xml:id="pT20p0612a2001"><note n="0612005" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋一【甲】</note><note n="0612005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（即誦）ィ＋一【甲】</note><app n="0612005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦一</rdg></app>切如來寶冠真言曰。</p>
+<lb n="0612a20" ed="T"/><p xml:id="pT20p0612a2001"><note n="0612005" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋一【甲】</note><note n="0612005" resp="CBETA" type="mod">一【大】，即誦一【校異-甲】</note><app n="0612005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦一</rdg></app>切如來寶冠真言曰。</p>
 <lb n="0612a21" ed="T"/><p xml:id="pT20p0612a2101" cb:type="dharani">唵部<note n="0612006" resp="Taisho" place="foot text" type="orig">欠＋（平）細註ィ【甲】</note><note n="0612006" resp="CBETA" type="mod">欠【大】，欠(平)【校異-甲】</note><app n="0612006"><lem wit="【大】">欠</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">欠<note place="inline">平</note></rdg></app></p>
 <lb n="0612a22" ed="T"/><p xml:id="pT20p0612a2201">次誦金剛部真言曰。</p>
 <lb n="0612a23" ed="T"/><p xml:id="pT20p0612a2301" cb:type="dharani">嚩日囉<note place="inline">二合</note>薩怛嚩<note place="inline">二合</note></p>
@@ -296,7 +296,7 @@ Added comment  for Emacs
 <lb n="0612b20" ed="T"/><p xml:id="pT20p0612b2001">次誦般若波羅蜜觀念心真言曰。</p>
 <lb n="0612b21" ed="T"/><p xml:id="pT20p0612b2101" cb:type="dharani">唵達麼嚩日㘑<note place="inline">二合</note>涅哩<note place="inline">二合</note>捨野<note place="inline">二合</note>弱吽鑁
 <lb n="0612b22" ed="T"/>斛</p>
-<lb n="0612b23" ed="T"/><p xml:id="pT20p0612b2301"><note n="0612012" resp="Taisho" place="foot text" type="orig">（印契如前相觀身同本尊）ィ＋此【甲】</note><note n="0612012" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（印契如前相觀身同本尊）ィ＋此【甲】</note><app n="0612012"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">印契如前相觀身同本尊此</rdg></app>是大薩埵鉤召引入縛令心喜悅<app type="star" corresp="#0611013"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦</rdg></app>三昧
+<lb n="0612b23" ed="T"/><p xml:id="pT20p0612b2301"><note n="0612012" resp="Taisho" place="foot text" type="orig">（印契如前相觀身同本尊）ィ＋此【甲】</note><note n="0612012" resp="CBETA" type="mod">此【大】，印契如前相觀身同本尊此【校異-甲】</note><app n="0612012"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">印契如前相觀身同本尊此</rdg></app>是大薩埵鉤召引入縛令心喜悅<app type="star" corresp="#0611013"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦</rdg></app>三昧
 <lb n="0612b24" ed="T"/>耶薩怛鑁<note place="inline">三合</note>遍入背後而月輪。於中應觀
 <lb n="0612b25" ed="T"/><note n="0612013" resp="Taisho" place="foot text" type="orig">〔後面〕ィ－【甲】</note><note n="0612013" resp="CBETA" type="mod">後面【大】，〔－〕【校異-甲】</note><app n="0612013"><lem wit="【大】">後面</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark"><space quantity="0"/></rdg></app>薩埵。我三昧耶薩怛鑁<note place="inline">三合</note>隨彼印薩
 <lb n="0612b26" ed="T"/>埵。修習觀自身。金剛語已成。能成就諸印。行
@@ -314,7 +314,7 @@ Added comment  for Emacs
 <lb n="0612c08" ed="T"/><l>如來皆堅固</l><l>金剛薩自成</l>
 <lb n="0612c09" ed="T"/><l>慈友而安住</l><l>諸門一切處</l>
 <lb n="0612c10" ed="T"/><l>鉤等而作業</l><l>以大羯磨印</l></lg>
-<lb n="0612c11" ed="T"/><p xml:id="pT20p0612c1101"><note n="0612014" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋召【甲】</note><note n="0612014" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（即誦）ィ＋召【甲】</note><app n="0612014"><lem wit="【大】">召</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦召</rdg></app>集真言曰。</p>
+<lb n="0612c11" ed="T"/><p xml:id="pT20p0612c1101"><note n="0612014" resp="Taisho" place="foot text" type="orig">（即誦）ィ＋召【甲】</note><note n="0612014" resp="CBETA" type="mod">召【大】，即誦召【校異-甲】</note><app n="0612014"><lem wit="【大】">召</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">即誦召</rdg></app>集真言曰。</p>
 <lb n="0612c12" ed="T"/><p xml:id="pT20p0612c1201" cb:type="dharani">唵嚩日囉<note place="inline">二合引</note>三麼野惹弱</p>
 <lb n="0612c13" ed="T"/><lg xml:id="lgT20p0612c1301"><l>次當結四攝</l><l>二羽金剛拳</l>
 <lb n="0612c14" ed="T"/><l>交腕結檀慧</l><l>頭指如大鉤</l>
@@ -359,7 +359,7 @@ Added comment  for Emacs
 <lb n="0613a23" ed="T"/><p xml:id="pT20p0613a2301">復作外四供養而奉獻之。</p>
 <lb n="0613a24" ed="T"/><p xml:id="pT20p0613a2401"><app type="star" corresp="#0613002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">次誦</rdg></app>金剛花鬘真言曰。</p>
 <lb n="0613a25" ed="T"/><p xml:id="pT20p0613a2501" cb:type="dharani">系<note place="inline">一</note>嚩日囉<note place="inline">二合引二</note>囉底<note place="inline">三</note></p>
-<lb n="0613a26" ed="T"/><p xml:id="pT20p0613a2601"><app type="star" corresp="#0613002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">次誦</rdg></app>金剛<note n="0613004" resp="Taisho" place="foot text" type="orig">（燒）ィ＋香【甲】</note><note n="0613004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（燒）ィ＋香【甲】</note><app n="0613004"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">燒香</rdg></app>真言曰。</p>
+<lb n="0613a26" ed="T"/><p xml:id="pT20p0613a2601"><app type="star" corresp="#0613002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">次誦</rdg></app>金剛<note n="0613004" resp="Taisho" place="foot text" type="orig">（燒）ィ＋香【甲】</note><note n="0613004" resp="CBETA" type="mod">香【大】，燒香【校異-甲】</note><app n="0613004"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">燒香</rdg></app>真言曰。</p>
 <lb n="0613a27" ed="T"/><p xml:id="pT20p0613a2701" cb:type="dharani">摩訶囉多嚩日哩<note place="inline">二合一</note>斛<note place="inline">二</note></p>
 <lb n="0613a28" ed="T"/><p xml:id="pT20p0613a2801"><app type="star" corresp="#0613002"><lem wit="【大】">次</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">次誦</rdg></app>金剛燈真言曰。</p>
 <lb n="0613a29" ed="T"/><p xml:id="pT20p0613a2901" cb:type="dharani">唵<note place="inline">一</note>嚩日囉<note place="inline">二合引二</note>路者寧<note place="inline">三</note></p>

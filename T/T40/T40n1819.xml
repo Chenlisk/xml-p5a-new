@@ -384,7 +384,7 @@ Added comment  for Emacs
 <lb n="0829a15" ed="T"/>金則不現。閻浮那金比大海中轉輪王道中
 <lb n="0829a16" ed="T"/>金沙則不現。轉輪王道中金沙比金山則
 <lb n="0829a17" ed="T"/>不現。金山比須彌山金則不現。須彌山
-<lb n="0829a18" ed="T"/>金比三十三<note n="0829002" resp="Taisho" place="foot text" type="orig">（諸）＋天ぃ【原】，天＋（諸）ィ【原】＊</note><note n="0829002" resp="CBETA" type="mod">天【大】＊，諸天【校異Ｂ-原】，天諸【校異Ａ-原】＊</note><app n="0829002"><lem wit="【大】">天</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">諸天</rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">天諸</rdg></app>瓔珞金則不現。三十三<app type="star" corresp="#0829002"><lem wit="【大】">天</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">天諸</rdg></app>
+<lb n="0829a18" ed="T"/>金比三十三<note n="0829002" resp="Taisho" place="foot text" type="orig">（諸）＋天ぃ【原】，天＋（諸）ィ【原】＊</note><note n="0829002" resp="CBETA" type="mod">天ぃ【大】＊，諸天ぃ【原】，天諸【校異Ａ-原】＊</note><app n="0829002"><lem wit="【大】">天</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">諸天</rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">天諸</rdg></app>瓔珞金則不現。三十三<app type="star" corresp="#0829002"><lem wit="【大】">天</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">天諸</rdg></app>
 <lb n="0829a19" ed="T"/>瓔珞金比炎摩天金則不現。炎摩天金比
 <lb n="0829a20" ed="T"/>兜率陀天金則不現。兜率陀天金比化自在
 <lb n="0829a21" ed="T"/>天金則不現。化自在天金比他化自在天金
@@ -424,9 +424,9 @@ Added comment  for Emacs
 <lb n="0829b25" ed="T"/>亂轉。</p>
 <lb n="0829b26" ed="T"/><p xml:id="pT40p0829b2601">宮殿諸樓閣觀十方無礙雜樹異光色寶欄
 <lb n="0829b27" ed="T"/>遍圍繞　此四句名莊嚴地功德成就。佛本何
-<lb n="0829b28" ed="T"/>故起此莊嚴。見有國土。嶕<note place="inline"><note n="0829020" resp="Taisho" place="foot text" type="orig">（高貌）＋才ィぃ【原】</note><note n="0829020" resp="CBETA" type="mod">才【大】，高貌才【校異Ａ-原】，高貌才【校異Ｂ-原】</note><app n="0829020"><lem wit="【大】">才</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">高貌才</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">高貌才</rdg></app><note n="0829021" resp="Taisho" place="foot text" type="orig">〔消〕ぃ－【原】</note><note n="0829021" resp="CBETA" type="mod">消【大】，〔－〕【校異Ｂ-原】</note><app n="0829021"><lem wit="【大】">消</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>反</note>嶢<note place="inline"><note n="0829022" resp="Taisho" place="foot text" type="orig">〔高貌〕ィぃ－【原】</note><note n="0829022" resp="CBETA" type="mod">高貌【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0829022"><lem wit="【大】">高貌</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>。牛消反</note>
+<lb n="0829b28" ed="T"/>故起此莊嚴。見有國土。嶕<note place="inline"><note n="0829020" resp="Taisho" place="foot text" type="orig">（高貌）＋才ィぃ【原】</note><note n="0829020" resp="CBETA" type="mod">才ィ【大】，高貌才ィ【原】，<!--CBETA todo type: newmod-->（高貌）＋才ぃ【原】</note><app n="0829020"><lem wit="【大】">才</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">高貌才</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">高貌才</rdg></app><note n="0829021" resp="Taisho" place="foot text" type="orig">〔消〕ぃ－【原】</note><note n="0829021" resp="CBETA" type="mod">消【大】，〔－〕【校異Ｂ-原】</note><app n="0829021"><lem wit="【大】">消</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>反</note>嶢<note place="inline"><note n="0829022" resp="Taisho" place="foot text" type="orig">〔高貌〕ィぃ－【原】</note><note n="0829022" resp="CBETA" type="mod">高貌【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0829022"><lem wit="【大】">高貌</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>。牛消反</note>
 <pb n="0829c" xml:id="T40.1819.0829c" ed="T"/>
-<lb n="0829c01" ed="T"/>峻<note place="inline">高。俊音</note>。嶺枯木橫<note n="0829023" resp="Taisho" place="foot text" type="orig">岑＝峯ぃ【原】</note><note n="0829023" resp="CBETA" type="mod">岑【大】，峯【校異Ｂ-原】</note><app n="0829023"><lem wit="【大】">岑</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">峯</rdg></app>。岝<note place="inline"><note n="0829024" resp="Taisho" place="foot text" type="orig">（山不齊）＋才ィぃ【原】</note><note n="0829024" resp="CBETA" type="mod">才【大】，山不齊才【校異Ａ-原】，山不齊才【校異Ｂ-原】</note><app n="0829024"><lem wit="【大】">才</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">山不齊才</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">山不齊才</rdg></app>白反</note>峉<note place="inline"><note n="0829025" resp="Taisho" place="foot text" type="orig">〔山不齊〕ィぃ－【原】</note><note n="0829025" resp="CBETA" type="mod">山不齊【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0829025"><lem wit="【大】">山不齊</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>。五百反</note>。<note n="0829026" resp="Taisho" place="foot text" type="orig">𡷨＝峌ィぃ【原】</note><note n="0829026" resp="CBETA" type="mod">𡷨【大】，峌【校異Ａ-原】，峌【校異Ｂ-原】</note><app n="0829026"><lem wit="【大】">𡷨</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">峌</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">峌</rdg></app>
+<lb n="0829c01" ed="T"/>峻<note place="inline">高。俊音</note>。嶺枯木橫<note n="0829023" resp="Taisho" place="foot text" type="orig">岑＝峯ぃ【原】</note><note n="0829023" resp="CBETA" type="mod">岑【大】，峯【校異Ｂ-原】</note><app n="0829023"><lem wit="【大】">岑</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">峯</rdg></app>。岝<note place="inline"><note n="0829024" resp="Taisho" place="foot text" type="orig">（山不齊）＋才ィぃ【原】</note><note n="0829024" resp="CBETA" type="mod">才ィ【大】，山不齊才ィ【原】，<!--CBETA todo type: newmod-->（山不齊）＋才ぃ【原】</note><app n="0829024"><lem wit="【大】">才</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">山不齊才</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">山不齊才</rdg></app>白反</note>峉<note place="inline"><note n="0829025" resp="Taisho" place="foot text" type="orig">〔山不齊〕ィぃ－【原】</note><note n="0829025" resp="CBETA" type="mod">山不齊【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0829025"><lem wit="【大】">山不齊</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>。五百反</note>。<note n="0829026" resp="Taisho" place="foot text" type="orig">𡷨＝峌ィぃ【原】</note><note n="0829026" resp="CBETA" type="mod">𡷨【大】，峌【校異Ａ-原】，峌【校異Ｂ-原】</note><app n="0829026"><lem wit="【大】">𡷨</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">峌</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">峌</rdg></app>
 <lb n="0829c02" ed="T"/><note place="inline">深山谷。亦山<note n="0829027" resp="Taisho" place="foot text" type="orig">陗＝消ィぃ【原】</note><note n="0829027" resp="CBETA" type="mod">陗【大】，消【校異Ａ-原】，消【校異Ｂ-原】</note><app n="0829027"><lem wit="【大】">陗</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">消</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">消</rdg></app>貌。形音</note>嶙<note place="inline">深無<note n="0829028" resp="Taisho" place="foot text" type="orig">崖＝岸ィ【原】</note><note n="0829028" resp="CBETA" type="mod">崖【大】，岸【校異Ａ-原】</note><app n="0829028"><lem wit="【大】">崖</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">岸</rdg></app>。力人反</note>莦<note place="inline">惡草貌。消音</note>茅<note place="inline">道多草不可行。方交反</note>
 <lb n="0829c03" ed="T"/>盈壑。茫茫滄海為絕目之川。葻葻廣澤為無
 <lb n="0829c04" ed="T"/>蹤之所。菩薩見此興大悲願。願我國土地平
@@ -462,7 +462,7 @@ Added comment  for Emacs
 <lb n="0830a04" ed="T"/>言。使我國土所有光明能除癡闇入佛智
 <lb n="0830a05" ed="T"/>慧不為無記之事。亦云。安樂國土光明從
 <lb n="0830a06" ed="T"/>如來智慧報起。故能除世<note n="0830001" resp="Taisho" place="foot text" type="orig">闇＝間ぃ【原】</note><note n="0830001" resp="CBETA" type="mod">闇【大】，間【校異Ｂ-原】</note><app n="0830001"><lem wit="【大】">闇</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">間</rdg></app>冥。經言。或有
-<lb n="0830a07" ed="T"/>佛土以光明為佛事。即是此也。<note n="0830002" resp="Taisho" place="foot text" type="orig">（是）＋故ィ【原】</note><note n="0830002" resp="CBETA" type="mod">故【大】，是故【校異Ａ-原】</note><app n="0830002"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">是故</rdg></app>言佛
+<lb n="0830a07" ed="T"/>佛土以光明為佛事。即是此也。<note n="0830002" resp="Taisho" place="foot text" type="orig">（是）＋故ィ【原】</note><note n="0830002" resp="CBETA" type="mod">故ィ【大】，是故ィ【原】</note><app n="0830002"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">是故</rdg></app>言佛
 <lb n="0830a08" ed="T"/>慧明淨日除世癡闇冥。</p>
 <lb n="0830a09" ed="T"/><p xml:id="pT40p0830a0901">梵聲悟深遠微妙聞十方　此二句名莊嚴妙
 <lb n="0830a10" ed="T"/>聲功德成就佛本何故興此願。見有國土。
@@ -494,7 +494,7 @@ Added comment  for Emacs
 <lb n="0830b06" ed="T"/>槐棘高折出猜狂之子。或豎子婢腹出卓犖
 <lb n="0830b07" ed="T"/><note place="inline"><note n="0830006" resp="Taisho" place="foot text" type="orig">零角＝寒甬ぃ【原】</note><note n="0830006" resp="CBETA" type="mod">零角【大】，寒甬【校異Ｂ-原】</note><app n="0830006"><lem wit="【大】">零角</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">寒甬</rdg></app>反</note>。之才。譏誚<note place="inline">才召反</note>。由之懷火。恥辱緣以抱
 <lb n="0830b08" ed="T"/>氷。所以願言。使我國土悉於如來淨華中
-<lb n="0830b09" ed="T"/>生。眷屬平等與奪無路。<note n="0830007" resp="Taisho" place="foot text" type="orig">（是）＋故ィぃ【原】</note><note n="0830007" resp="CBETA" type="mod">故【大】，是故【校異Ａ-原】，是故【校異Ｂ-原】</note><app n="0830007"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">是故</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">是故</rdg></app>言如來淨華眾
+<lb n="0830b09" ed="T"/>生。眷屬平等與奪無路。<note n="0830007" resp="Taisho" place="foot text" type="orig">（是）＋故ィぃ【原】</note><note n="0830007" resp="CBETA" type="mod">故ィ【大】，是故ィ【原】，<!--CBETA todo type: newmod-->（是）＋故ぃ【原】</note><app n="0830007"><lem wit="【大】">故</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">是故</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">是故</rdg></app>言如來淨華眾
 <lb n="0830b10" ed="T"/>正覺華化生。</p>
 <lb n="0830b11" ed="T"/><p xml:id="pT40p0830b1101">愛樂佛法味禪三昧為食　此二句名莊嚴受
 <lb n="0830b12" ed="T"/>用功德成就。佛本何故興此願。見有國土。
@@ -670,7 +670,7 @@ Added comment  for Emacs
 <lb n="0832b02" ed="T"/>譬海也。</p>
 <lb n="0832b03" ed="T"/><p xml:id="pT40p0832b0301">如來微妙聲梵響聞十方　此二句名莊嚴口
 <lb n="0832b04" ed="T"/>業功德成就。佛本何故興此莊嚴。見有如
-<lb n="0832b05" ed="T"/>來名似不尊。如外道軵<note place="inline">推車。人冡反</note>。<note n="0832006" resp="Taisho" place="foot text" type="orig">（人）ィぃ＋稱【原】</note><note n="0832006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（人）ィ＋稱【原】，（人）ぃ＋稱【原】</note><app n="0832006"><lem wit="【大】">稱</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">人稱</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">人稱</rdg></app>瞿曇姓。
+<lb n="0832b05" ed="T"/>來名似不尊。如外道軵<note place="inline">推車。人冡反</note>。<note n="0832006" resp="Taisho" place="foot text" type="orig">（人）ィぃ＋稱【原】</note><note n="0832006" resp="CBETA" type="mod">稱【大】，人稱【校異Ａ-原】，人稱【校異Ｂ-原】</note><app n="0832006"><lem wit="【大】">稱</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">人稱</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">人稱</rdg></app>瞿曇姓。
 <lb n="0832b06" ed="T"/>成<note n="0832004" resp="Taisho" place="foot text" type="orig">道＝噵ぃ【原】</note><note n="0832004" resp="CBETA" type="mod">道【大】，噵【校異Ｂ-原】</note><app n="0832004"><lem wit="【大】">道</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">噵</rdg></app><note n="0832005" resp="Taisho" place="foot text" type="orig">日＝曰ィ【原】，〔日〕ぃ－【原】</note><note n="0832005" resp="CBETA" type="mod">日【大】，曰【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0832005"><lem wit="【大】">日</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">曰</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>聲唯徹梵天。是故願言。使我成佛
 <lb n="0832b07" ed="T"/>妙聲遐布聞者悟忍。是故言如來微妙聲梵
 <lb n="0832b08" ed="T"/>響聞十方。</p>
@@ -848,7 +848,7 @@ Added comment  for Emacs
 <pb n="0834b" xml:id="T40.1819.0834b" ed="T"/>
 <lb n="0834b01" ed="T"/>佛法。此愚癡人既生誹謗。安有願生佛土
 <lb n="0834b02" ed="T"/>之理。假使但貪彼<note n="0834003" resp="Taisho" place="foot text" type="orig">土＝生ィ【原】</note><note n="0834003" resp="CBETA" type="mod">土【大】，生【校異Ａ-原】</note><app n="0834003"><lem wit="【大】">土</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">生</rdg></app>安樂而願生者。亦
-<lb n="0834b03" ed="T"/>如求非水之氷<note n="0834004" resp="Taisho" place="foot text" type="orig">（望）＋無ぃ【原】</note><note n="0834004" resp="CBETA" type="mod">無【大】，望無【校異Ｂ-原】</note><app n="0834004"><lem wit="【大】">無</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">望無</rdg></app>煙之火。豈有得理。問
+<lb n="0834b03" ed="T"/>如求非水之氷<note n="0834004" resp="Taisho" place="foot text" type="orig">（望）＋無ぃ【原】</note><note n="0834004" resp="CBETA" type="mod">無ぃ【大】，望無ぃ【原】</note><app n="0834004"><lem wit="【大】">無</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">望無</rdg></app>煙之火。豈有得理。問
 <lb n="0834b04" ed="T"/>曰。何等相是誹謗正法。答曰。若言無佛無
 <lb n="0834b05" ed="T"/>佛法無菩薩無菩薩法。如是等見若心自
 <lb n="0834b06" ed="T"/>解若從他受其心決定皆名誹謗正法。問
@@ -874,7 +874,7 @@ Added comment  for Emacs
 <lb n="0834b26" ed="T"/>久近多少也。云何在心。彼造罪人自依止
 <lb n="0834b27" ed="T"/>虛妄顛倒見生。此十念者依善知識方便安
 <lb n="0834b28" ed="T"/>慰聞實相法生。一實一虛。豈得相比。譬如
-<lb n="0834b29" ed="T"/>千歲闇室光若暫至即便明朗。<note n="0834006" resp="Taisho" place="foot text" type="orig">（闇）＋豈ィぃ【原】</note><note n="0834006" resp="CBETA" type="mod">豈【大】，闇豈【校異Ａ-原】，闇豈【校異Ｂ-原】</note><app n="0834006"><lem wit="【大】">豈</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">闇豈</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">闇豈</rdg></app>得言<note n="0834007" resp="Taisho" place="foot text" type="orig">〔闇〕ィぃ－【原】</note><note n="0834007" resp="CBETA" type="mod">闇【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0834007"><lem wit="【大】">闇</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>
+<lb n="0834b29" ed="T"/>千歲闇室光若暫至即便明朗。<note n="0834006" resp="Taisho" place="foot text" type="orig">（闇）＋豈ィぃ【原】</note><note n="0834006" resp="CBETA" type="mod">豈ィ【大】，闇豈ィ【原】，<!--CBETA todo type: newmod-->（闇）＋豈ぃ【原】</note><app n="0834006"><lem wit="【大】">豈</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">闇豈</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">闇豈</rdg></app>得言<note n="0834007" resp="Taisho" place="foot text" type="orig">〔闇〕ィぃ－【原】</note><note n="0834007" resp="CBETA" type="mod">闇【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0834007"><lem wit="【大】">闇</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>
 <pb n="0834c" xml:id="T40.1819.0834c" ed="T"/>
 <lb n="0834c01" ed="T"/>在室千歲而不去耶。是名在心。云何在緣。
 <lb n="0834c02" ed="T"/>彼造罪人。自依止妄想心依煩惱虛妄果報
@@ -1079,7 +1079,7 @@ Added comment  for Emacs
 <lb n="0836c22" ed="T"/><p xml:id="pT40p0836c2201">莊嚴量功德成就者偈言究竟如虛空廣大無
 <lb n="0836c23" ed="T"/>邊際故　此云何不思議。彼國人天若意欲
 <lb n="0836c24" ed="T"/>宮殿樓閣若廣一由旬若百由旬若千由旬千
-<lb n="0836c25" ed="T"/>間萬間。<note n="0836006" resp="Taisho" place="foot text" type="orig">（廣）＋隨ぃ【原】</note><note n="0836006" resp="CBETA" type="mod">隨【大】，廣隨【校異Ｂ-原】</note><app n="0836006"><lem wit="【大】">隨</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">廣隨</rdg></app>心所成。人各如此。又十方世界
+<lb n="0836c25" ed="T"/>間萬間。<note n="0836006" resp="Taisho" place="foot text" type="orig">（廣）＋隨ぃ【原】</note><note n="0836006" resp="CBETA" type="mod">隨ぃ【大】，廣隨ぃ【原】</note><app n="0836006"><lem wit="【大】">隨</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">廣隨</rdg></app>心所成。人各如此。又十方世界
 <lb n="0836c26" ed="T"/>眾生願往生者若已生若今生若當生。一時
 <lb n="0836c27" ed="T"/>一日之頃算數所不能知其多少。而彼世
 <lb n="0836c28" ed="T"/>界常若虛空無迫迮相。彼中眾生住如此
@@ -1216,7 +1216,7 @@ Added comment  for Emacs
 <lb n="0838b09" ed="T"/>願為我命。焉可思議。</p>
 <lb n="0838b10" ed="T"/><p xml:id="pT40p0838b1001">莊嚴無諸難功德成就者偈言永離身心惱受
 <lb n="0838b11" ed="T"/>樂常無間故　此云何不思議。經言。身為苦
-<lb n="0838b12" ed="T"/>器心為<note n="0838004" resp="Taisho" place="foot text" type="orig">（惣）ぃ＋惱【原】</note><note n="0838004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（惣）ぃ＋惱【原】</note><app n="0838004"><lem wit="【大】">惱</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">惣惱</rdg></app>端。而彼有身有心而受樂<note n="0838005" resp="Taisho" place="foot text" type="orig">（常）ぃ＋無【原】</note><note n="0838005" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（常）ぃ＋無【原】</note><app n="0838005"><lem wit="【大】">無</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">常無</rdg></app>
+<lb n="0838b12" ed="T"/>器心為<note n="0838004" resp="Taisho" place="foot text" type="orig">（惣）ぃ＋惱【原】</note><note n="0838004" resp="CBETA" type="mod">惱【大】，惣惱【校異Ｂ-原】</note><app n="0838004"><lem wit="【大】">惱</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">惣惱</rdg></app>端。而彼有身有心而受樂<note n="0838005" resp="Taisho" place="foot text" type="orig">（常）ぃ＋無【原】</note><note n="0838005" resp="CBETA" type="mod">無【大】，常無【校異Ｂ-原】</note><app n="0838005"><lem wit="【大】">無</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">常無</rdg></app>
 <lb n="0838b13" ed="T"/>間。安可思議。</p>
 <lb n="0838b14" ed="T"/><p xml:id="pT40p0838b1401">莊嚴大義門功德成就者偈言大乘善根界等
 <lb n="0838b15" ed="T"/>無譏嫌名女人及根缺二乘種不生故　淨土
@@ -1277,7 +1277,7 @@ Added comment  for Emacs
 <lb n="0839a10" ed="T"/>故次觀衣華香薰。既知眼鼻等觸。須知離
 <lb n="0839a11" ed="T"/>染。是故次觀佛慧明照。既知慧光淨力。宜
 <lb n="0839a12" ed="T"/>知聲名遠近。是故次觀梵聲遠聞。既知聲
-<lb n="0839a13" ed="T"/>名。宜知誰為增上。是故次觀<note n="0839001" resp="Taisho" place="foot text" type="orig">（佛）＋主ィぃ【原】</note><note n="0839001" resp="CBETA" type="mod">主【大】，佛主【校異Ａ-原】，佛主【校異Ｂ-原】</note><app n="0839001"><lem wit="【大】">主</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">佛主</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">佛主</rdg></app>。既知有
+<lb n="0839a13" ed="T"/>名。宜知誰為增上。是故次觀<note n="0839001" resp="Taisho" place="foot text" type="orig">（佛）＋主ィぃ【原】</note><note n="0839001" resp="CBETA" type="mod">主ィ【大】，佛主ィ【原】，<!--CBETA todo type: newmod-->（佛）＋主ぃ【原】</note><app n="0839001"><lem wit="【大】">主</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">佛主</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">佛主</rdg></app>。既知有
 <lb n="0839a14" ed="T"/>主。誰為主眷屬。是故次觀眷屬。既知眷屬。
 <lb n="0839a15" ed="T"/>宜知此眷屬若為受用。是故次觀受用。既
 <lb n="0839a16" ed="T"/>知受用。宜知此受用有難無難。是故次觀
@@ -1342,7 +1342,7 @@ Added comment  for Emacs
 <lb n="0839c15" ed="T"/>家畢竟得平等意業。問曰。心是覺知相。云
 <lb n="0839c16" ed="T"/>何可得同地水火風無分別耶。答曰。心雖
 <lb n="0839c17" ed="T"/>知相入實相則無知也。譬如蛇性雖曲入
-<lb n="0839c18" ed="T"/>竹筒則直。又如人身若鍼<choice><corr>刺</corr><sic>剌</sic></choice>若蜂螫<note place="inline">式亦反</note>。則
+<lb n="0839c18" ed="T"/>竹筒則直。又如人身若鍼<note n="0839c1801" resp="CBETA" type="add">刺【CB】，剌【大】</note><app n="0839c1801"><lem wit="【CB】" resp="CBETA">刺</lem><rdg wit="【大】">剌</rdg></app>若蜂螫<note place="inline">式亦反</note>。則
 <lb n="0839c19" ed="T"/>有覺知。若石蛭<note place="inline">之一反</note>。噉若甘刀割則無覺知。
 <lb n="0839c20" ed="T"/>如是等有知無知在于因緣。若在因緣則
 <lb n="0839c21" ed="T"/>非知非無知也。問<note n="0839010" resp="Taisho" place="foot text" type="orig">〔曰〕ぃ－【原】</note><note n="0839010" resp="CBETA" type="mod">曰【大】，〔－〕【校異Ｂ-原】</note><app n="0839010"><lem wit="【大】">曰</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>。心入實相可令無
@@ -1398,7 +1398,7 @@ Added comment  for Emacs
 <lb n="0840b11" ed="T"/>耶。答曰。<note n="0840007" resp="Taisho" place="foot text" type="orig">〔言〕ィぃ－【原】</note><note n="0840007" resp="CBETA" type="mod">言【大】，〔－〕【校異Ａ-原】，〔－〕【校異Ｂ-原】</note><app n="0840007"><lem wit="【大】">言</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark"><space quantity="0"/></rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark"><space quantity="0"/></rdg></app>畢竟者未言即等也。畢竟
 <lb n="0840b12" ed="T"/>不失此等故言等耳。問曰。若不即等復何
 <lb n="0840b13" ed="T"/><note n="0840008" resp="Taisho" place="foot text" type="orig">待＝持ぃ【原】</note><note n="0840008" resp="CBETA" type="mod">待【大】，持【校異Ｂ-原】</note><app n="0840008"><lem wit="【大】">待</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">持</rdg></app>言菩薩。但登初地以漸增進自然當與
-<lb n="0840b14" ed="T"/>佛等。何假言與上地<note n="0840009" resp="Taisho" place="foot text" type="orig">（諸）ぃ＋菩【原】</note><note n="0840009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（諸）ぃ＋菩【原】</note><app n="0840009"><lem wit="【大】">菩</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">諸菩</rdg></app>薩等。答曰。菩薩
+<lb n="0840b14" ed="T"/>佛等。何假言與上地<note n="0840009" resp="Taisho" place="foot text" type="orig">（諸）ぃ＋菩【原】</note><note n="0840009" resp="CBETA" type="mod">菩【大】，諸菩【校異Ｂ-原】</note><app n="0840009"><lem wit="【大】">菩</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">諸菩</rdg></app>薩等。答曰。菩薩
 <lb n="0840b15" ed="T"/>於七地中得大寂滅。上不見諸佛可求。下
 <lb n="0840b16" ed="T"/>不見眾生可度。欲捨佛道證於實際。爾
 <lb n="0840b17" ed="T"/>時若不得十方諸佛神力加勸。即便滅度與
@@ -1563,7 +1563,7 @@ Added comment  for Emacs
 <lb n="0842a26" ed="T"/>一切功德施與一切眾生共向佛道。巧方
 <lb n="0842a27" ed="T"/>便者。謂菩薩願以己智慧火燒一切眾生
 <lb n="0842a28" ed="T"/>煩惱草木。若有一眾生不成佛我不作佛。
-<lb n="0842a29" ed="T"/>而<note n="0842002" resp="Taisho" place="foot text" type="orig">（彼）＋眾ィぃ【原】</note><note n="0842002" resp="CBETA" type="mod">眾【大】，彼眾【校異Ａ-原】，彼眾【校異Ｂ-原】</note><app n="0842002"><lem wit="【大】">眾</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">彼眾</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">彼眾</rdg></app>生未盡成佛。菩薩已自成佛。譬如火
+<lb n="0842a29" ed="T"/>而<note n="0842002" resp="Taisho" place="foot text" type="orig">（彼）＋眾ィぃ【原】</note><note n="0842002" resp="CBETA" type="mod">眾ィ【大】，彼眾ィ【原】，<!--CBETA todo type: newmod-->（彼）＋眾ぃ【原】</note><app n="0842002"><lem wit="【大】">眾</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">彼眾</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">彼眾</rdg></app>生未盡成佛。菩薩已自成佛。譬如火
 <pb n="0842b" xml:id="T40.1819.0842b" ed="T"/>
 <lb n="0842b01" ed="T"/><note n="0842003" resp="Taisho" place="foot text" type="orig">𣕊＝㰅ィぃ【原】＊</note><note n="0842003" resp="CBETA" type="mod">𣕊【大】＊，㰅【校異Ａ-原】＊，㰅【校異Ｂ-原】＊</note><app n="0842003"><lem wit="【大】">𣕊</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">㰅</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">㰅</rdg></app><note place="inline">聽念反</note>。欲摘<note place="inline">聽歷反</note>。一切草木燒令使盡。草木
 <lb n="0842b02" ed="T"/>未盡火<app type="star" corresp="#0842003"><lem wit="【大】">𣕊</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">㰅</rdg><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">㰅</rdg></app>已盡。以後其身而身先故名

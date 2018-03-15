@@ -241,7 +241,7 @@ Added comment  for Emacs
 <lb n="0265b05" ed="T"/>人言月不蝕。一人言日當蝕，一人言日不
 <lb n="0265b06" ed="T"/>蝕。一人言日從東西行，一人言從西東行。
 <lb n="0265b07" ed="T"/>一人言月星宿，從東西行，一人言從西東
-<lb n="0265b08" ed="T"/>行，用是故有吉<note n="0265012" resp="Taisho" type="orig" place="foot text">西＝凶【三】</note><note n="0265012" resp="CBETA" type="mod">凶【宋】【元】【明】【磧砂-CB】【CB】，西【大】</note><app n="0265012"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">凶<note type="cf1">Q18_0598c12</note></lem><rdg wit="【大】">西</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">凶</rdg></app>，一人言用是故日月星
+<lb n="0265b08" ed="T"/>行，用是故有吉<note n="0265012" resp="Taisho" type="orig" place="foot text">西＝凶【三】</note><note n="0265012" resp="CBETA" type="mod">凶【CB】【磧-CB】【宋】【元】【明】，西【大】</note><app n="0265012"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">凶<note type="cf1">Q18_0598c12</note></lem><rdg wit="【大】">西</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">凶</rdg></app>，一人言用是故日月星
 <lb n="0265b09" ed="T"/>宿，從東西行。一人言用是故日月星出，一
 <lb n="0265b10" ed="T"/>人言用是故日月星入。一人言雲當覆日，一
 <lb n="0265b11" ed="T"/>人言當出於雲，一人言天當清無雲。佛皆離
@@ -729,7 +729,7 @@ Added comment  for Emacs
 <lb n="0270c13" ed="T"/>在厥<app type="star" corresp="#0270010"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宋】">往</rdg></app>。諸天及人民悉見，佛般泥洹後不
 <lb n="0270c14" ed="T"/>能見也。」</p><p xml:id="pT01p0270c1404" rend="inline">佛說是經時，三千大千世界六反
 <lb n="0270c15" ed="T"/>震動。爾時，那耶和留比丘，在佛前住，以扇
-<lb n="0270c16" ed="T"/>扇佛。於是賢者那耶和留，長跪<choice><corr>叉</corr><sic>又</sic></choice>手白佛：
+<lb n="0270c16" ed="T"/>扇佛。於是賢者那耶和留，長跪<note n="0270c1601" resp="CBETA" type="add">叉【CB】，又【大】</note><app n="0270c1601"><lem wit="【CB】" resp="CBETA">叉</lem><rdg wit="【大】">又</rdg></app>手白佛：
 <lb n="0270c17" ed="T"/>「未曾有天中天！是<note n="0270013" resp="Taisho" type="orig" place="foot text">經＝緣【宋】【元】</note><note n="0270013" resp="CBETA" type="mod">經【大】，緣【宋】【元】</note><app n="0270013"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】">緣</rdg></app>深，乃如是深照，天中天！
 <lb n="0270c18" ed="T"/>是經名為何等？云何持名？」</p><p xml:id="pT01p0270c1811" rend="inline">佛告那耶和留：
 <lb n="0270c19" ed="T"/>「拘樓秦佛、如來、無所著、等正覺說是經時，名

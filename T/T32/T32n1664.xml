@@ -253,7 +253,7 @@ Added comment  for Emacs
 <lb n="0564b10" ed="T"/>掌至誠一發阿耨多羅三藐三菩提心者，而
 <lb n="0564b11" ed="T"/>此福德勝前福德不可較計。</p>
 <lb n="0564b12" ed="T"/><p xml:id="pT32p0564b1201">如《華嚴經》云：善男子！從菩提心生一切佛法，
-<lb n="0564b13" ed="T"/>廣大勝上莊嚴。菩提心有其<note resp="Taisho" n="0564002" place="foot text" type="orig">一＝二【三】【宮】</note><note resp="CBETA" n="0564002" type="mod">二【宋】【元】【明】【宮】【麗-CB】【CB】，一【大】</note><app n="0564002"><lem resp="CBETA.maha" wit="【CBETA】【麗】">二<note type="cf1">K40n1449_p0494c09</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg><rdg wit="【大】">一</rdg></app>種，一者願
+<lb n="0564b13" ed="T"/>廣大勝上莊嚴。菩提心有其<note resp="Taisho" n="0564002" place="foot text" type="orig">一＝二【三】【宮】</note><note resp="CBETA" n="0564002" type="mod">二【CB】【麗-CB】【宋】【元】【明】【宮】，一【大】</note><app n="0564002"><lem resp="CBETA.maha" wit="【CBETA】【麗】">二<note type="cf1">K40n1449_p0494c09</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg><rdg wit="【大】">一</rdg></app>種，一者願
 <lb n="0564b14" ed="T"/>心、二者分位心。又彼經云：善男子！一切眾生
 <lb n="0564b15" ed="T"/>極難得者，所謂阿耨多羅三藐三菩提。若廣
 <lb n="0564b16" ed="T"/>起行願，即得阿耨多羅三藐三菩提現前安
@@ -810,7 +810,7 @@ Added comment  for Emacs
 <lb n="0570b25" ed="T"/>不於中而生厭捨，一切所行悉無障礙。處如
 <lb n="0570b26" ed="T"/>空聚，亦不於中而生厭捨，一切所行悉無障
 <lb n="0570b27" ed="T"/>礙。界如蛇毒，亦不於中而生厭捨，一切所行
-<lb n="0570b28" ed="T"/>悉無障礙。又復雖觀色如聚<choice><corr>沫</corr><sic>沬</sic></choice>，亦不捨離如
+<lb n="0570b28" ed="T"/>悉無障礙。又復雖觀色如聚<note n="0570b2801" resp="CBETA" type="add">沫【CB】，沬【大】</note><app n="0570b2801"><lem wit="【CB】" resp="CBETA">沫</lem><rdg wit="【大】">沬</rdg></app>，亦不捨離如
 <lb n="0570b29" ed="T"/>來色身相好。受如浮泡，亦不於諸如來禪定、
 <pb n="0570c" ed="T" xml:id="T32.1664.0570c"/>
 <lb n="0570c01" ed="T"/>三摩地、三摩鉢底出生妙樂中不起方便。想

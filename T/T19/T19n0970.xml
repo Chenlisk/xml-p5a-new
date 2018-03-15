@@ -193,7 +193,7 @@ Added comment  for Emacs
 <lb n="0358a14" ed="T"/>如是善惡等因。如我應往諮<note n="0358005" resp="Taisho" place="foot text" type="orig">問＝聞【甲】</note><note n="0358005" resp="CBETA" type="mod">問【大】，聞【甲】</note><app n="0358005"><lem wit="【大】">問</lem><rdg resp="Taisho" wit="【甲】">聞</rdg></app>是事。世尊
 <lb n="0358a15" ed="T"/>大慈應為我等說是所以。或令善住得免斯
 <lb n="0358a16" ed="T"/><app type="star" corresp="#0358003"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【甲】">若</rdg></app>。爾時帝釋即於其時。勅諸天眾各嚴宮
-<lb n="0358a17" ed="T"/>侍。花鬘瓔珞及種種<note n="0358006" resp="Taisho" place="foot text" type="orig">（塗）ヵ＋香【乙】</note><note n="0358006" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（塗）ヵ＋香【乙】</note><app n="0358006"><lem resp="Taisho" wit="【大】">香</lem><rdg resp="Taisho" wit="【乙】" type="correctionRemark">塗香</rdg></app>。末香燒香天衣彌覆
+<lb n="0358a17" ed="T"/>侍。花鬘瓔珞及種種<note n="0358006" resp="Taisho" place="foot text" type="orig">（塗）ヵ＋香【乙】</note><note n="0358006" resp="CBETA" type="mod">香【大】，塗香【考偽-乙】</note><app n="0358006"><lem resp="Taisho" wit="【大】">香</lem><rdg resp="Taisho" wit="【乙】" type="correctionRemark">塗香</rdg></app>。末香燒香天衣彌覆
 <lb n="0358a18" ed="T"/>而為供養。於時帝釋將<note n="0358007" resp="Taisho" place="foot text" type="orig">是＝諸【三】【乙】</note><note n="0358007" resp="CBETA" type="mod">是【大】，諸【宋】【元】【明】【乙】</note><app n="0358007"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">諸</rdg></app>眷屬。速疾來詣誓
 <lb n="0358a19" ed="T"/>多林所。到已奉獻。頂禮佛<note n="0358008" resp="Taisho" place="foot text" type="orig">已＝足【三】【乙】</note><note n="0358008" resp="CBETA" type="mod">已【大】，足【宋】【元】【明】【乙】</note><app n="0358008"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【宋】【元】【明】【乙】">足</rdg></app>右遶七匝。即
 <lb n="0358a20" ed="T"/>於佛前廣大供養。法事已訖却住一面。承佛
@@ -309,7 +309,7 @@ Added comment  for Emacs
 <lb n="0359b10" ed="T"/>那娑婆<note place="inline"><app type="star" corresp="#0359015"><lem wit="【大】">長聲</lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">引</rdg></app></note><note n="0359026" resp="Taisho" place="foot text" type="orig">縛輸第七＝皤輸地九【三】【甲】【乙】</note><note n="0359026" resp="CBETA" type="mod">縛輸第七【大】，皤輸地九【宋】【元】【明】【甲】【乙】</note><app n="0359026"><lem wit="【大】">縛輸第<note place="inline">七</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】">皤輸地九</rdg></app>阿鼻詵者<note n="0359027" resp="Taisho" place="foot text" type="orig">〔去長聲〕－【三】【甲】【乙】</note><note n="0359027" resp="CBETA" type="mod">去長聲【大】，〔－〕【宋】【元】【明】【甲】【乙】</note><app n="0359027"><lem wit="【大】"><note place="inline">去長聲</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【甲】【乙】"><space quantity="0"/></rdg></app>蘇揭
 <lb n="0359b11" ed="T"/>多伐
 <note n="0359028" resp="Taisho" place="foot text" type="orig">折＋（時說反）夾註【三】，（時說切）【明】【乙】，（時說反下同）【甲】</note>
-<note n="0359028" resp="CBETA" type="mod">折【大】，折(時說反)【宋】【元】，<!--CBETA todo type: i-->折時說反【明】，<!--CBETA todo type: newmod-->（時說切）【明】【乙】，（時說反下同）【甲】</note>
+<note n="0359028" resp="CBETA" type="mod">折【大】，折(時說反)【宋】【元】，<!--CBETA todo type: i-->折(時說反)【明】，<!--CBETA todo type: newmod-->（時說切）【明】【乙】，（時說反下同）【甲】</note>
 <app n="0359028"><lem wit="【大】">折</lem>
 <rdg resp="Taisho" wit="【宋】【元】">折<note place="inline">時說反</note></rdg>
 <rdg resp="Taisho" wit="【乙】">折時說切</rdg>

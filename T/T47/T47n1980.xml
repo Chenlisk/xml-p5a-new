@@ -201,7 +201,7 @@ Added comment  for Emacs
 <lb n="0439a21" ed="T"/>惡道生死等苦。隨緣起行。一切善根具速回。
 <lb n="0439a22" ed="T"/>願往生阿彌陀佛國。到彼國已。更無所畏。如
 <lb n="0439a23" ed="T"/>上四修自然任運。自利利他無不具足。應知。</p>
-<lb n="0439a24" ed="T"/><p xml:id="pT47p0439a2401">又如文殊般若云。<note n="0439001" resp="Taisho" place="foot text" type="orig">（欲）ィ＋明【甲】</note><note n="0439001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（欲）ィ＋明【甲】</note><app n="0439001"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">欲明</rdg></app>一行三昧。唯勸。獨處
+<lb n="0439a24" ed="T"/><p xml:id="pT47p0439a2401">又如文殊般若云。<note n="0439001" resp="Taisho" place="foot text" type="orig">（欲）ィ＋明【甲】</note><note n="0439001" resp="CBETA" type="mod">明【大】，欲明【校異-甲】</note><app n="0439001"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">欲明</rdg></app>一行三昧。唯勸。獨處
 <lb n="0439a25" ed="T"/>空閑。捨諸亂意。係心一佛。不觀相貌。專稱名
 <lb n="0439a26" ed="T"/>字。即於念中。得見彼阿彌陀佛及一切佛等。
 <lb n="0439a27" ed="T"/>問曰。何故不令作觀。直遣專稱名字者。有何
@@ -233,9 +233,9 @@ Added comment  for Emacs
 <lb n="0439b23" ed="T"/>不相續故。憶想間斷故。迴願不慇重真實故。
 <lb n="0439b24" ed="T"/>貪瞋諸見煩惱來間斷故。無有慚愧懺悔心
 <lb n="0439b25" ed="T"/>故。懺悔有三品。一要二略三廣。如下具說。隨
-<lb n="0439b26" ed="T"/>意用皆得。又不相續<note n="0439004" resp="Taisho" place="foot text" type="orig">（無）ィ＋念【甲】</note><note n="0439004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（無）ィ＋念【甲】</note><app n="0439004"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">無念</rdg></app>報彼佛恩<note n="0439005" resp="Taisho" place="foot text" type="orig">故＝雖作行業ィ【甲】</note><note n="0439005" resp="CBETA" type="mod">故【大】，雖作行業【校異-甲】</note><app n="0439005"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">雖作行業</rdg></app>。心生
+<lb n="0439b26" ed="T"/>意用皆得。又不相續<note n="0439004" resp="Taisho" place="foot text" type="orig">（無）ィ＋念【甲】</note><note n="0439004" resp="CBETA" type="mod">念【大】，無念【校異-甲】</note><app n="0439004"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">無念</rdg></app>報彼佛恩<note n="0439005" resp="Taisho" place="foot text" type="orig">故＝雖作行業ィ【甲】</note><note n="0439005" resp="CBETA" type="mod">故【大】，雖作行業【校異-甲】</note><app n="0439005"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">雖作行業</rdg></app>。心生
 <lb n="0439b27" ed="T"/>輕慢。雖作業行。常與名利相應故。人我自覆。
-<lb n="0439b28" ed="T"/>不親近同行善知識故。樂近雜<choice><corr>緣</corr><sic>綠</sic></choice>。自障障他
+<lb n="0439b28" ed="T"/>不親近同行善知識故。樂近雜<note n="0439b2801" resp="CBETA" type="add">緣【CB】，綠【大】</note><app n="0439b2801"><lem wit="【CB】" resp="CBETA">緣</lem><rdg wit="【大】">綠</rdg></app>。自障障他
 <lb n="0439b29" ed="T"/>往生正行故。何以故<note n="0439006" resp="Taisho" place="foot text" type="orig">余比日＝爾比ィ【原】</note><note n="0439006" resp="CBETA" type="mod">余比日【大】，爾比【校異-原】</note><app n="0439006"><lem wit="【大】">余比日</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">爾比</rdg></app>自見聞諸方道
 <pb n="0439c" xml:id="T47.1980.0439c" ed="T"/>
 <lb n="0439c01" ed="T"/>俗。解行不同。專雜有異。但使專意作者。十即
@@ -304,7 +304,7 @@ Added comment  for Emacs
 <lb n="0440b07" ed="T"/><p xml:id="pT47p0440b0701">南無西方極樂世界大勢至菩薩。</p>
 <lb n="0440b08" ed="T"/><lg xml:id="lgT47p0440b0801"><l>願共眾生咸歸命</l><l>故我頂禮生彼國</l></lg>
 <lb n="0440b09" ed="T"/><p xml:id="pT47p0440b0901" rend="margin-left:1em"><note place="inline">此二菩薩。一切眾生臨命終時。共持華臺。授與行者。阿彌陀佛放大光明。照行者身。復與無數化佛菩薩聲
-<lb n="0440b10" ed="T"/>聞大眾等。一時授手。如彈指頃即得往生為報<note n="0440001" resp="Taisho" place="foot text" type="orig">（佛）ィ＋恩【原】【甲】</note><note n="0440001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（佛）ィ＋恩【原】【甲】</note><app n="0440001"><lem wit="【大】">恩</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">佛恩</rdg></app>故。至心禮之一拜</note>。</p>
+<lb n="0440b10" ed="T"/>聞大眾等。一時授手。如彈指頃即得往生為報<note n="0440001" resp="Taisho" place="foot text" type="orig">（佛）ィ＋恩【原】【甲】</note><note n="0440001" resp="CBETA" type="mod">恩【大】，佛恩【校異-原】【甲】</note><app n="0440001"><lem wit="【大】">恩</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">佛恩</rdg></app>故。至心禮之一拜</note>。</p>
 <lb n="0440b11" ed="T"/><p xml:id="pT47p0440b1101">南無西方極樂世界諸菩薩清淨大海眾。</p>
 <lb n="0440b12" ed="T"/><lg xml:id="lgT47p0440b1201"><l>願共眾生咸歸命</l><l>故我頂禮生彼國</l></lg>
 <lb n="0440b13" ed="T"/><p xml:id="pT47p0440b1301" rend="margin-left:1em"><note place="inline">此等諸菩薩。亦隨佛來迎接行者。為報恩故。至心禮之一拜</note>。</p>
@@ -343,7 +343,7 @@ Added comment  for Emacs
 <lb n="0440c17" ed="T"/><p xml:id="pT47p0440c1701">願弟子等臨命終時。心不顛倒。心不錯亂。心
 <lb n="0440c18" ed="T"/>不失念。身心無諸苦痛。身心快樂如入禪定。
 <lb n="0440c19" ed="T"/>聖眾現前。乘佛本願。上品往生阿彌陀佛國。
-<lb n="0440c20" ed="T"/>到彼國已。得六神通。<note n="0440009" resp="Taisho" place="foot text" type="orig">（回）ィ＋入【原】【甲】</note><note n="0440009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（回）ィ＋入【原】【甲】</note><app n="0440009"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">回入</rdg></app>十方界。救攝苦眾
+<lb n="0440c20" ed="T"/>到彼國已。得六神通。<note n="0440009" resp="Taisho" place="foot text" type="orig">（回）ィ＋入【原】【甲】</note><note n="0440009" resp="CBETA" type="mod">入【大】，回入【校異-原】【甲】</note><app n="0440009"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">回入</rdg></app>十方界。救攝苦眾
 <lb n="0440c21" ed="T"/>生。虛空法界盡。我願亦如是。發願已。至心歸
 <lb n="0440c22" ed="T"/>命阿彌陀佛。</p>
 <lb n="0440c23" ed="T"/><p xml:id="pT47p0440c2301" rend="margin-left:1em">初夜偈云。</p>

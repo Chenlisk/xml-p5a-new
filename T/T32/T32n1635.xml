@@ -1058,7 +1058,7 @@ Added comment  for Emacs
 <lb n="0060a08" ed="T"/>袈裟片，見已即時右繞頂禮出林而去。次有
 <lb n="0060a09" ed="T"/>羅剎女名佉禰囉㮏帝與千眷屬，次有羅剎
 <lb n="0060a10" ed="T"/>女名猙獰髮，次有羅剎女名曰劍口，次第而
-<lb n="0060a11" ed="T"/>來入於林中，各見其人剃除鬚髮被袈<choice><corr>裟</corr><sic>娑</sic></choice>片，
+<lb n="0060a11" ed="T"/>來入於林中，各見其人剃除鬚髮被袈<note n="0060a1101" resp="CBETA" type="add">裟【CB】，娑【大】</note><app n="0060a1101"><lem wit="【CB】" resp="CBETA">裟</lem><rdg wit="【大】">娑</rdg></app>片，
 <lb n="0060a12" ed="T"/>見已雖復彼彼飢急，不敢侵食頂禮而去。</p>
 <lb n="0060a13" ed="T"/><p xml:id="pT32p0060a1301">又復過去有王名最勝福，彼有智臣，以其法
 <lb n="0060a14" ed="T"/>應刑戮之人付於醉象。是人以赤袈裟片潛
@@ -1535,7 +1535,7 @@ Added comment  for Emacs
 <lb n="0065b03" ed="T"/>覺了，然後轉妙法輪，所謂不退轉輪。譬如治
 <lb n="0065b04" ed="T"/>寶之師，於其寶所但取假色瑠璃，先以灰水
 <lb n="0065b05" ed="T"/>磨淬令潔，次用黑膩之髮而復治之。然其寶
-<lb n="0065b06" ed="T"/>師<note resp="Taisho" n="0065001" place="foot text" type="orig">會＝曾【三】【宮】</note><note resp="CBETA" n="0065001" type="mod">曾【宋】【元】【明】【宮】【磧砂-CB】【CB】，會【大】，會【麗-CB】</note><app n="0065001"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">曾<note type="cf1">Q34_p0236a06</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">曾</rdg><rdg wit="【大】">會</rdg><rdg resp="CBETA.maha" wit="【麗】">會<note type="cf1">K40n1475_p0874b19</note></rdg></app>無疲倦，後以肉汁及以繒帛重復磨
+<lb n="0065b06" ed="T"/>師<note resp="Taisho" n="0065001" place="foot text" type="orig">會＝曾【三】【宮】</note><note resp="CBETA" n="0065001" type="mod">曾【CB】【磧-CB】【宋】【元】【明】【宮】，會【大】，會【麗-CB】</note><app n="0065001"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">曾<note type="cf1">Q34_p0236a06</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">曾</rdg><rdg wit="【大】">會</rdg><rdg resp="CBETA.maha" wit="【麗】">會<note type="cf1">K40n1475_p0874b19</note></rdg></app>無疲倦，後以肉汁及以繒帛重復磨
 <lb n="0065b07" ed="T"/>治，又用大藥汁及細妙衣次第精治，然後瑩
 <lb n="0065b08" ed="T"/>潔，去其假色同真瑠璃。如來亦復如是，知有
 <lb n="0065b09" ed="T"/>情界本不清淨，乃為宣說無常、苦、無我、不淨
@@ -1605,7 +1605,7 @@ Added comment  for Emacs
 <lb n="0066a12" ed="T"/>廟像、或隨立幢相、或但竪剎竿、或安如來形
 <lb n="0066a13" ed="T"/>像，或別別安布如來諸相，所謂轉法輪相、或
 <lb n="0066a14" ed="T"/>復踰城出家之相、或菩提樹下成正覺相、或
-<lb n="0066a15" ed="T"/>現大神通降魔<note resp="Taisho" n="0066003" place="foot text" type="orig">車＝軍【三】【宮】</note><note resp="CBETA" n="0066003" type="mod">軍【宋】【元】【明】【宮】【磧砂-CB】【CB】，車【大】，車【麗-CB】</note><app n="0066003"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">軍<note type="cf1">Q34_p0236c10</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">軍</rdg><rdg wit="【大】">車</rdg><rdg resp="CBETA.maha" wit="【麗】">車<note type="cf1">K40n1475_p0875c03</note></rdg></app>相、或示現入大涅槃相、或
+<lb n="0066a15" ed="T"/>現大神通降魔<note resp="Taisho" n="0066003" place="foot text" type="orig">車＝軍【三】【宮】</note><note resp="CBETA" n="0066003" type="mod">軍【CB】【磧-CB】【宋】【元】【明】【宮】，車【大】，車【麗-CB】</note><app n="0066003"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">軍<note type="cf1">Q34_p0236c10</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">軍</rdg><rdg wit="【大】">車</rdg><rdg resp="CBETA.maha" wit="【麗】">車<note type="cf1">K40n1475_p0875c03</note></rdg></app>相、或示現入大涅槃相、或
 <lb n="0066a16" ed="T"/>忉利天下降之相。三者若見聲聞弟子眾中有
 <lb n="0066a17" ed="T"/>離間者，為作和合。四者於如來教中，若見正
 <lb n="0066a18" ed="T"/>法欲減滅時，乃至一四句偈勇力護持，使彼

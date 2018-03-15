@@ -203,7 +203,7 @@ Added comment  for Emacs
 <pb xml:id="T14.0527.0802c" ed="T" n="0802c"/>
 <lb n="0802c01" ed="T"/><lg rend="margin-left:1em;text-indent:-1em" xml:id="lgT14p0802c0101"><l>「汝已於往世，</l><l>敬事八千佛，</l>
 <lb n="0802c02" ed="T"/><l>心常願大道，</l><l>欲得安群生。</l>
-<lb ed="T" n="0802c03"/><l>後十二億劫，</l><l>終不墮惡<note n="0802008" resp="Taisho" place="foot text" type="orig">過＝道【宮】</note><note type="mod" n="0802008" resp="CBETA">道【宮】【麗-CB】【CB】，過【大】</note><app n="0802008"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">道<note type="cf1">K11n0228_p0443c15</note></lem><rdg wit="【大】">過</rdg><rdg resp="Taisho" wit="【宮】">道</rdg></app>，</l>
+<lb ed="T" n="0802c03"/><l>後十二億劫，</l><l>終不墮惡<note n="0802008" resp="Taisho" place="foot text" type="orig">過＝道【宮】</note><note type="mod" n="0802008" resp="CBETA">道【CB】【麗-CB】【宮】，過【大】</note><app n="0802008"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">道<note type="cf1">K11n0228_p0443c15</note></lem><rdg wit="【大】">過</rdg><rdg resp="Taisho" wit="【宮】">道</rdg></app>，</l>
 <lb ed="T" n="0802c04"/><l>但多修德善，</l><l>恒以<note resp="Taisho" n="0802009" type="orig" place="foot text">興＝與【宮】</note><note resp="CBETA" n="0802009" type="mod">興【大】，與【宮】</note><app n="0802009"><lem wit="【大】">興</lem><rdg wit="【宮】" resp="Taisho">與</rdg></app>尊意。</l>
 <lb n="0802c05" ed="T"/><l>汝當百億返，</l><l>作王遮迦越，</l>
 <lb ed="T" n="0802c06"/><l>亦為四天王，</l><l>每輒行正法。</l>
@@ -216,7 +216,7 @@ Added comment  for Emacs
 <lb ed="T" n="0802c13"/><l>初會說法時，</l><l>六十千億人，</l>
 <lb n="0802c14" ed="T"/><l>為弟子得度，</l><l>皆得阿羅漢；</l>
 <lb ed="T" n="0802c15"/><l>再會說<note resp="Taisho" n="0802012" type="orig" place="foot text">經＝法【三】【宮】＊</note><note type="mod" n="0802012" resp="CBETA">經【大】＊，法【宋】【元】【明】【宮】＊</note><app n="0802012"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法</rdg></app>時，</l><l>四十千億人，</l>
-<lb n="0802c16" ed="T"/><l>皆入羅漢慧，</l><l>所度<note place="foot text" type="orig" n="0802013" resp="Taisho">佛＝為【宮】</note><note type="mod" resp="CBETA" n="0802013">為【宮】【麗-CB】【CB】，佛【大】</note><app n="0802013"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">為<note type="cf1">K11n0228_p0443c24</note></lem><rdg wit="【大】">佛</rdg><rdg resp="Taisho" wit="【宮】">為</rdg></app>甚眾；</l>
+<lb n="0802c16" ed="T"/><l>皆入羅漢慧，</l><l>所度<note place="foot text" type="orig" n="0802013" resp="Taisho">佛＝為【宮】</note><note type="mod" resp="CBETA" n="0802013">為【CB】【麗-CB】【宮】，佛【大】</note><app n="0802013"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">為<note type="cf1">K11n0228_p0443c24</note></lem><rdg wit="【大】">佛</rdg><rdg resp="Taisho" wit="【宮】">為</rdg></app>甚眾；</l>
 <lb ed="T" n="0802c17"/><l>三會說<app corresp="#0802012" type="star"><lem wit="【大】">經</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">法</rdg></app>時，</l><l>所度甚眾多，</l>
 <lb ed="T" n="0802c18"/><l>離垢入淨慧，</l><l>悉得無所著。</l>
 <lb ed="T" n="0802c19"/><l>是時佛剎中，</l><l>無有亂惡眾，</l>

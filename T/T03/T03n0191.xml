@@ -766,7 +766,7 @@ Added comment  for Emacs
 <lb n="0938b20" ed="T"/>慧甚深，福德無量，諸相端嚴，持戒清潔，過去
 <lb n="0938b21" ed="T"/>諸佛同與<note n="0938003" resp="Taisho" type="orig" place="foot text">受＝授【明】</note><note n="0938003" resp="CBETA" type="mod">受【大】，授【明】</note><app n="0938003"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【明】">授</rdg></app>記，我即受生；今見摩耶具上
 <lb n="0938b22" ed="T"/>功德，復是王種，即乃生彼。</p><p xml:id="pT03p0938b2211" rend="inline">爾時菩薩作是觀
-<lb n="0938b23" ed="T"/>已，復告六欲天子：「汝今諦聽！我當下生南<choice><corr>贍</corr><sic>瞻</sic></choice>
+<lb n="0938b23" ed="T"/>已，復告六欲天子：「汝今諦聽！我當下生南<note n="0938b2301" resp="CBETA" type="add">贍【CB】，瞻【大】</note><app n="0938b2301"><lem wit="【CB】" resp="CBETA">贍</lem><rdg wit="【大】">瞻</rdg></app>
 <lb n="0938b24" ed="T"/>部洲託質摩耶，汝等為我降甘露雨令我受
 <lb n="0938b25" ed="T"/>樂。」天子告言：「南瞻部洲有六大惡人：一、老迦
 <lb n="0938b26" ed="T"/>葉；二、摩娑迦梨虞<note n="0938004" resp="Taisho" type="orig" place="foot text">婆＝娑【三】</note><note n="0938004" resp="CBETA" type="mod">婆【大】，娑【宋】【元】【明】</note><app n="0938004"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【宋】【元】【明】">娑</rdg></app>子；三、娑惹野尾囉致
@@ -1187,7 +1187,7 @@ Added comment  for Emacs
 <lb n="0943a24" ed="T"/>利劍斷彼龍命。龍有毒氣，被觸之者遍身青
 <lb n="0943a25" ed="T"/>黑，因以立名迦路那夷。太子行至河邊，先令
 <lb n="0943a26" ed="T"/>提婆達多出彼大樹，提婆達多極其神力終
-<lb n="0943a27" ed="T"/>不能舉；次及難<note n="0943001" resp="Taisho" type="orig" place="foot text">那＝陀【明】</note><note n="0943001" resp="CBETA" type="mod">陀【明】【CB】，那【大】</note><app n="0943001"><lem resp="CBETA.maha" wit="【CBETA】">陀</lem><rdg wit="【大】">那</rdg><rdg resp="Taisho" wit="【明】">陀</rdg></app>，盡力挽樹稍離於地；是時
+<lb n="0943a27" ed="T"/>不能舉；次及難<note n="0943001" resp="Taisho" type="orig" place="foot text">那＝陀【明】</note><note n="0943001" resp="CBETA" type="mod">陀【CB】【明】，那【大】</note><app n="0943001"><lem resp="CBETA.maha" wit="【CBETA】">陀</lem><rdg wit="【大】">那</rdg><rdg resp="Taisho" wit="【明】">陀</rdg></app>，盡力挽樹稍離於地；是時
 <lb n="0943a28" ed="T"/>太子以己神力，手把大樹折為兩段擲虛空
 <lb n="0943a29" ed="T"/>中，於河兩邊各下一段，告眾人言：「此娑囉迦
 <pb n="0943b" ed="T" xml:id="T03.0191.0943b"/>
@@ -2155,7 +2155,7 @@ Added comment  for Emacs
 <lb n="0953c29" ed="T"/>人常行乞食，世尊到已，或三人乞食二人奉
 <pb n="0954a" ed="T" xml:id="T03.0191.0954a"/>
 <lb n="0954a01" ed="T"/>事，或二人乞食三人奉事，互為給侍精進無
-<lb n="0954a02" ed="T"/>懈。佛因制之<note n="0954001" resp="Taisho" type="orig" place="foot text">日＝曰【三】</note><note n="0954001" resp="CBETA" type="mod">曰【宋】【元】【明】【CB】，日【大】</note><app n="0954001"><lem resp="CBETA.maha" wit="【CBETA】">曰</lem><rdg wit="【大】">日</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">曰</rdg></app>：「有二事法，修行之人而不
+<lb n="0954a02" ed="T"/>懈。佛因制之<note n="0954001" resp="Taisho" type="orig" place="foot text">日＝曰【三】</note><note n="0954001" resp="CBETA" type="mod">曰【CB】【宋】【元】【明】，日【大】</note><app n="0954001"><lem resp="CBETA.maha" wit="【CBETA】">曰</lem><rdg wit="【大】">日</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">曰</rdg></app>：「有二事法，修行之人而不
 <lb n="0954a03" ed="T"/>得行。云何二事？為於色欲生貪，此輪迴根非
 <lb n="0954a04" ed="T"/>上人法；若有人能自正其心修其苦行，於此
 <lb n="0954a05" ed="T"/>五蘊三毒如是諸法無迷無執，智眼觀察，斷
@@ -2218,7 +2218,7 @@ Added comment  for Emacs
 <lb n="0954c03" ed="T"/>
 <lb n="0954c04" ed="T"/><byline cb:type="Translator"><note n="0954005" resp="Taisho" type="orig" place="foot text">（宋）＋西【明】</note><note n="0954005" resp="CBETA" type="mod">西【大】，宋西【明】</note><app n="0954005"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天譯經三藏朝散大夫試鴻臚少
 <lb n="0954c05" ed="T"/>卿明教大師臣法賢奉　詔譯</byline>
-<lb n="0954c06" ed="T"/><p xml:id="pT03p0954c0601">爾時世尊初轉法輪度五<choice><corr>苾</corr><sic>芯</sic></choice>芻已，將諸苾
+<lb n="0954c06" ed="T"/><p xml:id="pT03p0954c0601">爾時世尊初轉法輪度五<note n="0954c0601" resp="CBETA" type="add">苾【CB】，芯【大】</note><app n="0954c0601"><lem wit="【CB】" resp="CBETA">苾</lem><rdg wit="【大】">芯</rdg></app>芻已，將諸苾
 <lb n="0954c07" ed="T"/>芻往嚩囉迦河岸，遊止暫住。時波羅奈國中
 <lb n="0954c08" ed="T"/>有俱梨迦長者子，名曰耶舍，家中巨富廣有
 <lb n="0954c09" ed="T"/>財寶，母氏眷屬皆國中豪族，多畜奴婢互誇
@@ -4054,7 +4054,7 @@ Added comment  for Emacs
 <lb n="0975a07" ed="T"/>地六種動，有何因緣？唯願世尊，解諸疑網。」</p><p xml:id="pT03p0975a0717" rend="inline">佛
 <lb n="0975a08" ed="T"/>言：「過去世時此閻浮提波羅奈國，有王統御，
 <lb n="0975a09" ed="T"/>名曰梵壽，國界豐盛人民快樂。時彼城中有
-<lb n="0975a10" ed="T"/>一<note n="0975002" resp="Taisho" type="orig" place="foot text">娼＝昌【宋】，倡【元】【明】</note><note n="0975002" resp="CBETA" type="mod">娼【大】，昌【宋】，倡【元】【明】</note><app n="0975002"><lem wit="【大】">娼</lem><rdg resp="Taisho" wit="【宋】">昌</rdg><rdg resp="Taisho" wit="【元】【明】">倡</rdg></app>女，名跋捺囉，色相端嚴人所愛<choice><corr>羨</corr><sic>羡</sic></choice>。有
+<lb n="0975a10" ed="T"/>一<note n="0975002" resp="Taisho" type="orig" place="foot text">娼＝昌【宋】，倡【元】【明】</note><note n="0975002" resp="CBETA" type="mod">娼【大】，昌【宋】，倡【元】【明】</note><app n="0975002"><lem wit="【大】">娼</lem><rdg resp="Taisho" wit="【宋】">昌</rdg><rdg resp="Taisho" wit="【元】【明】">倡</rdg></app>女，名跋捺囉，色相端嚴人所愛<note n="0975a1001" resp="CBETA" type="add">羨【CB】，羡【大】</note><app n="0975a1001"><lem wit="【CB】" resp="CBETA">羨</lem><rdg wit="【大】">羡</rdg></app>。有
 <lb n="0975a11" ed="T"/>一男子，名孫<note n="0975003" resp="Taisho" type="orig" place="foot text">那＝耶【宋】【元】</note><note n="0975003" resp="CBETA" type="mod">那【大】，耶【宋】【元】</note><app n="0975003"><lem wit="【大】">那</lem><rdg resp="Taisho" wit="【宋】【元】">耶</rdg></app>囉摩拏嚩迦，往彼女處言意
 <lb n="0975a12" ed="T"/>相慕；女即報云：『備五百金錢可來相見。』是人
 <lb n="0975a13" ed="T"/>貧匱莫副所言，別以方便而親附之，遂移居

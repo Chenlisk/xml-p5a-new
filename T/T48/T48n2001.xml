@@ -987,7 +987,7 @@ Added comment  for Emacs
 <pb n="0009b" xml:id="T48.2001.0009b" ed="T"/>
 <lb n="0009b01" ed="T"/><p xml:id="pT48p0009b0101">上堂云。內若不動外必不亂。箇是叢林知有
 <lb n="0009b02" ed="T"/>漢。而今識得不為冤。自家兵馬何須戰。心因
-<lb n="0009b03" ed="T"/>不生境緣<note n="0009003" resp="Taisho" place="foot text" type="orig">（自）ィ＋斷【原】</note><note n="0009003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（自）ィ＋斷【原】</note><app n="0009003"><lem wit="【大】">斷</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">自斷</rdg></app>體若虛空勿崖岸。霜天皎月上
+<lb n="0009b03" ed="T"/>不生境緣<note n="0009003" resp="Taisho" place="foot text" type="orig">（自）ィ＋斷【原】</note><note n="0009003" resp="CBETA" type="mod">斷【大】，自斷【校異-原】</note><app n="0009003"><lem wit="【大】">斷</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">自斷</rdg></app>體若虛空勿崖岸。霜天皎月上
 <lb n="0009b04" ed="T"/>中峯。一段光明洗癡暗。上堂云。衲僧須瀝髑
 <lb n="0009b05" ed="T"/>髏乾。透出威音世外看。歲月不能遷變處。箇
 <lb n="0009b06" ed="T"/>人肯共爾同盤參。</p>
@@ -1107,7 +1107,7 @@ Added comment  for Emacs
 <lb n="0010c04" ed="T"/>夜宿滄洲樹。不解恁麼來。石笋穿開古路
 <lb n="0010c05" ed="T"/>苔。諸人還體悉得麼。莫道鯤鯨無羽翼。今
 <lb n="0010c06" ed="T"/>日親從鳥道回。</p>
-<lb n="0010c07" ed="T"/><p xml:id="pT48p0010c0701">上堂云。淅淅西風<choice><corr>斂</corr><sic>歛</sic></choice>氣浮。遠天野水一般秋。
+<lb n="0010c07" ed="T"/><p xml:id="pT48p0010c0701">上堂云。淅淅西風<note n="0010c0701" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0010c0701"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>氣浮。遠天野水一般秋。
 <lb n="0010c08" ed="T"/>衲僧歇到茲時節。坐照寒光湛不流。諸禪德
 <lb n="0010c09" ed="T"/>祖師道。心隨萬境轉。轉處實能幽。且作麼生
 <lb n="0010c10" ed="T"/>是轉處。還會麼。解報山家六戶曉。須知雲樹
@@ -1188,7 +1188,7 @@ Added comment  for Emacs
 <lb n="0011b26" ed="T"/>進云。幸逢席上台星鑑。好運靈光第一機。師
 <lb n="0011b27" ed="T"/>云。爾只今問第幾機。進云。霜林玉鳳生雛。月
 <lb n="0011b28" ed="T"/>戶金雞唱曉。師云。直須恁麼。僧問。昔日興化
-<lb n="0011b29" ed="T"/>道。我逢人即不出。出即<note n="0011002" resp="Taisho" place="foot text" type="orig">〔不〕－ヵ【甲】</note><note n="0011002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔不〕－ヵ【甲】</note><app n="0011002"><lem resp="Taisho" wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>為人。三聖云。我
+<lb n="0011b29" ed="T"/>道。我逢人即不出。出即<note n="0011002" resp="Taisho" place="foot text" type="orig">〔不〕－ヵ【甲】</note><note n="0011002" resp="CBETA" type="mod">不【大】，〔－〕【考偽-甲】</note><app n="0011002"><lem resp="Taisho" wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>為人。三聖云。我
 <pb n="0011c" xml:id="T48.2001.0011c" ed="T"/>
 <lb n="0011c01" ed="T"/>逢人即出。出即<note n="0011003" resp="Taisho" place="foot text" type="orig">便＝不ヵ【甲】</note><note n="0011003" resp="CBETA" type="mod">便【大】，不【考偽-甲】</note><app n="0011003"><lem resp="Taisho" wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark">不</rdg></app>為人。未審。二尊宿。還有
 <lb n="0011c02" ed="T"/>相違處也無。師云。落霞與孤鶩齊飛。秋水共
@@ -1207,7 +1207,7 @@ Added comment  for Emacs
 <lb n="0011c15" ed="T"/>不有。湛兮若存。法身圓極。而無去來。物物難
 <lb n="0011c16" ed="T"/>逃其外。佛眼洞鑑而一同異。塵塵<note n="0011004" resp="Taisho" place="foot text" type="orig">但＝俱ィ【甲】，易ヵ【甲】</note><note n="0011004" resp="CBETA" type="mod">但【大】，俱【校異-甲】，易【考偽-甲】</note><app n="0011004"><lem resp="Taisho" wit="【大】">但</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">俱</rdg><rdg resp="Taisho" wit="【甲】" type="correctionRemark">易</rdg></app>入其
 <lb n="0011c17" ed="T"/>中。所以古人道。森羅及萬象。一法之所印。若
-<lb n="0011c18" ed="T"/>恁麼會得。方知道。一切處是爾自<choice><corr>己</corr><sic>已</sic></choice>。一切處
+<lb n="0011c18" ed="T"/>恁麼會得。方知道。一切處是爾自<note n="0011c1801" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0011c1801"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>。一切處
 <lb n="0011c19" ed="T"/>是爾光明。一切處是爾坐道場。一切處是爾
 <lb n="0011c20" ed="T"/>作佛事。雖然如是。且道。光影俱忘。又作麼生
 <lb n="0011c21" ed="T"/>體悉。良久云。玉馬雪行歸半夜。羚羊掛角月
@@ -1353,7 +1353,7 @@ Added comment  for Emacs
 <lb n="0013b11" ed="T"/>了來相識麼。寒窮面嘴黑皴皴。</p>
 <lb n="0013b12" ed="T"/><p xml:id="pT48p0013b1201">上堂云。今日是釋迦老子降生之辰。長蘆不
 <lb n="0013b13" ed="T"/>解說禪。與諸人畫箇樣子。祇如在摩耶胎時
-<lb n="0013b14" ed="T"/>作麼生。<note n="0013002" resp="Taisho" place="foot text" type="orig">（師）ィ＋以【甲】</note><note n="0013002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（師）ィ＋以【甲】</note><app n="0013002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">師以</rdg></app>拂子畫⊙。祇如以清淨水浴金色
+<lb n="0013b14" ed="T"/>作麼生。<note n="0013002" resp="Taisho" place="foot text" type="orig">（師）ィ＋以【甲】</note><note n="0013002" resp="CBETA" type="mod">以【大】，師以【校異-甲】</note><app n="0013002"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">師以</rdg></app>拂子畫⊙。祇如以清淨水浴金色
 <lb n="0013b15" ed="T"/>身時。又作麼生。師畫<g ref="#CB05148"/>。祇如周行七步。目顧
 <lb n="0013b16" ed="T"/>四方。指天指地。成道說法。神通變化。智慧辯
 <lb n="0013b17" ed="T"/>才。四十九年。三百餘會。說青道黃。指東畫
@@ -1479,7 +1479,7 @@ Added comment  for Emacs
 <lb n="0014c17" ed="T"/>汝相見了也。僧堂前則且致。望州亭烏石嶺。
 <lb n="0014c18" ed="T"/>什麼處相見。鵝湖驟步歸方丈。保福便入僧
 <lb n="0014c19" ed="T"/>堂。雪竇拈云。二老宿是即是。祇知雪峯放行。
-<lb n="0014c20" ed="T"/>且不見雪峯把定。<note n="0014004" resp="Taisho" place="foot text" type="orig">（師曰）ィ＋祇【甲】</note><note n="0014004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（師曰）ィ＋祇【甲】</note><app n="0014004"><lem wit="【大】">祇</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">師曰祇</rdg></app>如覺上座。適來與長蘆
+<lb n="0014c20" ed="T"/>且不見雪峯把定。<note n="0014004" resp="Taisho" place="foot text" type="orig">（師曰）ィ＋祇【甲】</note><note n="0014004" resp="CBETA" type="mod">祇【大】，師曰祇【校異-甲】</note><app n="0014004"><lem wit="【大】">祇</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">師曰祇</rdg></app>如覺上座。適來與長蘆
 <lb n="0014c21" ed="T"/>和尚。三門前問訊。方丈頭人事合掌起居曲
 <lb n="0014c22" ed="T"/>躬叉手。諸人恁麼相見。也祇是放行。且道。把
 <lb n="0014c23" ed="T"/>定處作麼生相見。還相委悉麼。鶴鷺竝頭踏
@@ -2737,7 +2737,7 @@ Added comment  for Emacs
 <lb n="0028c19" ed="T"/>問。如何是裂開。州云。三九二十七。菩提涅槃
 <lb n="0028c20" ed="T"/>真如解脫即心即佛。我且恁麼道。汝又作麼
 <lb n="0028c21" ed="T"/>生。僧云。某甲不恁麼道。州云。盞子落地。楪
-<lb n="0028c22" ed="T"/>子成八片。僧云。如何是揑聚。州<choice><corr>斂</corr><sic>歛</sic></choice>手而坐。師
+<lb n="0028c22" ed="T"/>子成八片。僧云。如何是揑聚。州<note n="0028c2201" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0028c2201"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>手而坐。師
 <lb n="0028c23" ed="T"/>云。睦州用處。直是長三短五。七縱八橫。<note n="0028002" resp="Taisho" place="foot text" type="orig">攃＝撒ィ【原】</note><note n="0028002" resp="CBETA" type="mod">攃【大】，撒【校異-原】</note><app n="0028002"><lem wit="【大】">攃</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">撒</rdg></app>
 <lb n="0028c24" ed="T"/>在面前。拋向腦後。不妨奇特。然則門庭施設。
 <lb n="0028c25" ed="T"/>自是一家。入理深談。不翅百步。</p>
@@ -2931,7 +2931,7 @@ Added comment  for Emacs
 <lb n="0031a03" ed="T"/>揚。如今要把手共行。直須恁麼始解不恁麼。
 <lb n="0031a04" ed="T"/>然後沒交涉。還相委悉麼。少年曾決龍蛇陣。
 <lb n="0031a05" ed="T"/>老倒還同稚子歌。</p>
-<lb n="0031a06" ed="T"/><p xml:id="pT48p0031a0601">舉芭蕉<choice><corr>示</corr><sic>云</sic></choice>眾云。爾有拄杖子。我與爾拄杖子。
+<lb n="0031a06" ed="T"/><p xml:id="pT48p0031a0601">舉芭蕉<note n="0031a0601" resp="CBETA" type="add">示【CB】，云【大】</note><app n="0031a0601"><lem wit="【CB】" resp="CBETA">示</lem><rdg wit="【大】">云</rdg></app>眾云。爾有拄杖子。我與爾拄杖子。
 <lb n="0031a07" ed="T"/>爾無拄杖子。我奪却爾拄杖子。師云。爾有則
 <lb n="0031a08" ed="T"/>一切有。爾無則一切無。有無自是當人。與奪
 <lb n="0031a09" ed="T"/>關芭蕉甚事。正恁麼時。作麼生是爾拄杖
@@ -3062,7 +3062,7 @@ Added comment  for Emacs
 <lb n="0032b14" ed="T"/>漢。還識得麼。臂長衫袖短。脚瘦草鞋寬。</p>
 <lb n="0032b15" ed="T"/><p xml:id="pT48p0032b1501">舉<note n="0032002" resp="Taisho" place="foot text" type="orig">南＝西ィ【甲】</note><note n="0032002" resp="CBETA" type="mod">南【大】，西【校異-甲】</note><app n="0032002"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">西</rdg></app>園一日自燒浴。僧問。和尚何不使沙彌
 <lb n="0032b16" ed="T"/>童行。園撫掌三下。僧舉似曹山。山云。一等是
-<lb n="0032b17" ed="T"/>箇撫掌拍手。就中南園奇怪。俱<choice><corr>胝</corr><sic>𦙆</sic></choice>一指頭禪。
+<lb n="0032b17" ed="T"/>箇撫掌拍手。就中南園奇怪。俱<note n="0032b1701" resp="CBETA" type="add">胝【CB】，𦙆【大】</note><app n="0032b1701"><lem wit="【CB】" resp="CBETA">胝</lem><rdg wit="【大】">𦙆</rdg></app>一指頭禪。
 <lb n="0032b18" ed="T"/>蓋為承當處不諦。僧却問。南園撫掌。豈不是
 <lb n="0032b19" ed="T"/>奴兒婢子邊事。山云是。僧云。向上更有事也
 <lb n="0032b20" ed="T"/>無。山云有。僧云。如何是向上事。山咄云。這
@@ -3145,7 +3145,7 @@ Added comment  for Emacs
 <lb n="0033b07" ed="T"/>不見。患聾者。語言三昧。他又不聞。患瘂者。
 <lb n="0033b08" ed="T"/>教伊說又說不得。若接此人不得。佛法無靈
 <lb n="0033b09" ed="T"/>驗。有僧請益雲門。門云。爾禮拜著。僧禮拜。
-<lb n="0033b10" ed="T"/>門以拄杖<note n="0033003" resp="Taisho" place="foot text" type="orig">桎＝挃ィ【原】</note><note n="0033003" resp="CBETA" type="mod">桎【大】，挃【校異-原】</note><app n="0033003"><lem wit="【大】">桎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">挃</rdg></app>。僧退後<note n="0033004" resp="Taisho" place="foot text" type="orig">（門）ィ＋云【甲】</note><note n="0033004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（門）ィ＋云【甲】</note><app n="0033004"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">門云</rdg></app>。汝不是患盲。復喚
+<lb n="0033b10" ed="T"/>門以拄杖<note n="0033003" resp="Taisho" place="foot text" type="orig">桎＝挃ィ【原】</note><note n="0033003" resp="CBETA" type="mod">桎【大】，挃【校異-原】</note><app n="0033003"><lem wit="【大】">桎</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">挃</rdg></app>。僧退後<note n="0033004" resp="Taisho" place="foot text" type="orig">（門）ィ＋云【甲】</note><note n="0033004" resp="CBETA" type="mod">云【大】，門云【校異-甲】</note><app n="0033004"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">門云</rdg></app>。汝不是患盲。復喚
 <lb n="0033b11" ed="T"/>近前來。僧近前。門云。汝不是患聾。乃云會
 <lb n="0033b12" ed="T"/>麼。僧云不會。門云。汝不是患瘂。其僧於此有
 <lb n="0033b13" ed="T"/>省。師云。雲門平展。這僧實酬。且道。悟在什
@@ -3234,10 +3234,10 @@ Added comment  for Emacs
 <lb n="0034b06" ed="T"/><p xml:id="pT48p0034b0601">舉古德云。長者長法身。短者短法身。師云且
 <lb n="0034b07" ed="T"/>道。舜若多神。喚什麼作法身。良久云。還會
 <lb n="0034b08" ed="T"/>麼。不可續鳧截鶴。夷岳盈壑去也。</p>
-<lb n="0034b09" ed="T"/><p xml:id="pT48p0034b0901">舉布袋和尚頌云。彌勒真彌勒師<note n="0034001" resp="Taisho" place="foot text" type="orig">（著語）ィ＋云【甲】＊</note><note n="0034001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（著語）ィ＋云【甲】＊</note><app n="0034001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">著語云</rdg></app>。拶破面
+<lb n="0034b09" ed="T"/><p xml:id="pT48p0034b0901">舉布袋和尚頌云。彌勒真彌勒師<note n="0034001" resp="Taisho" place="foot text" type="orig">（著語）ィ＋云【甲】＊</note><note n="0034001" resp="CBETA" type="mod">云【大】＊，著語云【校異-甲】＊</note><app n="0034001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">著語云</rdg></app>。拶破面
 <lb n="0034b10" ed="T"/>門。分身千百億。師<app type="star" corresp="#0034001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">著語云</rdg></app>。築著鼻孔。時時示時
 <lb n="0034b11" ed="T"/>人。師<app type="star" corresp="#0034001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">著語云</rdg></app>。高著眼。時人皆不識。師<app type="star" corresp="#0034001"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">著語云</rdg></app>。當面
-<lb n="0034b12" ed="T"/>諱却。師復<note n="0034002" resp="Taisho" place="foot text" type="orig">（拈）ィ＋云【甲】</note><note n="0034002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（拈）ィ＋云【甲】</note><app n="0034002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">拈云</rdg></app>。憨<note n="0034003" resp="Taisho" place="foot text" type="orig">皮＝布ィ【甲】</note><note n="0034003" resp="CBETA" type="mod">皮【大】，布【校異-甲】</note><app n="0034003"><lem wit="【大】">皮</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">布</rdg></app>袋欄街截巷。直是無迴
+<lb n="0034b12" ed="T"/>諱却。師復<note n="0034002" resp="Taisho" place="foot text" type="orig">（拈）ィ＋云【甲】</note><note n="0034002" resp="CBETA" type="mod">云【大】，拈云【校異-甲】</note><app n="0034002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">拈云</rdg></app>。憨<note n="0034003" resp="Taisho" place="foot text" type="orig">皮＝布ィ【甲】</note><note n="0034003" resp="CBETA" type="mod">皮【大】，布【校異-甲】</note><app n="0034003"><lem wit="【大】">皮</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">布</rdg></app>袋欄街截巷。直是無迴
 <lb n="0034b13" ed="T"/>避處。還辨得麼。腦後見腮莫與往來。</p>
 <lb n="0034b14" ed="T"/><p xml:id="pT48p0034b1401">舉趙州云。至道無難。唯嫌揀擇。纔有語言。是
 <lb n="0034b15" ed="T"/>揀擇。是明白。老僧不在明白裏。是汝還護惜
@@ -3256,7 +3256,7 @@ Added comment  for Emacs
 <lb n="0034b28" ed="T"/><p xml:id="pT48p0034b2801">舉南泉因至莊。偶莊主預備迎奉泉云。老僧
 <lb n="0034b29" ed="T"/>居常出入不與他知。何夙排辨至於如此。主
 <pb n="0034c" xml:id="T48.2001.0034c" ed="T"/>
-<lb n="0034c01" ed="T"/>云。昨夜土地神報。<note n="0034004" resp="Taisho" place="foot text" type="orig">（泉云王老師修行無力被鬼神覷見）ィ＋侍【甲】</note><note n="0034004" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（泉云王老師修行無力被鬼神覷見）ィ＋侍【甲】</note><app n="0034004"><lem wit="【大】">侍</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">泉云王老師修行無力被鬼神覷見侍</rdg></app>者便問。既是大善知
+<lb n="0034c01" ed="T"/>云。昨夜土地神報。<note n="0034004" resp="Taisho" place="foot text" type="orig">（泉云王老師修行無力被鬼神覷見）ィ＋侍【甲】</note><note n="0034004" resp="CBETA" type="mod">侍【大】，泉云王老師修行無力被鬼神覷見侍【校異-甲】</note><app n="0034004"><lem wit="【大】">侍</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">泉云王老師修行無力被鬼神覷見侍</rdg></app>者便問。既是大善知
 <lb n="0034c02" ed="T"/>識為甚却被鬼神覷見。泉云。土地前更添一
 <lb n="0034c03" ed="T"/>分供養著。師云。長蘆則不然。若見這莊主恁
 <lb n="0034c04" ed="T"/>麼道。便與捉住云。放爾不得。何故如此。不見
@@ -3396,7 +3396,7 @@ Added comment  for Emacs
 <lb n="0036a17" ed="T"/>相拄去也。師云。更須知有同身共命底時節。
 <lb n="0036a18" ed="T"/>僧云。作麼是同身共命時節。師云。刀斧斫不
 <lb n="0036a19" ed="T"/>開。</p>
-<lb n="0036a20" ed="T"/><p xml:id="pT48p0036a2001">師<note n="0036001" resp="Taisho" place="foot text" type="orig">（乃）ヵ＋云【原】</note><note n="0036001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（乃）ヵ＋云【原】</note><app n="0036001"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">乃云</rdg></app>。好諸禪德。玉林浸月。丹山鶵頡頑翔
+<lb n="0036a20" ed="T"/><p xml:id="pT48p0036a2001">師<note n="0036001" resp="Taisho" place="foot text" type="orig">（乃）ヵ＋云【原】</note><note n="0036001" resp="CBETA" type="mod">云【大】，乃云【考偽-原】</note><app n="0036001"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">乃云</rdg></app>。好諸禪德。玉林浸月。丹山鶵頡頑翔
 <lb n="0036a21" ed="T"/>鳴。雪葦浮秋。白沙雁相隨綴字。暗中度線。妙
 <lb n="0036a22" ed="T"/>處投鍼。發明心地也。共是一燈。洞照靈臺也。
 <lb n="0036a23" ed="T"/>更無異影。青山父從來卓卓。白雲兒到處飄
@@ -3493,7 +3493,7 @@ Added comment  for Emacs
 <lb n="0037a24" ed="T"/>依。師云。到岸時作麼生。進云。帆飽清風。棹
 <lb n="0037a25" ed="T"/>穿明月。師云。又是隨波逐浪去也。進云。日出
 <lb n="0037a26" ed="T"/>後如何。山云。猶較曹山半月程。又作麼生。
-<lb n="0037a27" ed="T"/><note n="0037002" resp="Taisho" place="foot text" type="orig">（師）ィ＋云【原】</note><note n="0037002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（師）ィ＋云【原】</note><app n="0037002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">師云</rdg></app>。明白纔分。生化路箇中消息便成功。進
+<lb n="0037a27" ed="T"/><note n="0037002" resp="Taisho" place="foot text" type="orig">（師）ィ＋云【原】</note><note n="0037002" resp="CBETA" type="mod">云【大】，師云【校異-原】</note><app n="0037002"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">師云</rdg></app>。明白纔分。生化路箇中消息便成功。進
 <lb n="0037a28" ed="T"/>云。兒孫得力室內不知。師云。只如室內底人。
 <lb n="0037a29" ed="T"/>如何親近。進云。虛明自照。不勞心力。師云。
 <pb n="0037b" xml:id="T48.2001.0037b" ed="T"/>
@@ -3668,7 +3668,7 @@ Added comment  for Emacs
 <lb n="0039a19" ed="T"/>云。恁麼則六戶不掩。四衢無蹤。師云。眼耳不
 <lb n="0039a20" ed="T"/>將來。隨宜得受用。進云。觀音買胡餅。放手是
 <lb n="0039a21" ed="T"/>饅頭。師云。儞分上又作麼生。進云。從教塞壑
-<lb n="0039a22" ed="T"/>填溝。<note n="0039002" resp="Taisho" place="foot text" type="orig">（不到）ィ＋和【原】</note><note n="0039002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（不到）ィ＋和【原】</note><app n="0039002"><lem wit="【大】">和</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">不到和</rdg></app>泥合水。師云。胡三黑四不相知。師
+<lb n="0039a22" ed="T"/>填溝。<note n="0039002" resp="Taisho" place="foot text" type="orig">（不到）ィ＋和【原】</note><note n="0039002" resp="CBETA" type="mod">和【大】，不到和【校異-原】</note><app n="0039002"><lem wit="【大】">和</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">不到和</rdg></app>泥合水。師云。胡三黑四不相知。師
 <lb n="0039a23" ed="T"/>乃云。一切色不為眼礙。文殊門中發機。一切
 <lb n="0039a24" ed="T"/>聲不為耳塵。觀音門中透徹。一切用不為身
 <lb n="0039a25" ed="T"/>拘。一切應不為事背。便於普賢門中出沒。奪
@@ -3730,7 +3730,7 @@ Added comment  for Emacs
 <lb n="0039c21" ed="T"/>星圖拱北辰。活計四時調玉燭。家風萬世運
 <lb n="0039c22" ed="T"/>金輪。區分群象布淳化。囊括二儀懷至仁。算
 <lb n="0039c23" ed="T"/>數不能窮壽量。南山蒼翠鎮長春。</p>
-<lb n="0039c24" ed="T"/><p xml:id="pT48p0039c2401">上堂云。人平不語。水平不流。風定華<note n="0039007" resp="Taisho" place="foot text" type="orig">（猶）ィ＋落【原】</note><note n="0039007" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（猶）ィ＋落【原】</note><app n="0039007"><lem wit="【大】">落</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">猶落</rdg></app>。鳥
+<lb n="0039c24" ed="T"/><p xml:id="pT48p0039c2401">上堂云。人平不語。水平不流。風定華<note n="0039007" resp="Taisho" place="foot text" type="orig">（猶）ィ＋落【原】</note><note n="0039007" resp="CBETA" type="mod">落【大】，猶落【校異-原】</note><app n="0039007"><lem wit="【大】">落</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">猶落</rdg></app>。鳥
 <lb n="0039c25" ed="T"/>啼山更幽。只麼天真無少剩。莫於裏許著絲
 <lb n="0039c26" ed="T"/>頭。</p>
 <lb n="0039c27" ed="T"/><p xml:id="pT48p0039c2701">上堂僧問。清虛之理。畢竟無身時如何。師云。
@@ -3768,7 +3768,7 @@ Added comment  for Emacs
 <lb n="0040a29" ed="T"/>妙門。鼻孔放光出氣快。當年一斵盡泥痕。只
 <pb n="0040b" xml:id="T48.2001.0040b" ed="T"/>
 <lb n="0040b01" ed="T"/>如師資相契血脈流通。恁麼時節恁麼處。所
-<lb n="0040b02" ed="T"/>傳心<note n="0040003" resp="Taisho" place="foot text" type="orig">（授）ィ＋手【甲】</note><note n="0040003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（授）ィ＋手【甲】</note><app n="0040003"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">授手</rdg></app>底事。作麼生體悉。良久云。脫略要
+<lb n="0040b02" ed="T"/>傳心<note n="0040003" resp="Taisho" place="foot text" type="orig">（授）ィ＋手【甲】</note><note n="0040003" resp="CBETA" type="mod">手【大】，授手【校異-甲】</note><app n="0040003"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">授手</rdg></app>底事。作麼生體悉。良久云。脫略要
 <lb n="0040b03" ed="T"/>看功後位。妙圓須到色前家。</p>
 <lb n="0040b04" ed="T"/><p xml:id="pT48p0040b0401">上堂云。一月雨半夏涼。莆團禪板坐相當。泥
 <lb n="0040b05" ed="T"/>牛踏破澄潭月。光影<note n="0040004" resp="Taisho" place="foot text" type="orig">芒芒＝茫茫ィ【原】</note><note n="0040004" resp="CBETA" type="mod">芒芒【大】，茫茫【校異-原】</note><app n="0040004"><lem wit="【大】">芒芒</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">茫茫</rdg></app>夜未央。</p>
@@ -3793,7 +3793,7 @@ Added comment  for Emacs
 <lb n="0040b24" ed="T"/><p xml:id="pT48p0040b2401">上堂云<note n="0040007" resp="Taisho" place="foot text" type="orig">真＝直ィ【原】</note><note n="0040007" resp="CBETA" type="mod">真【大】，直【校異-原】</note><app n="0040007"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">直</rdg></app>到劫空明自己。有無不墮超生死。
 <lb n="0040b25" ed="T"/>夜船載月釣滄浪。清白傳家只如此。</p>
 <lb n="0040b26" ed="T"/><p xml:id="pT48p0040b2601">解夏日上堂云。以法為界。也能廓徹而絕方
-<lb n="0040b27" ed="T"/>隅。以智為身。也能<note n="0040008" resp="Taisho" place="foot text" type="orig">（混）ィ＋融【原】</note><note n="0040008" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（混）ィ＋融【原】</note><app n="0040008"><lem wit="【大】">融</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">混融</rdg></app>而忘彼此。蒲團下根
+<lb n="0040b27" ed="T"/>隅。以智為身。也能<note n="0040008" resp="Taisho" place="foot text" type="orig">（混）ィ＋融【原】</note><note n="0040008" resp="CBETA" type="mod">融【大】，混融【校異-原】</note><app n="0040008"><lem wit="【大】">融</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">混融</rdg></app>而忘彼此。蒲團下根
 <lb n="0040b28" ed="T"/>生底。及盡一絲頭。則住無住心。拄杖頭雲起
 <lb n="0040b29" ed="T"/>底。行遍四天下。則作無作相。如雲似鶴。恁麼
 <pb n="0040c" xml:id="T48.2001.0040c" ed="T"/>
@@ -3802,7 +3802,7 @@ Added comment  for Emacs
 <lb n="0040c03" ed="T"/>所以古人道。借功明位用在體處。借位明功。
 <lb n="0040c04" ed="T"/>體在用處。衲僧能恁麼也。身心獨脫。動靜
 <lb n="0040c05" ed="T"/><note n="0040009" resp="Taisho" place="foot text" type="orig">兩＝双ィ【甲】</note><note n="0040009" resp="CBETA" type="mod">兩【大】，双【校異-甲】</note><app n="0040009"><lem wit="【大】">兩</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">双</rdg></app>忘。雲水是闍黎。闍黎是雲水。諸人還曾
-<lb n="0040c06" ed="T"/>恁麼履踐麼。飲水鵝能取<note n="0040010" resp="Taisho" place="foot text" type="orig">淳＝滋ィ【原】</note><note n="0040010" resp="CBETA" type="mod">淳【大】，滋【校異-原】</note><app n="0040010"><lem wit="【大】">淳</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">滋</rdg></app>味。<choice><corr>采</corr><sic>釆</sic></choice>華蜂不損
+<lb n="0040c06" ed="T"/>恁麼履踐麼。飲水鵝能取<note n="0040010" resp="Taisho" place="foot text" type="orig">淳＝滋ィ【原】</note><note n="0040010" resp="CBETA" type="mod">淳【大】，滋【校異-原】</note><app n="0040010"><lem wit="【大】">淳</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">滋</rdg></app>味。<note n="0040c0601" resp="CBETA" type="add">采【CB】，釆【大】</note><app n="0040c0601"><lem wit="【CB】" resp="CBETA">采</lem><rdg wit="【大】">釆</rdg></app>華蜂不損
 <lb n="0040c07" ed="T"/>餘香。</p>
 <lb n="0040c08" ed="T"/><p xml:id="pT48p0040c0801">上堂舉僧問雲門。初秋夏末。前頭忽有人問。
 <lb n="0040c09" ed="T"/>作麼生祇對。門云。大眾退後。師云。大眾退後
@@ -3888,7 +3888,7 @@ Added comment  for Emacs
 <lb n="0041b29" ed="T"/>峯道。紹是功紹了非其功。且道。作麼生履踐。
 <pb n="0041c" xml:id="T48.2001.0041c" ed="T"/>
 <lb n="0041c01" ed="T"/>良久云。麁中辨細猶可知。細中之細復何稀。</p>
-<lb n="0041c02" ed="T"/><p xml:id="pT48p0041c0201">上堂僧問。雲<choice><corr>斂</corr><sic>歛</sic></choice>山寒。功勳及盡。潭空月沒。尊
+<lb n="0041c02" ed="T"/><p xml:id="pT48p0041c0201">上堂僧問。雲<note n="0041c0201" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0041c0201"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>山寒。功勳及盡。潭空月沒。尊
 <lb n="0041c03" ed="T"/>貴難窺。正恁麼時如何行履。師云。照盡體無
 <lb n="0041c04" ed="T"/>依。通身合大道。僧云。坐斷舌頭路。不落二三
 <lb n="0041c05" ed="T"/>機。師云。言前一句子。的歷極分明。僧云。寶
@@ -3923,7 +3923,7 @@ Added comment  for Emacs
 <lb n="0042a04" ed="T"/>空。衲僧做處當如此。四方八面俱玲瓏參。</p>
 <lb n="0042a05" ed="T"/><p xml:id="pT48p0042a0501">上堂舉僧問趙州。如何是祖師西來意。州云。
 <lb n="0042a06" ed="T"/>年盡不燒錢。師云。天童今日。不免為諸人劈
-<lb n="0042a07" ed="T"/>折去也老老大<choice><corr>大</corr><sic>犬</sic></choice>宗師。出語元無碑記。却云
+<lb n="0042a07" ed="T"/>折去也老老大<note n="0042a0701" resp="CBETA" type="add">大【CB】，犬【大】</note><app n="0042a0701"><lem wit="【CB】" resp="CBETA">大</lem><rdg wit="【大】">犬</rdg></app>宗師。出語元無碑記。却云
 <lb n="0042a08" ed="T"/>年盡不燒錢。討甚祖師西來意。磨洗絕瑕疵。
 <lb n="0042a09" ed="T"/>咀嚼勿滋味。冷地看來伎倆無。趙州古佛較
 <lb n="0042a10" ed="T"/>些子。作麼生是趙州較些子處。豈不見道。不
@@ -4033,7 +4033,7 @@ Added comment  for Emacs
 <lb n="0043a24" ed="T"/>提圓。華開世界起。</p>
 <lb n="0043a25" ed="T"/><p xml:id="pT48p0043a2501">上堂。好諸禪德靈雲見桃華悟道。正是如今
 <lb n="0043a26" ed="T"/>底時節。諸人各是丈夫漢。還有覷得破底眼
-<lb n="0043a27" ed="T"/>麼。<note n="0043002" resp="Taisho" place="foot text" type="orig">（有）ィ＋明【甲】</note><note n="0043002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（有）ィ＋明【甲】</note><app n="0043002"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">有明</rdg></app>得了底心麼。如或未然。天童為爾下
+<lb n="0043a27" ed="T"/>麼。<note n="0043002" resp="Taisho" place="foot text" type="orig">（有）ィ＋明【甲】</note><note n="0043002" resp="CBETA" type="mod">明【大】，有明【校異-甲】</note><app n="0043002"><lem wit="【大】">明</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">有明</rdg></app>得了底心麼。如或未然。天童為爾下
 <lb n="0043a28" ed="T"/>注脚去也。靈雲却解見桃華。老眼如今冷淡。
 <lb n="0043a29" ed="T"/>些拈却面前案山子。柱門路直不橫斜。</p>
 <pb n="0043b" xml:id="T48.2001.0043b" ed="T"/>
@@ -4057,7 +4057,7 @@ Added comment  for Emacs
 <lb n="0043b18" ed="T"/>者圓。作麼生說箇是法平等底道理。諸人一
 <lb n="0043b19" ed="T"/>切時如何行履。得真箇無高下去。其或未然。
 <lb n="0043b20" ed="T"/>強為錐剳去也。人平不語。水平不流。嘉州大
-<lb n="0043b21" ed="T"/>象<choice><corr>陝</corr><sic>陜</sic></choice>府鐵牛。莫怪扶桑最先照。大都家住海
+<lb n="0043b21" ed="T"/>象<note n="0043b2101" resp="CBETA" type="add">陝【CB】，陜【大】</note><app n="0043b2101"><lem wit="【CB】" resp="CBETA">陝</lem><rdg wit="【大】">陜</rdg></app>府鐵牛。莫怪扶桑最先照。大都家住海
 <lb n="0043b22" ed="T"/>門洲。</p>
 <lb n="0043b23" ed="T"/><p xml:id="pT48p0043b2301">上堂影含宗鑑。心生則種種法生。步入道場。
 <lb n="0043b24" ed="T"/>心滅則種種法滅。粲粲星羅霽夜。英英華吐
@@ -4208,7 +4208,7 @@ Added comment  for Emacs
 <lb n="0045a19" ed="T"/>箇人大自在受用處也麼。機動金輪初轉處。
 <lb n="0045a20" ed="T"/>樞纏彩電誕生時。</p>
 <lb n="0045a21" ed="T"/><p xml:id="pT48p0045a2101">上堂舉。僧問智門和尚。如何是佛。門云。踏破
-<lb n="0045a22" ed="T"/>草鞋赤脚走。<note n="0045001" resp="Taisho" place="foot text" type="orig">（僧云）ィ＋如【原】</note><note n="0045001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（僧云）ィ＋如【原】</note><app n="0045001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">僧云如</rdg></app>何是佛向上事。門云。拄杖
+<lb n="0045a22" ed="T"/>草鞋赤脚走。<note n="0045001" resp="Taisho" place="foot text" type="orig">（僧云）ィ＋如【原】</note><note n="0045001" resp="CBETA" type="mod">如【大】，僧云如【校異-原】</note><app n="0045001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">僧云如</rdg></app>何是佛向上事。門云。拄杖
 <lb n="0045a23" ed="T"/>頭上挑日月。師云。踏破草鞋赤脚走。拄杖頭
 <lb n="0045a24" ed="T"/>上挑日月。智門<note n="0045002" resp="Taisho" place="foot text" type="orig">真＝直ィ【原】</note><note n="0045002" resp="CBETA" type="mod">真【大】，直【校異-原】</note><app n="0045002"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">直</rdg></app>得祖家風。放出雲門廣長
 <lb n="0045a25" ed="T"/>舌。大智如愚。大<note n="0045003" resp="Taisho" place="foot text" type="orig">功＝巧ヵ【原】</note><note n="0045003" resp="CBETA" type="mod">功【大】，巧【考偽-原】</note><app n="0045003"><lem resp="Taisho" wit="【大】">功</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">巧</rdg></app>若拙。用盡工夫參不徹。
@@ -4245,7 +4245,7 @@ Added comment  for Emacs
 <lb n="0045b26" ed="T"/>兮相求龜殼。纔落是非兮底事驢年。</p>
 <lb n="0045b27" ed="T"/><p xml:id="pT48p0045b2701">上堂獨立卓卓。不為形殼之所拘。周行綿綿。
 <lb n="0045b28" ed="T"/>不為方隅之所礙。妙超物表。明<note n="0045005" resp="Taisho" place="foot text" type="orig">漏＝滿ィ【甲】</note><note n="0045005" resp="CBETA" type="mod">漏【大】，滿【校異-甲】</note><app n="0045005"><lem wit="【大】">漏</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">滿</rdg></app>壺中。白
-<lb n="0045b29" ed="T"/>雲之兒。風<choice><corr>斂</corr><sic>歛</sic></choice>寒空霽淨。青山之父。煙含一
+<lb n="0045b29" ed="T"/>雲之兒。風<note n="0045b2901" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0045b2901"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>寒空霽淨。青山之父。煙含一
 <pb n="0045c" xml:id="T48.2001.0045c" ed="T"/>
 <lb n="0045c01" ed="T"/>帶秋癯。且道。作麼生得恁麼相應去還會麼。
 <lb n="0045c02" ed="T"/>夜明簾外主。不落偏正方。</p>
@@ -4292,7 +4292,7 @@ Added comment  for Emacs
 <lb n="0046a13" ed="T"/>常相共。寒露濡松夜氣清。皐禽驚起月巢夢。</p>
 <lb n="0046a14" ed="T"/><p xml:id="pT48p0046a1401">上堂位處功回。化佛入十方而普能受供。用
 <lb n="0046a15" ed="T"/>中體合。至人游三界。而初不現身。如雲出岫
-<lb n="0046a16" ed="T"/>以無心。似月印江而有應。<note n="0046001" resp="Taisho" place="foot text" type="orig">（能）ィ＋如【甲】</note><note n="0046001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（能）ィ＋如【甲】</note><app n="0046001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">能如</rdg></app>是也。不在不
+<lb n="0046a16" ed="T"/>以無心。似月印江而有應。<note n="0046001" resp="Taisho" place="foot text" type="orig">（能）ィ＋如【甲】</note><note n="0046001" resp="CBETA" type="mod">如【大】，能如【校異-甲】</note><app n="0046001"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">能如</rdg></app>是也。不在不
 <lb n="0046a17" ed="T"/>失。不壞不雜。所以教中道。一華一佛國。一葉
 <lb n="0046a18" ed="T"/>一釋迦。各坐菩提場。一時成佛道。諸禪德。還
 <lb n="0046a19" ed="T"/>知根根塵塵在在處處。盡是釋迦老子受用
@@ -4312,7 +4312,7 @@ Added comment  for Emacs
 <lb n="0046b03" ed="T"/>也。長慶能守。保福能做。雪竇手段縱橫。天童
 <lb n="0046b04" ed="T"/>舌頭狤獠。若也分曉會去。與爾把手共行。其
 <lb n="0046b05" ed="T"/>或未然。各自勉力。</p>
-<lb n="0046b06" ed="T"/><p xml:id="pT48p0046b0601">上堂文<choice><corr>殊</corr><sic>珠</sic></choice>手摩善財頂。普賢智滿法界身。箇
+<lb n="0046b06" ed="T"/><p xml:id="pT48p0046b0601">上堂文<note n="0046b0601" resp="CBETA" type="add">殊【CB】，珠【大】</note><app n="0046b0601"><lem wit="【CB】" resp="CBETA">殊</lem><rdg wit="【大】">珠</rdg></app>手摩善財頂。普賢智滿法界身。箇
 <lb n="0046b07" ed="T"/>是兩頭得用底。只如中間往來。又作麼生。金
 <lb n="0046b08" ed="T"/>鷄啄破瑠璃卵。玉兔挨開碧落門。諸禪德。一
 <lb n="0046b09" ed="T"/>句子有折合無摸索。一句子難回互沒忌諱。
@@ -4338,7 +4338,7 @@ Added comment  for Emacs
 <lb n="0046b29" ed="T"/><p xml:id="pT48p0046b2901">上堂舉。道吾與漸源。同往一家弔<note n="0046002" resp="Taisho" place="foot text" type="orig">尉＝慰ィ【原】</note><note n="0046002" resp="CBETA" type="mod">尉【大】，慰【校異-原】</note><app n="0046002"><lem wit="【大】">尉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">慰</rdg></app>。源拍
 <pb n="0046c" xml:id="T48.2001.0046c" ed="T"/>
 <lb n="0046c01" ed="T"/>棺云。生耶死耶。吾云。生也不道。死也不道。
-<lb n="0046c02" ed="T"/><note n="0046003" resp="Taisho" place="foot text" type="orig">（師云生也不道死也不道）ィ＋見【原】</note><note n="0046003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（師云生也不道死也不道）ィ＋見【原】</note><app n="0046003"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">師云生也不道死也不道見</rdg></app>之不取。思之難到。用息而長靈。體虛而
+<lb n="0046c02" ed="T"/><note n="0046003" resp="Taisho" place="foot text" type="orig">（師云生也不道死也不道）ィ＋見【原】</note><note n="0046003" resp="CBETA" type="mod">見【大】，師云生也不道死也不道見【校異-原】</note><app n="0046003"><lem wit="【大】">見</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">師云生也不道死也不道見</rdg></app>之不取。思之難到。用息而長靈。體虛而
 <lb n="0046c03" ed="T"/>自妙。寥寥古路無人行。雪洗青山覺寒早。</p>
 <lb n="0046c04" ed="T"/><p xml:id="pT48p0046c0401">上堂妙圓一片中虛。不我斷其知。掃盡諸緣
 <lb n="0046c05" ed="T"/>外化。不我分其用。底時內紹。紹了非功。轉處
@@ -4420,7 +4420,7 @@ Added comment  for Emacs
 <lb n="0047b21" ed="T"/>借得為他用。法界渾侖是我身。不受雜毒。自
 <lb n="0047b22" ed="T"/>然純真。拈却千差亡彼此。打成一片沒根塵。</p>
 <lb n="0047b23" ed="T"/><p xml:id="pT48p0047b2301">上堂舉灌溪問末山。如何是末山。山云。不露
-<lb n="0047b24" ed="T"/>頂。<note n="0047003" resp="Taisho" place="foot text" type="orig">（溪云）ヵ＋如【原】</note><note n="0047003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（溪云）ヵ＋如【原】</note><app n="0047003"><lem resp="Taisho" wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">溪云如</rdg></app>何是末山主。山云。非男女等相。溪喝
+<lb n="0047b24" ed="T"/>頂。<note n="0047003" resp="Taisho" place="foot text" type="orig">（溪云）ヵ＋如【原】</note><note n="0047003" resp="CBETA" type="mod">如【大】，溪云如【考偽-原】</note><app n="0047003"><lem resp="Taisho" wit="【大】">如</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">溪云如</rdg></app>何是末山主。山云。非男女等相。溪喝
 <lb n="0047b25" ed="T"/>云。何不變去。山云。不是神不是鬼。變箇甚
 <lb n="0047b26" ed="T"/>麼。師云。非男女之相。出有無之量。透萬機之
 <lb n="0047b27" ed="T"/>前。超三界之上。窮而通。簡而當。松含月兮夜
@@ -4500,7 +4500,7 @@ Added comment  for Emacs
 <lb n="0048b11" ed="T"/>性空。</p>
 <lb n="0048b12" ed="T"/><p xml:id="pT48p0048b1201">上堂妙湛不痕。明白自耀。合體也不空而有。
 <lb n="0048b13" ed="T"/>順事也不礙而通。無為而為。非住而住。雲無
-<lb n="0048b14" ed="T"/>心而<note n="0048003" resp="Taisho" place="foot text" type="orig">（自）ィ＋雨【甲】</note><note n="0048003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（自）ィ＋雨【甲】</note><app n="0048003"><lem wit="【大】">雨</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">自雨</rdg></app>。谷有神而自空。衲僧家。能恁麼現
+<lb n="0048b14" ed="T"/>心而<note n="0048003" resp="Taisho" place="foot text" type="orig">（自）ィ＋雨【甲】</note><note n="0048003" resp="CBETA" type="mod">雨【大】，自雨【校異-甲】</note><app n="0048003"><lem wit="【大】">雨</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">自雨</rdg></app>。谷有神而自空。衲僧家。能恁麼現
 <lb n="0048b15" ed="T"/>成。能恁麼<note n="0048004" resp="Taisho" place="foot text" type="orig">變轉＝轉變ィ【原】</note><note n="0048004" resp="CBETA" type="mod">變轉【大】，轉變【校異-原】</note><app n="0048004"><lem wit="【大】">變轉</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">轉變</rdg></app>。能恁麼受用。能恁麼方圓。
 <lb n="0048b16" ed="T"/>始得一切處應用無虧。還相委悉麼。森羅萬
 <lb n="0048b17" ed="T"/>像一法印。裏許更無差別痕。</p>
@@ -4553,7 +4553,7 @@ Added comment  for Emacs
 <lb n="0049a04" ed="T"/><p xml:id="pT48p0049a0401">上堂舉劉端公問雲居。雨從何來。居云。從端
 <lb n="0049a05" ed="T"/>公問處來。師云。端公問處來。徑直勿迃回。善
 <lb n="0049a06" ed="T"/>財處處逢彌勒。彈指作聲樓閣開。</p>
-<lb n="0049a07" ed="T"/><p xml:id="pT48p0049a0701">上堂看看氷鑑淨玉<choice><corr>壺</corr><sic>壼</sic></choice>寒。一亙清<note n="0049001" resp="Taisho" place="foot text" type="orig">處＝虛ヵ【原】</note><note n="0049001" resp="CBETA" type="mod">處【大】，虛【考偽-原】</note><app n="0049001"><lem resp="Taisho" wit="【大】">處</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">虛</rdg></app>擡脚易。
+<lb n="0049a07" ed="T"/><p xml:id="pT48p0049a0701">上堂看看氷鑑淨玉<note n="0049a0701" resp="CBETA" type="add">壺【CB】，壼【大】</note><app n="0049a0701"><lem wit="【CB】" resp="CBETA">壺</lem><rdg wit="【大】">壼</rdg></app>寒。一亙清<note n="0049001" resp="Taisho" place="foot text" type="orig">處＝虛ヵ【原】</note><note n="0049001" resp="CBETA" type="mod">處【大】，虛【考偽-原】</note><app n="0049001"><lem resp="Taisho" wit="【大】">處</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">虛</rdg></app>擡脚易。
 <lb n="0049a08" ed="T"/>十分明白轉身難。混身轉却舌頭短。轉却渾
 <lb n="0049a09" ed="T"/>身鼻孔寬參。</p>
 <lb n="0049a10" ed="T"/><p xml:id="pT48p0049a1001">上堂舉保福與長慶游山次。福以手指面前
@@ -4570,7 +4570,7 @@ Added comment  for Emacs
 <lb n="0049a21" ed="T"/>王父。真實穩密處。諸人還體悉得麼。權挂垢
 <lb n="0049a22" ed="T"/>衣云是佛。却裝珍御復名誰。</p>
 <lb n="0049a23" ed="T"/><p xml:id="pT48p0049a2301">上堂舉僧問香嚴。如何是道。嚴云。枯木裏龍
-<lb n="0049a24" ed="T"/>吟。如何是道中人。<note n="0049002" resp="Taisho" place="foot text" type="orig">（嚴云）ィ＋髑【原】</note><note n="0049002" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（嚴云）ィ＋髑【原】</note><app n="0049002"><lem wit="【大】">髑</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">嚴云髑</rdg></app>髏裏眼睛。師云。耳應
+<lb n="0049a24" ed="T"/>吟。如何是道中人。<note n="0049002" resp="Taisho" place="foot text" type="orig">（嚴云）ィ＋髑【原】</note><note n="0049002" resp="CBETA" type="mod">髑【大】，嚴云髑【校異-原】</note><app n="0049002"><lem wit="【大】">髑</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">嚴云髑</rdg></app>髏裏眼睛。師云。耳應
 <lb n="0049a25" ed="T"/>聲而無響。眼有照而亡緣。曠劫清規裏許圓。
 <lb n="0049a26" ed="T"/>生死死生不到處。雲磨秋色水連天。</p>
 <lb n="0049a27" ed="T"/><p xml:id="pT48p0049a2701">上堂寒林濡露。明月濯波。時節恁麼。衲僧如
@@ -4822,7 +4822,7 @@ Added comment  for Emacs
 <lb n="0052a03" ed="T"/>己之經。瓊林寸寸寶。旃檀片片馨。物物頭頭。
 <lb n="0052a04" ed="T"/>有平出底多許。心心法法無外來底一星。抹
 <lb n="0052a05" ed="T"/>抹撻撻憨皮袋。跛跛挈挈常不輕。無是無非
-<lb n="0052a06" ed="T"/>長默默。非凡非聖獨惺惺。如何游踐得<note n="0052001" resp="Taisho" place="foot text" type="orig">（恁）ヵ＋麼【原】</note><note n="0052001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（恁）ヵ＋麼【原】</note><app n="0052001"><lem resp="Taisho" wit="【大】">麼</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">恁麼</rdg></app>相
+<lb n="0052a06" ed="T"/>長默默。非凡非聖獨惺惺。如何游踐得<note n="0052001" resp="Taisho" place="foot text" type="orig">（恁）ヵ＋麼【原】</note><note n="0052001" resp="CBETA" type="mod">麼【大】，恁麼【考偽-原】</note><app n="0052001"><lem resp="Taisho" wit="【大】">麼</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">恁麼</rdg></app>相
 <lb n="0052a07" ed="T"/>應。蒲團坐倚無他事。永日寥寥謝太平。</p>
 <lb n="0052a08" ed="T"/><p xml:id="pT48p0052a0801">示眾舉僧問清平。如何是有漏。平云笊籬。如
 <lb n="0052a09" ed="T"/>何是無漏。平云木杓。如何是小乘。平云錢貫。
@@ -4939,7 +4939,7 @@ Added comment  for Emacs
 <pb n="0053b" xml:id="T48.2001.0053b" ed="T"/>
 <lb n="0053b01" ed="T"/>云。騎牛戴帽著鞋衫。解行不觸今時路。</p>
 <lb n="0053b02" ed="T"/><p xml:id="pT48p0053b0201">上堂劫前運步。世外橫身。真證不可以言傳。
-<lb n="0053b03" ed="T"/>妙契不可以意到。正恁麼時。虛淨<choice><corr>斂</corr><sic>歛</sic></choice>氛。白雲
+<lb n="0053b03" ed="T"/>妙契不可以意到。正恁麼時。虛淨<note n="0053b0301" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0053b0301"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>氛。白雲
 <lb n="0053b04" ed="T"/>向寒巖而斷。靈光破暗。明月隨夜舡而來。所
 <lb n="0053b05" ed="T"/>以道。當明中有暗。勿以暗相遇。當暗中有明。
 <lb n="0053b06" ed="T"/>勿以明相覩。且道。如何行履。偏正不曾離本
@@ -4967,7 +4967,7 @@ Added comment  for Emacs
 <lb n="0053b28" ed="T"/>住。我也恁麼住。作業相似貧相聚。十方無壁
 <lb n="0053b29" ed="T"/>四面無門。遮醜無衣。禦寒無絮。直下不居功。
 <pb n="0053c" xml:id="T48.2001.0053c" ed="T"/>
-<lb n="0053c01" ed="T"/>箇中看轉處。<choice><corr>采</corr><sic>釆</sic></choice>華蜂集不萌枝。臥月鳥棲無
+<lb n="0053c01" ed="T"/>箇中看轉處。<note n="0053c0101" resp="CBETA" type="add">采【CB】，釆【大】</note><app n="0053c0101"><lem wit="【CB】" resp="CBETA">采</lem><rdg wit="【大】">釆</rdg></app>華蜂集不萌枝。臥月鳥棲無
 <lb n="0053c02" ed="T"/>影樹。</p>
 <lb n="0053c03" ed="T"/><p xml:id="pT48p0053c0301">上堂。三寸舌兩片唇。無始時來賺殺人。解弄
 <lb n="0053c04" ed="T"/>不教圭角露。阿誰參見跛雲門。僧問香林。如
@@ -5009,7 +5009,7 @@ Added comment  for Emacs
 <lb n="0054a10" ed="T"/><p xml:id="pT48p0054a1001">四月八日上堂。清淨性空水。光明法界身。依
 <lb n="0054a11" ed="T"/>俙辨白處。便是誕生人。不洗體不洗塵。妙觸
 <lb n="0054a12" ed="T"/>宣明悟水因。借問。當年向去事。如何今日却
-<lb n="0054a13" ed="T"/>來親。二千年前此時<choice><corr>候</corr><sic>侯</sic></choice>。指天指地師子吼。雲
+<lb n="0054a13" ed="T"/>來親。二千年前此時<note n="0054a1301" resp="CBETA" type="add">候【CB】，侯【大】</note><app n="0054a1301"><lem wit="【CB】" resp="CBETA">候</lem><rdg wit="【大】">侯</rdg></app>。指天指地師子吼。雲
 <lb n="0054a14" ed="T"/>門居亂思大平。打殺不妨將餧狗。指東話西。
 <lb n="0054a15" ed="T"/>將無作有。惡水潑君君莫嗔。而今看爾如何
 <lb n="0054a16" ed="T"/>受。佛云。不受諸受。是名正受。若恁麼也。涓
@@ -5085,9 +5085,9 @@ Added comment  for Emacs
 <lb n="0054c26" ed="T"/>家富。收拾幾成三萬緡。尚自不能供眾口。所
 <lb n="0054c27" ed="T"/>以道。喫飯須是眾口。作活須是眾力。今古相
 <lb n="0054c28" ed="T"/>傳底消息。天童說箇休糧方。一日兩度鉢盂
-<lb n="0054c29" ed="T"/>濕。雲門大師道。飯豈不是自<choice><corr>己</corr><sic>已</sic></choice>。因甚將自<choice><corr>己</corr><sic>已</sic></choice>
+<lb n="0054c29" ed="T"/>濕。雲門大師道。飯豈不是自<note n="0054c2901" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0054c2901"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>。因甚將自<note n="0054c2902" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0054c2902"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>
 <pb n="0055a" xml:id="T48.2001.0055a" ed="T"/>
-<lb n="0055a01" ed="T"/>却喫自<choice><corr>己</corr><sic>已</sic></choice>。有道。毛吞巨海。芥納須彌。料掉勿
+<lb n="0055a01" ed="T"/>却喫自<note n="0055a0101" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0055a0101"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>。有道。毛吞巨海。芥納須彌。料掉勿
 <lb n="0055a02" ed="T"/>交涉。作麼生道得恰合去。拈却根塵方出礙。
 <lb n="0055a03" ed="T"/>更無絲糝不相通。</p>
 <lb n="0055a04" ed="T"/><p xml:id="pT48p0055a0401">示眾舉百丈問溈山。併却咽喉脣吻。道將一
@@ -5115,7 +5115,7 @@ Added comment  for Emacs
 <lb n="0055a26" ed="T"/>功勳。這邊得游戲。到底還須徹根蒂。望斷冥
 <lb n="0055a27" ed="T"/>鴻沒處秋。蒼蒼一色天連水。</p>
 <lb n="0055a28" ed="T"/><p xml:id="pT48p0055a2801">結夏上堂。來選佛場。辨行脚事。禁足也。不可
-<lb n="0055a29" ed="T"/>錯移一步。護生也不可動犯一毛。徹見自<choice><corr>己</corr><sic>已</sic></choice>
+<lb n="0055a29" ed="T"/>錯移一步。護生也不可動犯一毛。徹見自<note n="0055a2901" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0055a2901"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>
 <pb n="0055b" xml:id="T48.2001.0055b" ed="T"/>
 <lb n="0055b01" ed="T"/>全身。四大出礙。却到本來住處。一亙清虛。如
 <lb n="0055b02" ed="T"/>何履踐得恁麼相應去。擘開華嶽倚空翠。放
@@ -5899,7 +5899,7 @@ Added comment  for Emacs
 <lb n="0063c29" ed="T"/>要且無分外。僧云。九帶已蒙師指示。向上
 <pb n="0064a" xml:id="T48.2001.0064a" ed="T"/>
 <lb n="0064a01" ed="T"/>還有事也無。師云。恰似合面睡著。師乃云。諸
-<lb n="0064a02" ed="T"/>佛之到處。祖師之<choice><corr>傳</corr><sic>傅</sic></choice>處。衲僧之證處。眾生之
+<lb n="0064a02" ed="T"/>佛之到處。祖師之<note n="0064a0201" resp="CBETA" type="add">傳【CB】，傅【大】</note><app n="0064a0201"><lem wit="【CB】" resp="CBETA">傳</lem><rdg wit="【大】">傅</rdg></app>處。衲僧之證處。眾生之
 <lb n="0064a03" ed="T"/>得處。若也分曉去。其間門門戶戶。關關隔隔。
 <lb n="0064a04" ed="T"/>一時打得透。何處不相應。所以浮山和尚九
 <lb n="0064a05" ed="T"/>帶。盡是衲僧周旋做處。正法眼藏帶也。是吾
@@ -7094,7 +7094,7 @@ Added comment  for Emacs
 <lb n="0077a21" ed="T"/>收任放。直得二儀同其生成。萬象同其起滅。
 <lb n="0077a22" ed="T"/>崢崢嶸嶸。何所從來。寂寂寞寞。何所至向。可
 <lb n="0077a23" ed="T"/>謂虛空不可容納。大地不可擎載。妙存不得
-<lb n="0077a24" ed="T"/>其形。至虛不得其名。有無功盡。<choice><corr>凡</corr><sic>儿</sic></choice>聖路絕。方
+<lb n="0077a24" ed="T"/>其形。至虛不得其名。有無功盡。<note n="0077a2401" resp="CBETA" type="add">凡【CB】，儿【大】</note><app n="0077a2401"><lem wit="【CB】" resp="CBETA">凡</lem><rdg wit="【大】">儿</rdg></app>聖路絕。方
 <lb n="0077a25" ed="T"/>有到家時節。正恁麼時。得箇甚麼。萬頃眼寒
 <lb n="0077a26" ed="T"/>清照雪。好看裏許力耕人。</p>
 <lb n="0077a27" ed="T"/><p xml:id="pT48p0077a2701">枯寒身心。洗磨田地。塵紛淨盡。一境虛明。水
@@ -7225,7 +7225,7 @@ Added comment  for Emacs
 <lb n="0078c02" ed="T"/>到者裏。方知從佛口生。從法花生。得佛法分。
 <lb n="0078c03" ed="T"/>還端的麼。兩頭俱坐斷。只箇古今人。當恁麼
 <lb n="0078c04" ed="T"/>體取。</p>
-<lb n="0078c05" ed="T"/><p xml:id="pT48p0078c0501"><note n="0078001" resp="Taisho" place="foot text" type="orig">（天童覺和尚）ィ＋法【原】</note><note n="0078001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（天童覺和尚）ィ＋法【原】</note><app n="0078001"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">天童覺和尚法</rdg></app>語<note place="inline">終</note></p></cb:div>
+<lb n="0078c05" ed="T"/><p xml:id="pT48p0078c0501"><note n="0078001" resp="Taisho" place="foot text" type="orig">（天童覺和尚）ィ＋法【原】</note><note n="0078001" resp="CBETA" type="mod">法【大】，天童覺和尚法【校異-原】</note><app n="0078001"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">天童覺和尚法</rdg></app>語<note place="inline">終</note></p></cb:div>
 <lb n="0078c06" ed="T"/><cb:juan n="006" fun="close"><cb:jhead>宏智禪師廣錄卷第六</cb:jhead></cb:juan>
 <lb n="0078c07" ed="T"/>
 <milestone n="7" unit="juan"/>
@@ -7322,7 +7322,7 @@ Added comment  for Emacs
 <lb n="0079c08" ed="T"/><lg xml:id="lgT48p0079c0801" type="abnormal"><l>寫出夢中身。</l><l>爾道真不真。</l><l>槁寒秋在眼。</l><l>淵默
 <lb n="0079c09" ed="T"/>醭生唇。</l><l>道環誰謂無象。</l><l>空谷自來有神。</l><l>父子
 <lb n="0079c10" ed="T"/>不傳些子妙。</l><l>白首儂家老斵輪。</l></lg>
-<lb n="0079c11" ed="T"/><lg xml:id="lgT48p0079c1101" type="abnormal"><l>畫手未相識。</l><l>默心誰與知。</l><l>千峯<choice><corr>斂</corr><sic>歛</sic></choice>雲脚。</l><l>一月
+<lb n="0079c11" ed="T"/><lg xml:id="lgT48p0079c1101" type="abnormal"><l>畫手未相識。</l><l>默心誰與知。</l><l>千峯<note n="0079c1101" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0079c1101"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>雲脚。</l><l>一月
 <lb n="0079c12" ed="T"/>濯風漪。</l><l>牆面袖雙手。</l><l>對緣橫兩眉。</l><l>驚龜之縮
 <lb n="0079c13" ed="T"/>兮愧有其兆。</l><l>逸鳥之翔兮情亡所覉。</l></lg>
 <lb n="0079c14" ed="T"/><lg xml:id="lgT48p0079c1401" type="abnormal"><l>瘦削而黃。</l><l>慣窮不忙。</l><l>閑情許淡。</l><l>默味能長。</l><l>靈
@@ -7380,7 +7380,7 @@ Added comment  for Emacs
 <lb n="0080b06" ed="T"/><lg xml:id="lgT48p0080b0601" type="abnormal"><l>髮將雪白。</l><l>面作茶黃。</l><l>觸動眼三角。</l><l>忘言口四
 <lb n="0080b07" ed="T"/>方。</l><l>明月松頭鶴夢。</l><l>香風蓮底龜藏。</l><l>淨極發光
 <lb n="0080b08" ed="T"/>光自照。</l><l>虛空鳥印不成章。</l></lg>
-<lb n="0080b09" ed="T"/><lg xml:id="lgT48p0080b0901" type="abnormal"><l>恬然正觀。</l><l>山空水寒。</l><l>河漢橫而斗潤。</l><l>雲霧<choice><corr>斂</corr><sic>歛</sic></choice>
+<lb n="0080b09" ed="T"/><lg xml:id="lgT48p0080b0901" type="abnormal"><l>恬然正觀。</l><l>山空水寒。</l><l>河漢橫而斗潤。</l><l>雲霧<note n="0080b0901" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0080b0901"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>
 <lb n="0080b10" ed="T"/>而秋寬。</l><l>如仇學子兮。</l><l>怒眼三角。</l><l>無位真人兮。</l>
 <lb n="0080b11" ed="T"/><l>赤肉一團。</l></lg>
 <lb n="0080b12" ed="T"/><lg xml:id="lgT48p0080b1201" type="abnormal"><l>老覺雪入鬢。</l><l>淨若秋摩心。</l><l>寒枯坐曲木。</l><l>緘默
@@ -7929,7 +7929,7 @@ Added comment  for Emacs
 <lb n="0086b14" ed="T"/>空劫春。</l><l>木人捧出形山寶。</l><l>罷捋虎鬚歸去來。</l>
 <lb n="0086b15" ed="T"/><l>荊棘林中任起倒。</l><l>午日麗天光杲杲。</l></lg></cb:div>
 <lb n="0086b16" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">過王彥與郊居</cb:mulu><head>過王彥與郊居</head>
-<lb n="0086b17" ed="T"/><lg xml:id="lgT48p0086b1701" type="abnormal"><l>晨露晞時桑柘。</l><l>宿雲<choice><corr>斂</corr><sic>歛</sic></choice>處溪山。</l><l>摩詰畫圖未
+<lb n="0086b17" ed="T"/><lg xml:id="lgT48p0086b1701" type="abnormal"><l>晨露晞時桑柘。</l><l>宿雲<note n="0086b1701" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0086b1701"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>處溪山。</l><l>摩詰畫圖未
 <lb n="0086b18" ed="T"/>卷。</l><l>淵明農事初閒。</l></lg></cb:div>
 <lb n="0086b19" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">與福州滿禪人</cb:mulu><head>與福州滿禪人</head>
 <lb n="0086b20" ed="T"/><lg xml:id="lgT48p0086b2001" type="abnormal"><l>而今別後記丁寧。</l><l>曹洞家風句未形。</l><l>月滿鳳
@@ -8467,7 +8467,7 @@ Added comment  for Emacs
 <lb n="0092b12" ed="T"/>雪。</l><l>夜寒桂月一船霜。</l><l>迢迢象外行歸路。</l><l>雁字
 <lb n="0092b13" ed="T"/>低低正夕陽。</l></lg></cb:div>
 <lb n="0092b14" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">禪人發心丐席求頌</cb:mulu><head>禪人發心丐席求頌</head>
-<lb n="0092b15" ed="T"/><lg xml:id="lgT48p0092b1501" type="abnormal"><l>萬指相從作正觀。</l><l>出求臥席著蒲團。</l><l>恬處<choice><corr>斂</corr><sic>歛</sic></choice>
+<lb n="0092b15" ed="T"/><lg xml:id="lgT48p0092b1501" type="abnormal"><l>萬指相從作正觀。</l><l>出求臥席著蒲團。</l><l>恬處<note n="0092b1501" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0092b1501"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>
 <lb n="0092b16" ed="T"/>雨野雲薄。</l><l>湛若磨風秋水寒。</l><l>卷去猶知鼻頭
 <lb n="0092b17" ed="T"/>痛。</l><l>坐來方信髑髏乾。</l><l>蘆花明月阿誰事。</l><l>人在
 <lb n="0092b18" ed="T"/>江湖把釣竿。</l></lg>
@@ -8596,8 +8596,8 @@ Added comment  for Emacs
 <lb n="0093c21" ed="T"/>蝴蝶到華條。</l></lg></cb:div>
 <lb n="0093c22" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">上元後二日過謙師庵</cb:mulu><head>上元後二日過謙師庵</head>
 <lb n="0093c23" ed="T"/><lg xml:id="lgT48p0093c2301" type="abnormal"><l>橫溪一徑兩山分。</l><l>深翠籠蔥竹日昏。</l><l>流水漱
-<lb n="0093c24" ed="T"/>氷寒有骨。</l><l>閒雲<choice><corr>斂</corr><sic>歛</sic></choice>霽雪無根。</l><l>應容野毳來投
-<lb n="0093c25" ed="T"/>飯。</l><l>不管春眠往扣門。</l><l>窓<choice><corr>几</corr><sic>儿</sic></choice>薰爐搖篆字。</l><l>龜床
+<lb n="0093c24" ed="T"/>氷寒有骨。</l><l>閒雲<note n="0093c2401" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0093c2401"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>霽雪無根。</l><l>應容野毳來投
+<lb n="0093c25" ed="T"/>飯。</l><l>不管春眠往扣門。</l><l>窓<note n="0093c2501" resp="CBETA" type="add">几【CB】，儿【大】</note><app n="0093c2501"><lem wit="【CB】" resp="CBETA">几</lem><rdg wit="【大】">儿</rdg></app>薰爐搖篆字。</l><l>龜床
 <lb n="0093c26" ed="T"/>塵語對清溫。</l></lg></cb:div>
 <lb n="0093c27" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">應禪人開田求頌</cb:mulu><head>應禪人開田求頌</head>
 <lb n="0093c28" ed="T"/><lg xml:id="lgT48p0093c2801" type="abnormal"><l>飄飄捉杖出煙蘿。</l><l>行丐身心遽許多。</l><l>針鼻細
@@ -8826,7 +8826,7 @@ Added comment  for Emacs
 <lb n="0096b11" ed="T"/>世。</l><l>淨洗餘昏月一墀。</l><l>底意欲從何處問。</l><l>毘耶
 <lb n="0096b12" ed="T"/>居士飽相知。</l></lg></cb:div>
 <lb n="0096b13" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">訪黃給事承。往寶陀禮普門大士留偈</cb:mulu><head>訪黃給事承。往寶陀禮普門大士留偈</head>
-<lb n="0096b14" ed="T"/><lg xml:id="lgT48p0096b1401" type="abnormal"><l>泛舟誰畏海門津。</l><l>丈室來尋彼上人。</l><l><choice><corr>塵</corr><sic>麈</sic></choice>語欲
+<lb n="0096b14" ed="T"/><lg xml:id="lgT48p0096b1401" type="abnormal"><l>泛舟誰畏海門津。</l><l>丈室來尋彼上人。</l><l><note n="0096b1401" resp="CBETA" type="add">塵【CB】，麈【大】</note><app n="0096b1401"><lem wit="【CB】" resp="CBETA">塵</lem><rdg wit="【大】">麈</rdg></app>語欲
 <lb n="0096b15" ed="T"/>求青眼舊。</l><l>友心未爽白頭新。</l><l>黃家羊臥藩籬
 <lb n="0096b16" ed="T"/>晚。</l><l>梅氏仙游島嶼春。</l><l>餬餅饅頭看手段。</l><l>觀音
 <lb n="0096b17" ed="T"/>妙智在塵塵。</l></lg></cb:div>
@@ -8925,7 +8925,7 @@ Added comment  for Emacs
 <lb n="0097b20" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">以何學士韻示像侍者</cb:mulu><head>以何學士韻示像侍者</head>
 <lb n="0097b21" ed="T"/><lg xml:id="lgT48p0097b2101" type="abnormal"><l>茂養高標松抱苓。</l><l>歲寒姿傲雪霜丁。</l><l>蕭騷風
 <lb n="0097b22" ed="T"/>度山林韻。</l><l>偃蹇氣鍾丘壑形。</l><l>霽月霽雲胸次
-<lb n="0097b23" ed="T"/>淡。</l><l>秋山秋水眼棱青。</l><l>磨<choice><corr>塼</corr><sic>㙛</sic></choice>誰問馬師語。</l><l>妙發
+<lb n="0097b23" ed="T"/>淡。</l><l>秋山秋水眼棱青。</l><l>磨<note n="0097b2301" resp="CBETA" type="add">塼【CB】，㙛【大】</note><app n="0097b2301"><lem wit="【CB】" resp="CBETA">塼</lem><rdg wit="【大】">㙛</rdg></app>誰問馬師語。</l><l>妙發
 <lb n="0097b24" ed="T"/>枯龜一灼靈。</l></lg></cb:div>
 <lb n="0097b25" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">夢齊求頌</cb:mulu><head>夢齊求頌</head>
 <lb n="0097b26" ed="T"/><lg xml:id="lgT48p0097b2601" type="abnormal"><l>香風華雨政紛紛。</l><l>春困何妨聊曲肱。</l><l>三世佛
@@ -9211,7 +9211,7 @@ Added comment  for Emacs
 <lb n="0100c06" ed="T"/>受。</l><l>源深流長。</l><l>南嶽青原。</l><l>代以得人。</l><l>或默有所
 <lb n="0100c07" ed="T"/>宗。</l><l>幽潛遠遯。</l><l>掃跡世外。</l><l>研究生死。</l><l>松食荷
 <lb n="0100c08" ed="T"/>衣。</l><l>巢栖草座晦而不輝。</l><l>持養老成。</l><l>有慕其風。</l>
-<lb n="0100c09" ed="T"/><l>師而親之。</l><l>鋤植舂炊。</l><l><choice><corr>采</corr><sic>釆</sic></choice>汲烹瀹。</l><l>溪芼原粟。</l><l>枯
+<lb n="0100c09" ed="T"/><l>師而親之。</l><l>鋤植舂炊。</l><l><note n="0100c0901" resp="CBETA" type="add">采【CB】，釆【大】</note><app n="0100c0901"><lem wit="【CB】" resp="CBETA">采</lem><rdg wit="【大】">釆</rdg></app>汲烹瀹。</l><l>溪芼原粟。</l><l>枯
 <lb n="0100c10" ed="T"/>槁自甘來遠集繁。</l><l>乃建僧堂而統受焉。</l><l>齋臥
 <lb n="0100c11" ed="T"/>之華。</l><l>師友同事。</l><l>刳情刲智。</l><l>擯學黜思。</l><l>妙盡心
 <lb n="0100c12" ed="T"/>空。</l><l>宗通眼活。</l><l>發越于設施。</l><l>果其能而備也。</l><l>建
@@ -9314,7 +9314,7 @@ Added comment  for Emacs
 <lb n="0101c18" ed="T"/>直指。使人讀是贊無別贊。言下知歸即自
 <lb n="0101c19" ed="T"/>贊也。見是祖無別祖。可中默契即自祖也。
 <lb n="0101c20" ed="T"/>夫如是則正佛祖之眉目。而風彩不彰。五
-<lb n="0101c21" ed="T"/>葉一華。隨處春色。<choice><corr>嗚</corr><sic>鳴</sic></choice>呼晝夜。孰不與祖師
+<lb n="0101c21" ed="T"/>葉一華。隨處春色。<note n="0101c2101" resp="CBETA" type="add">嗚【CB】，鳴【大】</note><app n="0101c2101"><lem wit="【CB】" resp="CBETA">嗚</lem><rdg wit="【大】">鳴</rdg></app>呼晝夜。孰不與祖師
 <lb n="0101c22" ed="T"/>同起同坐一出一沒耶。仰山云。不道見。只
 <lb n="0101c23" ed="T"/>是不別。真歇清了跋。</p></cb:div>
 <lb n="0101c24" ed="T"/><cb:div type="w"><cb:mulu level="3" type="附文">老禪士珪書</cb:mulu><p xml:id="pT48p0101c2401" rend="margin-left:1em">四明天童禪師。作六代祖師畫像贊。意真
@@ -9618,7 +9618,7 @@ Added comment  for Emacs
 <lb n="0105a22" ed="T"/>會也無。</l><l>不須喝彩兮盤中雙六。</l></lg>
 <lb n="0105a23" ed="T"/><lg xml:id="lgT48p0105a2301" type="abnormal"><l>似則不是。</l><l>是則不似。</l><l>動兮行雲。</l><l>靜兮止水。</l>
 <lb n="0105a24" ed="T"/><l>能隨緣不墮類。</l><l>百草頭上老僧。</l><l>二儀已前自
-<lb n="0105a25" ed="T"/><choice><corr>己</corr><sic>已</sic></choice>。</l><l>莫將此箇形骸。</l><l>枉挂他人唇齒。</l></lg>
+<lb n="0105a25" ed="T"/><note n="0105a2501" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0105a2501"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>。</l><l>莫將此箇形骸。</l><l>枉挂他人唇齒。</l></lg>
 <lb n="0105a26" ed="T"/><lg xml:id="lgT48p0105a2601" type="abnormal"><l>靜掩雙皮。</l><l>喜揚兩眉。</l><l>秋容清水色。</l><l>春信鬧華
 <lb n="0105a27" ed="T"/>枝。</l><l>跛跛挈挈。</l><l>憨憨癡癡。</l><l>摩觸家風兮鼻孔纍
 <lb n="0105a28" ed="T"/>垂。</l></lg>
@@ -9635,7 +9635,7 @@ Added comment  for Emacs
 <lb n="0105b09" ed="T"/>大道。</l><l>崑崙源自發長河。</l><l>一笑十方三世事。</l><l>不
 <lb n="0105b10" ed="T"/>妨隨處薩婆訶。</l></lg>
 <lb n="0105b11" ed="T"/><lg xml:id="lgT48p0105b1101" type="abnormal"><l>山高早雪水深先秋。</l><l>功勳極處退一步。</l><l>黑白
-<lb n="0105b12" ed="T"/>前時<choice><corr>贏</corr><sic>羸</sic></choice>一籌。</l><l>相隨來也還知否。</l><l>南北東西得
+<lb n="0105b12" ed="T"/>前時<note n="0105b1201" resp="CBETA" type="add">贏【CB】，羸【大】</note><app n="0105b1201"><lem wit="【CB】" resp="CBETA">贏</lem><rdg wit="【大】">羸</rdg></app>一籌。</l><l>相隨來也還知否。</l><l>南北東西得
 <lb n="0105b13" ed="T"/>自由。</l></lg>
 <lb n="0105b14" ed="T"/><lg xml:id="lgT48p0105b1401" type="abnormal"><l>身兮芭蕉。</l><l>口兮葛藤。</l><l>雪乞人天飯。</l><l>光傳佛祖
 <lb n="0105b15" ed="T"/>燈。</l><l>機活作春像。</l><l>念冷摩風稜。</l><l>金針玉線兮誰
@@ -9960,7 +9960,7 @@ Added comment  for Emacs
 <lb n="0109a04" ed="T"/><lg xml:id="lgT48p0109a0401" type="abnormal"><l>寒山骨瘦。</l><l>雪林氣清。</l><l>萬機寢削。</l><l>一點光明。</l><l>其
 <lb n="0109a05" ed="T"/>靈不可像。</l><l>其妙不可名。</l><l>默倚蒲團坐終日。</l><l>爾
 <lb n="0109a06" ed="T"/>道何時不太平。</l></lg>
-<lb n="0109a07" ed="T"/><lg xml:id="lgT48p0109a0701" type="abnormal"><l>一片間心。</l><l>十方充塞。</l><l>春律行兮發華。</l><l>秋風<choice><corr>斂</corr><sic>歛</sic></choice>
+<lb n="0109a07" ed="T"/><lg xml:id="lgT48p0109a0701" type="abnormal"><l>一片間心。</l><l>十方充塞。</l><l>春律行兮發華。</l><l>秋風<note n="0109a0701" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0109a0701"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>
 <lb n="0109a08" ed="T"/>兮落木。</l><l>誰調誰牧。</l><l>不傷不觸。</l><l>萬像同放光明。</l>
 <lb n="0109a09" ed="T"/><l>太虛了無稜骨。</l><l>中規矩兮東西南北。</l></lg>
 <lb n="0109a10" ed="T"/><lg xml:id="lgT48p0109a1001" type="abnormal"><l>眉目古㵎秋。</l><l>鬚髮寒巖雪。</l><l>去就叢林出身。</l><l>觸
@@ -10108,7 +10108,7 @@ Added comment  for Emacs
 <lb n="0110c02" ed="T"/>任珊瑚之樹。</l><l>蚌蘊明珠之淵。</l><l>彈指分身兮三
 <lb n="0110c03" ed="T"/>千大千。</l></lg>
 <lb n="0110c04" ed="T"/><lg xml:id="lgT48p0110c0401" type="abnormal"><l>漆點兩眼。</l><l>雪絲半頭。</l><l>嗒然亡耦。</l><l>轉處還幽。</l><l>一
-<lb n="0110c05" ed="T"/>等高閑兮。</l><l>餘雲<choice><corr>斂</corr><sic>歛</sic></choice>霽。</l><l>十方清白兮。</l><l>片月摩秋。</l></lg>
+<lb n="0110c05" ed="T"/>等高閑兮。</l><l>餘雲<note n="0110c0501" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0110c0501"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>霽。</l><l>十方清白兮。</l><l>片月摩秋。</l></lg>
 <lb n="0110c06" ed="T"/><lg xml:id="lgT48p0110c0601" type="abnormal"><l>青山之主兮體本平等。</l><l>白雲之賓兮用能自
 <lb n="0110c07" ed="T"/>然。</l><l>應有餘兮神不可測。</l><l>得其簡兮妙不可傳。</l></lg>
 <lb n="0110c08" ed="T"/><lg xml:id="lgT48p0110c0801" type="abnormal"><l>秋山骨瘦。</l><l>秋水神清。</l><l>岩松寒更翠。</l><l>㵎月夜還
@@ -10119,7 +10119,7 @@ Added comment  for Emacs
 <lb n="0110c13" ed="T"/><lg xml:id="lgT48p0110c1301" type="abnormal"><l>天蒼蒼而雲間。</l><l>水深深而月寒。</l><l>妙一點之自
 <lb n="0110c14" ed="T"/>得。</l><l>縱四辯以奚殫。</l></lg>
 <lb n="0110c15" ed="T"/><lg xml:id="lgT48p0110c1501" type="abnormal"><l>鬚髮垂白。</l><l>面皮淡黃。</l><l>茶醒睡眼。</l><l>飯塞飢膓。</l><l>情
-<lb n="0110c16" ed="T"/>田閑自廓。</l><l>心地淨而光。</l><l>雲<choice><corr>斂</corr><sic>歛</sic></choice>山川雨。</l><l>月明河
+<lb n="0110c16" ed="T"/>田閑自廓。</l><l>心地淨而光。</l><l>雲<note n="0110c1601" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0110c1601"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>山川雨。</l><l>月明河
 <lb n="0110c17" ed="T"/>漢霜。</l><l>門門得用亡機械。</l><l>箇事十成誰覆藏。</l></lg>
 <lb n="0110c18" ed="T"/><lg xml:id="lgT48p0110c1801" type="abnormal"><l>髮白而老。</l><l>面黃仍病。</l><l>窮地水火風之根。</l><l>得見
 <lb n="0110c19" ed="T"/>聞覺知之柄。</l><l>一氣專柔。</l><l>諸塵善應。</l><l>魏臭而良。</l>
@@ -10189,8 +10189,8 @@ Added comment  for Emacs
 <lb n="0111b23" ed="T"/>影響。</l><l>機動陰陽。</l><l>玉燭靜調天事業。</l><l>薰風披拂
 <lb n="0111b24" ed="T"/>水文章。</l><l>諸塵三昧分身十方。</l></lg>
 <lb n="0111b25" ed="T"/><lg xml:id="lgT48p0111b2501" type="abnormal"><l>眼橫鼻直。</l><l>氣清骨寒。</l><l>手眼外應金篦快。</l><l>身心
-<lb n="0111b26" ed="T"/>內照玉<choice><corr>壺</corr><sic>壼</sic></choice>寬。</l><l>機絲交織兮。</l><l>春華蔟蔟。</l><l>與物齊
-<lb n="0111b27" ed="T"/>平兮。</l><l>夢蝶團團。</l><l>性習林泉。</l><l>身心信緣。</l><l>長虹<choice><corr>斂</corr><sic>歛</sic></choice>
+<lb n="0111b26" ed="T"/>內照玉<note n="0111b2601" resp="CBETA" type="add">壺【CB】，壼【大】</note><app n="0111b2601"><lem wit="【CB】" resp="CBETA">壺</lem><rdg wit="【大】">壼</rdg></app>寬。</l><l>機絲交織兮。</l><l>春華蔟蔟。</l><l>與物齊
+<lb n="0111b27" ed="T"/>平兮。</l><l>夢蝶團團。</l><l>性習林泉。</l><l>身心信緣。</l><l>長虹<note n="0111b2701" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0111b2701"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>
 <lb n="0111b28" ed="T"/>雨。</l><l>照雪倚天。</l><l>頭頭物物隨宜說。</l><l>剎剎塵塵各
 <lb n="0111b29" ed="T"/>住禪。</l><l>妙觸出礙幻成自然。</l></lg>
 <pb n="0111c" xml:id="T48.2001.0111c" ed="T"/>
@@ -10675,11 +10675,11 @@ Added comment  for Emacs
 <lb n="0116c29" ed="T"/><l>回途復妙。</l><l>弄假像真。</l></lg>
 <pb n="0117a" xml:id="T48.2001.0117a" ed="T"/>
 <lb n="0117a01" ed="T"/><lg xml:id="lgT48p0117a0101" type="abnormal"><l>山帶雪而歲寒。</l><l>水含月而夜闌。</l><l>對機轉物。</l><l>影
-<lb n="0117a02" ed="T"/>草探竿。</l><l>游刃之牛解。</l><l>爛柯之局殘。</l><l>西風雨<choice><corr>斂</corr><sic>歛</sic></choice>
+<lb n="0117a02" ed="T"/>草探竿。</l><l>游刃之牛解。</l><l>爛柯之局殘。</l><l>西風雨<note n="0117a0201" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0117a0201"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>
 <lb n="0117a03" ed="T"/>煙雲淨。</l><l>北斗脚垂河漢乾。</l></lg>
 <lb n="0117a04" ed="T"/><lg xml:id="lgT48p0117a0401" type="abnormal"><l>形雖老蒼。</l><l>事不窮忙。</l><l>味真嚼蠟。</l><l>面冷刮霜。</l><l>撒
 <lb n="0117a05" ed="T"/>手行空劫。</l><l>全身入帝鄉。</l><l>回頭游戲成三昧。</l><l>春
-<lb n="0117a06" ed="T"/>上百華蜂<choice><corr>采</corr><sic>釆</sic></choice>香。</l></lg>
+<lb n="0117a06" ed="T"/>上百華蜂<note n="0117a0601" resp="CBETA" type="add">采【CB】，釆【大】</note><app n="0117a0601"><lem wit="【CB】" resp="CBETA">采</lem><rdg wit="【大】">釆</rdg></app>香。</l></lg>
 <lb n="0117a07" ed="T"/><lg xml:id="lgT48p0117a0701" type="abnormal"><l>曲木坐床。</l><l>烏藤倚旁。</l><l>孤禪一句。</l><l>三世十方。</l><l>青
 <lb n="0117a08" ed="T"/>燈含華夜耿耿。</l><l>白鳥欲沒天蒼蒼。</l><l>却來有應。</l>
 <lb n="0117a09" ed="T"/><l>出礙無當。</l></lg>
@@ -10721,7 +10721,7 @@ Added comment  for Emacs
 <lb n="0117b15" ed="T"/><l>唱酬可憎。</l><l>慎嚴逆流洞水道。</l><l>孝滿顛酒曹山
 <lb n="0117b16" ed="T"/>曾。</l></lg>
 <lb n="0117b17" ed="T"/><lg xml:id="lgT48p0117b1701" type="abnormal"><l>靈靈而空。</l><l>了了而融。</l><l>正偏之機轉。</l><l>佛祖之道
-<lb n="0117b18" ed="T"/>同。</l><l>玉井有月。</l><l>氷<choice><corr>壺</corr><sic>壼</sic></choice>無風。</l><l>兒孫得力成家事。</l><l>影
+<lb n="0117b18" ed="T"/>同。</l><l>玉井有月。</l><l>氷<note n="0117b1801" resp="CBETA" type="add">壺【CB】，壼【大】</note><app n="0117b1801"><lem wit="【CB】" resp="CBETA">壺</lem><rdg wit="【大】">壼</rdg></app>無風。</l><l>兒孫得力成家事。</l><l>影
 <lb n="0117b19" ed="T"/>現諸塵三昧中。</l></lg>
 <lb n="0117b20" ed="T"/><lg xml:id="lgT48p0117b2001" type="abnormal"><l>精神自然。</l><l>秋早春先。</l><l>蟠胸丘壑。</l><l>繞齒風煙。</l><l>理
 <lb n="0117b21" ed="T"/>無生而心傳阿祖。</l><l>神不死而道出諸僊。</l><l>蒼黃
@@ -10755,7 +10755,7 @@ Added comment  for Emacs
 <lb n="0117c19" ed="T"/><lg xml:id="lgT48p0117c1901" type="abnormal"><l>淵默元成。</l><l>至虛不盈。</l><l>體天地之含光。</l><l>十方昭
 <lb n="0117c20" ed="T"/>徹。</l><l>用陰陽之變態。</l><l>萬像崝嶸。</l><l>百戰瘢知風雨
 <lb n="0117c21" ed="T"/>信。</l><l>垂頭兀兀老昇平。</l></lg>
-<lb n="0117c22" ed="T"/><lg xml:id="lgT48p0117c2201" type="abnormal"><l>龜兮蓍兮<choice><corr>祛</corr><sic>袪</sic></choice>執決疑。</l><l>師兮範兮扶斜理差。</l><l>定
+<lb n="0117c22" ed="T"/><lg xml:id="lgT48p0117c2201" type="abnormal"><l>龜兮蓍兮<note n="0117c2201" resp="CBETA" type="add">祛【CB】，袪【大】</note><app n="0117c2201"><lem wit="【CB】" resp="CBETA">祛</lem><rdg wit="【大】">袪</rdg></app>執決疑。</l><l>師兮範兮扶斜理差。</l><l>定
 <lb n="0117c23" ed="T"/>徹其底。</l><l>慧窮其涯。</l><l>箭撞筈破。</l><l>珠旋影隨。</l></lg>
 <lb n="0117c24" ed="T"/><lg xml:id="lgT48p0117c2401" type="abnormal"><l>默成其性。</l><l>慧潤其定。</l><l>虛應六窓。</l><l>觀通三徑。</l><l>善
 <lb n="0117c25" ed="T"/>巧開權。</l><l>觸機墮穽。</l><l>怪殺者僧。</l><l>藥多成病。</l></lg>
@@ -10918,7 +10918,7 @@ Added comment  for Emacs
 <lb n="0119c02" ed="T"/>王寺。闕住持者。向公聞長蘆第一座僧正覺
 <lb n="0119c03" ed="T"/>倡曹洞宗衲子信嚮。具疏與帖。請補其處。既
 <lb n="0119c04" ed="T"/>至。問其鄉里曰隰州。始悟昨夢。愈加敬禮。師
-<lb n="0119c05" ed="T"/>蓋自此七坐道場。名振天下。<choice><corr>嗚</corr><sic>鳴</sic></choice>乎達人大士。
+<lb n="0119c05" ed="T"/>蓋自此七坐道場。名振天下。<note n="0119c0501" resp="CBETA" type="add">嗚【CB】，鳴【大】</note><app n="0119c0501"><lem wit="【CB】" resp="CBETA">嗚</lem><rdg wit="【大】">鳴</rdg></app>乎達人大士。
 <lb n="0119c06" ed="T"/>出應於世為人天師。夫豈偶然也哉。師姓李
 <lb n="0119c07" ed="T"/>氏。母趙誕師之夕。光出於屋。人皆異之。七歲
 <lb n="0119c08" ed="T"/>誦書日數千言。少日遂通五經。祖寂父宗道。
@@ -10941,7 +10941,7 @@ Added comment  for Emacs
 <lb n="0119c25" ed="T"/>手畫一圓相呈之。復拋向後。山曰。弄泥團漢。
 <lb n="0119c26" ed="T"/>有甚麼限。師云錯。山曰。別見人始得。師應喏
 <lb n="0119c27" ed="T"/>喏。丹霞淳禪師。道價方盛。師乃造焉。霞問。
-<lb n="0119c28" ed="T"/>如何是空劫已前自<choice><corr>己</corr><sic>已</sic></choice>。師曰。井底蝦<choice><corr>䗫</corr><sic><g ref="#CB05316"/></sic></choice>吞却
+<lb n="0119c28" ed="T"/>如何是空劫已前自<note n="0119c2801" resp="CBETA" type="add">己【CB】，已【大】</note><app n="0119c2801"><lem wit="【CB】" resp="CBETA">己</lem><rdg wit="【大】">已</rdg></app>。師曰。井底蝦<note n="0119c2802" resp="CBETA" type="add">䗫【CB】，<g ref="#CB05316"/>【大】</note><app n="0119c2802"><lem wit="【CB】" resp="CBETA">䗫</lem><rdg wit="【大】"><g ref="#CB05316"/></rdg></app>吞却
 <lb n="0119c29" ed="T"/>月。三更不借夜明簾。霞曰。未在更道。師擬
 <pb n="0120a" xml:id="T48.2001.0120a" ed="T"/>
 <lb n="0120a01" ed="T"/>議。霞打一拂子云。又道不借。師忽悟作禮。霞
@@ -10983,7 +10983,7 @@ Added comment  for Emacs
 <lb n="0120b07" ed="T"/>境內。諸寺皆謝遣雲游。師獨來者不拒。或以
 <lb n="0120b08" ed="T"/>為不可。師喻之曰。明日𡨥至。寺將一空。即今
 <lb n="0120b09" ed="T"/>幸其尚為我有。可不與眾共之乎。已而𡨥至。
-<lb n="0120b10" ed="T"/>登塔嶺以望。若有所見。遂<choice><corr>斂</corr><sic>歛</sic></choice>兵而退。秋毫無
+<lb n="0120b10" ed="T"/>登塔嶺以望。若有所見。遂<note n="0120b1001" resp="CBETA" type="add">斂【CB】，歛【大】</note><app n="0120b1001"><lem wit="【CB】" resp="CBETA">斂</lem><rdg wit="【大】">歛</rdg></app>兵而退。秋毫無
 <lb n="0120b11" ed="T"/>所犯。人皆歡服。以為神助。伯庠聞師名舊矣。
 <lb n="0120b12" ed="T"/>歲在戊午。教授州學。始識其面。甞訪師自小
 <lb n="0120b13" ed="T"/>白捨舟道。松陰二十餘里。雄樓傑閣。突出萬
