@@ -691,7 +691,7 @@ Added comment  for Emacs
 <lb n="0507b05" ed="T"/>是第四抑揚之教由未會三歸一<note n="0507008" resp="Taisho" place="foot text" type="orig">及＝反【甲】</note><note n="0507008" resp="CBETA" type="mod">及【大】，反【甲】</note><app n="0507008"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【甲】">反</rdg></app>明常住
 <lb n="0507b06" ed="T"/>佛性也。次詳定者。若言此經未明佛性者。此
 <lb n="0507b07" ed="T"/>明真<note n="0507009" resp="Taisho" place="foot text" type="orig">〔性〕－【甲】</note><note n="0507009" resp="CBETA" type="mod">性【大】，〔－〕【甲】</note><app n="0507009"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>解脫。豈非佛性耶。下文明如來種。
-<lb n="0507b08" ed="T"/>種即<note n="0507010" resp="Taisho" place="foot text" type="orig">性＋（之）　【乙】【丙】</note><note n="0507010" resp="CBETA" type="mod">性【大】，性之【？】【乙】【丙】</note><app n="0507010"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【？】【乙】【丙】">性之</rdg></app>異名耳。若言未明常住者。下文明金
+<lb n="0507b08" ed="T"/>種即<note n="0507010" resp="Taisho" place="foot text" type="orig">性＋（之）　【乙】【丙】</note><note n="0507010" resp="CBETA" type="mod">性【大】，性之【【考偽-大】】【乙】【丙】</note><app n="0507010"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【？】【乙】【丙】">性之</rdg></app>異名耳。若言未明常住者。下文明金
 <lb n="0507b09" ed="T"/>剛之體。夫如<note n="0507011" resp="Taisho" place="foot text" type="orig">者＋（不二）【甲】【丙】</note><note n="0507011" resp="CBETA" type="mod">者【大】，者不二【甲】【丙】</note><app n="0507011"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】【丙】">者不二</rdg></app>不異。如無有生。如無有滅
 <lb n="0507b10" ed="T"/>等。豈非常住耶。若真宗同法花者。何得聲聞
 <lb n="0507b11" ed="T"/>未受記也。若滿字同涅槃者。彼是醍醐。此乃
@@ -757,7 +757,7 @@ Added comment  for Emacs
 <lb n="0508a11" ed="T"/>此云無問自說。聖慈哀愍不請而宣。六尼陀
 <lb n="0508a12" ed="T"/>那。此云因緣。雜集論云。又有因緣制立學處。
 <lb n="0508a13" ed="T"/>七阿波陀那。此云譬喻。法說難明。假喻以況。
-<lb n="0508a14" ed="T"/>八伊帝目多伽。此云本生。自說昔因所生<note n="0508007" resp="Taisho" place="foot text" type="orig">事＋（不）【甲】，（故不）【乙】，（故）【丙】</note><note n="0508007" resp="CBETA" type="mod">事【大】，事不【甲】，<!--CBETA todo type: newmod-->（故不）【乙】，（故）【丙】</note><app n="0508007"><lem wit="【大】">事</lem><rdg resp="Taisho" wit="【甲】">事不</rdg><rdg resp="Taisho" wit="【乙】">事故不</rdg><rdg resp="Taisho" wit="【丙】">事故</rdg></app>。
+<lb n="0508a14" ed="T"/>八伊帝目多伽。此云本生。自說昔因所生<note n="0508007" resp="Taisho" place="foot text" type="orig">事＋（不）【甲】，（故不）【乙】，（故）【丙】</note><note n="0508007" resp="CBETA" type="mod">事【大】，事不【甲】，<!--CBETA todo type: newmod-->事故不【乙】，<!--CBETA todo type: newmod-->事故【丙】</note><app n="0508007"><lem wit="【大】">事</lem><rdg resp="Taisho" wit="【甲】">事不</rdg><rdg resp="Taisho" wit="【乙】">事故不</rdg><rdg resp="Taisho" wit="【丙】">事故</rdg></app>。
 <lb n="0508a15" ed="T"/>九闍陀伽。此云本事。宣諸弟子<note n="0508008" resp="Taisho" place="foot text" type="orig">過＋（去）【甲】【乙】【丙】</note><note n="0508008" resp="CBETA" type="mod">過【大】，過去【甲】【乙】【丙】</note><app n="0508008"><lem wit="【大】">過</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">過去</rdg></app>事故。十毘
 <lb n="0508a16" ed="T"/>佛略。此云方廣。真理正直遍諸法故。十一阿
 <lb n="0508a17" ed="T"/>浮陀達摩。此云未曾有。亦云希法。神變無方
@@ -807,7 +807,7 @@ Added comment  for Emacs
 <lb n="0508c01" ed="T"/>寢下別明此經權實本迹大體。三大秦天王
 <lb n="0508c02" ed="T"/>下辯譯由始。四餘以闇<note n="0508011" resp="Taisho" place="foot text" type="orig">短＝矩【甲】【乙】</note><note n="0508011" resp="CBETA" type="mod">短【大】，矩【甲】【乙】</note><app n="0508011"><lem wit="【大】">短</lem><rdg resp="Taisho" wit="【甲】【乙】">矩</rdg></app>下明注解之意。</p>
 <lb n="0508c03" ed="T"/><p xml:id="pT85p0508c0301">窮微者。窮實相之幽微實體也。盡化者盡權
-<lb n="0508c04" ed="T"/>應之變化權用也。<note n="0508012" resp="Taisho" place="foot text" type="orig">此＋（云體用）【甲】【乙】，之體同【丙】</note><note n="0508012" resp="CBETA" type="mod">此【大】，此云體用【甲】【乙】，之體同【丙】</note><app n="0508012"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】【乙】">此云體用</rdg><rdg resp="Taisho" wit="【丙】">此之體同</rdg></app><note n="0508013" resp="Taisho" place="foot text" type="orig">即名＝既名無名【甲】</note><note n="0508013" resp="CBETA" type="mod">即名【大】，既名無名【甲】</note><app n="0508013"><lem wit="【大】">即名</lem><rdg resp="Taisho" wit="【甲】">既名無名</rdg></app>故云妙絕之稱
+<lb n="0508c04" ed="T"/>應之變化權用也。<note n="0508012" resp="Taisho" place="foot text" type="orig">此＋（云體用）【甲】【乙】，之體同【丙】</note><note n="0508012" resp="CBETA" type="mod">此【大】，此云體用【甲】【乙】，此之體同【丙】</note><app n="0508012"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】【乙】">此云體用</rdg><rdg resp="Taisho" wit="【丙】">此之體同</rdg></app><note n="0508013" resp="Taisho" place="foot text" type="orig">即名＝既名無名【甲】</note><note n="0508013" resp="CBETA" type="mod">即名【大】，既名無名【甲】</note><app n="0508013"><lem wit="【大】">即名</lem><rdg resp="Taisho" wit="【甲】">既名無名</rdg></app>故云妙絕之稱
 <lb n="0508c05" ed="T"/>也。此上辯不思議之名<note n="0508014" resp="Taisho" place="foot text" type="orig">之＝也【甲】【乙】【丙】</note><note n="0508014" resp="CBETA" type="mod">之【大】，也【甲】【乙】【丙】</note><app n="0508014"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">也</rdg></app>。旨意也淵深也。
 <lb n="0508c06" ed="T"/>玄遠也。言像名相也。此句明意趣也　三空
 <lb n="0508c07" ed="T"/><note n="0508015" resp="Taisho" place="foot text" type="orig">者＋（空）【甲】【乙】【丙】</note><note n="0508015" resp="CBETA" type="mod">者【大】，者空【甲】【乙】【丙】</note><app n="0508015"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">者空</rdg></app>。無相無願也。二乘癈有存空。中道空有
@@ -821,7 +821,7 @@ Added comment  for Emacs
 <lb n="0508c15" ed="T"/>也。此明聖心。亦即諸部般若經佛智也。無像
 <lb n="0508c16" ed="T"/>真身也。並應應身也。如下七<note n="0508017" resp="Taisho" place="foot text" type="orig">〔言〕－【丙】</note><note n="0508017" resp="CBETA" type="mod">言【大】，〔－〕【丙】</note><app n="0508017"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【丙】"><space quantity="0"/></rdg></app>偈云。各見
 <lb n="0508c17" ed="T"/>世尊在其前。及佛道品現種種身。皆是佛一
-<lb n="0508c18" ed="T"/><note n="0508018" resp="Taisho" place="foot text" type="orig">身＋（現無量身）【甲】【乙】，（無量身）【丙】</note><note n="0508018" resp="CBETA" type="mod">身【大】，身現無量身【甲】【乙】，<!--CBETA todo type: newmod-->（無量身）【丙】</note><app n="0508018"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】【乙】">身現無量身</rdg><rdg resp="Taisho" wit="【丙】">身無量身</rdg></app>也。如法華經明。昔說佛<note n="0508019" resp="Taisho" place="foot text" type="orig">壽＋（矩今說佛壽）【甲】【乙】【丙】</note><note n="0508019" resp="CBETA" type="mod">壽【大】，壽矩今說佛壽【甲】【乙】【丙】</note><app n="0508019"><lem wit="【大】">壽</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">壽矩今說佛壽</rdg></app>長。<note n="0508020" resp="Taisho" place="foot text" type="orig">是即＝即是【甲】【乙】</note><note n="0508020" resp="CBETA" type="mod">是即【大】，即是【甲】【乙】</note><app n="0508020"><lem wit="【大】">是即</lem><rdg resp="Taisho" wit="【甲】【乙】">即是</rdg></app>法
+<lb n="0508c18" ed="T"/><note n="0508018" resp="Taisho" place="foot text" type="orig">身＋（現無量身）【甲】【乙】，（無量身）【丙】</note><note n="0508018" resp="CBETA" type="mod">身【大】，身現無量身【甲】【乙】，<!--CBETA todo type: newmod-->身無量身【丙】</note><app n="0508018"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【甲】【乙】">身現無量身</rdg><rdg resp="Taisho" wit="【丙】">身無量身</rdg></app>也。如法華經明。昔說佛<note n="0508019" resp="Taisho" place="foot text" type="orig">壽＋（矩今說佛壽）【甲】【乙】【丙】</note><note n="0508019" resp="CBETA" type="mod">壽【大】，壽矩今說佛壽【甲】【乙】【丙】</note><app n="0508019"><lem wit="【大】">壽</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">壽矩今說佛壽</rdg></app>長。<note n="0508020" resp="Taisho" place="foot text" type="orig">是即＝即是【甲】【乙】</note><note n="0508020" resp="CBETA" type="mod">是即【大】，即是【甲】【乙】</note><app n="0508020"><lem wit="【大】">是即</lem><rdg resp="Taisho" wit="【甲】【乙】">即是</rdg></app>法
 <lb n="0508c19" ed="T"/>身非短長無像也。應身現短長並應也。如涅
 <lb n="0508c20" ed="T"/>槃明。佛入滅度。又云。<note n="0508021" resp="Taisho" place="foot text" type="orig">而＋（實）【甲】【乙】【丙】</note><note n="0508021" resp="CBETA" type="mod">而【大】，而實【甲】【乙】【丙】</note><app n="0508021"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">而實</rdg></app>常住不滅。<note n="0508022" resp="Taisho" place="foot text" type="orig">即是＝是即【甲】【乙】</note><note n="0508022" resp="CBETA" type="mod">即是【大】，是即【甲】【乙】</note><app n="0508022"><lem wit="【大】">即是</lem><rdg resp="Taisho" wit="【甲】【乙】">是即</rdg></app>法
 <lb n="0508c21" ed="T"/>身非生滅無像也。應身現王宮生雙林滅亦
@@ -1567,11 +1567,11 @@ Added comment  for Emacs
 <lb n="0517a12" ed="T"/>二法門品。或生滅兩亡。或罪福一性。或心無
 <lb n="0517a13" ed="T"/>所得。或口默不言。此皆事迹不同。非會證異
 <lb n="0517a14" ed="T"/>也　知有為法皆悉無常者。若依大乘悟。淨
-<lb n="0517a15" ed="T"/>穢皆是應現應物<note n="0517006" resp="Taisho" place="foot text" type="orig">無＋（定）【乙】，（定即無）【丙】</note><note n="0517006" resp="CBETA" type="mod">無【大】，無定【乙】，<!--CBETA todo type: newmod-->（定即無）【丙】</note><app n="0517006"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【乙】">無定</rdg><rdg resp="Taisho" wit="【丙】">無定即無</rdg></app>自<note n="0517007" resp="Taisho" place="foot text" type="orig">性＋（即無）【乙】</note><note n="0517007" resp="CBETA" type="mod">性【大】，性即無【乙】</note><app n="0517007"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【乙】">性即無</rdg></app>。今小乘執實故
+<lb n="0517a15" ed="T"/>穢皆是應現應物<note n="0517006" resp="Taisho" place="foot text" type="orig">無＋（定）【乙】，（定即無）【丙】</note><note n="0517006" resp="CBETA" type="mod">無【大】，無定【乙】，<!--CBETA todo type: newmod-->無定即無【丙】</note><app n="0517006"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【乙】">無定</rdg><rdg resp="Taisho" wit="【丙】">無定即無</rdg></app>自<note n="0517007" resp="Taisho" place="foot text" type="orig">性＋（即無）【乙】</note><note n="0517007" resp="CBETA" type="mod">性【大】，性即無【乙】</note><app n="0517007"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【乙】">性即無</rdg></app>。今小乘執實故
 <lb n="0517a16" ed="T"/>見事變即無常也。如阿難不了佛<note n="0517008" resp="Taisho" place="foot text" type="orig">身＋（是）【乙】【丙】</note><note n="0517008" resp="CBETA" type="mod">身【大】，身是【乙】【丙】</note><app n="0517008"><lem wit="【大】">身</lem><rdg resp="Taisho" wit="【乙】【丙】">身是</rdg></app>應執實
 <lb n="0517a17" ed="T"/>病也　八十八使此是見道所斷煩惱也。謂
 <lb n="0517a18" ed="T"/>迷四諦起此諸惑也。迷苦起十使。貪瞋癡慢
-<lb n="0517a19" ed="T"/>疑身見邊見<note n="0517009" resp="Taisho" place="foot text" type="orig">戒＋（取）【乙】，（取見取）【丙】</note><note n="0517009" resp="CBETA" type="mod">戒【大】，戒取【乙】，<!--CBETA todo type: newmod-->（取見取）【丙】</note><app n="0517009"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【乙】">戒取</rdg><rdg resp="Taisho" wit="【丙】">戒取見取</rdg></app>也。迷集諦起七使。除身邊二
+<lb n="0517a19" ed="T"/>疑身見邊見<note n="0517009" resp="Taisho" place="foot text" type="orig">戒＋（取）【乙】，（取見取）【丙】</note><note n="0517009" resp="CBETA" type="mod">戒【大】，戒取【乙】，<!--CBETA todo type: newmod-->戒取見取【丙】</note><app n="0517009"><lem wit="【大】">戒</lem><rdg resp="Taisho" wit="【乙】">戒取</rdg><rdg resp="Taisho" wit="【丙】">戒取見取</rdg></app>也。迷集諦起七使。除身邊二
 <lb n="0517a20" ed="T"/>見及戒<note n="0517010" resp="Taisho" place="foot text" type="orig">取＋（也）【乙】</note><note n="0517010" resp="CBETA" type="mod">取【大】，取也【乙】</note><app n="0517010"><lem wit="【大】">取</lem><rdg resp="Taisho" wit="【乙】">取也</rdg></app>。迷滅諦起七使亦然。迷道諦起八
 <lb n="0517a21" ed="T"/>使。謂除身邊二見。是此欲<note n="0517011" resp="Taisho" place="foot text" type="orig">界＋（具）【乙】【丙】</note><note n="0517011" resp="CBETA" type="mod">界【大】，界具【乙】【丙】</note><app n="0517011"><lem wit="【大】">界</lem><rdg resp="Taisho" wit="【乙】【丙】">界具</rdg></app>三十二。<note n="0517012" resp="Taisho" place="foot text" type="orig">〔其〕－【乙】【丙】</note><note n="0517012" resp="CBETA" type="mod">其【大】，〔－〕【乙】【丙】</note><app n="0517012"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【乙】【丙】"><space quantity="0"/></rdg></app>上
 <lb n="0517a22" ed="T"/>二界無嗔。四諦各除嗔。即各有二十八也。三
@@ -2327,7 +2327,7 @@ Added comment  for Emacs
 <lb n="0525b22" ed="T"/>病次大悲起故也。大經云。菩薩住三諦三昧。
 <lb n="0525b23" ed="T"/>具二十五三昧。破二十五有眾生之疾也。二
 <lb n="0525b24" ed="T"/>十五有三昧者。大經云。一無垢三昧破地獄
-<lb n="0525b25" ed="T"/>有。不退三昧破畜生有。心樂<note n="0525001" resp="Taisho" place="foot text" type="orig">三＋（昧）？</note><app n="0525001"><lem resp="Taisho" wit="【大】">三</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">三昧</rdg></app>破餓鬼有。
+<lb n="0525b25" ed="T"/>有。不退三昧破畜生有。心樂<note n="0525001" resp="Taisho" place="foot text" type="orig">三＋（昧）？</note><note n="0525001" resp="CBETA" type="mod">三【大】，三昧【考偽-大】</note><app n="0525001"><lem resp="Taisho" wit="【大】">三</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">三昧</rdg></app>破餓鬼有。
 <lb n="0525b26" ed="T"/>歡喜三昧破修羅有。如幻三昧破閻浮有。日
 <lb n="0525b27" ed="T"/>光三昧破東弗婆提有。月光三三昧破西拘耶
 <lb n="0525b28" ed="T"/>尼有。熱焰三昧破北爵單有。不動三昧破四
@@ -2357,7 +2357,7 @@ Added comment  for Emacs
 <lb n="0525c22" ed="T"/>明空。佛道品廣明假。不二法門香積品廣明
 <lb n="0525c23" ed="T"/>中道廣實疾也。詞理寬廣比喻良多。其所證
 <lb n="0525c24" ed="T"/>道得果所益多矣。故知六品經文殊意瞻言
-<lb n="0525c25" ed="T"/>異理苻。總是明菩薩病行。文殊<note n="0525002" resp="Taisho" place="foot text" type="orig">師＋（利）？</note><app n="0525002"><lem resp="Taisho" wit="【大】">師</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">師利</rdg></app>此云妙
+<lb n="0525c25" ed="T"/>異理苻。總是明菩薩病行。文殊<note n="0525002" resp="Taisho" place="foot text" type="orig">師＋（利）？</note><note n="0525002" resp="CBETA" type="mod">師【大】，師利【考偽-大】</note><app n="0525002"><lem resp="Taisho" wit="【大】">師</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">師利</rdg></app>此云妙
 <lb n="0525c26" ed="T"/>德。新云妙吉祥。首楞嚴經下<note n="0525003" resp="Taisho" place="foot text" type="orig">養之＝卷云？</note><note n="0525003" resp="CBETA" type="mod">養之【大】，卷云【考偽-大】</note><app n="0525003"><lem resp="Taisho" wit="【大】">養之</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">卷云</rdg></app>。曾已化
 <lb n="0525c27" ed="T"/>佛號就種上尊　深往者之情者。謂歎上淨
 <lb n="0525c28" ed="T"/>名。令同往<note n="0525004" resp="Taisho" place="foot text" type="orig">法＝諸？</note><note n="0525004" resp="CBETA" type="mod">法【大】，諸【考偽-大】</note><app n="0525004"><lem resp="Taisho" wit="【大】">法</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">諸</rdg></app>人深生信義故曰深也　空室
@@ -3127,7 +3127,7 @@ Added comment  for Emacs
 <lb n="0534b12" ed="T"/>故云也　三正遍知。實知窮源號。大經云。正
 <lb n="0534b13" ed="T"/>者不顛倒遍知。於顛倒無不通達故云也。四
 <lb n="0534b14" ed="T"/>明行足。修因滿已號大經意云。明者佛果。行
-<lb n="0534b15" ed="T"/>者戒定惠修行滿足故云也。五<note n="0534001" resp="Taisho" place="foot text" type="orig">善＋（逝）？</note><app n="0534001"><lem resp="Taisho" wit="【大】">善</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">善逝</rdg></app>直往菩提
+<lb n="0534b15" ed="T"/>者戒定惠修行滿足故云也。五<note n="0534001" resp="Taisho" place="foot text" type="orig">善＋（逝）？</note><note n="0534001" resp="CBETA" type="mod">善【大】，善逝【考偽-大】</note><app n="0534001"><lem resp="Taisho" wit="【大】">善</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">善逝</rdg></app>直往菩提
 <lb n="0534b16" ed="T"/>不退號。大經云。不捨最初發心得大涅槃
 <lb n="0534b17" ed="T"/><note place="inline">謂不退也</note>六世間解。權智圓明號。大論云。知世間
 <lb n="0534b18" ed="T"/>解即知也。瑜伽云。善知世界及有情界一切

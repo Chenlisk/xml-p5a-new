@@ -1394,7 +1394,7 @@ Added comment  for Emacs
 <lb n="0422b22" ed="T"/>不見<note n="0422014" resp="Taisho" place="foot text" type="orig">立＝生ィ【原】</note><note n="0422014" resp="CBETA" type="mod">立【大】，生【校異-原】</note><app n="0422014"><lem wit="【大】">立</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">生</rdg></app>五<note n="0422015" resp="Taisho" place="foot text" type="orig">丈＝大【甲】</note><note n="0422015" resp="CBETA" type="mod">丈【大】，大【甲】</note><app n="0422015"><lem wit="【大】">丈</lem><rdg resp="Taisho" wit="【甲】">大</rdg></app>之質。上下經意非唯一處同
 <lb n="0422b23" ed="T"/>瑜伽顯揚破因中果果論。不爾。如何經云。若
 <lb n="0422b24" ed="T"/>一切眾生無佛性者。云何而得阿耨菩提。<note n="0422016" resp="Taisho" place="foot text" type="orig">（答云）＋以【甲】</note><note n="0422016" resp="CBETA" type="mod">以【大】，答云以【甲】</note><app n="0422016"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】">答云以</rdg></app>
-<lb n="0422b25" ed="T"/>正因故。故令眾生得阿<note n="0422017" resp="Taisho" place="foot text" type="orig">耨＋（菩提何等正因）ィ【原】，（菩提）【甲】</note><note n="0422017" resp="CBETA" type="mod">耨【大】，耨菩提何等正因【校異-原】，<!--CBETA todo type: newmod-->（菩提）【甲】</note><app n="0422017"><lem wit="【大】">耨</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">耨菩提何等正因</rdg><rdg resp="Taisho" wit="【甲】">耨菩提</rdg></app>。所謂佛性。前言
+<lb n="0422b25" ed="T"/>正因故。故令眾生得阿<note n="0422017" resp="Taisho" place="foot text" type="orig">耨＋（菩提何等正因）ィ【原】，（菩提）【甲】</note><note n="0422017" resp="CBETA" type="mod">耨【大】，耨菩提何等正因【校異-原】，<!--CBETA todo type: newmod-->耨菩提【甲】</note><app n="0422017"><lem wit="【大】">耨</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">耨菩提何等正因</rdg><rdg resp="Taisho" wit="【甲】">耨菩提</rdg></app>。所謂佛性。前言
 <lb n="0422b26" ed="T"/>無佛性。無佛果性。彼云佛性為因。即是有佛
 <lb n="0422b27" ed="T"/>因性。若云見道前總無有為無漏種者。豈不
 <lb n="0422b28" ed="T"/>但是卒意所談不依經論。又自引文。若以一
@@ -2227,7 +2227,7 @@ Added comment  for Emacs
 <lb n="0431c18" ed="T"/>得意生身。而不能知故為過也。又云。不空
 <lb n="0431c19" ed="T"/>羂索經及僧<note n="0431020" resp="Taisho" place="foot text" type="orig">伽＋（吒）ィ【原】</note><note n="0431020" resp="CBETA" type="mod">伽【大】，伽吒【校異-原】</note><app n="0431020"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">伽吒</rdg></app>經說。淨居天皆發趣大。判作
 <lb n="0431c20" ed="T"/>法華後教。未知憑何得知。有教即<note n="0431021" resp="Taisho" place="foot text" type="orig">合＝今ィ【甲】</note><note n="0431021" resp="CBETA" type="mod">合【大】，今【校異-甲】</note><app n="0431021"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">今</rdg></app>。明言
-<lb n="0431c21" ed="T"/>無證。如何抑判。又云。唯識<note n="0431022" resp="Taisho" place="foot text" type="orig">〔兩〕－ヵ【甲】，論？</note><note n="0431022" resp="CBETA" type="mod">兩【大】，〔－〕【考偽-甲】，<!--CBETA todo type: i-->論？</note><app n="0431022"><lem resp="Taisho" wit="【大】">兩</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>師所說皆不
+<lb n="0431c21" ed="T"/>無證。如何抑判。又云。唯識<note n="0431022" resp="Taisho" place="foot text" type="orig">〔兩〕－ヵ【甲】，論？</note><note n="0431022" resp="CBETA" type="mod">兩【大】，〔－〕【考偽-甲】，<!--CBETA todo type: newmod--><!--CBETA todo type: i-->論【考偽-大】</note><app n="0431022"><lem resp="Taisho" wit="【大】">兩</lem><rdg resp="Taisho" wit="【甲】" type="correctionRemark"><space quantity="0"/></rdg></app>師所說皆不
 <lb n="0431c22" ed="T"/>應理。故知法華會前一切聖人皆不發心。法
 <lb n="0431c23" ed="T"/>華會後淨居亦發。唯識論師違經立義。非唯
 <lb n="0431c24" ed="T"/>一二者。不爾。如何解深密經彼自許在法華

@@ -5566,7 +5566,7 @@ Added comment  for Emacs
 <lb n="0706b21" ed="T"/><p xml:id="pT52p0706b2101">上人名曉月。字竺卿。余以始字其義不當不
 <lb n="0706b22" ed="T"/>可以為訓義。以公晦易之。名以月者。蓋取其
 <lb n="0706b23" ed="T"/>高明之義也。然明不可終明必受之以晦。日
-<lb n="0706b24" ed="T"/>月終明。則<note n="0706001" resp="Taisho" place="foot text" type="orig">畫＝晝？</note><note n="0706001" resp="CBETA" type="mod">畫＝晝？，<!--CBETA todo type: newmod-->＝晝【CB】</note><app n="0706001"><lem wit="【CBETA】" resp="CBETA.maha  Taisho">晝<note type="cf1">T49n2036_p0630c16</note><note type="cf2">T52n2115_p0706b24 校勘[01]</note></lem><rdg wit="【大】">畫</rdg></app>夜之道不成。故日晦於陰而
+<lb n="0706b24" ed="T"/>月終明。則<note n="0706001" resp="Taisho" place="foot text" type="orig">畫＝晝？</note><note n="0706001" resp="CBETA" type="mod">晝【CB】，畫【大】，晝【考偽-大】</note><app n="0706001"><lem wit="【CB】" resp="CBETA.maha  Taisho">晝<note type="cf1">T49n2036_p0630c16</note><note type="cf2">T52n2115_p0706b24 校勘[01]</note></lem><rdg wit="【大】">畫</rdg></app>夜之道不成。故日晦於陰而
 <lb n="0706b25" ed="T"/>月晦于陽也。天地日月之至明者也。聖賢烏
 <lb n="0706b26" ed="T"/>可終勞其明乎。聖賢終明。則進退動靜之道
 <lb n="0706b27" ed="T"/>固不足法於世也。故古之聖賢者明於有為
@@ -7517,7 +7517,7 @@ Added comment  for Emacs
 <lb n="0728a15" ed="T"/>切當。韓子之意其實謂人與夷狄禽獸皆同
 <lb n="0728a16" ed="T"/>其性命之道也。不直云爾是必欲異乎他教
 <lb n="0728a17" ed="T"/>之說也。然韓子如此而異。亦猶狙公賦茅曰
-<lb n="0728a18" ed="T"/>朝三而<note n="0728001" resp="Taisho" place="foot text" type="orig">莫＝暮？＊</note><app n="0728001"><lem resp="Taisho" wit="【大】">莫</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">暮</rdg></app>四。朝四而<anchor xml:id="fxT52p0728a01"/>莫三。果何能為異耶。
+<lb n="0728a18" ed="T"/>朝三而<note n="0728001" resp="Taisho" place="foot text" type="orig">莫＝暮？＊</note><note n="0728001" resp="CBETA" type="mod">莫【大】＊，暮【考偽-大】＊</note><app n="0728001"><lem resp="Taisho" wit="【大】">莫</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">暮</rdg></app>四。朝四而<anchor xml:id="fxT52p0728a01"/>莫三。果何能為異耶。
 <lb n="0728a19" ed="T"/>其曰人者夷狄禽獸之主者。此又混漫蓋不
 <lb n="0728a20" ed="T"/>足為訓也。韓子苟謂人為血氣之主。彼夷狄
 <lb n="0728a21" ed="T"/>者亦人爾。自可主乎禽獸也。安得謂如禽獸

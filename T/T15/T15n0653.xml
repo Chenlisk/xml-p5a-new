@@ -653,7 +653,7 @@ Added comment  for Emacs
 <lb n="0788a24" ed="T"/>量諸佛，能知我法，可名聖眾。」<note n="0788002" resp="Taisho" type="orig" place="foot text">卷第一終【三】【宮】</note><note n="0788002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第一終【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0788a25" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="5" type="品">5 淨戒品(上-中)</cb:mulu><head><anchor type="circle"/><note n="0788003" resp="Taisho" type="orig" place="foot text">卷第二首【三】【宮】</note><note n="0788003" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第二首【宋】【元】【明】【宮】</note>淨戒品第五<note n="0788004" resp="Taisho" type="orig" place="foot text">〔之一〕－【三】【宮】</note><note n="0788004" resp="CBETA" type="mod">之一【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0788004"><lem wit="【大】">之一</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app></head>
 <lb n="0788a26" ed="T"/><p xml:id="pT15p0788a2601">佛告舍利弗：「破戒比丘有十憂惱箭，難可堪
-<lb n="0788a27" ed="T"/>忍。比丘成就十憂惱箭，則於佛法<note n="0788005" resp="Taisho" type="orig" place="foot text">不可＝不得【宮】</note><note n="0788005" resp="CBETA" type="mod">不得【CB】【麗-CB】【宮】，不可【大】</note><app n="0788005"><lem wit="【CBETA】【麗】" resp="CBETA.maha">不得<note type="cf1">K10n0168_p0348a20</note></lem><rdg wit="【大】">不可</rdg><rdg resp="Taisho" wit="【宮】">不得</rdg></app>滋
+<lb n="0788a27" ed="T"/>忍。比丘成就十憂惱箭，則於佛法<note n="0788005" resp="Taisho" type="orig" place="foot text">不可＝不得【宮】</note><note n="0788005" resp="CBETA" type="mod">不得【CB】【麗-CB】【宮】，不可【大】</note><app n="0788005"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">不得<note type="cf1">K10n0168_p0348a20</note></lem><rdg wit="【大】">不可</rdg><rdg resp="Taisho" wit="【宮】">不得</rdg></app>滋
 <lb n="0788a28" ed="T"/>味，憎說法者不樂親近。</p><p xml:id="pT15p0788a2810" rend="inline">「何等為十？舍利弗！破
 <lb n="0788a29" ed="T"/>戒比丘見僧和合不生喜心。何以故？和合布
 <pb n="0788b" ed="T" xml:id="T15.0653.0788b"/>
@@ -1847,7 +1847,7 @@ Added comment  for Emacs
 <lb n="0801b16" ed="T"/>貪著不善邪見，謂我見、人見、眾生見、壽者見、
 <lb n="0801b17" ed="T"/>命者見，又於第一義空驚疑畏者，當知是人
 <lb n="0801b18" ed="T"/>先世成就破法罪緣。舍利弗！若人如是貪著
-<lb n="0801b19" ed="T"/>惡邪不善，謂貪我、貪人、貪壽命者，<note n="0801009" resp="Taisho" type="orig" place="foot text">是人＋（雖）【三】，＋（雖為）【宮】</note><note n="0801009" resp="CBETA" type="mod">是人【大】，是人雖【宋】【元】【明】，雖為【宮】</note><app n="0801009"><lem wit="【大】">是人</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是人雖</rdg><rdg resp="Taisho" wit="【宮】">是人雖為</rdg></app><note n="0801010" resp="Taisho" type="orig" place="foot text">〔百〕－【宮】</note><note n="0801010" resp="CBETA" type="mod">百【大】，〔－〕【宮】</note><app n="0801010"><lem wit="【大】">百</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>
+<lb n="0801b19" ed="T"/>惡邪不善，謂貪我、貪人、貪壽命者，<note n="0801009" resp="Taisho" type="orig" place="foot text">是人＋（雖）【三】，＋（雖為）【宮】</note><note n="0801009" resp="CBETA" type="mod">是人【大】，是人雖【宋】【元】【明】，是人雖為【宮】</note><app n="0801009"><lem wit="【大】">是人</lem><rdg resp="Taisho" wit="【宋】【元】【明】">是人雖</rdg><rdg resp="Taisho" wit="【宮】">是人雖為</rdg></app><note n="0801010" resp="Taisho" type="orig" place="foot text">〔百〕－【宮】</note><note n="0801010" resp="CBETA" type="mod">百【大】，〔－〕【宮】</note><app n="0801010"><lem wit="【大】">百</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>
 <lb n="0801b20" ed="T"/>千億諸佛以三輪示現，不能令悟使得道果。
 <lb n="0801b21" ed="T"/>舍利弗！寧以利刀割舌，不應不見他事妄說
 <lb n="0801b22" ed="T"/>其過，破戒、破見、破命、破威儀。</p><p xml:id="pT15p0801b2212" rend="inline">「舍利弗！於未來

@@ -610,7 +610,7 @@ add cvs log
 <lb n="0951a06" ed="T"/>
 <lb n="0951a07" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"/><cb:jhead><note n="0951001" resp="Taisho" type="orig" place="foot text">〔大悲…第二〕－【知】</note><note n="0951001" resp="CBETA" type="mod">大悲…第二【大】，〔－〕【知】</note><app n="0951001" cb:word-count="6"><lem wit="【大】"><title>大悲經</title>卷第二</lem><rdg resp="Taisho" wit="【知】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0951a08" ed="T"/>
-<lb n="0951a09" ed="T"/><byline cb:type="Translator"><note n="0951002" resp="Taisho" type="orig" place="foot text">〔高齊…舍譯〕－【知】</note><note n="0951002" resp="CBETA" type="mod">高齊…舍譯【大】，〔－〕【知】</note><app n="0951002" cb:word-count="12"><lem wit="【大】">高齊天竺三藏那連<note n="0951003" resp="Taisho" type="orig" place="foot text">提＋（黎）【元】【明】＊</note><note n="0951003" resp="CBETA" type="mod">提耶【CB】【麗-CB】，提【大】＊，提黎【元】【明】＊</note><app n="0951003"><lem wit="【CBETA】【麗】" resp="CBETA.maha">提耶<note type="cf1">K09n0110_p0501c02</note></lem><rdg wit="【大】">提</rdg><rdg resp="Taisho" wit="【元】【明】">提黎</rdg></app><anchor xml:id="fxT12p0951a01"/>舍譯</lem><rdg resp="Taisho" wit="【知】"><space quantity="0"/></rdg></app></byline>
+<lb n="0951a09" ed="T"/><byline cb:type="Translator"><note n="0951002" resp="Taisho" type="orig" place="foot text">〔高齊…舍譯〕－【知】</note><note n="0951002" resp="CBETA" type="mod">高齊…舍譯【大】，〔－〕【知】</note><app n="0951002" cb:word-count="12"><lem wit="【大】">高齊天竺三藏那連<note n="0951003" resp="Taisho" type="orig" place="foot text">提＋（黎）【元】【明】＊</note><note n="0951003" resp="CBETA" type="mod">提耶【CB】【麗-CB】，提【大】＊，提黎【元】【明】＊</note><app n="0951003"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">提耶<note type="cf1">K09n0110_p0501c02</note></lem><rdg wit="【大】">提</rdg><rdg resp="Taisho" wit="【元】【明】">提黎</rdg></app><anchor xml:id="fxT12p0951a01"/>舍譯</lem><rdg resp="Taisho" wit="【知】"><space quantity="0"/></rdg></app></byline>
 <lb n="0951a10" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="4" type="品">4 羅睺羅品</cb:mulu><head><note n="0951004" resp="Taisho" type="orig" place="foot text">（大悲經）＋羅【知】</note><note n="0951004" resp="CBETA" type="mod">羅【大】，大悲經羅【知】</note><app n="0951004"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【知】">大悲經羅</rdg></app>睺羅品第四</head>
 <lb n="0951a11" ed="T"/><p xml:id="pT12p0951a1101">爾時，大德羅睺羅作如是念：「我今有何喜悅、
 <lb n="0951a12" ed="T"/>有何稱意、有何欣慶而能堪忍面見世尊入
@@ -801,7 +801,7 @@ add cvs log
 <lb n="0953a17" ed="T"/>隱沒、能拔世間無間業箭醫王去耶？我到舍
 <lb n="0953a18" ed="T"/>婆提城作何等語？可言大悲憐愍世間者隱
 <lb n="0953a19" ed="T"/>沒去耶？我到祇陀林，給孤獨長者而問我言：
-<lb n="0953a20" ed="T"/>『如來何時來住祇陀林給<note n="0953a2001" resp="CBETA" type="add">孤【CB】【麗-CB】【磧砂-CB】，狐【大】</note><app n="0953a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">孤<note type="cf1">K09n0110_p0504c17</note><note type="cf2">Q08_p0845b04</note></lem><rdg wit="【大】">狐</rdg></app>獨園？』作何言答？
+<lb n="0953a20" ed="T"/>『如來何時來住祇陀林給<note n="0953a2001" resp="CBETA" type="add">孤【CB】【麗-CB】【磧砂-CB】，狐【大】</note><app n="0953a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">孤<note type="cf1">K09n0110_p0504c17</note><note type="cf2">Q08_p0845b04</note></lem><rdg wit="【大】">狐</rdg></app>獨園？』作何言答？
 <lb n="0953a21" ed="T"/>我到毘舍離城諸離車子前當作何言？可言
 <lb n="0953a22" ed="T"/>憐愍世間最大<note n="0953002" resp="Taisho" type="orig" place="foot text">尊＝導【三】【宮】【知】</note><note n="0953002" resp="CBETA" type="mod">尊【大】，導【宋】【元】【明】【宮】【知】</note><app n="0953002"><lem wit="【大】">尊</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【知】">導</rdg></app>師隱沒去耶？諸方所有善
 <lb n="0953a23" ed="T"/>男子、善女人來問義者作何言答？可言是大
@@ -1178,7 +1178,7 @@ add cvs log
 <lb n="0957b01" ed="T"/>南無佛者，此有何義？」</p><p xml:id="pT12p0957b0109" rend="inline">阿難白言：「佛是一切諸
 <lb n="0957b02" ed="T"/>法之本、佛是眼目能引導者、佛是演說一切
 <lb n="0957b03" ed="T"/>法者。善哉，世尊！願為比丘解釋此義，我今親
-<lb n="0957b04" ed="T"/>承得聞<note n="0957004" resp="Taisho" type="orig" place="foot text">持受＝受持【三】【宮】【聖】</note><note n="0957004" resp="CBETA" type="mod">受持【CB】【麗-CB】【宋】【元】【明】【宮】【聖】，持受【大】</note><app n="0957004"><lem wit="【CBETA】【麗】" resp="CBETA.maha">受持<note type="cf1">K09n0110_p0511a11</note></lem><rdg wit="【大】">持受</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">受持</rdg></app>。」</p><p xml:id="pT12p0957b0406" rend="inline">爾時，世尊復告阿難：「諦聽諦聽，
+<lb n="0957b04" ed="T"/>承得聞<note n="0957004" resp="Taisho" type="orig" place="foot text">持受＝受持【三】【宮】【聖】</note><note n="0957004" resp="CBETA" type="mod">受持【CB】【麗-CB】【宋】【元】【明】【宮】【聖】，持受【大】</note><app n="0957004"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">受持<note type="cf1">K09n0110_p0511a11</note></lem><rdg wit="【大】">持受</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">受持</rdg></app>。」</p><p xml:id="pT12p0957b0406" rend="inline">爾時，世尊復告阿難：「諦聽諦聽，
 <lb n="0957b05" ed="T"/>善思念之，吾當為汝分別解說。」</p><p xml:id="pT12p0957b0513" rend="inline">爾時，阿難聞
 <lb n="0957b06" ed="T"/>佛語已而白佛言：「願樂欲聞。」</p><p xml:id="pT12p0957b0612" rend="inline">佛言：「阿難！所
 <lb n="0957b07" ed="T"/>言南無佛者，此是決定諸佛世尊名號音聲。
@@ -1638,7 +1638,7 @@ add cvs log
 <lb n="0962b11" ed="T"/>七夜目不暫瞬——以無量偈讚彼世尊。次復值
 <lb n="0962b12" ed="T"/>佛名毘婆尸，我復以豆散彼世尊。次復值佛，
 <lb n="0962b13" ed="T"/>名曰尸棄，我以無價寶衣奉上彼佛。次復值
-<lb n="0962b14" ed="T"/>佛，名毘舍浮，我以<note n="0962008" resp="Taisho" type="orig" place="foot text">肴膳＝餚膳【三】【宮】</note><note n="0962008" resp="CBETA" type="mod">餚饍【CB】【麗-CB】，肴膳【大】，餚膳【宋】【元】【明】【宮】</note><app n="0962008"><lem wit="【CBETA】【麗】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0518b24</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>飲食供養彼佛世尊。</p>
+<lb n="0962b14" ed="T"/>佛，名毘舍浮，我以<note n="0962008" resp="Taisho" type="orig" place="foot text">肴膳＝餚膳【三】【宮】</note><note n="0962008" resp="CBETA" type="mod">餚饍【CB】【麗-CB】，肴膳【大】，餚膳【宋】【元】【明】【宮】</note><app n="0962008"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0518b24</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>飲食供養彼佛世尊。</p>
 <lb n="0962b15" ed="T"/><p xml:id="pT12p0962b1501">「阿難！此賢劫初次有佛興名拘留孫，我於彼
 <lb n="0962b16" ed="T"/>所淨修梵行，為求如是自然智故。次復值佛，
 <lb n="0962b17" ed="T"/>名拘那含牟尼，我於彼佛修行梵行。次復有
@@ -2272,7 +2272,7 @@ add cvs log
 <lb n="0969b17" ed="T"/><note n="0969b1701" resp="CBETA" type="add">洲【CB】【麗-CB】，州【大】</note><app n="0969b1701"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">洲<note type="cf1">K09n0110_p0529a20</note></lem><rdg wit="【大】">州</rdg></app>渚并諸眷屬、百億四天下、百億四天王天、
 <lb n="0969b18" ed="T"/>百億三十三天、百億須夜摩天、百億兜率陀
 <lb n="0969b19" ed="T"/>天、百億化樂天、百億他化自在天、百億梵天
-<lb n="0969b20" ed="T"/>乃至阿迦<note n="0969002" resp="Taisho" type="orig" place="foot text">貳＝膩【三】【宮】</note><note n="0969002" resp="CBETA" type="mod">膩【CB】【宋】【元】【明】【宮】，貳【大】</note><app n="0969002"><lem resp="CBETA.maha" wit="【CBETA】">膩</lem><rdg wit="【大】">貳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">膩</rdg></app><note n="0969003" resp="Taisho" type="orig" place="foot text">吒＝咤【明】</note><note n="0969003" resp="CBETA" type="mod">吒【大】，咤【明】</note><app n="0969003"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【明】">咤</rdg></app>天——此名三千大千世界——彼
+<lb n="0969b20" ed="T"/>乃至阿迦<note n="0969002" resp="Taisho" type="orig" place="foot text">貳＝膩【三】【宮】</note><note n="0969002" resp="CBETA" type="mod">膩【CB】【宋】【元】【明】【宮】，貳【大】</note><app n="0969002"><lem resp="CBETA.maha" wit="【CB】">膩</lem><rdg wit="【大】">貳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">膩</rdg></app><note n="0969003" resp="Taisho" type="orig" place="foot text">吒＝咤【明】</note><note n="0969003" resp="CBETA" type="mod">吒【大】，咤【明】</note><app n="0969003"><lem wit="【大】">吒</lem><rdg resp="Taisho" wit="【明】">咤</rdg></app>天——此名三千大千世界——彼
 <lb n="0969b21" ed="T"/>悉滿中諸佛、如來、應、正遍知，譬如甘蔗、若竹、
 <lb n="0969b22" ed="T"/>若<note n="0969004" resp="Taisho" type="orig" place="foot text">𥯤＝葦【三】【宮】</note><note n="0969004" resp="CBETA" type="mod">𥯤【大】，葦【宋】【元】【明】【宮】</note><app n="0969004"><lem wit="【大】">𥯤</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">葦</rdg></app>、若佉陀利林、若迦賒林，彼諸如來壽命
 <lb n="0969b23" ed="T"/>長遠如恒河沙劫。時有長者壽命住世亦復
@@ -2285,7 +2285,7 @@ add cvs log
 <pb n="0969c" xml:id="T12.0380.0969c" ed="T"/>
 <lb n="0969c01" ed="T"/>於意云何？彼大長者所得福德寧為多不？」</p><p xml:id="pT12p0969c0117" rend="inline">阿
 <lb n="0969c02" ed="T"/>難白言：「如是，婆伽婆！如是，修伽陀！彼大長
-<lb n="0969c03" ed="T"/>者於一如來以諸<note n="0969006" resp="Taisho" type="orig" place="foot text">肴膳＝餚膳【三】【宮】＊</note><note n="0969006" resp="CBETA" type="mod">餚饍【CB】＊【麗-CB】＊，肴膳【大】＊，餚膳【宋】【元】【明】【宮】＊</note><app n="0969006"><lem wit="【CBETA】【麗】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0529b16</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>飲食供養所得福德，
+<lb n="0969c03" ed="T"/>者於一如來以諸<note n="0969006" resp="Taisho" type="orig" place="foot text">肴膳＝餚膳【三】【宮】＊</note><note n="0969006" resp="CBETA" type="mod">餚饍【CB】【麗-CB】＊＊，肴膳【大】＊，餚膳【宋】【元】【明】【宮】＊</note><app n="0969006"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0529b16</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>飲食供養所得福德，
 <lb n="0969c04" ed="T"/>尚多無量不可算數，何況如是於諸佛所住
 <lb n="0969c05" ed="T"/>恒河沙劫而設供具恭敬、尊重、謙下供養，彼
 <lb n="0969c06" ed="T"/>佛滅後起七寶塔種種供養？所得福德不可
@@ -2561,7 +2561,7 @@ add cvs log
 <lb n="0972c06" ed="T"/>安隱，<note n="0972008" resp="Taisho" type="orig" place="foot text">悟＝寤【三】【宮】</note><note n="0972008" resp="CBETA" type="mod">悟【大】，寤【宋】【元】【明】【宮】</note><app n="0972008"><lem wit="【大】">悟</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">寤</rdg></app>則心歡喜，二者、不見惡夢，三者、人
 <lb n="0972c07" ed="T"/>非人愛，四者、諸天擁護，五者、毒不能害，六
 <lb n="0972c08" ed="T"/>者、刀箭不傷，七者、火所不燒，八者、水所不溺，
-<lb n="0972c09" ed="T"/>九者、常得好衣、<app type="star" corresp="#0969006"><lem wit="【CBETA】【麗】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0534a09</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>、飲食、床座、臥具、病瘦湯
+<lb n="0972c09" ed="T"/>九者、常得好衣、<app type="star" corresp="#0969006"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">餚饍<note type="cf1">K09n0110_p0534a09</note></lem><rdg wit="【大】">肴膳</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">餚膳</rdg></app>、飲食、床座、臥具、病瘦湯
 <lb n="0972c10" ed="T"/>藥，十者、得上人法，十一者、身壞命終得生梵
 <lb n="0972c11" ed="T"/>天。阿難！心住慈善得此十一功德利益。</p><p xml:id="pT12p0972c1116" rend="inline">「是
 <lb n="0972c12" ed="T"/>故，阿難！若我現在及滅度後，自然法燈、自作

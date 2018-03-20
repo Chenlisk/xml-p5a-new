@@ -1634,7 +1634,7 @@ Added comment  for Emacs
 <lb n="0456b22" ed="T"/><p xml:id="pT85p0456b2201">法無動搖不依六塵故　肇曰。情依六塵故
 <lb n="0456b23" ed="T"/><note n="0456005" resp="Taisho" place="foot text" type="orig">（肇曰）＋有【丙】</note><note n="0456005" resp="CBETA" type="mod">有【大】，肇曰有【丙】</note><app n="0456005"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【丙】">肇曰有</rdg></app>奔逸之動。法本無依故無動搖。</p>
 <lb n="0456b24" ed="T"/><p xml:id="pT85p0456b2401">法無去來常不住故　肇曰。法若常住則從
-<lb n="0456b25" ed="T"/>未來到現在。從現在到過去。<note n="0456006" resp="Taisho" place="foot text" type="orig">法＋（一）【乙】，法一＝一法【丙】</note><note n="0456006" resp="CBETA" type="mod">法一【大】，一法【丙】，法一【乙】</note><app n="0456006"><lem wit="【大】">法一</lem><rdg resp="Taisho" wit="【丙】">一法</rdg><rdg resp="Taisho" wit="【乙】">法一一</rdg></app>逕三世則
+<lb n="0456b25" ed="T"/>未來到現在。從現在到過去。<note n="0456006" resp="Taisho" place="foot text" type="orig">法＋（一）【乙】，法一＝一法【丙】</note><note n="0456006" resp="CBETA" type="mod">法一【大】，一法【丙】，<!--CBETA todo type: newmod-->法＋（一）【乙】</note><app n="0456006"><lem wit="【大】">法一</lem><rdg resp="Taisho" wit="【丙】">一法</rdg><rdg resp="Taisho" wit="【乙】">法一一</rdg></app>逕三世則
 <lb n="0456b26" ed="T"/>有去來也。以法不常住故法無去來也。</p>
 <lb n="0456b27" ed="T"/><p xml:id="pT85p0456b2701">法順空隨無相應無作。法離好醜。法無增損。
 <lb n="0456b28" ed="T"/>法無生滅。法無所歸　肇曰。同三空。又解。實
@@ -3145,7 +3145,7 @@ Added comment  for Emacs
 <lb n="0473b02" ed="T"/>歎實辨才歎權。此初也。內能深達實理外能
 <lb n="0473b03" ed="T"/>談法要旨。肇曰。由實相難測。而能深達善。以
 <lb n="0473b04" ed="T"/>約言而舉多義美。其善德說法要趣也。</p>
-<lb n="0473b05" ed="T"/><p xml:id="pT85p0473b0501">辨才無滯智慧無礙　此難權智。亦內<note n="0473003" resp="Taisho" place="foot text" type="orig">〔外〕－？</note><app n="0473003"><lem resp="Taisho" wit="【大】">外</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>惠
+<lb n="0473b05" ed="T"/><p xml:id="pT85p0473b0501">辨才無滯智慧無礙　此難權智。亦內<note n="0473003" resp="Taisho" place="foot text" type="orig">〔外〕－？</note><note n="0473003" resp="CBETA" type="mod">外【大】，〔－〕【考偽-大】</note><app n="0473003"><lem resp="Taisho" wit="【大】">外</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>惠
 <lb n="0473b06" ed="T"/>外辨也。肇曰。訶辨圓應而無滯。智慧周通而
 <lb n="0473b07" ed="T"/>無礙也。</p>
 <lb n="0473b08" ed="T"/><p xml:id="pT85p0473b0801">一切菩薩法式悉知。諸佛祕藏無不得入

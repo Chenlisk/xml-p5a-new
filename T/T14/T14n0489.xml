@@ -210,7 +210,7 @@ Added comment  for Emacs
 <lb n="0704c28" ed="T"/>摩天中諸天子眾、兜率陀天主等兜率陀天
 <lb n="0704c29" ed="T"/>諸天子眾、善變化天主等化樂天中諸天子<note n="0704c2901" resp="CBETA" type="add">眾【CB】【麗-CB】，［－］【大】</note><app n="0704c2901"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">眾<note type="cf1">K40n1476_p0892a08</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>、
 <pb n="0705a" ed="T" xml:id="T14.0489.0705a"/>
-<lb n="0705a01" ed="T"/><note n="0705001" resp="Taisho" type="orig" place="foot text">陀＝他【三】【宮】＊</note><note n="0705001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->他【CB】【磧-CB】【宋】【元】【明】【宮】＊，陀【大】＊</note><app n="0705001"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">他<note type="cf1">Q34_p0247b03</note></lem><rdg wit="【大】">陀</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他</rdg></app>化自在天主等<note n="0705a0101" resp="CBETA" type="add">他【CB】【麗-CB】，陀【大】</note><app n="0705a0101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">他<note type="cf1">K40n1476_p0892a09</note></lem><rdg wit="【大】">陀</rdg></app>化自在天中諸天子眾、
+<lb n="0705a01" ed="T"/><note n="0705001" resp="Taisho" type="orig" place="foot text">陀＝他【三】【宮】＊</note><note n="0705001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->他【CB】【磧-CB】【宋】【元】【明】【宮】＊，陀【大】＊</note><app n="0705001"><lem wit="【CB】【磧-CB】" resp="CBETA.maha">他<note type="cf1">Q34_p0247b03</note></lem><rdg wit="【大】">陀</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">他</rdg></app>化自在天主等<note n="0705a0101" resp="CBETA" type="add">他【CB】【麗-CB】，陀【大】</note><app n="0705a0101"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">他<note type="cf1">K40n1476_p0892a09</note></lem><rdg wit="【大】">陀</rdg></app>化自在天中諸天子眾、
 <lb n="0705a02" ed="T"/>導師等善分魔王<note n="0705002" resp="Taisho" type="orig" place="foot text">子＝天【明】</note><note n="0705002" resp="CBETA" type="mod">子【大】，天【明】</note><app n="0705002"><lem wit="【大】">子</lem><rdg resp="Taisho" wit="【明】">天</rdg></app>眾、大梵天主等梵眾
 <lb n="0705a03" ed="T"/>天中諸天子眾、大自在天主等五淨居天諸
 <lb n="0705a04" ed="T"/>天子眾，毘摩質多羅阿修羅王、大力阿修羅
@@ -795,7 +795,7 @@ Added comment  for Emacs
 <lb n="0711b11" ed="T"/>還歸本處勿復嬈我，嬈亂我故使汝長夜於
 <lb n="0711b12" ed="T"/>諸有情苦惱逼迫作不饒益。』時彼惡魔潛伏
 <lb n="0711b13" ed="T"/>退屈，即於是處隱而不現。菩薩於是諸惡魔
-<lb n="0711b14" ed="T"/>眾，或魔天等來嬈亂時，而<note n="0711001" resp="Taisho" type="orig" place="foot text">菩菩＝菩薩【三】【宮】</note><note n="0711001" resp="CBETA" type="mod">菩薩【CB】【宋】【元】【明】【宮】，菩菩【大】</note><app n="0711001"><lem resp="CBETA.maha" wit="【CBETA】">菩薩</lem><rdg wit="【大】">菩菩</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菩薩</rdg></app>心不驚不怖
+<lb n="0711b14" ed="T"/>眾，或魔天等來嬈亂時，而<note n="0711001" resp="Taisho" type="orig" place="foot text">菩菩＝菩薩【三】【宮】</note><note n="0711001" resp="CBETA" type="mod">菩薩【CB】【宋】【元】【明】【宮】，菩菩【大】</note><app n="0711001"><lem resp="CBETA.maha" wit="【CB】">菩薩</lem><rdg wit="【大】">菩菩</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">菩薩</rdg></app>心不驚不怖
 <lb n="0711b15" ed="T"/>亦不怯弱，是為菩薩被甲精進。</p><p xml:id="pT14p0711b1513" rend="inline">「云何是無能
 <lb n="0711b16" ed="T"/>勝精進？謂若菩薩隨其諸相發起精進，如所
 <lb n="0711b17" ed="T"/>起時而為最勝，正使餘諸久修道行菩薩，比
@@ -3627,7 +3627,7 @@ Added comment  for Emacs
 <lb n="0742c22" ed="T"/>忿恚惱害諸有情中，我當常行忍辱之行故
 <lb n="0742c23" ed="T"/>摧我慢。善男子！菩薩若修如是十種法者，能
 <lb n="0742c24" ed="T"/>摧我慢。</p><p xml:id="pT14p0742c2404" rend="inline">「又，善男子！菩薩若修十種法者，能生
-<lb n="0742c25" ed="T"/>淨信。何等為十？一者、福行成<note n="0742c2501" resp="CBETA" type="add">辦【CB】【磧砂-CB】，辨【大】</note><app n="0742c2501"><lem wit="【CB】【磧砂-CB】" resp="CBETA.maha">辦<note type="cf1">Q34_p0285a16</note></lem><rdg wit="【大】">辨</rdg></app>；二者、具正因
+<lb n="0742c25" ed="T"/>淨信。何等為十？一者、福行成<note n="0742c2501" resp="CBETA" type="add">辦【CB】【磧砂-CB】，辨【大】</note><app n="0742c2501"><lem wit="【CB】【磧-CB】" resp="CBETA.maha">辦<note type="cf1">Q34_p0285a16</note></lem><rdg wit="【大】">辨</rdg></app>；二者、具正因
 <lb n="0742c26" ed="T"/>故得宿世善根圓滿；三者、不起邪信故而具
 <lb n="0742c27" ed="T"/>正見；四者、不依邪師故得意樂具足；五者、離
 <lb n="0742c28" ed="T"/>諂誑故得正行無曲；六者、根性利故而得勝
@@ -4171,7 +4171,7 @@ Added comment  for Emacs
 <lb n="0748c22" ed="T"/>何等為十？一者、受用其根；二者、受用其莖；三
 <lb n="0748c23" ed="T"/>者、受用其枝；四者、受用其葉；五者、受用其花；
 <lb n="0748c24" ed="T"/>六者、受用其果；七者、見時受用其色；八者、嗅
-<lb n="0748c25" ed="T"/>時受用其香；九者、<note n="0748001" resp="Taisho" type="orig" place="foot text">當＝甞【元】【明】【宮】</note><note n="0748001" resp="CBETA" type="mod">甞【CB】【元】【明】【宮】，當【大】</note><app n="0748001"><lem resp="CBETA.maha" wit="【CBETA】">甞</lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">甞</rdg></app>時受用其味；十者、舉動
+<lb n="0748c25" ed="T"/>時受用其香；九者、<note n="0748001" resp="Taisho" type="orig" place="foot text">當＝甞【元】【明】【宮】</note><note n="0748001" resp="CBETA" type="mod">甞【CB】【元】【明】【宮】，當【大】</note><app n="0748001"><lem resp="CBETA.maha" wit="【CB】">甞</lem><rdg wit="【大】">當</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">甞</rdg></app>時受用其味；十者、舉動
 <lb n="0748c26" ed="T"/>受用其觸。</p><p xml:id="pT14p0748c2605" rend="inline">「善男子！菩薩亦復如是，從初發心
 <lb n="0748c27" ed="T"/>已來，善能治療一切有情諸煩惱病，而諸有
 <lb n="0748c28" ed="T"/>情隨所修作悉愈其疾。一者、受用菩薩布施

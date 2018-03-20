@@ -240,7 +240,7 @@ Added comment  for Emacs
 <pb n="0712a" xml:id="T45.1887A.0712a" ed="T"/>
 <lb n="0712a01" ed="T"/>八者菩薩盡入。於第十地。入一切如來祕密
 <lb n="0712a02" ed="T"/>智故。如經得不可思議境界故。九者佛盡入。
-<lb n="0712a03" ed="T"/>於一切智<note n="0712001" resp="Taisho" place="foot text" type="orig">入＝人ィ【原】＊</note><note n="0712001" resp="CBETA" type="mod">人【CB】，入【大】＊，人【校異-原】＊</note><app n="0712001"><lem wit="【CBETA】" resp="CBETA.maha">人<note type="cf1">T26n1522_p0124c26</note><note type="cf2">T45n1887Bp0731c08</note></lem><rdg wit="【大】">入</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">人</rdg></app>智故。如經乃至得一切智<app type="star" corresp="#0712001"><lem wit="【CBETA】" resp="CBETA.maha">人<note type="cf1">T26n1522_p0124c27</note><note type="cf2">T45n1887Bp0731c09</note></lem><rdg wit="【大】">入</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">人</rdg></app>
+<lb n="0712a03" ed="T"/>於一切智<note n="0712001" resp="Taisho" place="foot text" type="orig">入＝人ィ【原】＊</note><note n="0712001" resp="CBETA" type="mod">人【CB】，入【大】＊，人【校異-原】＊</note><app n="0712001"><lem wit="【CB】" resp="CBETA.maha">人<note type="cf1">T26n1522_p0124c26</note><note type="cf2">T45n1887Bp0731c08</note></lem><rdg wit="【大】">入</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">人</rdg></app>智故。如經乃至得一切智<app type="star" corresp="#0712001"><lem wit="【CB】" resp="CBETA.maha">人<note type="cf1">T26n1522_p0124c27</note><note type="cf2">T45n1887Bp0731c09</note></lem><rdg wit="【大】">入</rdg><rdg resp="Taisho" wit="【原】" type="variantRemark">人</rdg></app>
 <lb n="0712a04" ed="T"/>智境界故。是諸入為挍量智義差別。次第轉
 <lb n="0712a05" ed="T"/>勝。非根本入。一切所說十句中。皆有六種差
 <lb n="0712a06" ed="T"/>別相門。此言說解釋。應知除事。事者謂陰界
@@ -492,7 +492,7 @@ Added comment  for Emacs
 <lb n="0714c09" ed="T"/>者。非自性十。緣成故十。一切緣生法。無有一
 <lb n="0714c10" ed="T"/>法定相有性。無自性故即不自在者。即生不
 <lb n="0714c11" ed="T"/>生生。不生生者。即是不住義。不住義者。即是
-<lb n="0714c12" ed="T"/>中道。<note n="0714010" resp="Taisho" place="foot text" type="orig">（中）＋道ヵ【原】</note><note n="0714010" resp="CBETA" type="mod">道ヵ【大】，中道ヵ【原】</note><app n="0714010"><lem resp="Taisho" wit="【大】">道</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">中道</rdg></app>義者。即通生不生。故龍樹云。<note n="0714011" resp="Taisho" place="foot text" type="orig">因緣＝緣因【甲】</note><note n="0714011" resp="CBETA" type="mod">因緣【大】，緣因【甲】</note><app n="0714011"><lem wit="【大】">因緣</lem><rdg resp="Taisho" wit="【甲】">緣因</rdg></app>
+<lb n="0714c12" ed="T"/>中道。<note n="0714010" resp="Taisho" place="foot text" type="orig">（中）＋道ヵ【原】</note><note n="0714010" resp="CBETA" type="mod">道【大】，中道【考偽-原】</note><app n="0714010"><lem resp="Taisho" wit="【大】">道</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">中道</rdg></app>義者。即通生不生。故龍樹云。<note n="0714011" resp="Taisho" place="foot text" type="orig">因緣＝緣因【甲】</note><note n="0714011" resp="CBETA" type="mod">因緣【大】，緣因【甲】</note><app n="0714011"><lem wit="【大】">因緣</lem><rdg resp="Taisho" wit="【甲】">緣因</rdg></app>
 <lb n="0714c13" ed="T"/>所生法。我說即是<app type="star" corresp="#0711006"><lem wit="【大】">空</lem><rdg resp="Taisho" wit="【甲】">豈</rdg></app>。亦說為<note n="0714012" resp="Taisho" place="foot text" type="orig">〔是〕－ヵ【原】</note><note n="0714012" resp="CBETA" type="mod">是【大】，〔－〕【考偽-原】</note><app n="0714012"><lem resp="Taisho" wit="【大】">是</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark"><space quantity="0"/></rdg></app>假名。<note n="0714013" resp="Taisho" place="foot text" type="orig">亦＝復【甲】</note><note n="0714013" resp="CBETA" type="mod">亦【大】，復【甲】</note><app n="0714013"><lem wit="【大】">亦</lem><rdg resp="Taisho" wit="【甲】">復</rdg></app>
 <lb n="0714c14" ed="T"/>是中道義。即其義也。中道義者。是無分別義。
 <lb n="0714c15" ed="T"/>無分別法不守自性故。隨緣無盡。亦是不住。

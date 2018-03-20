@@ -232,7 +232,7 @@ add cvs log
 <pb n="0934c" xml:id="T54.2129.0934c" ed="T"/>
 <lb n="0934c01" ed="T"/>今同異。雖依憑據。㪅俟來英。冀再披詳。庶無
 <lb n="0934c02" ed="T"/>惑爾。</p></cb:div>
-<lb n="0934c03" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">音大乘理趣六波羅蜜多經</cb:mulu><note n="0934004" resp="Taisho" place="foot text" type="orig">（（音大…音））二十五字＝（（續一切經音義卷第一，燕京崇仁寺沙門希麟集））十九【甲】</note><note n="0934004" resp="CBETA" type="mod">（（音大…音））二十五字＝（（續一切經音義卷第一，<!--CBETA todo type: newmod-->燕京崇仁寺沙門希麟集））十九【甲】</note><app cb:word-count="25" n="0934004"><lem wit="【大】"><head>音大乘理趣六波羅蜜多經一帙十卷</head>
+<lb n="0934c03" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">音大乘理趣六波羅蜜多經</cb:mulu><note n="0934004" resp="Taisho" place="foot text" type="orig">（（音大…音））二十五字＝（（續一切經音義卷第一，燕京崇仁寺沙門希麟集））十九【甲】</note><note n="0934004" resp="CBETA" type="mod">（音大…音）二十五字【大】，（（續一切經音義卷第一，燕京崇仁寺沙門希麟集））十九【甲】</note><app cb:word-count="25" n="0934004"><lem wit="【大】"><head>音大乘理趣六波羅蜜多經一帙十卷</head>
 <lb n="0934c04" ed="T"/><p xml:id="pT54p0934c0401" rend="margin-left:1em">右從第一盡十此卷續音。</p></lem><rdg resp="Taisho" wit="【甲】">續一切經音義卷第一，燕京崇仁寺沙門希麟集</rdg></app>
 <lb n="0934c05" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">1 卷第一</cb:mulu><head>大乘理趣六波羅蜜多經卷第一<note n="0934005" resp="Taisho" place="foot text" type="orig">〔并經序中字〕－【甲】</note><note n="0934005" resp="CBETA" type="mod">并經序中字【大】，〔－〕【甲】</note><app n="0934005"><lem wit="【大】"><note place="inline">并經序中字</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></head>
 <lb n="0934c06" ed="T"/><p xml:id="pT54p0934c0601">大朴<note place="inline">上徒葢反蒼頡篇云大巨也易曰大哉乾元萬物資始下普剝反正作樸字說文云木素也聲類云凡物未雕
@@ -1392,7 +1392,7 @@ add cvs log
 <lb n="0950a01" ed="T"/><p xml:id="pT54p0950a0101">卉木<note place="inline">上許貴反七詩云卉木萋萋也傳云眾也爾雅云卉草郭注云百草惣名也說文從三<note n="0950001" resp="Taisho" place="foot text" type="orig">屮＝中【甲】＊</note><note n="0950001" resp="CBETA" type="mod">屮【大】＊，中【甲】＊</note><app n="0950001"><lem wit="【大】">屮</lem><rdg resp="Taisho" wit="【甲】">中</rdg></app>作芔二<app type="star" corresp="#0950001"><lem wit="【大】">屮</lem><rdg resp="Taisho" wit="【甲】">中</rdg></app>為艸
 <lb n="0950a02" ed="T"/>也<app type="star" corresp="#0950001"><lem wit="【大】">屮</lem><rdg resp="Taisho" wit="【甲】">中</rdg></app>丑列反草本初生之形也艸今為廾音草</note>。</p>
 <lb n="0950a03" ed="T"/><p xml:id="pT54p0950a0301">憍陳如<note place="inline">上舉喬反略梵語也具足云阿若多憍<note n="0950a0301" resp="CBETA" type="add">陳【CB】，陣【大】</note><app n="0950a0301"><lem wit="【CB】" resp="CBETA.maha">陳</lem><rdg wit="【大】">陣</rdg></app>那阿若多此云解也謂最初悟解法故以彰其名憍陳那
-<lb n="0950a04" ed="T"/>婆羅門姓也那是男聲顯從父得新譯經云解憍<note n="0950002" resp="Taisho" place="foot text" type="orig">陣＝陳【甲】</note><note n="0950002" resp="CBETA" type="mod">陳【CB】【甲】，陣【大】</note><app n="0950002"><lem wit="【CBETA】" resp="CBETA.maha">陳</lem><rdg wit="【大】">陣</rdg><rdg resp="Taisho" wit="【甲】">陳</rdg></app>那是也</note>。</p>
+<lb n="0950a04" ed="T"/>婆羅門姓也那是男聲顯從父得新譯經云解憍<note n="0950002" resp="Taisho" place="foot text" type="orig">陣＝陳【甲】</note><note n="0950002" resp="CBETA" type="mod">陳【CB】【甲】，陣【大】</note><app n="0950002"><lem wit="【CB】" resp="CBETA.maha">陳</lem><rdg wit="【大】">陣</rdg><rdg resp="Taisho" wit="【甲】">陳</rdg></app>那是也</note>。</p>
 <lb n="0950a05" ed="T"/><p xml:id="pT54p0950a0501">多陀阿伽度<note place="inline">或云阿伽度梵語魯質也正云怛他誐多此云如來十号之中第一号也</note>。</p>
 <lb n="0950a06" ed="T"/><p xml:id="pT54p0950a0601">阿羅訶<note place="inline">下音呵梵語訛略也正云遏囉曷帝此云應供謂應受人天妙供故即十号之中第二号</note>。</p>
 <lb n="0950a07" ed="T"/><p xml:id="pT54p0950a0701">三藐三佛陀<note place="inline">藐本音莫角反為就梵語借音彌藥反正云三藐三沒駄三字去聲此云正等覺亦云正
@@ -1664,7 +1664,7 @@ add cvs log
 <lb n="0953b16" ed="T"/><p xml:id="pT54p0953b1601">優婆塞<note place="inline">古梵語也正云<note n="0953b1601" resp="CBETA" type="add">鄔【CB】，鄥【大】</note><app n="0953b1601"><lem wit="【CB】" resp="CBETA.maha">鄔</lem><rdg wit="【大】">鄥</rdg></app>波索迦<note n="0953b1602" resp="CBETA" type="add">鄔【CB】，鄥【大】</note><app n="0953b1602"><lem wit="【CB】" resp="CBETA.maha">鄔</lem><rdg wit="【大】">鄥</rdg></app>波此云近也迦此云事也索是男聲即近事男也謂受丑戒親近承事
 <lb n="0953b17" ed="T"/>於三寶者也</note>。</p>
 <lb n="0953b18" ed="T"/><p xml:id="pT54p0953b1801">優婆夷<note place="inline">正云<note n="0953b1801" resp="CBETA" type="add">鄔【CB】，鄥【大】</note><app n="0953b1801"><lem wit="【CB】" resp="CBETA.maha">鄔</lem><rdg wit="【大】">鄥</rdg></app>波斯迦<note n="0953b1802" resp="CBETA" type="add">鄔【CB】，鄥【大】</note><app n="0953b1802"><lem wit="【CB】" resp="CBETA.maha">鄔</lem><rdg wit="【大】">鄥</rdg></app>波迦如前釋斯是女聲呼也</note>。</p>
-<lb n="0953b19" ed="T"/><p xml:id="pT54p0953b1901">贍部洲<note place="inline">上時染反梵語也此大地之惣名古譯或云譫浮或云琰浮或<note n="0953007" resp="Taisho" place="foot text" type="orig">〔云〕－【甲】＊</note><note n="0953007" resp="CBETA" type="mod">云【大】＊，〔－〕【甲】＊</note><app n="0953007"><lem resp="CBETA.say" wit="【CBETA】">云</lem><rdg wit="【大】">去</rdg><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>閻浮提或云琰浮利正云<g ref="#CB01841"/>謨
+<lb n="0953b19" ed="T"/><p xml:id="pT54p0953b1901">贍部洲<note place="inline">上時染反梵語也此大地之惣名古譯或云譫浮或云琰浮或<note n="0953007" resp="Taisho" place="foot text" type="orig">〔云〕－【甲】＊</note><note n="0953007" resp="CBETA" type="mod">云【大】＊，〔－〕【甲】＊</note><app n="0953007"><lem resp="CBETA.say" wit="【CB】">云</lem><rdg wit="【大】">去</rdg><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>閻浮提或云琰浮利正云<g ref="#CB01841"/>謨
 <lb n="0953b20" ed="T"/>立世阿毘曇論云有贍部樹生此洲北邊泥民陀羅河南岸正當洲之中心北臨水上於此樹下水底有贍部黃金樹因
 <lb n="0953b21" ed="T"/>金而得名洲因樹而立號故名憺部洲譫音之<g ref="#CB02705"/>反<g ref="#CB01841"/>音蠶覽反</note>。</p>
 <lb n="0953b22" ed="T"/><p xml:id="pT54p0953b2201">那庾多<note place="inline">中音以主反梵語或云那由他西域數名也此土憶</note>。</p></cb:div>
@@ -3271,7 +3271,7 @@ add cvs log
 <lb n="0974b24" ed="T"/><p xml:id="pT54p0974b2401">禦捍<note place="inline">上魚舉反切韻禁也止也考聲云應當也爾雅云禦圉禁也郭注云禁制也圉音語下胡肝反玉篇云抵捍也
 <pb n="0974c" xml:id="T54.2129.0974c" ed="T"/>
 <lb n="0974c01" ed="T"/><note n="0974008" resp="Taisho" place="foot text" type="orig">旰＝肝【甲】</note><note n="0974008" resp="CBETA" type="mod">旰【大】，肝【甲】</note><app n="0974008"><lem wit="【大】">旰</lem><rdg resp="Taisho" wit="【甲】">肝</rdg></app>古案反</note>。</p>
-<lb n="0974c02" ed="T"/><p xml:id="pT54p0974c0201">敗績<note place="inline">上蒲邁反廣韻云自破曰敗也爾雅云<note n="0974009" resp="Taisho" place="foot text" type="orig">𡉏＝地【甲】</note><note n="0974009" resp="CBETA" type="mod">圮【大】，地【甲】</note><app n="0974009"><lem wit="【CBETA】" resp="CBETA.maha">圮</lem><rdg wit="【大】">圯</rdg><rdg resp="Taisho" wit="【甲】">地</rdg></app>敗覆也郭注云謂毀覆也從文貝聲下子曆反爾雅云績功勳也
+<lb n="0974c02" ed="T"/><p xml:id="pT54p0974c0201">敗績<note place="inline">上蒲邁反廣韻云自破曰敗也爾雅云<note n="0974009" resp="Taisho" place="foot text" type="orig">𡉏＝地【甲】</note><note n="0974009" resp="CBETA" type="mod">圮【大】，地【甲】</note><app n="0974009"><lem wit="【CB】" resp="CBETA.maha">圮</lem><rdg wit="【大】">圯</rdg><rdg resp="Taisho" wit="【甲】">地</rdg></app>敗覆也郭注云謂毀覆也從文貝聲下子曆反爾雅云績功勳也
 <lb n="0974c03" ed="T"/>郭注云謂功勞也字書積業也成也說文作<g ref="#CB07578"/>字</note>。</p>
 <lb n="0974c04" ed="T"/><p xml:id="pT54p0974c0401">馭馬<note place="inline">上牛據反前破僧事第八卷已具釋</note>。</p>
 <lb n="0974c05" ed="T"/><p xml:id="pT54p0974c0501">股肱<note place="inline">上公戶反髀也下古弘反臂也案股肱即手足也尚書云股肱惟人孔傳云手足具乃成人又曰元首明哉股

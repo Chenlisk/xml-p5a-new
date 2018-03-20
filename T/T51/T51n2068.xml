@@ -972,7 +972,7 @@ Added comment  for Emacs
 <lb n="0057b05" ed="T"/><cb:div type="other">
 <lb n="0057b06" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="3" type="卷"/><cb:jhead>法華經傳<note n="0057012" resp="Taisho" place="foot text" type="orig">〔記〕－【甲】</note><note n="0057012" resp="CBETA" type="mod">記【大】，〔－〕【甲】</note><app n="0057012"><lem wit="【大】">記</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>卷第三</cb:jhead></cb:juan>
 <lb n="0057b07" ed="T"/>
-<lb n="0057b08" ed="T"/><head><note n="0057013" resp="Taisho" place="foot text" type="orig">講字前行甲本有僧祥撰集四字</note>講解感應第七之二　<note n="0057014" resp="Taisho" place="foot text" type="orig">〔諷誦…一〕八字－？</note><app n="0057014"><lem resp="Taisho" wit="【大】">諷誦勝利第八
+<lb n="0057b08" ed="T"/><head><note n="0057013" resp="Taisho" place="foot text" type="orig">講字前行甲本有僧祥撰集四字</note>講解感應第七之二　<note n="0057014" resp="Taisho" place="foot text" type="orig">〔諷誦…一〕八字－？</note><note n="0057014" resp="CBETA" type="mod">（諷誦…一）八字【大】，〔－〕【考偽-大】</note><app n="0057014"><lem resp="Taisho" wit="【大】">諷誦勝利第八
 <lb n="0057b09" ed="T"/>之一</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app></head>
 <lb n="0057b10" ed="T"/><list><item xml:id="itemT51p0057b1001">釋灌頂一</item><item xml:id="itemT51p0057b1005">釋慧如二</item>
 <lb n="0057b11" ed="T"/><item xml:id="itemT51p0057b1101">釋僧隆三</item><item xml:id="itemT51p0057b1105">釋窺基四</item>
@@ -1177,7 +1177,7 @@ Added comment  for Emacs
 <lb n="0059b28" ed="T"/>令影響之。晦迹已後。台嶺山眾一焉。是囑
 <lb n="0059b29" ed="T"/>二十年間。詢詢善誘。無違遺寄。便為二眾依
 <pb n="0059c" xml:id="T51.2068.0059c" ed="T"/>
-<lb n="0059c01" ed="T"/>止。四部歸崇。姿容<note n="0059013" resp="Taisho" place="foot text" type="orig">環＝瓌【甲】</note><note n="0059013" resp="CBETA" type="mod">瑰【CB】，環【大】，瓌【甲】</note><app n="0059013"><lem wit="【CBETA】" resp="CBETA.maha">瑰<note type="cf1">T50n2060_p0570c13</note></lem><rdg wit="【大】">環</rdg><rdg resp="Taisho" wit="【甲】">瓌</rdg></app>偉。德感物情。頗存<note n="0059014" resp="Taisho" place="foot text" type="orig">汲＝級【甲】</note><note n="0059014" resp="CBETA" type="mod">汲【大】，級【甲】</note><app n="0059014"><lem wit="【大】">汲</lem><rdg resp="Taisho" wit="【甲】">級</rdg></app>
+<lb n="0059c01" ed="T"/>止。四部歸崇。姿容<note n="0059013" resp="Taisho" place="foot text" type="orig">環＝瓌【甲】</note><note n="0059013" resp="CBETA" type="mod">瑰【CB】，環【大】，瓌【甲】</note><app n="0059013"><lem wit="【CB】" resp="CBETA.maha">瑰<note type="cf1">T50n2060_p0570c13</note></lem><rdg wit="【大】">環</rdg><rdg resp="Taisho" wit="【甲】">瓌</rdg></app>偉。德感物情。頗存<note n="0059014" resp="Taisho" place="foot text" type="orig">汲＝級【甲】</note><note n="0059014" resp="CBETA" type="mod">汲【大】，級【甲】</note><app n="0059014"><lem wit="【大】">汲</lem><rdg resp="Taisho" wit="【甲】">級</rdg></app>
 <lb n="0059c02" ed="T"/>引。每於師忌。勅設千僧官齋。越以衣盋之
 <lb n="0059c03" ed="T"/>餘。以充大施。隋文皇帝獻后崩日。設齋呪願。
 <lb n="0059c04" ed="T"/>每獲百段。曾不固<note n="0059015" resp="Taisho" place="foot text" type="orig">留＝流【甲】</note><note n="0059015" resp="CBETA" type="mod">留【大】，流【甲】</note><app n="0059015"><lem wit="【大】">留</lem><rdg resp="Taisho" wit="【甲】">流</rdg></app>。括州刺史鄭係伯。臨
@@ -1245,7 +1245,7 @@ Added comment  for Emacs
 <lb n="0060b06" ed="T"/>晞。具陳上事。良久答云。山神護惜。不可造
 <lb n="0060b07" ed="T"/>次。無敢重言。各還所在。爾夜夢。人送疏云。
 <lb n="0060b08" ed="T"/>香鑪峯檉柏樹。盡皆捨給經臺。既感冥示。即
-<lb n="0060b09" ed="T"/>便撝略。營<note n="0060012" resp="Taisho" place="foot text" type="orig">辨＝辦【甲】</note><note n="0060012" resp="CBETA" type="mod">辦【CB】【甲】，辨【大】</note><app n="0060012"><lem wit="【CBETA】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【甲】">辦</rdg></app>食具。分部人<note n="0060013" resp="Taisho" place="foot text" type="orig">工＝士【甲】</note><note n="0060013" resp="CBETA" type="mod">工【大】，士【甲】</note><app n="0060013"><lem wit="【大】">工</lem><rdg resp="Taisho" wit="【甲】">士</rdg></app>。入山採伐。侍
+<lb n="0060b09" ed="T"/>便撝略。營<note n="0060012" resp="Taisho" place="foot text" type="orig">辨＝辦【甲】</note><note n="0060012" resp="CBETA" type="mod">辦【CB】【甲】，辨【大】</note><app n="0060012"><lem wit="【CB】" resp="CBETA.maha">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【甲】">辦</rdg></app>食具。分部人<note n="0060013" resp="Taisho" place="foot text" type="orig">工＝士【甲】</note><note n="0060013" resp="CBETA" type="mod">工【大】，士【甲】</note><app n="0060013"><lem wit="【大】">工</lem><rdg resp="Taisho" wit="【甲】">士</rdg></app>。入山採伐。侍
 <lb n="0060b10" ed="T"/>者諮曰。昨日不許。今那取之。答<note n="0060014" resp="Taisho" place="foot text" type="orig">〔曰〕－【甲】</note><note n="0060014" resp="CBETA" type="mod">曰【大】，〔－〕【甲】</note><app n="0060014"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。昨由他
 <lb n="0060b11" ed="T"/>今由我。但取無苦。必不相誤。從旨往取無留
 <lb n="0060b12" ed="T"/>難。先師智者陳曰。勸化百姓。從天台<note n="0060015" resp="Taisho" place="foot text" type="orig">渚＝諸【甲】</note><note n="0060015" resp="CBETA" type="mod">渚【大】，諸【甲】</note><app n="0060015"><lem wit="【大】">渚</lem><rdg resp="Taisho" wit="【甲】">諸</rdg></app>。次
@@ -2593,7 +2593,7 @@ Added comment  for Emacs
 <lb n="0075a28" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">13 建德郡王穀</cb:mulu><head>建德郡王穀十三</head>
 <lb n="0075a29" ed="T"/><p xml:id="pT51p0075a2901">王穀建德郡人也。為黃龍國守。庫吏器物耗
 <pb n="0075b" xml:id="T51.2068.0075b" ed="T"/>
-<lb n="0075b01" ed="T"/>散。罪當<note n="0075004" resp="Taisho" place="foot text" type="orig">至＋（死）？</note><app n="0075004"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">至死</rdg></app>。怨念耗非己藏。而罪無所逃。便
+<lb n="0075b01" ed="T"/>散。罪當<note n="0075004" resp="Taisho" place="foot text" type="orig">至＋（死）？</note><note n="0075004" resp="CBETA" type="mod">至【大】，至死【考偽-大】</note><app n="0075004"><lem resp="Taisho" wit="【大】">至</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">至死</rdg></app>。怨念耗非己藏。而罪無所逃。便
 <lb n="0075b02" ed="T"/>至心諷誦觀世音經得千遍。身上鎖械悉斷
 <lb n="0075b03" ed="T"/>絕。人謂希有矣。</p></cb:div>
 <lb n="0075b04" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">14 長安大寺比丘尼妙法</cb:mulu><head>長安大寺比丘尼妙法十四</head>
@@ -4301,7 +4301,7 @@ Added comment  for Emacs
 <lb n="0094a21" ed="T"/>所被。神志鮮爽。周告道俗。剋日燒身。以貞觀
 <lb n="0094a22" ed="T"/>三年二月八日。於荊州大街。置二高座。乃以
 <lb n="0094a23" ed="T"/>蠟布纏身至頂。惟出面目。眾聚如山。歌讚雲
-<lb n="0094a24" ed="T"/>會。誦至燒處。其姊先以火柱妹頂<note n="0094008" resp="Taisho" place="foot text" type="orig">〔請〕－？</note><app n="0094008"><lem resp="Taisho" wit="【大】">請</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app><note n="0094009" resp="Taisho" place="foot text" type="orig">〔妹又以火柱姊頂清〕－【甲】</note><note n="0094009" resp="CBETA" type="mod">妹又以火柱姊頂清【大】，〔－〕【甲】</note><app n="0094009"><lem wit="【大】">妹又
+<lb n="0094a24" ed="T"/>會。誦至燒處。其姊先以火柱妹頂<note n="0094008" resp="Taisho" place="foot text" type="orig">〔請〕－？</note><note n="0094008" resp="CBETA" type="mod">請【大】，〔－〕【考偽-大】</note><app n="0094008"><lem resp="Taisho" wit="【大】">請</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app><note n="0094009" resp="Taisho" place="foot text" type="orig">〔妹又以火柱姊頂清〕－【甲】</note><note n="0094009" resp="CBETA" type="mod">妹又以火柱姊頂清【大】，〔－〕【甲】</note><app n="0094009"><lem wit="【大】">妹又
 <lb n="0094a25" ed="T"/>以火柱姊頂清</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>夜兩炬。一時同耀。焰下至眼。
 <lb n="0094a26" ed="T"/>聲相轉明。漸下鼻口。方乃歇滅。恰至明晨。合
 <lb n="0094a27" ed="T"/>坐洞舉。一時火化骸骨摧朽。二舌俱<note n="0094010" resp="Taisho" place="foot text" type="orig">存合眾欣＝眾傾【甲】</note><note n="0094010" resp="CBETA" type="mod">存合眾欣【大】，眾傾【甲】</note><app n="0094010"><lem wit="【大】">存合眾

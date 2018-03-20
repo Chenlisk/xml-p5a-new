@@ -316,7 +316,7 @@ Added comment  for Emacs
 <lb ed="T" n="0538c13"/>語舍利弗：「勿作是<note resp="Taisho" type="orig" place="foot text" n="0538009">意＝念【元】【明】</note><note resp="CBETA" type="mod" n="0538009">意【大】，念【元】【明】</note><app n="0538009"><lem wit="【大】">意</lem><rdg wit="【元】【明】" resp="Taisho">念</rdg></app>，謂此佛土以為不
 <lb n="0538c14" ed="T"/>淨。所以者何？我見釋迦牟尼佛土清淨，譬
 <lb n="0538c15" ed="T"/>如自在天宮。」</p><p xml:id="pT14p0538c1506" rend="inline">舍利弗言：「我見此土丘陵坑
-<lb ed="T" n="0538c16"/>坎、荊蕀沙礫、土石諸山、穢惡充滿。」</p><p xml:id="pT14p0538c1614" rend="inline">螺髻<note n="0538010" place="foot text" type="orig" resp="Taisho">梵＋（王）【元】【明】</note><note type="mod" n="0538010" resp="CBETA">梵王【CB】【元】【明】，梵【大】</note><app n="0538010"><lem wit="【CBETA】" resp="CBETA.maha">梵王</lem><rdg wit="【大】">梵</rdg><rdg resp="Taisho" wit="【元】【明】">梵王</rdg></app>
+<lb ed="T" n="0538c16"/>坎、荊蕀沙礫、土石諸山、穢惡充滿。」</p><p xml:id="pT14p0538c1614" rend="inline">螺髻<note n="0538010" place="foot text" type="orig" resp="Taisho">梵＋（王）【元】【明】</note><note type="mod" n="0538010" resp="CBETA">梵王【CB】【元】【明】，梵【大】</note><app n="0538010"><lem wit="【CB】" resp="CBETA.maha">梵王</lem><rdg wit="【大】">梵</rdg><rdg resp="Taisho" wit="【元】【明】">梵王</rdg></app>
 <lb n="0538c17" ed="T"/>言：「仁者心有高下，不依佛慧，故見此土
 <lb ed="T" n="0538c18"/>為不淨耳！舍利弗！菩薩於一切眾生悉皆
 <lb ed="T" n="0538c19"/>平等，深心清淨，依佛智慧，則能見此佛土清
@@ -803,7 +803,7 @@ Added comment  for Emacs
 <lb ed="T" n="0544a20"/>
 <milestone n="2" unit="juan"/>
 <lb ed="T" n="0544a21"/><cb:div type="pin">
-<lb ed="T" n="0544a22"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="002"/><cb:jhead><title>維摩詰<note resp="Taisho" type="orig" place="foot text" n="0544004">〔所說〕－【聖】</note><note resp="CBETA" type="mod" n="0544004">所說【大】，〔－〕【聖】</note><app n="0544004"><lem wit="【大】">所說</lem><rdg wit="【聖】" resp="Taisho"><space quantity="0"/></rdg></app>經</title><note n="0544005" place="foot text" type="orig" resp="Taisho">卷中＋（不可思議解脫（脫＝說【元】））【宋】【元】，〔卷中〕－【聖】</note><note type="mod" n="0544005" resp="CBETA">卷中【大】，卷中不可思議解脫【宋】，不可思議解說【元】，〔－〕【聖】</note><app n="0544005"><lem wit="【大】">卷中</lem><rdg resp="Taisho" wit="【宋】">卷中不可思議解脫</rdg><rdg wit="【元】" resp="Taisho">卷中不可思議解說</rdg><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb ed="T" n="0544a22"/><cb:juan fun="open" n="002"><cb:mulu type="卷" n="002"/><cb:jhead><title>維摩詰<note resp="Taisho" type="orig" place="foot text" n="0544004">〔所說〕－【聖】</note><note resp="CBETA" type="mod" n="0544004">所說【大】，〔－〕【聖】</note><app n="0544004"><lem wit="【大】">所說</lem><rdg wit="【聖】" resp="Taisho"><space quantity="0"/></rdg></app>經</title><note n="0544005" place="foot text" type="orig" resp="Taisho">卷中＋（不可思議解脫（脫＝說【元】））【宋】【元】，〔卷中〕－【聖】</note><note type="mod" n="0544005" resp="CBETA">卷中【大】，卷中不可思議解脫【宋】，卷中不可思議解說【元】，〔－〕【聖】</note><app n="0544005"><lem wit="【大】">卷中</lem><rdg resp="Taisho" wit="【宋】">卷中不可思議解脫</rdg><rdg wit="【元】" resp="Taisho">卷中不可思議解說</rdg><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0544a23" ed="T"/>
 <lb n="0544a24" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT14p0544a01"/>姚秦<anchor xml:id="fxT14p0544a02"/>三藏鳩摩羅什<anchor xml:id="fxT14p0544a03"/>譯</byline>
 <lb n="0544a25" ed="T"/><cb:mulu type="品" n="5" level="1">5 文殊師利問疾品</cb:mulu><head>文殊師利問疾品第五</head>
@@ -881,7 +881,7 @@ Added comment  for Emacs
 <lb ed="T" n="0545a07"/>想者，亦是顛倒，顛倒者<note n="0545001" place="foot text" type="orig" resp="Taisho">是即＝即是【元】【明】</note><note n="0545001" type="mod" resp="CBETA">是即【大】，即是【元】【明】</note><app n="0545001"><lem wit="【大】">是即</lem><rdg resp="Taisho" wit="【元】【明】">即是</rdg></app>大患，我應離
 <lb ed="T" n="0545a08"/>之。』云何為離？離我、我所。云何離我、我所？謂
 <lb n="0545a09" ed="T"/>離二法。云何離二法？謂不念內外，諸法行
-<lb ed="T" n="0545a10"/>於平等。云何平等？<note type="orig" place="foot text" n="0545002" resp="Taisho">為＝謂【聖】</note><note n="0545002" type="mod" resp="CBETA">謂【CB】【麗-CB】【聖】，為【大】</note><app n="0545002"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">謂<note type="cf1">K09n0119_p0988b16</note><note type="cf2">T38n1775_p0376c29</note></lem><rdg wit="【大】">為</rdg><rdg resp="Taisho" wit="【聖】">謂</rdg></app>我等、涅槃等。所以者
+<lb ed="T" n="0545a10"/>於平等。云何平等？<note type="orig" place="foot text" n="0545002" resp="Taisho">為＝謂【聖】</note><note n="0545002" type="mod" resp="CBETA">謂【CB】【麗-CB】【聖】，為【大】</note><app n="0545002"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">謂<note type="cf1">K09n0119_p0988b16</note><note type="cf2">T38n1775_p0376c29</note></lem><rdg wit="【大】">為</rdg><rdg resp="Taisho" wit="【聖】">謂</rdg></app>我等、涅槃等。所以者
 <lb ed="T" n="0545a11"/>何？我及涅槃，此二皆空。以何為空？但以名
 <lb ed="T" n="0545a12"/>字故空。如此二法，無決定性，得是平等，無
 <lb ed="T" n="0545a13"/>有餘病，唯有空病；空病亦空。是有疾菩薩
@@ -1254,7 +1254,7 @@ Added comment  for Emacs
 <lb ed="T" n="0549a20"/>羸劣醜陋，而得那羅延身，一切眾生之所樂
 <lb n="0549a21" ed="T"/>見；示入老病，而永斷病根，超越死畏；示
 <lb ed="T" n="0549a22"/>有資生，而恒觀無常，實無所貪；示有妻
-<lb ed="T" n="0549a23"/><note n="0549005" place="foot text" type="orig" resp="Taisho">妾＝妄【元】</note><note n="0549005" type="mod" resp="CBETA">妾【大】，妄【元】</note><app n="0549005"><lem wit="【大】">妾</lem><rdg resp="Taisho" wit="【元】">妄</rdg></app><note resp="Taisho" n="0549006" place="foot text" type="orig">采＝婇【三】，綵【聖】</note><note type="mod" n="0549006" resp="CBETA">采【大】，婇【宋】【元】【明】，綵【聖】</note><app n="0549006"><lem wit="【CBETA】" resp="CBETA.maha">采</lem><rdg wit="【大】">釆</rdg><rdg wit="【宋】【元】【明】" resp="Taisho">婇</rdg><rdg wit="【聖】" resp="Taisho">綵</rdg></app>女，而常遠離五欲淤泥；現於訥鈍，
+<lb ed="T" n="0549a23"/><note n="0549005" place="foot text" type="orig" resp="Taisho">妾＝妄【元】</note><note n="0549005" type="mod" resp="CBETA">妾【大】，妄【元】</note><app n="0549005"><lem wit="【大】">妾</lem><rdg resp="Taisho" wit="【元】">妄</rdg></app><note resp="Taisho" n="0549006" place="foot text" type="orig">采＝婇【三】，綵【聖】</note><note type="mod" n="0549006" resp="CBETA">采【大】，婇【宋】【元】【明】，綵【聖】</note><app n="0549006"><lem wit="【CB】" resp="CBETA.maha">采</lem><rdg wit="【大】">釆</rdg><rdg wit="【宋】【元】【明】" resp="Taisho">婇</rdg><rdg wit="【聖】" resp="Taisho">綵</rdg></app>女，而常遠離五欲淤泥；現於訥鈍，
 <lb n="0549a24" ed="T"/>而成就辯才，總持無失；示入邪濟，而以正
 <lb n="0549a25" ed="T"/>濟度諸眾生；現遍入諸道，而斷其因緣；
 <lb n="0549a26" ed="T"/>現於涅槃，而不斷生死：文殊師利！菩薩能
@@ -2005,6 +2005,6 @@ Added comment  for Emacs
 <lb n="0557b22" ed="T"/>『不可思議解<note resp="Taisho" n="0557010" place="foot text" type="orig">脫＝說【聖】</note><note resp="CBETA" n="0557010" type="mod">脫【大】，說【聖】</note><app n="0557010"><lem wit="【大】">脫</lem><rdg resp="Taisho" wit="【聖】">說</rdg></app>法門』，如是受持。」</p><p rend="inline" xml:id="pT14p0557b2213">佛說是
 <lb n="0557b23" ed="T"/>經已，長者維摩詰、文殊師利、舍利弗、阿難
 <lb ed="T" n="0557b24"/>等，及諸天、人、阿修羅一切大眾，聞佛所說，皆
-<lb n="0557b25" ed="T"/>大<note resp="Taisho" n="0557011" place="foot text" type="orig">歡喜＋（作禮而去）【宋】，＋（信受奉行）【元】【明】，＋（蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日）百二十七字奧書【聖】</note><note resp="CBETA" n="0557011" type="mod">歡喜【大】，歡喜作禮而去【宋】，信受奉行【元】【明】，<!--CBETA todo type: newmod-->＋（蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日）百二十七字奧書【聖】</note><app n="0557011"><lem wit="【大】">歡喜</lem><rdg wit="【宋】" resp="Taisho">歡喜作禮而去</rdg><rdg resp="Taisho" wit="【元】【明】">歡喜信受奉行</rdg><rdg wit="【聖】" resp="Taisho">歡喜蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日</rdg></app>。</p>
+<lb n="0557b25" ed="T"/>大<note resp="Taisho" n="0557011" place="foot text" type="orig">歡喜＋（作禮而去）【宋】，＋（信受奉行）【元】【明】，＋（蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日）百二十七字奧書【聖】</note><note resp="CBETA" n="0557011" type="mod">歡喜【大】，歡喜作禮而去【宋】，歡喜信受奉行【元】【明】，<!--CBETA todo type: newmod-->＋（蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日）百二十七字奧書【聖】</note><app n="0557011"><lem wit="【大】">歡喜</lem><rdg wit="【宋】" resp="Taisho">歡喜作禮而去</rdg><rdg resp="Taisho" wit="【元】【明】">歡喜信受奉行</rdg><rdg wit="【聖】" resp="Taisho">歡喜蓋聞陰陽無像能成万物和氣變化並一空門此則借方而示不方方真自以不方故今西方淨土涅萬行之黑土基菩提之白槃以此敬寫維摩經三軸斯依善因資已丑歲八月二十六日子時過往亡者穗積朝臣老此君永逝一期兩般不顧親屬所以生安養界同處欲相願共諸眾生往生安樂國　天平勝寶二年四月十五日</rdg></app>。</p>
 <lb ed="T" n="0557b26"/><cb:juan n="003" fun="close"><cb:jhead><title>維摩詰<note resp="Taisho" type="orig" place="foot text" n="0557012">（所說）＋經【三】</note><note type="mod" n="0557012" resp="CBETA">經【大】，所說經【宋】【元】【明】</note><app n="0557012"><lem wit="【大】">經</lem><rdg wit="【宋】【元】【明】" resp="Taisho">所說經</rdg></app></title>卷<note type="orig" place="foot text" n="0557013" resp="Taisho">（第）＋下【聖】</note><note type="mod" n="0557013" resp="CBETA">下【大】，第下【聖】</note><app n="0557013"><lem wit="【大】">下</lem><rdg wit="【聖】" resp="Taisho">第下</rdg></app></cb:jhead></cb:juan></cb:div>
 </body></text></TEI>

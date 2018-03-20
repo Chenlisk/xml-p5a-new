@@ -1016,7 +1016,7 @@ Added comment  for Emacs
 <lb n="0010a25" ed="T"/><l>不以見無見，</l><l>無求無所守，</l>
 <lb n="0010a26" ed="T"/><l>我人寂寞<note n="0010004" resp="Taisho" type="orig" place="foot text">定＝空【元】【明】</note><note n="0010004" resp="CBETA" type="mod">定【大】，空【元】【明】</note><app n="0010004"><lem wit="【大】">定</lem><rdg resp="Taisho" wit="【元】【明】">空</rdg></app>，</l><l>無<note n="0010005" resp="Taisho" type="orig" place="foot text">相＝想【宋】【宮】</note><note n="0010005" resp="CBETA" type="mod">相【大】，想【宋】【宮】</note><app n="0010005"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【宋】【宮】">想</rdg></app>願亦然。</l>
 <lb n="0010a27" ed="T"/><l>夫欲飲無厭，</l><l>甘露微妙味，</l>
-<lb n="0010a28" ed="T"/><l><note n="0010006" resp="Taisho" type="orig" place="foot text">妄想＝是想【宋】【宮】，亡相【元】【明】</note><note n="0010006" resp="CBETA" type="mod">亡相【CB】【磧-CB】【元】【明】，妄想【大】，是想【宋】【宮】，忘想【麗-CB】</note><app n="0010006"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">亡相<note type="cf1">Q12_p0231c06</note></lem><rdg wit="【大】">妄想</rdg><rdg resp="CBETA.maha" wit="【麗】">忘想<note type="cf1">K12n0385_p0521b22</note></rdg><rdg resp="Taisho" wit="【宋】【宮】">是想</rdg><rdg resp="Taisho" wit="【元】【明】">亡相</rdg></app>除諸著，</l><l>斯應菩薩慧。</l>
+<lb n="0010a28" ed="T"/><l><note n="0010006" resp="Taisho" type="orig" place="foot text">妄想＝是想【宋】【宮】，亡相【元】【明】</note><note n="0010006" resp="CBETA" type="mod">亡相【CB】【磧-CB】【元】【明】，妄想【大】，是想【宋】【宮】，忘想【麗-CB】</note><app n="0010006"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">亡相<note type="cf1">Q12_p0231c06</note></lem><rdg wit="【大】">妄想</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">忘想<note type="cf1">K12n0385_p0521b22</note></rdg><rdg resp="Taisho" wit="【宋】【宮】">是想</rdg><rdg resp="Taisho" wit="【元】【明】">亡相</rdg></app>除諸著，</l><l>斯應菩薩慧。</l>
 <lb n="0010a29" ed="T"/><l>無人無壽命，</l><l>成就諸佛藏，</l>
 <pb n="0010b" ed="T" xml:id="T16.0656.0010b"/>
 <lb n="0010b01" ed="T"/><l>摧碎貢高心，</l><l>不興自大意。</l>
@@ -2026,7 +2026,7 @@ Added comment  for Emacs
 <lb n="0021b15" ed="T"/>六？無盡法身有盡法身，分別有無法識清淨，
 <lb n="0021b16" ed="T"/>是謂一法清淨瓔珞。</p><p xml:id="pT16p0021b1609" rend="inline">「無為法性行無增減，知
 <lb n="0021b17" ed="T"/>法有善知法無善，知有生法知有滅法，曉了
-<lb n="0021b18" ed="T"/>法識不失法性，是謂二法清淨瓔珞<note n="0021005" resp="Taisho" type="orig" place="foot text">〔諸本…法〕夾註－【宮】</note><note n="0021005" resp="CBETA" type="mod">(諸本…法)【大】，〔－〕【宮】</note><app n="0021005" cb:word-count="6"><lem wit="【大】"><note place="inline">諸本<note n="0021006" resp="Taisho" type="orig" place="foot text">小第＝皆少【三】</note><note n="0021006" resp="CBETA" type="mod">少第【CB】，小第【大】，皆少【宋】【元】【明】</note><app n="0021006"><lem resp="CBETA.maha" wit="【CBETA】">少第</lem><rdg wit="【大】">小第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">皆少</rdg></app>三法</note></lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>。</p>
+<lb n="0021b18" ed="T"/>法識不失法性，是謂二法清淨瓔珞<note n="0021005" resp="Taisho" type="orig" place="foot text">〔諸本…法〕夾註－【宮】</note><note n="0021005" resp="CBETA" type="mod">(諸本…法)【大】，〔－〕【宮】</note><app n="0021005" cb:word-count="6"><lem wit="【大】"><note place="inline">諸本<note n="0021006" resp="Taisho" type="orig" place="foot text">小第＝皆少【三】</note><note n="0021006" resp="CBETA" type="mod">少第【CB】，小第【大】，皆少【宋】【元】【明】</note><app n="0021006"><lem resp="CBETA.maha" wit="【CB】">少第</lem><rdg wit="【大】">小第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">皆少</rdg></app>三法</note></lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>。</p>
 <lb n="0021b19" ed="T"/><p xml:id="pT16p0021b1901">「有常住身無常住身，法不常住知不常住，諸
 <lb n="0021b20" ed="T"/>法常住亦知常住，思惟諸法住識無住識，是
 <lb n="0021b21" ed="T"/>謂四法清淨瓔珞。</p><p xml:id="pT16p0021b2108" rend="inline">「諸法寂然，諸法色亦復寂
@@ -2137,7 +2137,7 @@ Added comment  for Emacs
 <lb n="0022c07" ed="T"/>我，生識不起，分別界相，永斷妄見，施心不
 <lb n="0022c08" ed="T"/>闕，心常一定在眾不亂，身識空識無若干想，
 <lb n="0022c09" ed="T"/>菩薩有數不著名號，觀了諸法非一非二，眾
-<lb n="0022c10" ed="T"/>生起恚，便為方便說除<note n="0022005" resp="Taisho" type="orig" place="foot text">旡＝九【三】【宮】</note><note n="0022005" resp="CBETA" type="mod">无【CB】，旡【大】，九【宋】【元】【明】【宮】</note><app n="0022005"><lem resp="CBETA.maha" wit="【CBETA】">无</lem><rdg wit="【大】">旡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">九</rdg></app>本身識之行，十
+<lb n="0022c10" ed="T"/>生起恚，便為方便說除<note n="0022005" resp="Taisho" type="orig" place="foot text">旡＝九【三】【宮】</note><note n="0022005" resp="CBETA" type="mod">无【CB】，旡【大】，九【宋】【元】【明】【宮】</note><app n="0022005"><lem resp="CBETA.maha" wit="【CB】">无</lem><rdg wit="【大】">旡</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">九</rdg></app>本身識之行，十
 <lb n="0022c11" ed="T"/>二因緣，四諦聖慧，思惟苦本有苦識耶？無苦
 <lb n="0022c12" ed="T"/>識耶？</p><p xml:id="pT16p0022c1203" rend="inline">「或時有識，在眼耳鼻舌身意；或時有
 <lb n="0022c13" ed="T"/>識，離眼耳鼻舌身意；或時有識，著色不染
@@ -2250,7 +2250,7 @@ Added comment  for Emacs
 <pb n="0024a" ed="T" xml:id="T16.0656.0024a"/>
 <lb n="0024a01" ed="T"/>類轉無上法輪。』遊心六通，一一毛孔放諸光
 <lb n="0024a02" ed="T"/>明，然後乃轉無上法輪。不起不滅無所著法，
-<lb n="0024a03" ed="T"/>一相無<note n="0024001" resp="Taisho" type="orig" place="foot text">真＝相【三】【宮】</note><note n="0024001" resp="CBETA" type="mod">相【CB】【麗-CB】【宋】【元】【明】【宮】，真【大】</note><app n="0024001"><lem resp="CBETA.maha" wit="【CBETA】【麗】">相<note type="cf1">K12n0385_p0539b11</note></lem><rdg wit="【大】">真</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>無染污法，所說如空言迹不現，不
+<lb n="0024a03" ed="T"/>一相無<note n="0024001" resp="Taisho" type="orig" place="foot text">真＝相【三】【宮】</note><note n="0024001" resp="CBETA" type="mod">相【CB】【麗-CB】【宋】【元】【明】【宮】，真【大】</note><app n="0024001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">相<note type="cf1">K12n0385_p0539b11</note></lem><rdg wit="【大】">真</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>無染污法，所說如空言迹不現，不
 <lb n="0024a04" ed="T"/>見眾生有增有減，是謂九法修虛空慧。</p><p xml:id="pT16p0024a0416" rend="inline">「復次，
 <lb n="0024a05" ed="T"/>如來從無生法界成等正覺，悉觀諸法如幻
 <lb n="0024a06" ed="T"/>如化，不見成就道果者，不失神通慧分別，如
@@ -2603,7 +2603,7 @@ Added comment  for Emacs
 <lb n="0027c24" ed="T"/><l>各各莫懷疑，</l><l>於此平等慧。</l>
 <lb n="0027c25" ed="T"/><l>分別過去識，</l><l>死者非今形，</l>
 <lb n="0027c26" ed="T"/><l>此識不腐敗，</l><l>為稱過去識。</l>
-<lb n="0027c27" ed="T"/><l>設識今現<note n="0027c2701" resp="CBETA" type="add">在【CB】【麗-CB】【磧砂-CB】，住【大】</note><app n="0027c2701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">在<note type="cf1">K12n0385_p0543b17</note><note type="cf2">Q12_p0246b12</note></lem><rdg wit="【大】">住</rdg></app>，</l><l>四大因緣合，</l>
+<lb n="0027c27" ed="T"/><l>設識今現<note n="0027c2701" resp="CBETA" type="add">在【CB】【麗-CB】【磧砂-CB】，住【大】</note><app n="0027c2701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">在<note type="cf1">K12n0385_p0543b17</note><note type="cf2">Q12_p0246b12</note></lem><rdg wit="【大】">住</rdg></app>，</l><l>四大因緣合，</l>
 <lb n="0027c28" ed="T"/><l>此識恒不變，</l><l>復稱識現在。</l>
 <lb n="0027c29" ed="T"/><l>且復捨現在，</l><l>未來未有生，</l>
 <pb n="0028a" ed="T" xml:id="T16.0656.0028a"/>
@@ -3290,7 +3290,7 @@ Added comment  for Emacs
 <lb n="0035b20" ed="T"/>所有。」</p><p xml:id="pT16p0035b2003" rend="inline">佛復告族姓子：「若有菩薩摩訶薩已得
 <lb n="0035b21" ed="T"/>耳通，盡聞十方諸剎音響，有善音、無善音、有
 <lb n="0035b22" ed="T"/>好音、無好音。復有善男子、<app type="star" corresp="#0035003"><lem wit="【大】">女人</lem><rdg resp="Taisho" wit="【宋】【元】【明】">善女人</rdg></app>，聞一千二
-<lb n="0035b23" ed="T"/>千三千剎土，或有菩薩聞一佛<note n="0035006" resp="Taisho" type="orig" place="foot text">國＋（土）【三】【宮】</note><note n="0035006" resp="CBETA" type="mod">國土【CB】【宋】【元】【明】【宮】，國【大】</note><app n="0035006"><lem resp="CBETA.maha" wit="【CBETA】">國土</lem><rdg wit="【大】">國</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">國土</rdg></app>、二佛國土、
+<lb n="0035b23" ed="T"/>千三千剎土，或有菩薩聞一佛<note n="0035006" resp="Taisho" type="orig" place="foot text">國＋（土）【三】【宮】</note><note n="0035006" resp="CBETA" type="mod">國土【CB】【宋】【元】【明】【宮】，國【大】</note><app n="0035006"><lem resp="CBETA.maha" wit="【CB】">國土</lem><rdg wit="【大】">國</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">國土</rdg></app>、二佛國土、
 <lb n="0035b24" ed="T"/>三佛國土，乃至無數佛國音響。」</p><p xml:id="pT16p0035b2413" rend="inline">爾時，佛告解
 <lb n="0035b25" ed="T"/>釋菩薩曰：「於六事法便得具足，各有差別。」</p><p xml:id="pT16p0035b2517" rend="inline">爾
 <lb n="0035b26" ed="T"/>時，解釋菩薩白佛言：「世尊！如來大慈說無量
@@ -4239,7 +4239,7 @@ Added comment  for Emacs
 <lb n="0046a08" ed="T"/>不有生亦不有滅。』是謂善男子、善女人於學
 <lb n="0046a09" ed="T"/>地內身具足<note n="0046001" resp="Taisho" type="orig" place="foot text">三＝二【元】</note><note n="0046001" resp="CBETA" type="mod">三【大】，二【元】</note><app n="0046001"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【元】">二</rdg></app>禪。</p><p xml:id="pT16p0046a0908" rend="inline">「云何學地觀內身於他身
 <lb n="0046a10" ed="T"/>具足三禪？是時善男子、善女人，捨此身已自
-<lb n="0046a11" ed="T"/>觀外身，內過去身本從何生？本從何滅？<note n="0046a1101" resp="CBETA" type="add">便【CB】【麗-CB】【磧砂-CB】，使【大】</note><app n="0046a1101"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">便<note type="cf1">K12n0385_p0577c17</note><note type="cf2">Q12_p0268b10</note></lem><rdg wit="【大】">使</rdg></app>自
+<lb n="0046a11" ed="T"/>觀外身，內過去身本從何生？本從何滅？<note n="0046a1101" resp="CBETA" type="add">便【CB】【麗-CB】【磧砂-CB】，使【大】</note><app n="0046a1101"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">便<note type="cf1">K12n0385_p0577c17</note><note type="cf2">Q12_p0268b10</note></lem><rdg wit="【大】">使</rdg></app>自
 <lb n="0046a12" ed="T"/>思惟：『咄！他內過去身，為從何生？為從何滅？』復
 <lb n="0046a13" ed="T"/>自思惟：『此內過去身亦不生亦不滅。』復捨此
 <lb n="0046a14" ed="T"/>已<note n="0046002" resp="Taisho" type="orig" place="foot text">而＝復【三】【宮】</note><note n="0046002" resp="CBETA" type="mod">而【大】，復【宋】【元】【明】【宮】</note><app n="0046002"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">復</rdg></app>更求觀：『此內過去身，已不復生、已不復
@@ -4546,7 +4546,7 @@ Added comment  for Emacs
 <lb n="0049b15" ed="T"/><l>既自從師受，</l><l>後乃成道覺。</l>
 <lb n="0049b16" ed="T"/><l>或現三千世，</l><l>如人掌觀珠，</l>
 <lb n="0049b17" ed="T"/><l>一一入淨觀，</l><l>洗浴諸塵勞。</l>
-<lb n="0049b18" ed="T"/><l>若人圖度<note n="0049013" resp="Taisho" type="orig" place="foot text">定＝空【三】【宮】</note><note n="0049013" resp="CBETA" type="mod">空【CB】【麗-CB】【宋】【元】【明】【宮】，定【大】</note><app n="0049013"><lem resp="CBETA.maha" wit="【CBETA】【麗】">空<note type="cf1">K12n0385_p0661c02</note></lem><rdg wit="【大】">定</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">空</rdg></app>，</l><l>欲以斗斛量，</l>
+<lb n="0049b18" ed="T"/><l>若人圖度<note n="0049013" resp="Taisho" type="orig" place="foot text">定＝空【三】【宮】</note><note n="0049013" resp="CBETA" type="mod">空【CB】【麗-CB】【宋】【元】【明】【宮】，定【大】</note><app n="0049013"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">空<note type="cf1">K12n0385_p0661c02</note></lem><rdg wit="【大】">定</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">空</rdg></app>，</l><l>欲以斗斛量，</l>
 <lb n="0049b19" ed="T"/><l>雖可建此心，</l><l>豈當有此理？</l>
 <lb n="0049b20" ed="T"/><l>心念無邊涯，</l><l>生生無有息，</l>
 <lb n="0049b21" ed="T"/><l>如水趣于海，</l><l>不見有增減。</l>
@@ -4731,7 +4731,7 @@ Added comment  for Emacs
 <lb n="0051b20" ed="T"/><l>授莂甘露慧，</l><l>因號為如來。</l>
 <lb n="0051b21" ed="T"/><l>三十二法本，</l><l>菩薩神通慧，</l>
 <lb n="0051b22" ed="T"/><l>消滅三世患，</l><l>漸至於泥洹。</l>
-<lb n="0051b23" ed="T"/><l>夫欲求佛道，</l><l>莊嚴<note n="0051b2301" resp="CBETA" type="add">諸【CB】【麗-CB】【磧砂-CB】，佛【大】</note><app n="0051b2301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">諸<note type="cf1">K12n0385_p0577c17</note><note type="cf2">Q12_p0268b10</note></lem><rdg wit="【大】">佛</rdg></app>剎土，</l>
+<lb n="0051b23" ed="T"/><l>夫欲求佛道，</l><l>莊嚴<note n="0051b2301" resp="CBETA" type="add">諸【CB】【麗-CB】【磧砂-CB】，佛【大】</note><app n="0051b2301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">諸<note type="cf1">K12n0385_p0577c17</note><note type="cf2">Q12_p0268b10</note></lem><rdg wit="【大】">佛</rdg></app>剎土，</l>
 <lb n="0051b24" ed="T"/><l>聲遍十方世，</l><l>修禪乃得獲。</l>
 <lb n="0051b25" ed="T"/><l>無漏三禪行，</l><l>諸佛深奧藏，</l>
 <lb n="0051b26" ed="T"/><l>為眾生立誓，</l><l>為說無死法。</l>
@@ -8025,7 +8025,7 @@ Added comment  for Emacs
 <lb n="0088a13" ed="T"/>淨？若眼界所攝，云何於眾生道性而得無報？」</p>
 <lb n="0088a14" ed="T"/><p xml:id="pT16p0088a1401">又問慧眼：「如來色身不可思議，終訖說法寂
 <lb n="0088a15" ed="T"/>然滅度，無生老病死，已捨色身不復受形，
-<lb n="0088a16" ed="T"/>一相無相亦不可見，權<note n="0088002" resp="Taisho" type="orig" place="foot text">說＝詐【宮】</note><note n="0088002" resp="CBETA" type="mod">設【CB】【麗-CB】，說【大】，詐【宮】</note><app n="0088002"><lem resp="CBETA.maha" wit="【CBETA】【麗】">設<note type="cf1">K12n0385_p0621c08</note></lem><rdg wit="【大】">說</rdg><rdg resp="Taisho" wit="【宮】">詐</rdg></app>假號亦無真實。如
+<lb n="0088a16" ed="T"/>一相無相亦不可見，權<note n="0088002" resp="Taisho" type="orig" place="foot text">說＝詐【宮】</note><note n="0088002" resp="CBETA" type="mod">設【CB】【麗-CB】，說【大】，詐【宮】</note><app n="0088002"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">設<note type="cf1">K12n0385_p0621c08</note></lem><rdg wit="【大】">說</rdg><rdg resp="Taisho" wit="【宮】">詐</rdg></app>假號亦無真實。如
 <lb n="0088a17" ed="T"/>來者亦無如來亦無佛，云何以無為道，是如
 <lb n="0088a18" ed="T"/>來色身無報？」</p><p xml:id="pT16p0088a1806" rend="inline">文殊師利又問：「云何？族姓子！如
 <lb n="0088a19" ed="T"/>來色身無為報，泥洹無為報，是一異乎？假
@@ -8840,7 +8840,7 @@ Added comment  for Emacs
 <lb n="0097a17" ed="T"/><l>顯曜無盡法，</l><l>辯才智無礙。</l>
 <lb n="0097a18" ed="T"/><l>安般自攝意，</l><l>不起眾亂想，</l>
 <lb n="0097a19" ed="T"/><l>眾結顛倒心，</l><l><note n="0097004" resp="Taisho" type="orig" place="foot text">鏟＝𨩱【宮】</note><note n="0097004" resp="CBETA" type="mod">鏟【大】，𨩱【宮】</note><app n="0097004"><lem wit="【大】">鏟</lem><rdg resp="Taisho" wit="【宮】">𨩱</rdg></app>以智慧劍。</l>
-<lb n="0097a20" ed="T"/><l>識<note n="0097a2001" resp="CBETA" type="add">想【CB】【麗-CB】【磧砂-CB】，相【大】</note><app n="0097a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">想<note type="cf1">K12n0385_p0634a03</note><note type="cf2">Q12_p0307a02</note></lem><rdg wit="【大】">相</rdg></app>本無形，</l><l>細入無有間，</l>
+<lb n="0097a20" ed="T"/><l>識<note n="0097a2001" resp="CBETA" type="add">想【CB】【麗-CB】【磧砂-CB】，相【大】</note><app n="0097a2001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">想<note type="cf1">K12n0385_p0634a03</note><note type="cf2">Q12_p0307a02</note></lem><rdg wit="【大】">相</rdg></app>本無形，</l><l>細入無有間，</l>
 <lb n="0097a21" ed="T"/><l>所行不思議，</l><l>受決乃得悟。</l>
 <lb n="0097a22" ed="T"/><l>諸佛國清淨，</l><l>現變無有雙，</l>
 <lb n="0097a23" ed="T"/><l>皆由正法身，</l><l>獲此巍巍尊。</l>
@@ -9828,7 +9828,7 @@ Added comment  for Emacs
 <lb n="0108a14" ed="T"/>行法則亦復如空，欲度眾生亦無眾生想，往
 <lb n="0108a15" ed="T"/>詣十方諸佛世界，聽受無量法教一切諸佛
 <lb n="0108a16" ed="T"/>本無身<note n="0108002" resp="Taisho" type="orig" place="foot text">想＝相【三】【宮】</note><note n="0108002" resp="CBETA" type="mod">想【大】，相【宋】【元】【明】【宮】</note><app n="0108002"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>，亦當分別內外無形，遍問諸佛
-<lb n="0108a17" ed="T"/>一切諸法無有厭<note n="0108003" resp="Taisho" type="orig" place="foot text">倦＝惓【元】【明】【宮】</note><note n="0108003" resp="CBETA" type="mod">惓【CB】【麗-CB】【元】【明】【宮】，倦【大】</note><app n="0108003"><lem resp="CBETA.maha" wit="【CBETA】【麗】">惓<note type="cf1">K12n0385_p0648c15</note></lem><rdg wit="【大】">倦</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">惓</rdg></app>。復當教授一切眾生捨
+<lb n="0108a17" ed="T"/>一切諸法無有厭<note n="0108003" resp="Taisho" type="orig" place="foot text">倦＝惓【元】【明】【宮】</note><note n="0108003" resp="CBETA" type="mod">惓【CB】【麗-CB】【元】【明】【宮】，倦【大】</note><app n="0108003"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">惓<note type="cf1">K12n0385_p0648c15</note></lem><rdg wit="【大】">倦</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">惓</rdg></app>。復當教授一切眾生捨
 <lb n="0108a18" ed="T"/>是就是深入禪定，可坐知坐可臥知臥，若化
 <lb n="0108a19" ed="T"/>眾生不失時節，為說深法令眾生類盡得度
 <lb n="0108a20" ed="T"/>脫。如是菩薩摩訶薩，具<note n="0108004" resp="Taisho" type="orig" place="foot text">如＝知【三】【宮】</note><note n="0108004" resp="CBETA" type="mod">如【大】，知【宋】【元】【明】【宮】</note><app n="0108004"><lem wit="【大】">如</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">知</rdg></app>此行時，便得佛
@@ -10526,7 +10526,7 @@ Added comment  for Emacs
 <lb n="0115c21" ed="T"/>脫者，欲使眾生一時成佛者，如是，天子！此
 <lb n="0115c22" ed="T"/>菩薩摩訶薩當習此賢聖辯才，受持諷誦為
 <lb n="0115c23" ed="T"/>人解說，雖不能多，初夜可；雖不能初夜，一時
-<lb n="0115c24" ed="T"/><note n="0115022" resp="Taisho" type="orig" place="foot text">問＝聞【宋】，間【宮】</note><note n="0115022" resp="CBETA" type="mod">間【CB】【宮】，問【大】，聞【宋】，閒【麗-CB】</note><app n="0115022"><lem resp="CBETA.maha" wit="【CBETA】">間</lem><rdg wit="【大】">問</rdg><rdg resp="CBETA.maha" wit="【麗】">閒<note type="cf1">K12n0385_p0660c06</note></rdg><rdg resp="Taisho" wit="【宋】">聞</rdg><rdg resp="Taisho" wit="【宮】">間</rdg></app>可；雖不能一時，彈指頃可。何以故？三世
+<lb n="0115c24" ed="T"/><note n="0115022" resp="Taisho" type="orig" place="foot text">問＝聞【宋】，間【宮】</note><note n="0115022" resp="CBETA" type="mod">間【CB】【宮】，問【大】，聞【宋】，閒【麗-CB】</note><app n="0115022"><lem resp="CBETA.maha" wit="【CB】">間</lem><rdg wit="【大】">問</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">閒<note type="cf1">K12n0385_p0660c06</note></rdg><rdg resp="Taisho" wit="【宋】">聞</rdg><rdg resp="Taisho" wit="【宮】">間</rdg></app>可；雖不能一時，彈指頃可。何以故？三世
 <lb n="0115c25" ed="T"/>諸佛一切諸道皆從此生，為世光明，諸困苦
 <lb n="0115c26" ed="T"/>者自然安隱。若有善男子、善女人，身生瘡癩
 <lb n="0115c27" ed="T"/>膿血流溢，彼人聞此賢聖辯才即得除差。若
@@ -10814,7 +10814,7 @@ Added comment  for Emacs
 <lb n="0119a08" ed="T"/>生根亦然，願以神足力，示現於一切。』</p><p xml:id="pT16p0119a0815" rend="inline">「復有
 <lb n="0119a09" ed="T"/>菩薩名曰通慧，前白佛言：『光相如雪山，世
 <lb n="0119a10" ed="T"/>人所宗仰，今雖覩一寶，唯願說二寶。』</p><p xml:id="pT16p0119a1015" rend="inline">「復有
-<lb n="0119a11" ed="T"/>菩<note n="0119001" resp="Taisho" type="orig" place="foot text">薩＋（此闕菩薩名）夾註【宋】【元】，（此元闕菩薩名）夾註【明】</note><note n="0119001" resp="CBETA" type="mod">薩【大】，薩(此闕菩薩名)【宋】【元】，<!--CBETA todo type: newmod-->（此元闕菩薩名）夾註【明】</note><app n="0119001"><lem wit="【大】">薩</lem><rdg resp="Taisho" wit="【宋】【元】">薩<note place="inline">此闕菩薩名</note></rdg><rdg resp="Taisho" wit="【明】">薩<note place="inline">此元闕菩薩名</note></rdg></app>，前白佛言：『佛道甚深妙，講授一切法，
+<lb n="0119a11" ed="T"/>菩<note n="0119001" resp="Taisho" type="orig" place="foot text">薩＋（此闕菩薩名）夾註【宋】【元】，（此元闕菩薩名）夾註【明】</note><note n="0119001" resp="CBETA" type="mod">薩【大】，薩(此闕菩薩名)【宋】【元】，<!--CBETA todo type: newmod-->薩(此元闕菩薩名)【明】</note><app n="0119001"><lem wit="【大】">薩</lem><rdg resp="Taisho" wit="【宋】【元】">薩<note place="inline">此闕菩薩名</note></rdg><rdg resp="Taisho" wit="【明】">薩<note place="inline">此元闕菩薩名</note></rdg></app>，前白佛言：『佛道甚深妙，講授一切法，
 <lb n="0119a12" ed="T"/>當王於三界，皆由諸法本。』</p><p xml:id="pT16p0119a1211" rend="inline">「復有菩薩名曰極
 <lb n="0119a13" ed="T"/>微，前白佛言：『十方諸世尊，遣我等來此，唯
 <lb n="0119a14" ed="T"/>欲聞正法，不樂賢聖默。』</p><p xml:id="pT16p0119a1410" rend="inline">「復有菩薩名曰色身，

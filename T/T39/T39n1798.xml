@@ -203,7 +203,7 @@ Added comment  for Emacs
 <lb n="0808c17" ed="T"/><lg xml:id="lgT39p0808c1701"><l>師資共受行</l><l>攝引勸修法</l>
 <lb n="0808c18" ed="T"/><l>次初起行住</l><l>加持語門法</l>
 <lb n="0808c19" ed="T"/><l>洗面嚼齒木</l><l>便易結護法</l>
-<lb n="0808c20" ed="T"/><l><note n="0808003" resp="Taisho" place="foot text" type="orig"><g ref="#CB02735"/>＝𠻳？＊</note><app n="0808003"><lem resp="Taisho" wit="【大】"><g ref="#CB02735"/></lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">𠻳</rdg></app>口洗浴法</l><l>并浴部尊法</l>
+<lb n="0808c20" ed="T"/><l><note n="0808003" resp="Taisho" place="foot text" type="orig"><g ref="#CB02735"/>＝𠻳？＊</note><note n="0808003" resp="CBETA" type="mod"><g ref="#CB02735"/>【大】＊，𠻳【考偽-大】＊</note><app n="0808003"><lem resp="Taisho" wit="【大】"><g ref="#CB02735"/></lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">𠻳</rdg></app>口洗浴法</l><l>并浴部尊法</l>
 <lb n="0808c21" ed="T"/><l>想嚴身內外</l><l>次入道場法</l>
 <lb n="0808c22" ed="T"/><l>普禮懺隨向</l><l>別歸獻願法</l>
 <lb n="0808c23" ed="T"/><l>隨樂四威儀</l><l>除增降壞法</l></lg>
@@ -782,7 +782,7 @@ Added comment  for Emacs
 <lb n="0815a26" ed="T"/>如來身以為其體。第二顯體也。釋曰。無緣智
 <lb n="0815a27" ed="T"/>明遍滿虛空。一切佛身即一佛身也。經即入
 <lb n="0815a28" ed="T"/>一切如來至三摩地等。第三明行也。釋曰。此
-<lb n="0815a29" ed="T"/>中云三昧耶者正翻為<note n="0815001" resp="Taisho" place="foot text" type="orig">等＋（持）？</note><app n="0815001"><lem resp="Taisho" wit="【大】">等</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">等持</rdg></app>持三摩地。地者正
+<lb n="0815a29" ed="T"/>中云三昧耶者正翻為<note n="0815001" resp="Taisho" place="foot text" type="orig">等＋（持）？</note><note n="0815001" resp="CBETA" type="mod">等【大】，等持【考偽-大】</note><app n="0815001"><lem resp="Taisho" wit="【大】">等</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">等持</rdg></app>持三摩地。地者正
 <pb n="0815b" xml:id="T39.1798.0815b" ed="T"/>
 <lb n="0815b01" ed="T"/>翻為等念<note place="inline">舊云等至</note>謂遍一切處等持自智。即入
 <lb n="0815b02" ed="T"/>一切如來智也。即入一切普賢智。持此智行

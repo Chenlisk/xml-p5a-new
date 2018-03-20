@@ -1459,7 +1459,7 @@ Added comment  for Emacs
 <lb n="0621b03" ed="T"/>隨身造業受苦．樂我。是有法我之差別。今
 <lb n="0621b04" ed="T"/>造相違云。汝我應非隨身受苦．樂我。許
 <lb n="0621b05" ed="T"/>無初後故。如<note n="0621002" resp="Taisho" place="foot text" type="orig">大＝太【甲】＊</note><note n="0621002" resp="CBETA" type="mod">大【大】＊，太【甲】＊</note><app n="0621002"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">太</rdg></app>虛空　難第二量。作法
-<lb n="0621b06" ed="T"/>差別相違過。體<note n="0621003" resp="Taisho" place="foot text" type="orig">常＝周？＊</note><app n="0621003"><lem resp="Taisho" wit="【大】">常</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">周</rdg></app>遍法自相上意所許義。隨
+<lb n="0621b06" ed="T"/>差別相違過。體<note n="0621003" resp="Taisho" place="foot text" type="orig">常＝周？＊</note><note n="0621003" resp="CBETA" type="mod">常【大】＊，周【考偽-大】＊</note><app n="0621003"><lem resp="Taisho" wit="【大】">常</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">周</rdg></app>遍法自相上意所許義。隨
 <lb n="0621b07" ed="T"/>身造業受苦．樂體<anchor xml:id="fxT43p0621b01"/>常遍。非隨身造業受
 <lb n="0621b08" ed="T"/>苦．樂。體<anchor xml:id="fxT43p0621b02"/>常遍是差別。今作相違云。汝我應
 <lb n="0621b09" ed="T"/>不隨身造業受苦．樂。許常住故。如<app type="star" corresp="#0621002"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】">太</rdg></app>
@@ -1619,7 +1619,7 @@ Added comment  for Emacs
 <lb n="0623a13" ed="T"/><p xml:id="pT43p0623a1301">破大自在天中。論文四因。如次以下難於
 <lb n="0623a14" ed="T"/>上宗。然更互為因。一因難三宗亦得。如理
 <lb n="0623a15" ed="T"/>應知。</p>
-<lb n="0623a16" ed="T"/><p xml:id="pT43p0623a1601">聲論中。瑜伽第十五云。處所根<note n="0623001" resp="Taisho" place="foot text" type="orig">裁＝栽？＊</note><app n="0623001"><lem resp="Taisho" wit="【大】">裁</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">栽</rdg></app>施設建立
+<lb n="0623a16" ed="T"/><p xml:id="pT43p0623a1601">聲論中。瑜伽第十五云。處所根<note n="0623001" resp="Taisho" place="foot text" type="orig">裁＝栽？＊</note><note n="0623001" resp="CBETA" type="mod">裁【大】＊，栽【考偽-大】＊</note><app n="0623001"><lem resp="Taisho" wit="【大】">裁</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">栽</rdg></app>施設建立
 <lb n="0623a17" ed="T"/>者。如樹根<anchor xml:id="fxT43p0623a01"/>裁樹之根本故。聲根本名曰根
 <lb n="0623a18" ed="T"/><anchor xml:id="fxT43p0623a02"/>裁。即是字也。辨出聲處所名為處所。本
 <lb n="0623a19" ed="T"/>聲明也。謂劫初起。梵王創造一百萬頌聲明。
@@ -1661,10 +1661,10 @@ Added comment  for Emacs
 <lb n="0623b25" ed="T"/>非唯苦。通善．不善。執為實有。正觀觀察故。
 <lb n="0623b26" ed="T"/>非唯苦諦。</p>
 <lb n="0623b27" ed="T"/><p xml:id="pT43p0623b2701">然依思願善惡分限者。此是佛身無表之別
-<lb n="0623b28" ed="T"/>句。是餘<note n="0623004" resp="Taisho" place="foot text" type="orig">〔表〕－？</note><app n="0623004"><lem resp="Taisho" wit="【大】">表</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>無表之總句。由佛無表雖是曾
+<lb n="0623b28" ed="T"/>句。是餘<note n="0623004" resp="Taisho" place="foot text" type="orig">〔表〕－？</note><note n="0623004" resp="CBETA" type="mod">表【大】，〔－〕【考偽-大】</note><app n="0623004"><lem resp="Taisho" wit="【大】">表</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>無表之總句。由佛無表雖是曾
 <lb n="0623b29" ed="T"/>得非念念新生。以昔發願制於業思。眾生
 <pb n="0623c" xml:id="T43.1831.0623c" ed="T"/>
-<lb n="0623c01" ed="T"/>界盡我期乃爾。以心無萎歇故。<note n="0623005" resp="Taisho" place="foot text" type="orig">或＝戒？＊</note><app n="0623005"><lem resp="Taisho" wit="【大】">或</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">戒</rdg></app>常有。
+<lb n="0623c01" ed="T"/>界盡我期乃爾。以心無萎歇故。<note n="0623005" resp="Taisho" place="foot text" type="orig">或＝戒？＊</note><note n="0623005" resp="CBETA" type="mod">或【大】＊，戒【考偽-大】＊</note><app n="0623005"><lem resp="Taisho" wit="【大】">或</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">戒</rdg></app>常有。
 <lb n="0623c02" ed="T"/>除佛已外<anchor xml:id="fxT43p0623c01"/>或皆未曾得。由願制思不萎歇
 <lb n="0623c03" ed="T"/>故。未遇破緣<anchor xml:id="fxT43p0623c02"/>或常相續。若遇犯捨之緣。
 <lb n="0623c04" ed="T"/>願既萎歇更不新起。名為捨<anchor xml:id="fxT43p0623c03"/>或故也。然定
@@ -1679,7 +1679,7 @@ Added comment  for Emacs
 <lb n="0623c13" ed="T"/>即表發語之業。亦語表之業隨應皆得　三
 <lb n="0623c14" ed="T"/>思之中後之二思二義名道。前思遊履。其審
 <lb n="0623c15" ed="T"/>慮思唯生當果一義名道　問若許思所
-<lb n="0623c16" ed="T"/>發身．語立<note n="0623006" resp="Taisho" place="foot text" type="orig">〔無〕－？</note><app n="0623006"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>表名。意亦由思作。應當立
+<lb n="0623c16" ed="T"/>發身．語立<note n="0623006" resp="Taisho" place="foot text" type="orig">〔無〕－？</note><note n="0623006" resp="CBETA" type="mod">無【大】，〔－〕【考偽-大】</note><app n="0623006"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>表名。意亦由思作。應當立
 <lb n="0623c17" ed="T"/>表稱。問身．語思所作。則許立業名。意識思
 <lb n="0623c18" ed="T"/>所造。亦應立業稱　答不然。身．語外彰他
 <lb n="0623c19" ed="T"/>表名表。意唯內解自表非他。造作名為業。
@@ -1747,7 +1747,7 @@ Added comment  for Emacs
 <lb n="0624b22" ed="T"/>生者。現在必有善種等故縱有別義徵中
 <lb n="0624b23" ed="T"/>有二。初定問。後別破。破中有二。如文可
 <lb n="0624b24" ed="T"/>知。初破能起中有三。如文。</p>
-<lb n="0624b25" ed="T"/><p xml:id="pT43p0624b2501">成不成中。種子成<note n="0624003" resp="Taisho" place="foot text" type="orig">熟＝就？＊</note><app n="0624003"><lem resp="Taisho" wit="【大】">熟</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">就</rdg></app>。謂有二乘及世道成
+<lb n="0624b25" ed="T"/><p xml:id="pT43p0624b2501">成不成中。種子成<note n="0624003" resp="Taisho" place="foot text" type="orig">熟＝就？＊</note><note n="0624003" resp="CBETA" type="mod">熟【大】＊，就【考偽-大】＊</note><app n="0624003"><lem resp="Taisho" wit="【大】">熟</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">就</rdg></app>。謂有二乘及世道成
 <lb n="0624b26" ed="T"/>不成不說菩薩。菩薩見道前二障亦有成
 <lb n="0624b27" ed="T"/>不成。應說二乘煩惱種有成不成。所知一
 <lb n="0624b28" ed="T"/>向成。菩薩雙說。資糧位俱生成不成。分別成
@@ -1844,7 +1844,7 @@ Added comment  for Emacs
 <lb n="0625b29" ed="T"/>在。現在有滅時。令法入過去。住．異之用與
 <pb n="0625c" xml:id="T43.1831.0625c" ed="T"/>
 <lb n="0625c01" ed="T"/>滅同時。時不異故所以不說。生．滅乃是有
-<lb n="0625c02" ed="T"/>用．無用之始際。不說<note n="0625003" resp="Taisho" place="foot text" type="orig">〔生及〕－？</note><app n="0625003"><lem resp="Taisho" wit="【大】">生及</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>住．異為二用
+<lb n="0625c02" ed="T"/>用．無用之始際。不說<note n="0625003" resp="Taisho" place="foot text" type="orig">〔生及〕－？</note><note n="0625003" resp="CBETA" type="mod">生及【大】，〔－〕【考偽-大】</note><app n="0625003"><lem resp="Taisho" wit="【大】">生及</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>住．異為二用
 <lb n="0625c03" ed="T"/>等。</p>
 <lb n="0625c04" ed="T"/><p xml:id="pT43p0625c0401">第三破四相中有二。初總非。後別破。別破
 <lb n="0625c05" ed="T"/>中有七。一六轉無差難。二能所不異難。此
@@ -1982,7 +1982,7 @@ Added comment  for Emacs
 <lb n="0627a17" ed="T"/>二位起。謂滅定非初三。若迴心可爾。三唯
 <lb n="0627a18" ed="T"/>四位。除見道。謂名．句．文。七通五位。謂得．
 <lb n="0627a19" ed="T"/>同分．命根．四相　九界繫。二唯一界。謂無想
-<lb n="0627a20" ed="T"/>定．及果。三通二界．及非界。謂<note n="0627002" resp="Taisho" place="foot text" type="orig">〔得〕－？</note><app n="0627002"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>名．句文。
+<lb n="0627a20" ed="T"/>定．及果。三通二界．及非界。謂<note n="0627002" resp="Taisho" place="foot text" type="orig">〔得〕－？</note><note n="0627002" resp="CBETA" type="mod">得【大】，〔－〕【考偽-大】</note><app n="0627002"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>名．句文。
 <lb n="0627a21" ed="T"/>一通三界。謂異生性。一非三界。謂滅定。七
 <lb n="0627a22" ed="T"/>通三界．及非繫。謂得．同分．命根．及四相。命
 <lb n="0627a23" ed="T"/>根五十七說不通無漏。不說佛故　十九
@@ -2126,7 +2126,7 @@ Added comment  for Emacs
 <lb n="0628c11" ed="T"/>行地。七到究竟地　四十七種姓．勝解行．極
 <lb n="0628c12" ed="T"/>喜．增上戒．增上心．三惠諦覺分．緣起．無相
 <lb n="0628c13" ed="T"/>有功用．無相無功用．及以無礙解．最上菩薩
-<lb n="0628c14" ed="T"/>住．最極如來住。種姓地即種姓<note n="0628003" resp="Taisho" place="foot text" type="orig">位＝住？＊</note><app n="0628003"><lem resp="Taisho" wit="【大】">位</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">住</rdg></app>。勝解行
+<lb n="0628c14" ed="T"/>住．最極如來住。種姓地即種姓<note n="0628003" resp="Taisho" place="foot text" type="orig">位＝住？＊</note><note n="0628003" resp="CBETA" type="mod">位【大】＊，住【考偽-大】＊</note><app n="0628003"><lem resp="Taisho" wit="【大】">位</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">住</rdg></app>。勝解行
 <lb n="0628c15" ed="T"/>地勝解行地<anchor xml:id="fxT43p0628c01"/>位也。淨勝意樂地即極喜住行
 <lb n="0628c16" ed="T"/>正行地即增上惑。增上心。三種增上惠。有加
 <lb n="0628c17" ed="T"/>行功用無相住。決定地即無加行無功用無
@@ -2459,7 +2459,7 @@ Added comment  for Emacs
 <lb n="0632b14" ed="T"/>不妨欲界有定果色種。無能引變　如第
 <lb n="0632b15" ed="T"/>八緣境中。色．聲．觸中假色緣不。緣者法處
 <lb n="0632b16" ed="T"/>假色何故不緣。任運心及八俱心所有此妨
-<lb n="0632b17" ed="T"/>　<note n="0632004" resp="Taisho" place="foot text" type="orig">見＝真？</note><note n="0632004" resp="CBETA" type="mod">見【大】，真【考偽-大】</note><app n="0632004"><lem resp="Taisho" wit="【大】">見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">真</rdg></app>隨本<note n="0632005" resp="Taisho" place="foot text" type="orig">定＝實？＊</note><app n="0632005"><lem resp="Taisho" wit="【大】">定</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">實</rdg></app>種子生名因緣變。此為正
+<lb n="0632b17" ed="T"/>　<note n="0632004" resp="Taisho" place="foot text" type="orig">見＝真？</note><note n="0632004" resp="CBETA" type="mod">見【大】，真【考偽-大】</note><app n="0632004"><lem resp="Taisho" wit="【大】">見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">真</rdg></app>隨本<note n="0632005" resp="Taisho" place="foot text" type="orig">定＝實？＊</note><note n="0632005" resp="CBETA" type="mod">定【大】＊，實【考偽-大】＊</note><app n="0632005"><lem resp="Taisho" wit="【大】">定</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">實</rdg></app>種子生名因緣變。此為正
 <lb n="0632b18" ed="T"/>義。</p>
 <lb n="0632b19" ed="T"/><p xml:id="pT43p0632b1901">勝定果色。略以七門分別。一凡聖起。如對
 <lb n="0632b20" ed="T"/>法抄。色界通果可通凡聖。如三十三文。若
@@ -2492,7 +2492,7 @@ Added comment  for Emacs
 <lb n="0632c17" ed="T"/>間。唯是善性無通果。唯定境。無記定不能
 <lb n="0632c18" ed="T"/>故。四靜慮果即通無記。此在七地以前．二
 <lb n="0632c19" ed="T"/>乘．異生。非八地等　四具境多少。不變根
-<lb n="0632c20" ed="T"/>等<note n="0632006" resp="Taisho" place="foot text" type="orig">〔在中〕－？</note><app n="0632006"><lem resp="Taisho" wit="【大】">在中</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>如對法抄等　五大種造性。如對
+<lb n="0632c20" ed="T"/>等<note n="0632006" resp="Taisho" place="foot text" type="orig">〔在中〕－？</note><note n="0632006" resp="CBETA" type="mod">在中【大】，〔－〕【考偽-大】</note><app n="0632006"><lem resp="Taisho" wit="【大】">在中</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>如對法抄等　五大種造性。如對
 <lb n="0632c21" ed="T"/>法抄　六定通別。如唯識疏　七界處所攝
 <lb n="0632c22" ed="T"/>者。因中意識第八所變之色。五識不得定
 <lb n="0632c23" ed="T"/>屬法處。以境對根。及果對因。皆定爾故。能
@@ -2778,7 +2778,7 @@ Added comment  for Emacs
 <lb n="0636a02" ed="T"/>實則天趣。故五趣也。餘經亦說通鬼趣攝。
 <lb n="0636a03" ed="T"/>隨順理故。或佛地論約多分義。實通二趣。
 <lb n="0636a04" ed="T"/>如法華第一抄。</p>
-<lb n="0636a05" ed="T"/><p xml:id="pT43p0636a0501">起無雜者。界地可爾。如欲界五趣四<note n="0636001" resp="Taisho" place="foot text" type="orig">生＋（不爾）？</note><app n="0636001"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">生不爾</rdg></app>。何
+<lb n="0636a05" ed="T"/><p xml:id="pT43p0636a0501">起無雜者。界地可爾。如欲界五趣四<note n="0636001" resp="Taisho" place="foot text" type="orig">生＋（不爾）？</note><note n="0636001" resp="CBETA" type="mod">生【大】，生不爾【考偽-大】</note><app n="0636001"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">生不爾</rdg></app>。何
 <lb n="0636a06" ed="T"/>者。煩惱．業．果定屬此趣生。而言起雜。如轉
 <lb n="0636a07" ed="T"/>重令輕。亦有惡趣果人六天中受。人天亦
 <lb n="0636a08" ed="T"/>起分別煩惱等。亦有惡趣受別報善業果。
@@ -2981,14 +2981,14 @@ Added comment  for Emacs
 <lb n="0638a26" ed="T"/>一切識。皆不具三。無前隨應三中義故。子
 <lb n="0638a27" ed="T"/>細研究都無有故。一切心所隨望何識。唯
 <lb n="0638a28" ed="T"/>有決定．有境四種隨應可具。唯無為主。其
-<lb n="0638a29" ed="T"/><note n="0638001" resp="Taisho" place="foot text" type="orig">諸＝識？＊</note><app n="0638001"><lem resp="Taisho" wit="【大】">諸</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">識</rdg></app>種子望其自識。可有分位差別決定．為
+<lb n="0638a29" ed="T"/><note n="0638001" resp="Taisho" place="foot text" type="orig">諸＝識？＊</note><note n="0638001" resp="CBETA" type="mod">諸【大】＊，識【考偽-大】＊</note><app n="0638001"><lem resp="Taisho" wit="【大】">諸</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">識</rdg></app>種子望其自識。可有分位差別決定．為
 <pb n="0638b" xml:id="T43.1831.0638b" ed="T"/>
 <lb n="0638b01" ed="T"/>主二義。唯無有境。其前五識自互相望及望
 <lb n="0638b02" ed="T"/>六．七．八。並六望七．八一切皆無。無隨所應
 <lb n="0638b03" ed="T"/>三中四義故。餘心．心所一切現行。色．不相
 <lb n="0638b04" ed="T"/>應望<anchor xml:id="fxT43p0638b01"/>諸種子一切皆無。諸心所法望自種
 <lb n="0638b05" ed="T"/>子闕無為主。以有分位差別決定．有境。染．
-<lb n="0638b06" ed="T"/>淨同故。體是<note n="0638002" resp="Taisho" place="foot text" type="orig">〔王〕－？</note><app n="0638002"><lem resp="Taisho" wit="【大】">王</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>臣故無為主。亦無令果取
+<lb n="0638b06" ed="T"/>淨同故。體是<note n="0638002" resp="Taisho" place="foot text" type="orig">〔王〕－？</note><note n="0638002" resp="CBETA" type="mod">王【大】，〔－〕【考偽-大】</note><app n="0638002"><lem resp="Taisho" wit="【大】">王</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>臣故無為主。亦無令果取
 <lb n="0638b07" ed="T"/>自所緣。其八現識望自種子。唯無令果取
 <lb n="0638b08" ed="T"/>自所緣。可有分位差別決定．有境．為主義
 <lb n="0638b09" ed="T"/>故。其中具闕隨義應知。已略疎牒。後讀應
@@ -3044,7 +3044,7 @@ Added comment  for Emacs
 <lb n="0638c29" ed="T"/>隨應許與見．疑俱故。不得以見與貪等
 <pb n="0639a" xml:id="T43.1831.0639a" ed="T"/>
 <lb n="0639a01" ed="T"/>俱。亦名為鈍。無獨鈍故。彼有獨鈍故。由
-<lb n="0639a02" ed="T"/>此貪等通迷理．事。疑唯迷理。仁王經云。<note n="0639001" resp="Taisho" place="foot text" type="orig">〔見〕－？</note><app n="0639001"><lem resp="Taisho" wit="【大】">見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>
+<lb n="0639a02" ed="T"/>此貪等通迷理．事。疑唯迷理。仁王經云。<note n="0639001" resp="Taisho" place="foot text" type="orig">〔見〕－？</note><note n="0639001" resp="CBETA" type="mod">見【大】，〔－〕【考偽-大】</note><app n="0639001"><lem resp="Taisho" wit="【大】">見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>
 <lb n="0639a03" ed="T"/>五地斷疑。事中猶預。阿羅漢疑蝙蝮亦爾。
 <lb n="0639a04" ed="T"/>皆異熟生。故法執類。堅著即執。</p>
 <lb n="0639a05" ed="T"/><p xml:id="pT43p0639a0501"><ref rend="margin-left:2em" target="../T31/T31n1585.xml#xpath2(//0023b16)">第五卷</ref></p>
@@ -3481,7 +3481,7 @@ Added comment  for Emacs
 <lb n="0643c16" ed="T"/>邊．慢．愛．疑．二取。不見起耶見之相。二無
 <lb n="0643c17" ed="T"/>因論亦是定後起彼耶見。九皆容起。並起
 <lb n="0643c18" ed="T"/>戒取執彼定為勝因故。然無此文生無
-<lb n="0643c19" ed="T"/>色界除下潤生我．貪．慢<note n="0643002" resp="Taisho" place="foot text" type="orig">〔二見〕－？</note><app n="0643002"><lem resp="Taisho" wit="【大】">二見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>．癡。餘更不
+<lb n="0643c19" ed="T"/>色界除下潤生我．貪．慢<note n="0643002" resp="Taisho" place="foot text" type="orig">〔二見〕－？</note><note n="0643002" resp="CBETA" type="mod">二見【大】，〔－〕【考偽-大】</note><app n="0643002"><lem resp="Taisho" wit="【大】">二見</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>．癡。餘更不
 <lb n="0643c20" ed="T"/>得起。彼無中有可說起謗等故。生無色
 <lb n="0643c21" ed="T"/>界唯起下俱生。無起分別相。無中有起
 <lb n="0643c22" ed="T"/>謗故。</p>
@@ -3549,7 +3549,7 @@ Added comment  for Emacs
 <lb n="0644b24" ed="T"/>或無名緣無事。餘必有名緣有事。五十九
 <lb n="0644b25" ed="T"/>云。無事緣謂無事煩惱。有事緣謂有事煩惱。
 <lb n="0644b26" ed="T"/>與唯識同　今觀此義。初<note n="0644006" resp="Taisho" place="foot text" type="orig">二＝三？</note><note n="0644006" resp="CBETA" type="mod">二【大】，三【考偽-大】</note><app n="0644006"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">三</rdg></app>門。一本體有
-<lb n="0644b27" ed="T"/>名有事。<note n="0644007" resp="Taisho" place="foot text" type="orig">〔二〕－？＊</note><app n="0644007"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>無質影像中無體用名無事。影
+<lb n="0644b27" ed="T"/>名有事。<note n="0644007" resp="Taisho" place="foot text" type="orig">〔二〕－？＊</note><note n="0644007" resp="CBETA" type="mod">二【大】＊，〔－〕【考偽-大】＊</note><app n="0644007"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>無質影像中無體用名無事。影
 <lb n="0644b28" ed="T"/>像中有決定執名無事。但五見。不定名有
 <lb n="0644b29" ed="T"/>事。癡．愛．慢雖亦有執。不決定故。二執者
 <pb n="0644c" xml:id="T43.1831.0644c" ed="T"/>
@@ -3715,7 +3715,7 @@ Added comment  for Emacs
 <lb n="0646b09" ed="T"/>二斷善。十三續善。十四生。十五死。</p>
 <lb n="0646b10" ed="T"/><p xml:id="pT43p0646b1001">法華第二。舍利弗云。而今從佛聞所未聞
 <lb n="0646b11" ed="T"/>未曾有法斷諸疑悔。彼偈又云我已得漏
-<lb n="0646b12" ed="T"/>盡。聞亦除憂惱　<note n="0646001" resp="Taisho" place="foot text" type="orig">〔疑〕－？</note><app n="0646001"><lem resp="Taisho" wit="【大】">疑</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>悔即惡作。厭也。惠俱
+<lb n="0646b12" ed="T"/>盡。聞亦除憂惱　<note n="0646001" resp="Taisho" place="foot text" type="orig">〔疑〕－？</note><note n="0646001" resp="CBETA" type="mod">疑【大】，〔－〕【考偽-大】</note><app n="0646001"><lem resp="Taisho" wit="【大】">疑</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>悔即惡作。厭也。惠俱
 <lb n="0646b13" ed="T"/>無貪。疑即事疑。疑不作佛。憂即是悔。悔先
 <lb n="0646b14" ed="T"/>惡故。悔即是疑。</p>
 <lb n="0646b15" ed="T"/><p xml:id="pT43p0646b1501">此中正思惟。若體是尋通無漏者。何故五十
@@ -3855,7 +3855,7 @@ Added comment  for Emacs
 <lb n="0647c29" ed="T"/><p xml:id="pT43p0647c2901">行相有二。一影像相名行相。何故即似本
 <pb n="0648a" xml:id="T43.1831.0648a" ed="T"/>
 <lb n="0648a01" ed="T"/>境。二見分名行相。何故不似耶　答影像
-<lb n="0648a02" ed="T"/>名行相。見分之行解相狀。見分之行<note n="0648001" resp="Taisho" place="foot text" type="orig">〔但〕－？</note><app n="0648001"><lem resp="Taisho" wit="【大】">但</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>境
+<lb n="0648a02" ed="T"/>名行相。見分之行解相狀。見分之行<note n="0648001" resp="Taisho" place="foot text" type="orig">〔但〕－？</note><note n="0648001" resp="CBETA" type="mod">但【大】，〔－〕【考偽-大】</note><app n="0648001"><lem resp="Taisho" wit="【大】">但</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>境
 <lb n="0648a03" ed="T"/>相貌。見分名行相。行於境體中故。如無分
 <lb n="0648a04" ed="T"/>別智無<note n="0648002" resp="Taisho" place="foot text" type="orig">狀相＝相狀【丁】</note><note n="0648002" resp="CBETA" type="mod">狀相【大】，相狀【丁】</note><app n="0648002"><lem wit="【大】">狀相</lem><rdg resp="Taisho" wit="【丁】">相狀</rdg></app>。故似不似。又未必影像相一
 <lb n="0648a05" ed="T"/>向似境。無為緣等即不似故。</p>
@@ -3958,7 +3958,7 @@ Added comment  for Emacs
 <lb n="0649a12" ed="T"/>根何義　答色等五各別境　第六根何義
 <lb n="0649a13" ed="T"/>　答一切法界　男女根何義　因欲相應<app type="star" corresp="#0647011"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【丁】">則</rdg></app>
 <lb n="0649a14" ed="T"/>觸所攝　五受根何義。隨順苦．樂．憂．喜．捨
-<lb n="0649a15" ed="T"/>受<app type="star" corresp="#0647011"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【丁】">則</rdg></app>六根義　信<note n="0649001" resp="Taisho" place="foot text" type="orig">〔等〕－？</note><app n="0649001"><lem resp="Taisho" wit="【大】">等</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>根何義。應得應捨所
+<lb n="0649a15" ed="T"/>受<app type="star" corresp="#0647011"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【丁】">則</rdg></app>六根義　信<note n="0649001" resp="Taisho" place="foot text" type="orig">〔等〕－？</note><note n="0649001" resp="CBETA" type="mod">等【大】，〔－〕【考偽-大】</note><app n="0649001"><lem resp="Taisho" wit="【大】">等</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>根何義。應得應捨所
 <lb n="0649a16" ed="T"/>有境界　精進根<app type="star" corresp="#0647011"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【丁】">則</rdg></app>於得．捨俱無所<note n="0649002" resp="Taisho" place="foot text" type="orig">彈＝憚【丁】</note><note n="0649002" resp="CBETA" type="mod">彈【大】，憚【丁】</note><app n="0649002"><lem wit="【大】">彈</lem><rdg resp="Taisho" wit="【丁】">憚</rdg></app>
 <lb n="0649a17" ed="T"/>　念根於聞．思．修憶持不忘　定根何義。
 <lb n="0649a18" ed="T"/>答奢摩他．毘鉢舍那　惠根何義。所知真
@@ -3971,8 +3971,8 @@ Added comment  for Emacs
 <lb n="0649a25" ed="T"/>廣分別。地已前得．行二修有漏。唯得修無漏。
 <lb n="0649a26" ed="T"/>若在見道。得．行二修無漏。得修有漏。七地
 <lb n="0649a27" ed="T"/>已前二修。通有漏．無漏。八地已後二修俱無
-<lb n="0649a28" ed="T"/>漏。得修有漏。受為十王位故。若<note n="0649003" resp="Taisho" place="foot text" type="orig">〔出〕－？</note><app n="0649003"><lem resp="Taisho" wit="【大】">出</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>世間
-<lb n="0649a29" ed="T"/>智<note n="0649004" resp="Taisho" place="foot text" type="orig">〔世〕－？</note><app n="0649004"><lem resp="Taisho" wit="【大】">世</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>出世間智。已辨修並上下修。串習．未
+<lb n="0649a28" ed="T"/>漏。得修有漏。受為十王位故。若<note n="0649003" resp="Taisho" place="foot text" type="orig">〔出〕－？</note><note n="0649003" resp="CBETA" type="mod">出【大】，〔－〕【考偽-大】</note><app n="0649003"><lem resp="Taisho" wit="【大】">出</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>世間
+<lb n="0649a29" ed="T"/>智<note n="0649004" resp="Taisho" place="foot text" type="orig">〔世〕－？</note><note n="0649004" resp="CBETA" type="mod">世【大】，〔－〕【考偽-大】</note><app n="0649004"><lem resp="Taisho" wit="【大】">世</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>出世間智。已辨修並上下修。串習．未
 <pb n="0649b" xml:id="T43.1831.0649b" ed="T"/>
 <lb n="0649b01" ed="T"/>串習等。何位起．不起。一切皆如理應思
 <lb n="0649b02" ed="T"/>　三無色中無四善根故。無漏見道所言有
@@ -4463,7 +4463,7 @@ Added comment  for Emacs
 <lb n="0654c07" ed="T"/>障對治義。以欲界見道煩惱。有不善．及五
 <lb n="0654c08" ed="T"/>趣．四生。厭心可深能入見道。上界不爾。若
 <lb n="0654c09" ed="T"/>唯斷所知障。不藉深厭心。但求菩提不
-<lb n="0654c10" ed="T"/><note n="0654006" resp="Taisho" place="foot text" type="orig">折＝祈【丁】，欣？</note><note n="0654006" resp="CBETA" type="mod">折【大】，祈【丁】，＝欣【考偽-大】</note><app n="0654006"><lem wit="【大】">折</lem><rdg resp="Taisho" wit="【丁】">祈</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">欣</rdg></app>解脫。上界亦得故。有聲聞色界迴心入
+<lb n="0654c10" ed="T"/><note n="0654006" resp="Taisho" place="foot text" type="orig">折＝祈【丁】，欣？</note><note n="0654006" resp="CBETA" type="mod">折【大】，祈【丁】，欣【考偽-大】</note><app n="0654006"><lem wit="【大】">折</lem><rdg resp="Taisho" wit="【丁】">祈</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">欣</rdg></app>解脫。上界亦得故。有聲聞色界迴心入
 <lb n="0654c11" ed="T"/>見道等。此說直往。彼說迂會。亦不相違
 <lb n="0654c12" ed="T"/>　七十三解無相取有數十番解。應勘敘之
 <lb n="0654c13" ed="T"/>　問若許無分別智有見無相。如自證分。

@@ -46,11 +46,11 @@
 <lb ed="I" n="0203a00" type="honorific"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>比丘尼法藏等造像記</title></cb:jhead></cb:juan>
 <lb ed="I" n="0203a00" type="honorific"/><cb:mulu level="1" type="其他">之一　碑陽</cb:mulu><head>之一　碑陽</head>
 <cb:div>
-<lb ed="I" n="0203a01" type="honorific"/><p xml:id="pI01p0203a0101">　　度蓋行佛主陳<unclear cert="low" reason="damage">熬</unclear>樂　水月光佛主陳歸歡　　　　日光佛主清信邵賜好　　最上首佛主清信王那姿　　日月流<note n="0203001" resp="ihp" place="foot text" type="orig">𩀌＝璃【史】</note><note n="0203001" resp="ihp" type="mod">𩀌【大】，璃【史】</note><app n="0203001"><lem resp="ihp" wit="【史】">璃</lem><rdg wit="【原】">𩀌</rdg></app>光佛主陳洪暢妻杜容姬　　　功德多寶佛主陳洪建
+<lb ed="I" n="0203a01" type="honorific"/><p xml:id="pI01p0203a0101">　　度蓋行佛主陳<unclear cert="low" reason="damage">熬</unclear>樂　水月光佛主陳歸歡　　　　日光佛主清信邵賜好　　最上首佛主清信王那姿　　日月流<note n="0203001" resp="ihp" place="foot text" type="orig">𩀌＝璃【史】</note><app n="0203001"><lem resp="ihp" wit="【史】">璃</lem><rdg wit="【原】">𩀌</rdg></app>光佛主陳洪暢妻杜容姬　　　功德多寶佛主陳洪建
 <lb ed="I" n="0203a02" type="honorific"/>
 <lb ed="I" n="0203a03" type="honorific"/>
 <lb ed="I" n="0203a04" type="honorific"/>
-<lb ed="I" n="0203a05" type="honorific"/>淨信佛主　　　　　　　除疑<note n="0203002" resp="ihp" place="foot text" type="orig"><g ref="#CB30995"/>＝冥【史】</note><note n="0203002" resp="ihp" type="mod"><g ref="#CB30995"/>【大】，冥【史】</note><app n="0203002"><lem resp="ihp" wit="【史】">冥</lem><rdg wit="【原】"><g ref="#CB30995"/></rdg></app>佛主陳黑　　　　　花色王佛主清信張舍妃　菩提華佛主清信荊元妃　　<note n="0203a0501" resp="CBETA" type="add">无【CB】，旡【原】【史】</note><app n="0203a0501"><lem wit="【CB】" resp="CBETA.maha">无</lem><rdg wit="【原】【史】">旡</rdg></app>上流<app type="star" corresp="#0203001"><lem resp="ihp" wit="【史】">璃</lem><rdg wit="【原】">𩀌</rdg></app>光佛主陳洪興　　　　　　　<note n="0203003" resp="ihp" place="foot text" type="orig">𨳰＝開【史】</note><note n="0203003" resp="ihp" type="mod">𨳰【大】，開【史】</note><app n="0203003"><lem resp="ihp" wit="【史】">開</lem><rdg wit="【原】">𨳰</rdg></app>日月光佛主陳洪度
+<lb ed="I" n="0203a05" type="honorific"/>淨信佛主　　　　　　　除疑<note n="0203002" resp="ihp" place="foot text" type="orig"><g ref="#CB30995"/>＝冥【史】</note><app n="0203002"><lem resp="ihp" wit="【史】">冥</lem><rdg wit="【原】"><g ref="#CB30995"/></rdg></app>佛主陳黑　　　　　花色王佛主清信張舍妃　菩提華佛主清信荊元妃　　<note n="0203a0501" resp="CBETA" type="add">无【CB】，旡【原】【史】</note><app n="0203a0501"><lem wit="【CB】" resp="CBETA.maha">无</lem><rdg wit="【原】【史】">旡</rdg></app>上流<app type="star" corresp="#0203001"><lem resp="ihp" wit="【史】">璃</lem><rdg wit="【原】">𩀌</rdg></app>光佛主陳洪興　　　　　　　<note n="0203003" resp="ihp" place="foot text" type="orig">𨳰＝開【史】</note><app n="0203003"><lem resp="ihp" wit="【史】">開</lem><rdg wit="【原】">𨳰</rdg></app>日月光佛主陳洪度
 <lb ed="I" n="0203a06" type="honorific"/>
 <lb ed="I" n="0203a07" type="honorific"/>
 <lb ed="I" n="0203a08" type="honorific"/>檀越主陳胤天　　　　　定光佛主楊歡供養　　　　彌勒佛主清信陳連歡　　觀世音菩薩主清信杜銀　　祖陳文一心供養時　當陽佛主陳洪波　菩薩主陳天與侍佛
@@ -66,7 +66,7 @@
 <lb ed="I" n="0203a18" type="honorific"/>
 <lb ed="I" n="0203a19" type="honorific"/>
 <lb ed="I" n="0203a20" type="honorific"/>
-<lb ed="I" n="0203a21" type="honorific"/>像主比丘尼法藏敬造　　阿難菩薩主清信女陳妙暈　阿難主清信女陳金錁　　德大世菩薩清信張敬姿　　<note n="0203004" resp="ihp" place="foot text" type="orig">𠦑＝叔【史】</note><note n="0203004" resp="ihp" type="mod">𠦑【大】，叔【史】</note><app n="0203004"><lem resp="ihp" wit="【史】">叔</lem><rdg wit="【原】">𠦑</rdg></app>祖陳<note n="0203005" resp="ihp" place="foot text" type="orig">𦫿＝艾【史】</note><note n="0203005" resp="ihp" type="mod">𦫿【大】，艾【史】</note><app n="0203005"><lem resp="ihp" wit="【史】">艾</lem><rdg wit="【原】">𦫿</rdg></app>侍藥王菩薩　　　　　　　　陳天授侍普賢菩薩
+<lb ed="I" n="0203a21" type="honorific"/>像主比丘尼法藏敬造　　阿難菩薩主清信女陳妙暈　阿難主清信女陳金錁　　德大世菩薩清信張敬姿　　<note n="0203004" resp="ihp" place="foot text" type="orig">𠦑＝叔【史】</note><app n="0203004"><lem resp="ihp" wit="【史】">叔</lem><rdg wit="【原】">𠦑</rdg></app>祖陳<note n="0203005" resp="ihp" place="foot text" type="orig">𦫿＝艾【史】</note><app n="0203005"><lem resp="ihp" wit="【史】">艾</lem><rdg wit="【原】">𦫿</rdg></app>侍藥王菩薩　　　　　　　　陳天授侍普賢菩薩
 <lb ed="I" n="0203a22" type="honorific"/>
 <lb ed="I" n="0203a23" type="honorific"/>
 <lb ed="I" n="0203a24" type="honorific"/>
@@ -76,12 +76,12 @@
 <lb ed="I" n="0203a28" type="honorific"/>阿粊佛主清信令胡甑貴　<note n="0203a2801" resp="CBETA" type="add">无【CB】，旡【原】【史】</note><app n="0203a2801"><lem wit="【CB】" resp="CBETA.maha">无</lem><rdg wit="【原】【史】">旡</rdg></app>量壽佛主清信女陳華蘭　識佛主清信女陳始暈　　拘樓孫佛主清信女陳始敬　陳洪淵陳憂兜法慧佛　　　　　　　　陳伯樂侍善宿佛</p>
 </cb:div>
 <cb:div>
-<lb ed="I" n="0203b01" type="honorific"/><p xml:id="pI01p0203b0101">起像主陳<note n="0203006" resp="ihp" place="foot text" type="orig">𣴴＝海【史】</note><note n="0203006" resp="ihp" type="mod">𣴴【大】，海【史】</note><app n="0203006"><lem resp="ihp" wit="【史】">海</lem><rdg wit="【原】">𣴴</rdg></app>龍一心侍佛
+<lb ed="I" n="0203b01" type="honorific"/><p xml:id="pI01p0203b0101">起像主陳<note n="0203006" resp="ihp" place="foot text" type="orig">𣴴＝海【史】</note><app n="0203006"><lem resp="ihp" wit="【史】">海</lem><rdg wit="【原】">𣴴</rdg></app>龍一心侍佛
 <lb ed="I" n="0203b02" type="honorific"/>保定二年歲次壬午正月
 <lb ed="I" n="0203b03" type="honorific"/>壬寅朔廿四日乙丑敬造。
 <lb ed="I" n="0203b04" type="honorific"/>夫道性空寂。神照之理<note n="0203b0401" resp="CBETA" type="add">无【CB】，旡【原】【史】</note><app n="0203b0401"><lem wit="【CB】" resp="CBETA.maha">无</lem><rdg wit="【原】【史】">旡</rdg></app>
 <lb ed="I" n="0203b05" type="honorific"/>源。法身玄曠。藏用之途不
-<lb ed="I" n="0203b06" type="honorific"/>測。昔如來降生維衛。託<note n="0203007" resp="ihp" place="foot text" type="orig">躰＝體【史】</note><note n="0203007" resp="ihp" type="mod">躰【大】，體【史】</note><app n="0203007"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">躰</rdg></app>
+<lb ed="I" n="0203b06" type="honorific"/>測。昔如來降生維衛。託<note n="0203007" resp="ihp" place="foot text" type="orig">躰＝體【史】</note><app n="0203007"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">躰</rdg></app>
 <lb ed="I" n="0203b07" type="honorific"/>王宮。發神　光於清夜。均
 <lb ed="I" n="0203b08" type="honorific"/>有形示同生滅。然比丘尼
 <lb ed="I" n="0203b09" type="honorific"/>法藏。<app type="star" corresp="#0203007"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">躰</rdg></app>道悟真。含靈自曉。
@@ -101,7 +101,7 @@
 <lb ed="I" n="0203b23" type="honorific"/>齋主陳遵岳一心侍佛時
 <lb ed="I" n="0203b24" type="honorific"/>右葙都佛主持節撫軍將軍左金紫
 <lb ed="I" n="0203b25" type="honorific"/>光祿大都督魏定陽令後封正平北
-<lb ed="I" n="0203b26" type="honorific"/>平雉城三郡太守高<note n="0203008" resp="ihp" place="foot text" type="orig"><g ref="#CB30996"/>＝陸【史】</note><note n="0203008" resp="ihp" type="mod"><g ref="#CB30996"/>【大】，陸【史】</note><app n="0203008"><lem resp="ihp" wit="【史】">陸</lem><rdg wit="【原】"><g ref="#CB30996"/></rdg></app>縣開國公
+<lb ed="I" n="0203b26" type="honorific"/>平雉城三郡太守高<note n="0203008" resp="ihp" place="foot text" type="orig"><g ref="#CB30996"/>＝陸【史】</note><app n="0203008"><lem resp="ihp" wit="【史】">陸</lem><rdg wit="【原】"><g ref="#CB30996"/></rdg></app>縣開國公
 <lb ed="I" n="0203b27" type="honorific"/>陳<app type="star" corresp="#0203004"><lem resp="ihp" wit="【史】">叔</lem><rdg wit="【原】">𠦑</rdg></app>儁當陽像主宣威將軍虎賁
 <lb ed="I" n="0203b28" type="honorific"/>給事始平□開國子陳迴顯供養</p>
 </cb:div>
@@ -116,7 +116,7 @@
 <lb ed="I" n="0204a05" type="honorific"/>寶王佛主陳先儁供養佛時　分身諸佛主陳慶儁　　　思善佛主陳羅漢供養　　　　　　正念佛主陳僧榮供養　　　　十六王子佛主陳興和供養　　三万燃燈佛主呂子慎供養
 <lb ed="I" n="0204a06" type="honorific"/>
 <lb ed="I" n="0204a07" type="honorific"/>
-<lb ed="I" n="0204a08" type="honorific"/><note n="0204001" resp="ihp" place="foot text" type="orig">庄＝莊【史】</note><note n="0204001" resp="ihp" type="mod">庄【大】，莊【史】</note><app n="0204001"><lem resp="ihp" wit="【史】">莊</lem><rdg wit="【原】">庄</rdg></app>嚴光明佛主陳醜奴供養　梵王佛主清信荊要娥　　須彌燈王佛主陳俱羅供養　　　　定光菩薩主陳僧安一心供養　寶王佛主陳歸慶供養　　　　彌勒菩薩陳元儁供養
+<lb ed="I" n="0204a08" type="honorific"/><note n="0204001" resp="ihp" place="foot text" type="orig">庄＝莊【史】</note><app n="0204001"><lem resp="ihp" wit="【史】">莊</lem><rdg wit="【原】">庄</rdg></app>嚴光明佛主陳醜奴供養　梵王佛主清信荊要娥　　須彌燈王佛主陳俱羅供養　　　　定光菩薩主陳僧安一心供養　寶王佛主陳歸慶供養　　　　彌勒菩薩陳元儁供養
 <lb ed="I" n="0204a09" type="honorific"/>
 <lb ed="I" n="0204a10" type="honorific"/>
 <lb ed="I" n="0204a11" type="honorific"/>
@@ -172,8 +172,8 @@
 <cb:div>
 <lb ed="I" n="0205a00" type="honorific"/><cb:mulu level="1" type="其他">之三　兩側</cb:mulu><head>之三　兩側</head>
 <cb:div>
-<lb ed="I" n="0205a01" type="honorific"/><p xml:id="pI01p0205a0101"><unclear cert="low" reason="damage">旁</unclear>立佛主清信陳<note n="0205001" resp="ihp" place="foot text" type="orig"><g ref="#CB30994"/>＝孟【史】</note><note n="0205001" resp="ihp" type="mod"><g ref="#CB30994"/>【大】，孟【史】</note><app n="0205001"><lem resp="ihp" wit="【史】">孟</lem><rdg wit="【原】"><g ref="#CB30994"/></rdg></app>妃　　　　離虛垢佛主楊外榮供養　　　寶德佛主清信薛毛王供養　雲自在佛主清信張<unclear cert="low" reason="damage">善</unclear>王供養時　栴檀華佛主陳<unclear cert="low" reason="damage">覆</unclear>龍一心供養　　　　　　　　迦葉菩薩主清信李進姜一心供養　清信女文綵憐
-<lb ed="I" n="0205a02" type="honorific"/>寶炎佛主曾口縣令陳清匡　　師子遊戲王佛主清信邵次男　大光王佛主清信呂妙貴　　妙意佛主　　　　　　　　　　阿難主甸難將軍員外司馬隆州府法曹陳征仙　甘露<note n="0205002" resp="ihp" place="foot text" type="orig">皷＝鼓【史】</note><note n="0205002" resp="ihp" type="mod">皷【大】，鼓【史】</note><app n="0205002"><lem resp="ihp" wit="【史】">鼓</lem><rdg wit="【原】">皷</rdg></app>佛主陳惠龍一心供養</p>
+<lb ed="I" n="0205a01" type="honorific"/><p xml:id="pI01p0205a0101"><unclear cert="low" reason="damage">旁</unclear>立佛主清信陳<note n="0205001" resp="ihp" place="foot text" type="orig"><g ref="#CB30994"/>＝孟【史】</note><app n="0205001"><lem resp="ihp" wit="【史】">孟</lem><rdg wit="【原】"><g ref="#CB30994"/></rdg></app>妃　　　　離虛垢佛主楊外榮供養　　　寶德佛主清信薛毛王供養　雲自在佛主清信張<unclear cert="low" reason="damage">善</unclear>王供養時　栴檀華佛主陳<unclear cert="low" reason="damage">覆</unclear>龍一心供養　　　　　　　　迦葉菩薩主清信李進姜一心供養　清信女文綵憐
+<lb ed="I" n="0205a02" type="honorific"/>寶炎佛主曾口縣令陳清匡　　師子遊戲王佛主清信邵次男　大光王佛主清信呂妙貴　　妙意佛主　　　　　　　　　　阿難主甸難將軍員外司馬隆州府法曹陳征仙　甘露<note n="0205002" resp="ihp" place="foot text" type="orig">皷＝鼓【史】</note><app n="0205002"><lem resp="ihp" wit="【史】">鼓</lem><rdg wit="【原】">皷</rdg></app>佛主陳惠龍一心供養</p>
 </cb:div>
 </cb:div>
 <cb:div>

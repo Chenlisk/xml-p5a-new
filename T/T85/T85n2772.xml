@@ -668,7 +668,7 @@ Added comment  for Emacs
 <lb n="0381c02" ed="T"/>諺云。夫說法者明法非無。無說無示彰法非
 <lb n="0381c03" ed="T"/>有。非有故離常。非無故離段。非有非無即離
 <lb n="0381c04" ed="T"/>段常。是名正說。其聽法者明法非無。無聞無
-<lb n="0381c05" ed="T"/>得彰法非有。非有離常非無<note n="0381001" resp="Taisho" place="foot text" type="orig">（離）＋段？</note><app n="0381001"><lem resp="Taisho" wit="【大】">段</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">離段</rdg></app>。離段常名曰
+<lb n="0381c05" ed="T"/>得彰法非有。非有離常非無<note n="0381001" resp="Taisho" place="foot text" type="orig">（離）＋段？</note><note n="0381001" resp="CBETA" type="mod">段【大】，離段【考偽-大】</note><app n="0381001"><lem resp="Taisho" wit="【大】">段</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">離段</rdg></app>。離段常名曰
 <lb n="0381c06" ed="T"/>正聞。又云。說時離言故云無說。以法示人。實
 <lb n="0381c07" ed="T"/>法性空。示無所示。故云無示。無聞無得者。常
 <lb n="0381c08" ed="T"/>聞正法。以法體空故曰無聞。依聞而證。證得
@@ -1344,7 +1344,7 @@ Added comment  for Emacs
 <lb n="0389a18" ed="T"/>一時為諸比丘略說苦空。次明迦旃延為諸
 <lb n="0389a19" ed="T"/>比丘敷演其義。言略說法要者。五句不多故
 <lb n="0389a20" ed="T"/>名為略。初四俗諦。後一真諦。攝法周盡故名
-<lb n="0389a21" ed="T"/>為要。又通攝有為<note n="0389001" resp="Taisho" place="foot text" type="orig">無＋（為）？</note><app n="0389001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">無為</rdg></app>二法皆盡故稱為要。演
+<lb n="0389a21" ed="T"/>為要。又通攝有為<note n="0389001" resp="Taisho" place="foot text" type="orig">無＋（為）？</note><note n="0389001" resp="CBETA" type="mod">無【大】，無為【考偽-大】</note><app n="0389001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">無為</rdg></app>二法皆盡故稱為要。演
 <lb n="0389a22" ed="T"/>有為作四非常。演無為作一寂滅。故云要也。
 <lb n="0389a23" ed="T"/>又要略有四句。一名略義廣。名少義多說也。
 <lb n="0389a24" ed="T"/>二名廣義略。名教多說義少也。三名義俱廣。
@@ -1851,8 +1851,8 @@ Added comment  for Emacs
 <lb n="0394c15" ed="T"/>妄謂有之。現無生滅亦如是也。當知皆是妄
 <lb n="0394c16" ed="T"/>見故非有似有。實無體。住無住即空。何有罪
 <lb n="0394c17" ed="T"/>垢也。是名奉下結嘆勸學。行順法律達罪非
-<lb n="0394c18" ed="T"/>有。即無犯律之咎。名為奉律。<note n="0394001" resp="Taisho" place="foot text" type="orig">〔之〕－？</note><app n="0394001"><lem resp="Taisho" wit="【大】">之</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>解相非相
-<lb n="0394c19" ed="T"/>即無取相之失。故稱善解。如<note n="0394002" resp="Taisho" place="foot text" type="orig">〔來〕－？</note><app n="0394002"><lem resp="Taisho" wit="【大】">來</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>是奉律。行
+<lb n="0394c18" ed="T"/>有。即無犯律之咎。名為奉律。<note n="0394001" resp="Taisho" place="foot text" type="orig">〔之〕－？</note><note n="0394001" resp="CBETA" type="mod">之【大】，〔－〕【考偽-大】</note><app n="0394001"><lem resp="Taisho" wit="【大】">之</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>解相非相
+<lb n="0394c19" ed="T"/>即無取相之失。故稱善解。如<note n="0394002" resp="Taisho" place="foot text" type="orig">〔來〕－？</note><note n="0394002" resp="CBETA" type="mod">來【大】，〔－〕【考偽-大】</note><app n="0394002"><lem resp="Taisho" wit="【大】">來</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>是奉律。行
 <lb n="0394c20" ed="T"/>無不妙。如是解法智無不真。欲使學者慕彼
 <lb n="0394c21" ed="T"/>高風故。今淨名示茲教也。</p>
 <lb n="0394c22" ed="T"/><p xml:id="pT85p0394c2201">於是二比丘言上智哉等者。第三稱讚維摩
@@ -1877,7 +1877,7 @@ Added comment  for Emacs
 <lb n="0395a11" ed="T"/>疑。太子既自出家厭捨五欲。妃在宮內何得
 <lb n="0395a12" ed="T"/>有娠。將不犯邪。淨飯王與諸親屬共相議言。
 <lb n="0395a13" ed="T"/>謂非太子遺體。王及釋種皆懷愧恥。遂生嗔
-<lb n="0395a14" ed="T"/>心以大火坑欲燒。耶輸陀羅<note n="0395001" resp="Taisho" place="foot text" type="orig">〔耶輸〕－？</note><app n="0395001"><lem resp="Taisho" wit="【大】">耶輸</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>對諸釋種
+<lb n="0395a14" ed="T"/>心以大火坑欲燒。耶輸陀羅<note n="0395001" resp="Taisho" place="foot text" type="orig">〔耶輸〕－？</note><note n="0395001" resp="CBETA" type="mod">耶輸【大】，〔－〕【考偽-大】</note><app n="0395001"><lem resp="Taisho" wit="【大】">耶輸</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>對諸釋種
 <lb n="0395a15" ed="T"/>自立誓云。若非太子遺體。願我抱兒投火而
 <lb n="0395a16" ed="T"/>滅。若不爾者願示清白。於是立誓竟抱兒入
 <lb n="0395a17" ed="T"/>火。於時母子俱存。火變涼池。蓮花捧出。王
@@ -2171,12 +2171,12 @@ Added comment  for Emacs
 <lb n="0398b05" ed="T"/>家不許偏執。就實以論勸彼阿難如居士言
 <lb n="0398b06" ed="T"/>了佛無病。但為佛出五濁惡已下隨化。不違
 <lb n="0398b07" ed="T"/>阿難乞乳。故須同病以止病也。五濁者。一命
-<lb n="0398b08" ed="T"/>濁。二劫濁。三見濁。四煩惱濁。五眾<note n="0398001" resp="Taisho" place="foot text" type="orig">生＋（濁）？</note><app n="0398001"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">生濁</rdg></app>。下劫
+<lb n="0398b08" ed="T"/>濁。二劫濁。三見濁。四煩惱濁。五眾<note n="0398001" resp="Taisho" place="foot text" type="orig">生＋（濁）？</note><note n="0398001" resp="CBETA" type="mod">生【大】，生濁【考偽-大】</note><app n="0398001"><lem resp="Taisho" wit="【大】">生</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">生濁</rdg></app>。下劫
 <lb n="0398b09" ed="T"/>將末命等五法以成滓。故如油將盡名濁也。
 <lb n="0398b10" ed="T"/>命濁者。謂短壽年十歲。以惡劫時命根為體。
 <lb n="0398b11" ed="T"/>劫濁者。謂兵刃疾病飢饉劫起時以不相應
 <lb n="0398b12" ed="T"/>法為體。或以內外有漏五陰為體。見濁者。三
-<lb n="0398b13" ed="T"/>惡劫時五見為體。煩<note n="0398002" resp="Taisho" place="foot text" type="orig">惱＋（濁）？</note><app n="0398002"><lem resp="Taisho" wit="【大】">惱</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">惱濁</rdg></app>者。三惡劫時陰五見
+<lb n="0398b13" ed="T"/>惡劫時五見為體。煩<note n="0398002" resp="Taisho" place="foot text" type="orig">惱＋（濁）？</note><note n="0398002" resp="CBETA" type="mod">惱【大】，惱濁【考偽-大】</note><app n="0398002"><lem resp="Taisho" wit="【大】">惱</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">惱濁</rdg></app>者。三惡劫時陰五見
 <lb n="0398b14" ed="T"/>餘鈍央煩惱為體。眾生濁者。三惡劫時無有
 <lb n="0398b15" ed="T"/>正念。眾生以第八識為體。或通取五陰為性。
 <lb n="0398b16" ed="T"/>此五惟在欲界非上二界也。此五成時名為
@@ -2544,7 +2544,7 @@ Added comment  for Emacs
 <lb n="0402b17" ed="T"/>第四禪中既無五識。云何引起成所作智。故
 <lb n="0402b18" ed="T"/>智借彼下識依上根生轉成所作智。彼亦如
 <lb n="0402b19" ed="T"/>是。或云。香是定心所變。法入所攝。色界諸天
-<lb n="0402b20" ed="T"/><note n="0402001" resp="Taisho" place="foot text" type="orig">〔諸天〕－？</note><app n="0402001"><lem resp="Taisho" wit="【大】">諸天</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>意識得緣。所以聞香入方丈也。第二以
+<lb n="0402b20" ed="T"/><note n="0402001" resp="Taisho" place="foot text" type="orig">〔諸天〕－？</note><note n="0402001" resp="CBETA" type="mod">諸天【大】，〔－〕【考偽-大】</note><app n="0402001"><lem resp="Taisho" wit="【大】">諸天</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>意識得緣。所以聞香入方丈也。第二以
 <lb n="0402b21" ed="T"/>食供養眾中文分為二。一辯香飯無盡。二其
 <lb n="0402b22" ed="T"/>諸菩薩下彰飯殊勝。初辯飯無盡中文有四
 <lb n="0402b23" ed="T"/>句。一命眾食。二有異下覩飯念少。三化菩薩
@@ -2580,7 +2580,7 @@ Added comment  for Emacs
 <lb n="0402c23" ed="T"/>常盡。入無<note n="0402002" resp="Taisho" place="foot text" type="orig">飯＝餘？</note><note n="0402002" resp="CBETA" type="mod">飯【大】，餘【考偽-大】</note><app n="0402002"><lem resp="Taisho" wit="【大】">飯</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">餘</rdg></app>涅槃時盡。異彼二盡故言無
 <lb n="0402c24" ed="T"/>盡。功德具足者。不同菩薩。所食之餘不可盡
 <lb n="0402c25" ed="T"/>明佛食身報用無盡。於是鉢飯下第四正明
-<lb n="0402c26" ed="T"/>受用無盡自下第二飯殊勝中顯食功<note n="0402003" resp="Taisho" place="foot text" type="orig">〔德〕－？</note><app n="0402003"><lem resp="Taisho" wit="【大】">德</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>能
+<lb n="0402c26" ed="T"/>受用無盡自下第二飯殊勝中顯食功<note n="0402003" resp="Taisho" place="foot text" type="orig">〔德〕－？</note><note n="0402003" resp="CBETA" type="mod">德【大】，〔－〕【考偽-大】</note><app n="0402003"><lem resp="Taisho" wit="【大】">德</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>能
 <lb n="0402c27" ed="T"/>有三。初明身安樂者。離忘不善名安。無苦適
 <lb n="0402c28" ed="T"/>悅名樂。譬如下欲次以喻顯安樂。後明食者
 <lb n="0402c29" ed="T"/>身出妙香亦如下喻顯香相也。</p>
@@ -2632,7 +2632,7 @@ Added comment  for Emacs
 <lb n="0403b15" ed="T"/>審決二思意相應故作動意故名意業也。是
 <lb n="0403b16" ed="T"/>殺生下次明十惡。斷命名殺。即是身。用生
 <lb n="0403b17" ed="T"/>是前境。殺彼眾生。此即從用及境為名也。然
-<lb n="0403b18" ed="T"/>殺眾生要具五義。一<note n="0403001" resp="Taisho" place="foot text" type="orig">者＋（□□）？</note><app n="0403001"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">者□□</rdg></app>謂是眾生數。二者
+<lb n="0403b18" ed="T"/>殺眾生要具五義。一<note n="0403001" resp="Taisho" place="foot text" type="orig">者＋（□□）？</note><note n="0403001" resp="CBETA" type="mod">者【大】，者□□【考偽-大】</note><app n="0403001"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">者□□</rdg></app>謂是眾生數。二者
 <lb n="0403b19" ed="T"/>意樂。謂起害心。三者方便。欲為害故須執刀
 <lb n="0403b20" ed="T"/>杖。四者煩惱。謂貪嗔癡。五者究竟。謂彼眾生
 <lb n="0403b21" ed="T"/>或無間死或後時死。若具五義即成根本業
@@ -2655,7 +2655,7 @@ Added comment  for Emacs
 <lb n="0403c08" ed="T"/>增上果也。是妄語妄語報者。發言不實名為
 <lb n="0403c09" ed="T"/>妄語。此亦從用為名。得三種果。於地獄等
 <lb n="0403c10" ed="T"/>受異熟果。若生人中多被<note n="0403002" resp="Taisho" place="foot text" type="orig">訛＝誹？</note><note n="0403002" resp="CBETA" type="mod">訛【大】，誹【考偽-大】</note><app n="0403002"><lem resp="Taisho" wit="【大】">訛</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">誹</rdg></app>謗。受等流果。
-<lb n="0403c11" ed="T"/>外感資具多諸臭穢。果增上果。<note n="0403003" resp="Taisho" place="foot text" type="orig">是＋（兩舌）？</note><app n="0403003"><lem resp="Taisho" wit="【大】">是</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">是兩舌</rdg></app>兩舌報
+<lb n="0403c11" ed="T"/>外感資具多諸臭穢。果增上果。<note n="0403003" resp="Taisho" place="foot text" type="orig">是＋（兩舌）？</note><note n="0403003" resp="CBETA" type="mod">是【大】，是兩舌【考偽-大】</note><app n="0403003"><lem resp="Taisho" wit="【大】">是</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">是兩舌</rdg></app>兩舌報
 <lb n="0403c12" ed="T"/>者。離隔彼此名為兩舌。此亦從用為名。還感
 <lb n="0403c13" ed="T"/>三果。於惡趣中受異熟果。後生人中親友乖
 <lb n="0403c14" ed="T"/>離。受等流果。感得外事高下險曲。是增上果。
@@ -2755,7 +2755,7 @@ Added comment  for Emacs
 <lb n="0404c18" ed="T"/>世間。可破壞故果上之滅名曰涅槃。然涅槃
 <lb n="0404c19" ed="T"/>不同有其四種。一自性清淨不為煩惱所染。
 <lb n="0404c20" ed="T"/>即有垢真如為體。二無住處悲智不住二邊。
-<lb n="0404c21" ed="T"/>因證涅槃即離所<note n="0404001" resp="Taisho" place="foot text" type="orig">〔智〕－？</note><app n="0404001"><lem resp="Taisho" wit="【大】">智</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>知障。法空真如為體也。
+<lb n="0404c21" ed="T"/>因證涅槃即離所<note n="0404001" resp="Taisho" place="foot text" type="orig">〔智〕－？</note><note n="0404001" resp="CBETA" type="mod">智【大】，〔－〕【考偽-大】</note><app n="0404001"><lem resp="Taisho" wit="【大】">智</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>知障。法空真如為體也。
 <lb n="0404c22" ed="T"/>三有餘障雖永寂若身未捨。以若身證涅槃
 <lb n="0404c23" ed="T"/>也。即斷煩惱障真如為體。四無餘。捨生死二
 <lb n="0404c24" ed="T"/>苦報名曰無餘也。即出生死若真如為體也。
@@ -2871,7 +2871,7 @@ Added comment  for Emacs
 <lb n="0406a14" ed="T"/>不盡法。聞以為要行。即從請人以題章目。故
 <lb n="0406a15" ed="T"/>稱菩薩行品也。</p>
 <lb n="0406a16" ed="T"/><p xml:id="pT85p0406a1601">三解文者。大開四節。一現瑞相令人發心。
-<lb n="0406a17" ed="T"/><note n="0406001" resp="Taisho" place="foot text" type="orig">（二）＋辯？</note><app n="0406001"><lem resp="Taisho" wit="【大】">辯</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二辯</rdg></app>香飯以為佛事。三明諸佛說法平等。四明
+<lb n="0406a17" ed="T"/><note n="0406001" resp="Taisho" place="foot text" type="orig">（二）＋辯？</note><note n="0406001" resp="CBETA" type="mod">辯【大】，二辯【考偽-大】</note><app n="0406001"><lem resp="Taisho" wit="【大】">辯</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二辯</rdg></app>香飯以為佛事。三明諸佛說法平等。四明
 <lb n="0406a18" ed="T"/>請法還國作念佛事勝緣。文別可知。</p>
 <lb n="0406a19" ed="T"/><p xml:id="pT85p0406a1901">前中有四。一明維摩欲往佛所先現神瑞。二
 <lb n="0406a20" ed="T"/>問答辯釋。三持大眾往詣菴羅。四明如來勅
@@ -3035,7 +3035,7 @@ Added comment  for Emacs
 <lb n="0407c28" ed="T"/>應。屬意識者食義勝也。識食以阿賴耶識為
 <lb n="0407c29" ed="T"/>體。此識雖通七八。第八食義勝也。第三建立
 <pb n="0408a" xml:id="T85.2772.0408a" ed="T"/>
-<lb n="0408a01" ed="T"/>者。依瑜伽論有其四法。一氣力<note n="0408001" resp="Taisho" place="foot text" type="orig">（二）＋喜？</note><app n="0408001"><lem resp="Taisho" wit="【大】">喜</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二喜</rdg></app>樂。三悕
+<lb n="0408a01" ed="T"/>者。依瑜伽論有其四法。一氣力<note n="0408001" resp="Taisho" place="foot text" type="orig">（二）＋喜？</note><note n="0408001" resp="CBETA" type="mod">喜【大】，二喜【考偽-大】</note><app n="0408001"><lem resp="Taisho" wit="【大】">喜</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二喜</rdg></app>樂。三悕
 <lb n="0408a02" ed="T"/>望。四任持。諸根大種由斷食故資養色身。有
 <lb n="0408a03" ed="T"/>氣力故。由觸食故攝益喜樂便能長養諸根
 <lb n="0408a04" ed="T"/>大種。由思食故專注悕望令其色根長養相
@@ -3864,7 +3864,7 @@ Added comment  for Emacs
 <lb n="0417a17" ed="T"/>眾莫測所以請佛求救佛答是維摩所作。三
 <lb n="0417a18" ed="T"/>明愚眾不覺往來。四明彼此無有增減。初中
 <lb n="0417a19" ed="T"/>入三昧現神力者。明通由定發。非是無因。故
-<lb n="0417a20" ed="T"/>示入三昧使人天信。不同呪幻<note n="0417001" resp="Taisho" place="foot text" type="orig">所＋（作）？</note><app n="0417001"><lem resp="Taisho" wit="【大】">所</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">所作</rdg></app>。故雜心
+<lb n="0417a20" ed="T"/>示入三昧使人天信。不同呪幻<note n="0417001" resp="Taisho" place="foot text" type="orig">所＋（作）？</note><note n="0417001" resp="CBETA" type="mod">所【大】，所作【考偽-大】</note><app n="0417001"><lem resp="Taisho" wit="【大】">所</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">所作</rdg></app>。故雜心
 <lb n="0417a21" ed="T"/>云。五通在四禪。根本非餘地。彼得神通菩薩
 <lb n="0417a22" ed="T"/>者明大力菩薩。得天眼者遂見瑞變為眾而
 <lb n="0417a23" ed="T"/>問。其餘天人未了發聲救護者。為諸小菩薩
@@ -3881,7 +3881,7 @@ Added comment  for Emacs
 <lb n="0417b04" ed="T"/>增減是不思議。與前芥納須彌山王何異。答。
 <lb n="0417b05" ed="T"/>有四義。一以大入小。芥納須彌。二以小充大。
 <lb n="0417b06" ed="T"/>請飯香積。三以大容大。妙喜入忍界。四以
-<lb n="0417b07" ed="T"/>小<note n="0417002" resp="Taisho" place="foot text" type="orig">入＋（小）？</note><app n="0417002"><lem resp="Taisho" wit="【大】">入</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">入小</rdg></app>可知。今是第三以大入大不思議也。大
+<lb n="0417b07" ed="T"/>小<note n="0417002" resp="Taisho" place="foot text" type="orig">入＋（小）？</note><note n="0417002" resp="CBETA" type="mod">入【大】，入小【考偽-大】</note><app n="0417002"><lem resp="Taisho" wit="【大】">入</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">入小</rdg></app>可知。今是第三以大入大不思議也。大
 <lb n="0417b08" ed="T"/>眾見妙喜中文分有六。一佛勸觀妙喜。二明
 <lb n="0417b09" ed="T"/>大眾唯然己見。三佛勸修無動之行。四明此
 <lb n="0417b10" ed="T"/>眾見彼佛<note n="0417003" resp="Taisho" place="foot text" type="orig">也＝已？</note><note n="0417003" resp="CBETA" type="mod">也【大】，已【考偽-大】</note><app n="0417003"><lem resp="Taisho" wit="【大】">也</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">已</rdg></app>發心獲益。五佛記之當生彼國。
@@ -3948,7 +3948,7 @@ Added comment  for Emacs
 <lb n="0418a11" ed="T"/>要由證真方了俗故。故唯識論云。若不證真
 <lb n="0418a12" ed="T"/>如無由了諸行也。門者暖等四心也。由前暖
 <lb n="0418a13" ed="T"/>頂二位觀所取空作遍計無相觀。次忍一位
-<lb n="0418a14" ed="T"/>觀能所空作依他無<note n="0418001" resp="Taisho" place="foot text" type="orig">〔後〕－？</note><app n="0418001"><lem resp="Taisho" wit="【大】">後</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>生觀。後之一位雙印
+<lb n="0418a14" ed="T"/>觀能所空作依他無<note n="0418001" resp="Taisho" place="foot text" type="orig">〔後〕－？</note><note n="0418001" resp="CBETA" type="mod">後【大】，〔－〕【考偽-大】</note><app n="0418001"><lem resp="Taisho" wit="【大】">後</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>生觀。後之一位雙印
 <lb n="0418a15" ed="T"/>二空。由此四位觀無相無生引生初地二智。
 <lb n="0418a16" ed="T"/>故開門也。若依無性攝論云。前之三位觀能
 <lb n="0418a17" ed="T"/>取空。由此四位作無相無生引見道智生。故
@@ -4069,7 +4069,7 @@ Added comment  for Emacs
 <lb n="0419b12" ed="T"/>名中劫。八十中劫名為大劫。三其聲聞僧三
 <lb n="0419b13" ed="T"/>十六那由他等明眾多少也。能供人中時有
 <lb n="0419b14" ed="T"/>輪王標其位也。名曰寶蓋列其名辭。七寶具
-<lb n="0419b15" ed="T"/>足彰其所有。言七寶者。一是珠<note n="0419001" resp="Taisho" place="foot text" type="orig">寶＋（二是輪寶）？</note><app n="0419001"><lem resp="Taisho" wit="【大】">寶</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">寶二是輪寶</rdg></app>　此二非
+<lb n="0419b15" ed="T"/>足彰其所有。言七寶者。一是珠<note n="0419001" resp="Taisho" place="foot text" type="orig">寶＋（二是輪寶）？</note><note n="0419001" resp="CBETA" type="mod">寶【大】，寶二是輪寶【考偽-大】</note><app n="0419001"><lem resp="Taisho" wit="【大】">寶</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">寶二是輪寶</rdg></app>　此二非
 <lb n="0419b16" ed="T"/>情。三是象寶。四是馬寶。此二畜生。五主藏
 <lb n="0419b17" ed="T"/>臣寶。龍樹說云。是夜神與人交接。六主兵寶。
 <lb n="0419b18" ed="T"/>七女寶。此三是人。相狀功能具如經說。主
@@ -4331,7 +4331,7 @@ Added comment  for Emacs
 <lb n="0422b04" ed="T"/>德也。滿十小劫彰說遠近。藥王如來所轉法
 <lb n="0422b05" ed="T"/>輪隨而分布正明說也。後益人中。月蓋比丘
 <lb n="0422b06" ed="T"/>以守護法勤行精進牒前起後。下正明益。初
-<lb n="0422b07" ed="T"/>益菩薩。即身化百億人。於大菩<note n="0422001" resp="Taisho" place="foot text" type="orig">〔薩〕－？</note><app n="0422001"><lem resp="Taisho" wit="【大】">薩</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>提立不
+<lb n="0422b07" ed="T"/>益菩薩。即身化百億人。於大菩<note n="0422001" resp="Taisho" place="foot text" type="orig">〔薩〕－？</note><note n="0422001" resp="CBETA" type="mod">薩【大】，〔－〕【考偽-大】</note><app n="0422001"><lem resp="Taisho" wit="【大】">薩</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>提立不
 <lb n="0422b08" ed="T"/>退轉。次益二乘。能令十四那由他人發二乘
 <lb n="0422b09" ed="T"/>心。後益凡夫。無量眾生得生天上。上來第一
 <lb n="0422b10" ed="T"/>正引往事明財供養不及法供。</p>

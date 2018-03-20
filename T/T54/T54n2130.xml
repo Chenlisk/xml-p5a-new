@@ -279,7 +279,7 @@ add cvs log
 <lb n="0983a13" ed="T"/><item xml:id="itemT54p0983a1301">薩婆若<note place="inline">論曰一切智也</note>　第五卷</item>
 <lb n="0983a14" ed="T"/><item xml:id="itemT54p0983a1401">薩婆若多<note place="inline">論曰<note n="0983001" resp="Taisho" place="foot text" type="orig">菩薩＝薩婆【甲】</note><note n="0983001" resp="CBETA" type="mod">菩薩【大】，薩婆【甲】</note><app n="0983001"><lem wit="【大】">菩薩</lem><rdg resp="Taisho" wit="【甲】">薩婆</rdg></app>者一切也若者智多者相</note>　第二十七卷</item>
 <lb n="0983a15" ed="T"/><item xml:id="itemT54p0983a1501">金慕耆婆<note place="inline">應云金曝耆梨婆　譯曰頸相圓滿</note></item>
-<lb n="0983a16" ed="T"/><item xml:id="itemT54p0983a1601">伊<note n="0983a1601" resp="CBETA" type="add">尼【CB】，尸【大】</note><app n="0983a1601"><lem wit="【CB】" resp="CBETA.maha">尼<note type="cf1">T54n2130_p1013b10</note><note type="cf2">T03n0156_p0164c16</note></lem><rdg wit="【大】">尸</rdg></app>延<note place="inline">亦云猗<note n="0983002" resp="Taisho" place="foot text" type="orig">尸＝尼【甲】</note><note n="0983002" resp="CBETA" type="mod">尼【CB】【甲】，尸【大】</note><app n="0983002"><lem wit="【CBETA】" resp="CBETA.maha">尼<note type="cf1">T54n2130_p1013b10</note><note type="cf2">T03n0156_p0164c16</note></lem><rdg wit="【大】">尸</rdg><rdg resp="Taisho" wit="【甲】">尼</rdg></app>延　譯曰鹿<g ref="#CB00567"/></note></item>
+<lb n="0983a16" ed="T"/><item xml:id="itemT54p0983a1601">伊<note n="0983a1601" resp="CBETA" type="add">尼【CB】，尸【大】</note><app n="0983a1601"><lem wit="【CB】" resp="CBETA.maha">尼<note type="cf1">T54n2130_p1013b10</note><note type="cf2">T03n0156_p0164c16</note></lem><rdg wit="【大】">尸</rdg></app>延<note place="inline">亦云猗<note n="0983002" resp="Taisho" place="foot text" type="orig">尸＝尼【甲】</note><note n="0983002" resp="CBETA" type="mod">尼【CB】【甲】，尸【大】</note><app n="0983002"><lem wit="【CB】" resp="CBETA.maha">尼<note type="cf1">T54n2130_p1013b10</note><note type="cf2">T03n0156_p0164c16</note></lem><rdg wit="【大】">尸</rdg><rdg resp="Taisho" wit="【甲】">尼</rdg></app>延　譯曰鹿<g ref="#CB00567"/></note></item>
 <lb n="0983a17" ed="T"/><item xml:id="itemT54p0983a1701">般泥洹<note place="inline">應云般梨涅般　譯曰般利者大亦云真也涅槃者如上說</note>　華嚴經第一卷</item></list></cb:div>
 <lb n="0983a18" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">4 法名</cb:mulu><head>法名第四</head>
 <lb n="0983a19" ed="T"/><list><item xml:id="itemT54p0983a1901">駝摩<note place="inline">亦云達摩　論曰達摩者法</note>　大智論第四十八卷</item>
@@ -327,7 +327,7 @@ add cvs log
 <lb n="0983c11" ed="T"/><item xml:id="itemT54p0983c1101">跋地羅帝<note place="inline">應云跋陀羅帝　譯曰跋陀羅者賢羅帝者意亦云智</note>
 <lb n="0983c12" ed="T"/>　中阿含第四十一卷</item>
 <lb n="0983c13" ed="T"/><item xml:id="itemT54p0983c1301"><note n="0983008" resp="Taisho" place="foot text" type="orig">魔＝摩【甲】</note><note n="0983008" resp="CBETA" type="mod">魔【大】，摩【甲】</note><app n="0983008"><lem wit="【大】">魔</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>脩多羅<note place="inline">譯曰不法本也</note>　雜阿含第四十七卷</item>
-<lb n="0983c14" ed="T"/><item xml:id="itemT54p0983c1401">舍伽羅呪<note place="inline">應云舍歌羅　譯曰<note n="0983009" resp="Taisho" place="foot text" type="orig">不行＝不斤【甲】，木片？</note><note n="0983009" resp="CBETA" type="mod">不行【大】，不斤【甲】，＝木片【考偽-大】</note><app n="0983009"><lem wit="【大】">不行</lem><rdg resp="Taisho" wit="【甲】">不斤</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">木片</rdg></app></note>　十誦律書第三卷</item>
+<lb n="0983c14" ed="T"/><item xml:id="itemT54p0983c1401">舍伽羅呪<note place="inline">應云舍歌羅　譯曰<note n="0983009" resp="Taisho" place="foot text" type="orig">不行＝不斤【甲】，木片？</note><note n="0983009" resp="CBETA" type="mod">不行【大】，不斤【甲】，木片【考偽-大】</note><app n="0983009"><lem wit="【大】">不行</lem><rdg resp="Taisho" wit="【甲】">不斤</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">木片</rdg></app></note>　十誦律書第三卷</item>
 <lb n="0983c15" ed="T"/><item xml:id="itemT54p0983c1501">劬羅呪<note place="inline">應云波羅　譯曰彼岸</note>　二誦第三卷</item>
 <lb n="0983c16" ed="T"/><item xml:id="itemT54p0983c1601">狗摩羅偈<note place="inline">譯曰童也</note>　第五卷</item>
 <lb n="0983c17" ed="T"/><item xml:id="itemT54p0983c1701">披羅𦀟提伽<note place="inline">律曰清淨經也</note></item>
@@ -348,7 +348,7 @@ add cvs log
 <lb n="0984a08" ed="T"/><item xml:id="itemT54p0984a0801">波羅延<note place="inline">亦云<note n="0984009" resp="Taisho" place="foot text" type="orig">波＝婆【甲】</note><note n="0984009" resp="CBETA" type="mod">波【大】，婆【甲】</note><app n="0984009"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【甲】">婆</rdg></app>延　律曰過道經也譯曰徃復亦云度彼</note></item>
 <lb n="0984a09" ed="T"/><item xml:id="itemT54p0984a0901">阿陀婆耆耶脩妬路<note place="inline">律曰眾德經也</note></item>
 <lb n="0984a10" ed="T"/><item xml:id="itemT54p0984a1001">薩者陀舍修妬路<note place="inline">應云薩遮陀利舍那　律曰諦見經也譯曰薩遮者諦陀利舍那
-<lb n="0984a11" ed="T"/><note n="0984010" resp="Taisho" place="foot text" type="orig">者＋（見）？</note><app n="0984010"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">者見</rdg></app>也</note></item>
+<lb n="0984a11" ed="T"/><note n="0984010" resp="Taisho" place="foot text" type="orig">者＋（見）？</note><note n="0984010" resp="CBETA" type="mod">者【大】，者見【考偽-大】</note><app n="0984010"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">者見</rdg></app>也</note></item>
 <lb n="0984a12" ed="T"/><item xml:id="itemT54p0984a1201">波羅延薩遮陀舍脩妬路<note place="inline">應云波羅延薩遮他梨舍那　記曰波羅延者
 <lb n="0984a13" ed="T"/>度彼薩遮者實陀梨舍那者見</note></item>
 <lb n="0984a14" ed="T"/><item xml:id="itemT54p0984a1401">泥利呪<note place="inline">譯者曰泥梨者地獄名</note>　尼律第三卷</item>
@@ -379,7 +379,7 @@ add cvs log
 <lb n="0984b14" ed="T"/><item xml:id="itemT54p0984b1401">耆婆品<note place="inline">譯曰壽命</note>　第十四卷</item>
 <lb n="0984b15" ed="T"/><note n="0984011" resp="Taisho" place="foot text" type="orig">（阿能…卷）十五字∞（阿菟…相）九字【甲】</note><note n="0984011" resp="CBETA" type="mod">（阿能伽那正見經(譯曰無苦)第十五卷）十五字【大】∞（阿菟摩那經(譯曰樹相)）九字【甲】</note><app n="0984011"><lem wit="【大】"><item xml:id="itemT54p0984b1501">阿能伽那正見經<note place="inline">譯曰無苦</note>　第十五卷</item>
 <lb n="0984b16" ed="T"/><item xml:id="itemT54p0984b1601">阿菟摩那經<note place="inline">譯曰樹相</note></item></lem><rdg resp="Taisho" wit="【甲】">阿菟摩那經<note place="inline">譯曰樹相</note>阿能伽那正見經<note place="inline">譯曰無苦</note>第十五卷</rdg></app>
-<lb n="0984b17" ed="T"/><item xml:id="itemT54p0984b1701">曇摩<note n="0984012" resp="Taisho" place="foot text" type="orig">（波）＋羅？</note><app n="0984012"><lem resp="Taisho" wit="【大】">羅</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波羅</rdg></app>本生經<note place="inline">譯曰法<note n="0984013" resp="Taisho" place="foot text" type="orig">除＝護？</note><note n="0984013" resp="CBETA" type="mod">除【大】，護【考偽-大】</note><app n="0984013"><lem resp="Taisho" wit="【大】">除</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">護</rdg></app></note>　第十七卷</item>
+<lb n="0984b17" ed="T"/><item xml:id="itemT54p0984b1701">曇摩<note n="0984012" resp="Taisho" place="foot text" type="orig">（波）＋羅？</note><note n="0984012" resp="CBETA" type="mod">羅【大】，波羅【考偽-大】</note><app n="0984012"><lem resp="Taisho" wit="【大】">羅</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波羅</rdg></app>本生經<note place="inline">譯曰法<note n="0984013" resp="Taisho" place="foot text" type="orig">除＝護？</note><note n="0984013" resp="CBETA" type="mod">除【大】，護【考偽-大】</note><app n="0984013"><lem resp="Taisho" wit="【大】">除</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">護</rdg></app></note>　第十七卷</item>
 <lb n="0984b18" ed="T"/><item xml:id="itemT54p0984b1801">揵度<note place="inline">應云娑干度　譯曰體亦云除亦云品</note>　阿毘曇婆沙第七卷</item>
 <lb n="0984b19" ed="T"/><item xml:id="itemT54p0984b1901">婆伽羅那<note place="inline">亦云<note n="0984014" resp="Taisho" place="foot text" type="orig">利＝和？</note><note n="0984014" resp="CBETA" type="mod">利【大】，和【考偽-大】</note><app n="0984014"><lem resp="Taisho" wit="【大】">利</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">和</rdg></app>伽羅那　譯曰受記</note></item>
 <lb n="0984b20" ed="T"/><item xml:id="itemT54p0984b2001">檀摩掘部<note place="inline">應云<note n="0984015" resp="Taisho" place="foot text" type="orig">枬＝檀【甲】</note><note n="0984015" resp="CBETA" type="mod">枬【大】，檀【甲】</note><app n="0984015"><lem wit="【大】">枬</lem><rdg resp="Taisho" wit="【甲】">檀</rdg></app>摩掘多　記曰法護</note>　第二卷</item>
@@ -469,7 +469,7 @@ add cvs log
 <lb n="0985c04" ed="T"/><item xml:id="itemT54p0985c0401">阿樓那<note place="inline">譯曰曉也</note></item>
 <lb n="0985c05" ed="T"/><item xml:id="itemT54p0985c0501">瞿曇<note place="inline">譯曰姓也</note></item>
 <lb n="0985c06" ed="T"/><item xml:id="itemT54p0985c0601">首夷婆損陀羅<note place="inline">應云首脂婆孫陀羅　譯曰首脂婆者淨語孫陀羅者好亦云可愛</note></item>
-<lb n="0985c07" ed="T"/><item xml:id="itemT54p0985c0701"><note n="0985013" resp="Taisho" place="foot text" type="orig">彼＝波？＊</note><app n="0985013"><lem resp="Taisho" wit="【大】">彼</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波</rdg></app>陀舍<note place="inline">譯曰<anchor xml:id="fxT54p0985c02"/>彼陀者句舍者一切</note>　阿僧祇律第十卷</item>
+<lb n="0985c07" ed="T"/><item xml:id="itemT54p0985c0701"><note n="0985013" resp="Taisho" place="foot text" type="orig">彼＝波？＊</note><note n="0985013" resp="CBETA" type="mod">彼【大】＊，波【考偽-大】＊</note><app n="0985013"><lem resp="Taisho" wit="【大】">彼</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波</rdg></app>陀舍<note place="inline">譯曰<anchor xml:id="fxT54p0985c02"/>彼陀者句舍者一切</note>　阿僧祇律第十卷</item>
 <lb n="0985c08" ed="T"/><item xml:id="itemT54p0985c0801">阿菟<anchor xml:id="fxT54p0985c03"/>彼陀舍<note place="inline">應云阿菟<anchor xml:id="fxT54p0985c04"/>彼陀舍　譯曰何菟者逐前也<anchor xml:id="fxT54p0985c05"/>彼陀舍如上說</note></item>
 <lb n="0985c09" ed="T"/><item xml:id="itemT54p0985c0901">便闍那<note place="inline">譯曰分別字也</note></item>
 <lb n="0985c10" ed="T"/><item xml:id="itemT54p0985c1001">阿菟便闍那<note place="inline">應云阿菟便闍那　譯曰逐前分別字也</note></item>
@@ -731,7 +731,7 @@ add cvs log
 <lb n="0989a15" ed="T"/><item xml:id="itemT54p0989a1501">陀羅婆羅<note place="inline">譯曰陀羅者思惟婆羅者力</note>　第四十六卷</item>
 <lb n="0989a16" ed="T"/><item xml:id="itemT54p0989a1601">迦陵伽觸<note place="inline">譯曰伽陵伽者細滑</note></item>
 <lb n="0989a17" ed="T"/><item xml:id="itemT54p0989a1701">摩那<note place="inline">譯曰意也</note>　八揵度第□卷</item>
-<lb n="0989a18" ed="T"/><item xml:id="itemT54p0989a1801">尼維光若那阿先若<note place="inline">應云彌婆先若那阿先若　譯曰彌婆先<note n="0989003" resp="Taisho" place="foot text" type="orig">〔者〕－？</note><app n="0989003"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>若者非想那阿先
+<lb n="0989a18" ed="T"/><item xml:id="itemT54p0989a1801">尼維光若那阿先若<note place="inline">應云彌婆先若那阿先若　譯曰彌婆先<note n="0989003" resp="Taisho" place="foot text" type="orig">〔者〕－？</note><note n="0989003" resp="CBETA" type="mod">者【大】，〔－〕【考偽-大】</note><app n="0989003"><lem resp="Taisho" wit="【大】">者</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>若者非想那阿先
 <lb n="0989a19" ed="T"/>若者非非想</note>　第三卷</item>
 <lb n="0989a20" ed="T"/><item xml:id="itemT54p0989a2001">阿羅<note place="inline">譯曰取也</note>　第十一卷</item>
 <lb n="0989a21" ed="T"/><item xml:id="itemT54p0989a2101">婆沙<note place="inline">譯曰自在</note></item>
@@ -899,7 +899,7 @@ add cvs log
 <lb n="0991b13" ed="T"/><item xml:id="itemT54p0991b1301">摩訶薩<note place="inline">應云摩訶薩埵　譯曰摩訶者大薩埵者如上說</note>　第四卷</item>
 <lb n="0991b14" ed="T"/><item xml:id="itemT54p0991b1401">須陀須摩王<note place="inline">譯曰須陀者間須摩者月</note></item>
 <lb n="0991b15" ed="T"/><item xml:id="itemT54p0991b1501">阿遮羅菩薩<note place="inline">譯曰不動</note></item>
-<lb n="0991b16" ed="T"/><item xml:id="itemT54p0991b1601">文殊師利<note place="inline">應云曼殊沙尸利亦云文殊尸沙　論曰妙德譯曰曼珠沙者<g ref="#CB07784"/>亦云藏也<note n="0991003" resp="Taisho" place="foot text" type="orig">（尸）＋利？</note><app n="0991003"><lem resp="Taisho" wit="【大】">利</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">尸利</rdg></app>者吉</note>
+<lb n="0991b16" ed="T"/><item xml:id="itemT54p0991b1601">文殊師利<note place="inline">應云曼殊沙尸利亦云文殊尸沙　論曰妙德譯曰曼珠沙者<g ref="#CB07784"/>亦云藏也<note n="0991003" resp="Taisho" place="foot text" type="orig">（尸）＋利？</note><note n="0991003" resp="CBETA" type="mod">利【大】，尸利【考偽-大】</note><app n="0991003"><lem resp="Taisho" wit="【大】">利</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">尸利</rdg></app>者吉</note>
 <lb n="0991b17" ed="T"/>　第六卷</item>
 <lb n="0991b18" ed="T"/><item xml:id="itemT54p0991b1801">跋陀婆羅菩薩<note place="inline">論曰善守譯曰賢力</note>　第七卷</item>
 <lb n="0991b19" ed="T"/><item xml:id="itemT54p0991b1901">剌那那伽羅菩薩<note place="inline">論曰寶積譯曰剌那者寶那伽羅者京畿</note></item>
@@ -1599,7 +1599,7 @@ add cvs log
 <lb n="1000c12" ed="T"/><item xml:id="itemT54p1000c1201">須提難<note place="inline">譯曰好喜</note>　優波離問佛經</item>
 <lb n="1000c13" ed="T"/><item xml:id="itemT54p1000c1301">曇摩羅叉<note place="inline">譯曰法護</note></item>
 <lb n="1000c14" ed="T"/><item xml:id="itemT54p1000c1401">掘多<note place="inline">譯曰護也</note>　啇人子經</item>
-<lb n="1000c15" ed="T"/><item xml:id="itemT54p1000c1501">摩訶揵陀衛羅<note place="inline"><note n="1000002" resp="Taisho" place="foot text" type="orig">（應云摩訶犍陀惟衛羅）＋譯？</note><app n="1000002"><lem resp="Taisho" wit="【大】">譯</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">應云摩訶犍陀惟衛羅譯</rdg></app>曰摩訶揵陀者<note n="1000003" resp="Taisho" place="foot text" type="orig">〔摩訶揵陀惟衛羅〕－？</note><app n="1000003"><lem resp="Taisho" wit="【大】">摩訶揵陀惟衛羅</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>大香惟衛羅者雙也晝信比丘
+<lb n="1000c15" ed="T"/><item xml:id="itemT54p1000c1501">摩訶揵陀衛羅<note place="inline"><note n="1000002" resp="Taisho" place="foot text" type="orig">（應云摩訶犍陀惟衛羅）＋譯？</note><note n="1000002" resp="CBETA" type="mod">譯【大】，應云摩訶犍陀惟衛羅譯【考偽-大】</note><app n="1000002"><lem resp="Taisho" wit="【大】">譯</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">應云摩訶犍陀惟衛羅譯</rdg></app>曰摩訶揵陀者<note n="1000003" resp="Taisho" place="foot text" type="orig">〔摩訶揵陀惟衛羅〕－？</note><note n="1000003" resp="CBETA" type="mod">摩訶揵陀惟衛羅【大】，〔－〕【考偽-大】</note><app n="1000003"><lem resp="Taisho" wit="【大】">摩訶揵陀惟衛羅</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>大香惟衛羅者雙也晝信比丘
 <lb n="1000c16" ed="T"/>等度經</note></item>
 <lb n="1000c17" ed="T"/><item xml:id="itemT54p1000c1701">僧迦耶舍<note place="inline">應云僧伽耶舍　譯曰眾名聞也</note>　雜經</item>
 <lb n="1000c18" ed="T"/><item xml:id="itemT54p1000c1801">跋陀羅由陀<note place="inline">譯曰賢命</note></item>
@@ -1914,7 +1914,7 @@ add cvs log
 <lb n="1004c21" ed="T"/>謂白色。</p>
 <lb n="1004c22" ed="T"/><p xml:id="pT54p1004c2201">曼提吒色　持律者云。五大色。聲論者云。正
 <lb n="1004c23" ed="T"/>外國音。應言曼提<note place="inline">都私反</note>哆那跋那。曼提哆那翻
-<lb n="1004c24" ed="T"/>為好。<note n="1004010" resp="Taisho" place="foot text" type="orig">〔跋那翻為好〕－？</note><app n="1004010"><lem resp="Taisho" wit="【大】">跋那翻為好</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>。跋那翻為色。謂好色。雖
+<lb n="1004c24" ed="T"/>為好。<note n="1004010" resp="Taisho" place="foot text" type="orig">〔跋那翻為好〕－？</note><note n="1004010" resp="CBETA" type="mod">跋那翻為好【大】，〔－〕【考偽-大】</note><app n="1004010"><lem resp="Taisho" wit="【大】">跋那翻為好</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>。跋那翻為色。謂好色。雖
 <lb n="1004c25" ed="T"/>云好色。不知是何方好色。胡僧云。應言曼實
 <lb n="1004c26" ed="T"/>瑟陀跋蘭那。為不赤不黃色。案此好色即應
 <lb n="1004c27" ed="T"/>是黃中好色。謂非輕色非重色。案五大色。謂
@@ -2001,7 +2001,7 @@ add cvs log
 <lb n="1005c18" ed="T"/>邏指婆邏。翻為樹皮衣。</p>
 <lb n="1005c19" ed="T"/><p xml:id="pT54p1005c1901">優羅提那　舊譯曰。優羅者胸。提那者與。謂
 <lb n="1005c20" ed="T"/>胸與。</p>
-<lb n="1005c21" ed="T"/><p xml:id="pT54p1005c2101">塔　舊譯曰。<note n="1005016" resp="Taisho" place="foot text" type="orig">〔云〕－？</note><app n="1005016"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>外國謂為塔。此謂為方墳。
+<lb n="1005c21" ed="T"/><p xml:id="pT54p1005c2101">塔　舊譯曰。<note n="1005016" resp="Taisho" place="foot text" type="orig">〔云〕－？</note><note n="1005016" resp="CBETA" type="mod">云【大】，〔－〕【考偽-大】</note><app n="1005016"><lem resp="Taisho" wit="【大】">云</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>外國謂為塔。此謂為方墳。
 <lb n="1005c22" ed="T"/>持律者云墳。聲論者云。塔是此間語。外國音
 <lb n="1005c23" ed="T"/>肆偷波為塔。</p>
 <lb n="1005c24" ed="T"/><p xml:id="pT54p1005c2401">頭陀　持律者云抖藪。聲論者云。正外國音。
@@ -2088,8 +2088,8 @@ add cvs log
 <lb n="1006c15" ed="T"/><p xml:id="pT54p1006c1501">波羅國　舊譯曰勝。</p>
 <lb n="1006c16" ed="T"/><p xml:id="pT54p1006c1601">闡弩比丘　舊譯曰覆。聲論者云。正外國音。
 <lb n="1006c17" ed="T"/>應言闡那。翻為蜜。</p>
-<lb n="1006c18" ed="T"/><p xml:id="pT54p1006c1801">那陀迦旃延經　舊譯曰。應云那<note n="1006c1801" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1801"><lem wit="【CB】【麗-CB】【磧砂-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀迦旃
-<lb n="1006c19" ed="T"/>延。那<note n="1006c1901" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1901"><lem wit="【CB】【麗-CB】【磧砂-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀言信。迦旃延言性。聲論者云。正外
+<lb n="1006c18" ed="T"/><p xml:id="pT54p1006c1801">那陀迦旃延經　舊譯曰。應云那<note n="1006c1801" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀迦旃
+<lb n="1006c19" ed="T"/>延。那<note n="1006c1901" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1901"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀言信。迦旃延言性。聲論者云。正外
 <lb n="1006c20" ed="T"/>國音。應云那陀葛多耶那。那陀翻為長聲。葛
 <lb n="1006c21" ed="T"/>多耶那翻為性。出要律儀卷第十。</p>
 <lb n="1006c22" ed="T"/><p xml:id="pT54p1006c2201">四羯摩法　槃荼比丘　舊譯曰。又云般特
@@ -2122,7 +2122,7 @@ add cvs log
 <lb n="1007a19" ed="T"/>餘。義無有異。</p>
 <lb n="1007a20" ed="T"/><p xml:id="pT54p1007a2001">摩那埵　舊譯曰齊量。持律者云折伏下意。
 <lb n="1007a21" ed="T"/>亦云治僧殘罪。聲論者云。正外國音。應言摩
-<lb n="1007a22" ed="T"/>捺埵。<note n="1007002" resp="Taisho" place="foot text" type="orig">（摩捺）＋翻？</note><app n="1007002"><lem resp="Taisho" wit="【大】">翻</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">摩捺翻</rdg></app>為慢。埵翻為除。<note n="1007003" resp="Taisho" place="foot text" type="orig">（謂除）＋慢【甲】</note><note n="1007003" resp="CBETA" type="mod">慢【大】，謂除慢【甲】</note><app n="1007003"><lem wit="【大】">慢</lem><rdg resp="Taisho" wit="【甲】">謂除慢</rdg></app>。案折伏下意除
+<lb n="1007a22" ed="T"/>捺埵。<note n="1007002" resp="Taisho" place="foot text" type="orig">（摩捺）＋翻？</note><note n="1007002" resp="CBETA" type="mod">翻【大】，摩捺翻【考偽-大】</note><app n="1007002"><lem resp="Taisho" wit="【大】">翻</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">摩捺翻</rdg></app>為慢。埵翻為除。<note n="1007003" resp="Taisho" place="foot text" type="orig">（謂除）＋慢【甲】</note><note n="1007003" resp="CBETA" type="mod">慢【大】，謂除慢【甲】</note><app n="1007003"><lem wit="【大】">慢</lem><rdg resp="Taisho" wit="【甲】">謂除慢</rdg></app>。案折伏下意除
 <lb n="1007a23" ed="T"/>慢法。治僧殘罪。是說對名。亦非正翻譯。</p>
 <lb n="1007a24" ed="T"/><cb:juan n="003" fun="close"><cb:jhead>翻梵語卷第三</cb:jhead></cb:juan></cb:div>
 <lb n="1007a25" ed="T"/><cb:div type="w"><p xml:id="pT54p1007a2501" rend="margin-left:1em"><note n="1007004" resp="Taisho" place="foot text" type="orig">以下甲本無之</note><note n="1007004" resp="CBETA" type="mod"><!--CBETA todo type: a-->以下甲本無之</note>延應二年四月十六日<note place="inline">申時</note>於醍醐寺地藏
@@ -2232,7 +2232,7 @@ add cvs log
 <lb n="1008b23" ed="T"/>　豆遮婆羅門論議經</item>
 <lb n="1008b24" ed="T"/><item xml:id="itemT54p1008b2401">闍提疏婆羅門<note place="inline">應云闍提輸盧耶　譯曰生聞</note>　名穪經</item>
 <pb n="1008c" xml:id="T54.2130.1008c" ed="T"/>
-<lb n="1008c01" ed="T"/><item xml:id="itemT54p1008c0101">鷄頭婆羅門<note place="inline">譯曰<note n="1008004" resp="Taisho" place="foot text" type="orig">憧＝幡【甲】</note><note n="1008004" resp="CBETA" type="mod">幢【大】，幡【甲】</note><app n="1008004"><lem wit="【CBETA】" resp="CBETA.maha">幢</lem><rdg wit="【大】">憧</rdg><rdg resp="Taisho" wit="【甲】">幡</rdg></app><note n="1008c0101" resp="CBETA" type="add">幢【CB】，憧【大】</note><app n="1008c0101"><lem wit="【CB】" resp="CBETA">幢</lem><rdg wit="【大】">憧</rdg></app></note>　<note n="1008005" resp="Taisho" place="foot text" type="orig">〔梵天…經〕九字－【甲】</note><note n="1008005" resp="CBETA" type="mod">（梵天…經）九字【大】，〔－〕【甲】</note><app cb:word-count="9" n="1008005"><lem wit="【大】">梵天詣婆羅門講堂經</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
+<lb n="1008c01" ed="T"/><item xml:id="itemT54p1008c0101">鷄頭婆羅門<note place="inline">譯曰<note n="1008004" resp="Taisho" place="foot text" type="orig">憧＝幡【甲】</note><note n="1008004" resp="CBETA" type="mod">幢【大】，幡【甲】</note><app n="1008004"><lem wit="【CB】" resp="CBETA.maha">幢</lem><rdg wit="【大】">憧</rdg><rdg resp="Taisho" wit="【甲】">幡</rdg></app><note n="1008c0101" resp="CBETA" type="add">幢【CB】，憧【大】</note><app n="1008c0101"><lem wit="【CB】" resp="CBETA">幢</lem><rdg wit="【大】">憧</rdg></app></note>　<note n="1008005" resp="Taisho" place="foot text" type="orig">〔梵天…經〕九字－【甲】</note><note n="1008005" resp="CBETA" type="mod">（梵天…經）九字【大】，〔－〕【甲】</note><app cb:word-count="9" n="1008005"><lem wit="【大】">梵天詣婆羅門講堂經</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
 <lb n="1008c02" ed="T"/><item xml:id="itemT54p1008c0201">欝多羅婆羅門子<note place="inline">譯曰勝也</note>
 <lb n="1008c03" ed="T"/>　<note n="1008006" resp="Taisho" place="foot text" type="orig">〔為憍慢…經〕九字－【甲】</note><note n="1008006" resp="CBETA" type="mod">（為憍慢…經）九字【大】，〔－〕【甲】</note><app cb:word-count="9" n="1008006"><lem wit="【大】">為憍慢婆羅門說偈經</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></item>
 <lb n="1008c04" ed="T"/><item xml:id="itemT54p1008c0401">婆羅豆婆舍遮婆羅門<note place="inline">譯曰婆羅者勝豆婆舍者惡語</note>　雜經</item>

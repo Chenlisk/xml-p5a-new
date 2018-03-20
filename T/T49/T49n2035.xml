@@ -18076,7 +18076,7 @@ Added comment  for Emacs
 <lb n="0328c24" ed="T"/><byline cb:type="author"><anchor xml:id="fxT49p0328c01"/>宋咸淳四明東湖沙門志磐撰</byline>
 <lb n="0328c25" ed="T"/><head>法運通塞志第十七之二</head>
 <lb n="0328c26" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">西漢</cb:mulu><head>西漢<note place="inline">都長<note n="0328016" resp="Taisho" place="foot text" type="orig">安下甲本有五百八十餘字，別附卷末，cf. P. 334, c. [04]</note>安</note></head>
-<lb n="0328c27" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">武帝</cb:mulu><head>武帝<note place="inline"><note n="0328017" resp="Taisho" place="foot text" type="orig">（（自高…世））十字＝（（徹景帝子，建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士））三十四字【甲】</note><note n="0328017" resp="CBETA" type="mod">（（自高…世））十字＝（（徹景帝子，<!--CBETA todo type: newmod-->建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士））三十四字【甲】</note><app cb:word-count="10" n="0328017"><lem wit="【大】">自高祖受命至此為四世</lem><rdg resp="Taisho" wit="【甲】">徹景帝子，建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士</rdg></app></note></head>
+<lb n="0328c27" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">武帝</cb:mulu><head>武帝<note place="inline"><note n="0328017" resp="Taisho" place="foot text" type="orig">（（自高…世））十字＝（（徹景帝子，建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士））三十四字【甲】</note><note n="0328017" resp="CBETA" type="mod">（自高…世）十字【大】，（徹景帝子，建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士）三十四字【甲】</note><app cb:word-count="10" n="0328017"><lem wit="【大】">自高祖受命至此為四世</lem><rdg resp="Taisho" wit="【甲】">徹景帝子，建元元年〔始有年號〕議立明堂遣使者安車蒲輪徵魯申公五年置五經博士</rdg></app></note></head>
 <lb n="0328c28" ed="T"/><p xml:id="pT49p0328c2801">元光二年。十三祖龍樹。於南天竺以法藏
 <lb n="0328c29" ed="T"/>付迦那提婆。入月輪三昧蟬蛻而去。壽三
 <pb n="0329a" xml:id="T49.2035.0329a" ed="T"/>
@@ -23697,7 +23697,7 @@ Added comment  for Emacs
 <lb n="0391b23" ed="T"/><p xml:id="pT49p0391b2301">清泰元年二月。功德使奏。每遇誕節乞令
 <lb n="0391b24" ed="T"/>州郡奏薦僧尼。立講經禪定持念文章議
 <lb n="0391b25" ed="T"/>論。為四科試其能否。制可<note place="inline">洪容齋三筆引舊五代史</note>○建
-<lb n="0391b26" ed="T"/>州崇安縣扣氷古佛名<note n="0391008" resp="Taisho" place="foot text" type="orig"><g ref="#CB05926"/>＝藻【甲】</note><note n="0391008" resp="CBETA" type="mod">藻【CB】【甲】，<g ref="#CB05926"/>【大】</note><app n="0391008"><lem wit="【CBETA】" resp="CBETA.maha">藻<note type="cf1">X79n1559_p0434b07</note><note type="cf2">X79n1558_p0286a21</note></lem><rdg wit="【大】"><g ref="#CB05926"/></rdg><rdg resp="Taisho" wit="【甲】">藻</rdg></app>先。初見雪峰。携
+<lb n="0391b26" ed="T"/>州崇安縣扣氷古佛名<note n="0391008" resp="Taisho" place="foot text" type="orig"><g ref="#CB05926"/>＝藻【甲】</note><note n="0391008" resp="CBETA" type="mod">藻【CB】【甲】，<g ref="#CB05926"/>【大】</note><app n="0391008"><lem wit="【CB】" resp="CBETA.maha">藻<note type="cf1">X79n1559_p0434b07</note><note type="cf2">X79n1558_p0286a21</note></lem><rdg wit="【大】"><g ref="#CB05926"/></rdg><rdg resp="Taisho" wit="【甲】">藻</rdg></app>先。初見雪峰。携
 <lb n="0391b27" ed="T"/>鳧<note n="0391009" resp="Taisho" place="foot text" type="orig">此＝茈【甲】</note><note n="0391009" resp="CBETA" type="mod">此【大】，茈【甲】</note><app n="0391009"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【甲】">茈</rdg></app>一包醬一<note n="0391010" resp="Taisho" place="foot text" type="orig">罐＝鑵【甲】</note><note n="0391010" resp="CBETA" type="mod">罐【大】，鑵【甲】</note><app n="0391010"><lem wit="【大】">罐</lem><rdg resp="Taisho" wit="【甲】">鑵</rdg></app>以為獻。峯曰。包中何
 <lb n="0391b28" ed="T"/>物。曰鳧。此何處得來。泥中。泥深多少。無丈
 <lb n="0391b29" ed="T"/>數。還更有麼。轉深轉有。又問。罐中何物。師
@@ -24209,7 +24209,7 @@ Added comment  for Emacs
 <lb n="0397c11" ed="T"/>有疑則就質之。皆為下拜。事以師禮滋福
 <lb n="0397c12" ed="T"/>殿者安佛像經藏。立剎聲鐘即內道場也
 <lb n="0397c13" ed="T"/><note place="inline">國朝會要</note>。</p>
-<lb n="0397c14" ed="T"/><p xml:id="pT49p0397c1401"><note n="0397006" resp="Taisho" place="foot text" type="orig">（四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，本朝通鑑）＋五【甲】</note><note n="0397006" resp="CBETA" type="mod">（四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，<!--CBETA todo type: newmod-->本朝通鑑）＋五【甲】</note><app n="0397006"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【甲】">四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，本朝通鑑五</rdg></app>年正月。勅內侍張廷訓。往代州五臺山
+<lb n="0397c14" ed="T"/><p xml:id="pT49p0397c1401"><note n="0397006" resp="Taisho" place="foot text" type="orig">（四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，本朝通鑑）＋五【甲】</note><note n="0397006" resp="CBETA" type="mod">五【大】，（四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，本朝通鑑五）【甲】</note><app n="0397006"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【甲】">四年九月嘉州言夾江縣民王詣得玄石二皆有丹文一曰君王萬歲一曰趙二十一帝緘其石來獻，本朝通鑑五</rdg></app>年正月。勅內侍張廷訓。往代州五臺山
 <lb n="0397c15" ed="T"/>造金銅文殊萬菩薩像。奉安<app type="star" corresp="#0394002"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】">于</rdg></app>真容院。詔
 <lb n="0397c16" ed="T"/>重修五臺十寺。以沙門芳潤為十寺僧正。
 <lb n="0397c17" ed="T"/>十寺者。真容。華嚴壽寧。興國。竹林。金閣。法
@@ -24770,7 +24770,7 @@ Added comment  for Emacs
 <lb n="0404a01" ed="T"/>不變常聞異香。詔取所著竹林集。藏之祕
 <lb n="0404a02" ed="T"/>閣<note place="inline">嗣韶國師</note>。</p>
 <lb n="0404a03" ed="T"/><p xml:id="pT49p0404a0301">二年正月。以封禪行慶詔天下寺觀。各度
-<lb n="0404a04" ed="T"/>一人朝覲泰山。陪位僧道各度弟子一<note n="0404001" resp="Taisho" place="foot text" type="orig">人＋（○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，後殿曰明慶以奉聖祖〔前九天司命天尊也〕）</note><note n="0404001" resp="CBETA" type="mod">人＋（○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，<!--CBETA todo type: newmod-->後殿曰明慶以奉聖祖〔前九天司命天尊也〕）【甲】</note><app n="0404001"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】">人○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，後殿曰明慶以奉聖祖〔前九天司命天尊也〕</rdg></app>
+<lb n="0404a04" ed="T"/>一人朝覲泰山。陪位僧道各度弟子一<note n="0404001" resp="Taisho" place="foot text" type="orig">人＋（○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，後殿曰明慶以奉聖祖〔前九天司命天尊也〕）</note><note n="0404001" resp="CBETA" type="mod">人【大】，（人○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，後殿曰明慶以奉聖祖〔前九天司命天尊也〕）【甲】</note><app n="0404001"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【甲】">人○四月詔三司使丁謂起玉清昭應宮，前殿曰太初，以奉玉皇建閣以奉天書，後殿曰明慶以奉聖祖〔前九天司命天尊也〕</rdg></app>
 <lb n="0404a05" ed="T"/>○詔昇州崇勝寺。賜名承天甘露戒壇○勅
 <lb n="0404a06" ed="T"/>光梵大師惟淨試光祿卿<note n="0404002" resp="Taisho" place="foot text" type="orig">同＝內【甲】</note><note n="0404002" resp="CBETA" type="mod">同【大】，內【甲】</note><app n="0404002"><lem wit="【大】">同</lem><rdg resp="Taisho" wit="【甲】">內</rdg></app>預譯經○九
 <lb n="0404a07" ed="T"/>月吳國大長公主出家。法名清裕。賜號報慈
@@ -30209,7 +30209,7 @@ Added comment  for Emacs
 <lb n="0464b25" ed="T"/>鑰記○勅於禁中建內觀堂。一遵上竺制
 <lb n="0464b26" ed="T"/>度。</p></cb:div>
 <lb n="0464b27" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">西天求法</cb:mulu><head>西天求法</head>
-<lb n="0464b28" ed="T"/><p xml:id="pT49p0464b2801">魏高貴鄉公。沙門朱<note n="0464004" resp="Taisho" place="foot text" type="orig">士＋（行）？</note><app n="0464004"><lem resp="Taisho" wit="【大】">士</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">士行</rdg></app>。西遊于闐得放光
+<lb n="0464b28" ed="T"/><p xml:id="pT49p0464b2801">魏高貴鄉公。沙門朱<note n="0464004" resp="Taisho" place="foot text" type="orig">士＋（行）？</note><note n="0464004" resp="CBETA" type="mod">士【大】，士行【考偽-大】</note><app n="0464004"><lem resp="Taisho" wit="【大】">士</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">士行</rdg></app>。西遊于闐得放光
 <lb n="0464b29" ed="T"/>般若。</p>
 <pb n="0464c" xml:id="T49.2035.0464c" ed="T"/>
 <lb n="0464c01" ed="T"/><p xml:id="pT49p0464c0101">晉安帝。沙門法顯。自西域往五天竺得經

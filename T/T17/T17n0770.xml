@@ -120,7 +120,7 @@ Added comment  for Emacs
 <lb ed="T" n="0706b04"/>
 <lb n="0706b05" ed="T"/><byline cb:type="Translator">西晉<note place="foot text" resp="Taisho" n="0706006" type="orig">月支＝世【三】【宮】</note><note resp="CBETA" n="0706006" type="mod">月支【大】，世【宋】【元】【明】【宮】</note><app n="0706006"><lem wit="【大】">月支</lem><rdg wit="【宋】【元】【明】【宮】" resp="Taisho">世</rdg></app>三藏竺法護譯</byline>
 <lb n="0706b06" ed="T"/><cb:div type="jing"><p xml:id="pT17p0706b0601">聞如是：</p><p rend="inline" xml:id="pT17p0706b0604">一時佛遊於舍衛祇樹給孤獨園，與
-<lb ed="T" n="0706b07"/>大比丘<note resp="Taisho" type="orig" n="0706007" place="foot text">俱＋（比丘）【宋】【元】【宮】，（比丘俱比丘）【明】</note><note resp="CBETA" type="mod" n="0706007">俱【大】，俱比丘【宋】【元】【宮】，<!--CBETA todo type: newmod-->（比丘俱比丘）【明】</note><app n="0706007"><lem wit="【大】">俱</lem><rdg wit="【宋】【元】【宮】" resp="Taisho">俱比丘</rdg><rdg resp="Taisho" wit="【明】">俱比丘俱比丘</rdg></app>，千二百五十人，及諸菩薩。</p>
+<lb ed="T" n="0706b07"/>大比丘<note resp="Taisho" type="orig" n="0706007" place="foot text">俱＋（比丘）【宋】【元】【宮】，（比丘俱比丘）【明】</note><note resp="CBETA" type="mod" n="0706007">俱【大】，俱比丘【宋】【元】【宮】，<!--CBETA todo type: newmod-->俱比丘俱比丘【明】</note><app n="0706007"><lem wit="【大】">俱</lem><rdg wit="【宋】【元】【宮】" resp="Taisho">俱比丘</rdg><rdg resp="Taisho" wit="【明】">俱比丘俱比丘</rdg></app>，千二百五十人，及諸菩薩。</p>
 <lb ed="T" n="0706b08"/><p xml:id="pT17p0706b0801">佛明旦，著衣持鉢入城分衛，四輩皆從，諸天
 <lb n="0706b09" ed="T"/>龍神各齎華香伎樂追於上侍。</p><p xml:id="pT17p0706b0913" rend="inline">佛道眼覩見
 <lb n="0706b10" ed="T"/>兄弟同產四人，遠家棄業山處閑居，得五神

@@ -192,7 +192,7 @@ Added comment  for Emacs
 <lb n="0033c19" ed="T"/>誦數滿已。入江河海。深至頸處面向<note n="0033022" resp="Taisho" place="foot text" type="orig">東＋（立）ィ【原】</note><note n="0033022" resp="CBETA" type="mod">東【大】，東立【校異Ａ-原】</note><app n="0033022"><lem wit="【大】">東</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">東立</rdg></app>。每
 <lb n="0033c20" ed="T"/>日念誦數滿三洛叉已。心中所受福田皆滿
 <lb n="0033c21" ed="T"/>願。其水令致<note n="0033023" resp="Taisho" place="foot text" type="orig">蛇龜＝蚊虻ぃ【原】</note><note n="0033023" resp="CBETA" type="mod">蛇龜【大】，蚊虻【校異Ｂ-原】</note><app n="0033023"><lem wit="【大】">蛇龜</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">蚊虻</rdg></app>之處。況呪力未成為他所
-<lb n="0033c22" ed="T"/><note n="0033024" resp="Taisho" place="foot text" type="orig">損＋（耳）ィ【原】，（則）ィ【原】</note><note n="0033024" resp="CBETA" type="mod">損【大】，損耳【校異Ａ-原】，<!--CBETA todo type: newmod-->（則）ィ【原】</note><app n="0033024"><lem wit="【大】">損</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">損耳</rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">損則</rdg></app><note n="0033025" resp="Taisho" place="foot text" type="orig">常＝當ぃ【原】</note><note n="0033025" resp="CBETA" type="mod">常【大】，當【校異Ｂ-原】</note><app n="0033025"><lem wit="【大】">常</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">當</rdg></app>須結界。若常加功持誦不動根本真
+<lb n="0033c22" ed="T"/><note n="0033024" resp="Taisho" place="foot text" type="orig">損＋（耳）ィ【原】，（則）ィ【原】</note><note n="0033024" resp="CBETA" type="mod">損【大】，損耳【校異Ａ-原】，<!--CBETA todo type: newmod-->損則【校異Ａ-原】</note><app n="0033024"><lem wit="【大】">損</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">損耳</rdg><rdg resp="【原】" wit="【Ａ】" type="variantRemark">損則</rdg></app><note n="0033025" resp="Taisho" place="foot text" type="orig">常＝當ぃ【原】</note><note n="0033025" resp="CBETA" type="mod">常【大】，當【校異Ｂ-原】</note><app n="0033025"><lem wit="【大】">常</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">當</rdg></app>須結界。若常加功持誦不動根本真
 <lb n="0033c23" ed="T"/>言。現身隨力能縛一切鬼神。亦能摧<note n="0033026" resp="Taisho" place="foot text" type="orig">斫＝折ィ【原】</note><note n="0033026" resp="CBETA" type="mod">斫【大】，折【校異Ａ-原】</note><app n="0033026"><lem wit="【大】">斫</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">折</rdg></app>一切
 <lb n="0033c24" ed="T"/>樹木。亦令空中飛鳥行者前墮墜。亦能執乾
 <lb n="0033c25" ed="T"/>竭龍淀。若欲論議及破外道返惡人等。皆能
@@ -321,7 +321,7 @@ Added comment  for Emacs
 <lb n="0035a28" ed="T"/><p xml:id="pT21p0035a2801" cb:type="dharani">曩莫三滿多沒馱喃<note place="inline">引</note>摩訶妹底哩夜毘庾<note place="inline">二
 <lb n="0035a29" ed="T"/>合</note>娜蘖帝娑縛<note place="inline">二合</note>賀</p>
 <pb n="0035b" xml:id="T21.1205.0035b" ed="T"/>
-<lb n="0035b01" ed="T"/><p xml:id="pT21p0035b0101">次燒香印。二羽三補吒。<note n="0035004" resp="Taisho" place="foot text" type="orig">（（仰竪…曰））十四字＝（（竪住水下二火屈上節））九字ぃ【原】</note><note n="0035004" resp="CBETA" type="mod">（仰竪…曰）十四字【大】，竪住水下二火屈上節【原】</note><app cb:word-count="14" n="0035004"><lem wit="【大】">仰竪地水火。二風
+<lb n="0035b01" ed="T"/><p xml:id="pT21p0035b0101">次燒香印。二羽三補吒。<note n="0035004" resp="Taisho" place="foot text" type="orig">（（仰竪…曰））十四字＝（（竪住水下二火屈上節））九字ぃ【原】</note><note n="0035004" resp="CBETA" type="mod">（仰竪…曰）十四字【大】，竪住水下二火屈上節【校異Ｂ-原】</note><app cb:word-count="14" n="0035004"><lem wit="【大】">仰竪地水火。二風
 <lb n="0035b02" ed="T"/>屈拄上節。真言曰</lem><rdg resp="【原】" wit="【Ｂ】" type="variantRemark">竪住水下二火屈上節</rdg></app>。</p>
 <lb n="0035b03" ed="T"/><p xml:id="pT21p0035b0301" cb:type="dharani">曩莫三滿多沒馱喃達麼馱怛縛弩蘖帝娑縛
 <lb n="0035b04" ed="T"/><note place="inline">二合</note>賀</p>

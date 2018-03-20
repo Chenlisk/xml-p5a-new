@@ -152,7 +152,7 @@ add cvs log
 <lb n="0090a15" ed="T"/>達<note n="0090006" resp="Taisho" type="orig" place="foot text">〔晉言…施〕五字－【明】</note><note n="0090006" resp="CBETA" type="mod">（晉言…施）五字【大】，〔－〕【明】</note><app n="0090006" cb:word-count="5"><lem wit="【大】"><note place="inline">晉言離垢施</note></lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>，厥年十二，端正<note n="0090007" resp="Taisho" type="orig" place="foot text">殊＝姝【明】</note><note n="0090007" resp="CBETA" type="mod">殊【大】，姝【明】</note><app n="0090007"><lem wit="【大】">殊</lem><rdg resp="Taisho" wit="【明】">姝</rdg></app>妙，見者咸悅，
 <lb n="0090a16" ed="T"/>第一潔白，色如妙華。於月八日明星之時，與
 <lb n="0090a17" ed="T"/>五百侍女平旦乘駕，五百梵志皆從其後，出
-<lb n="0090a18" ed="T"/>行遊觀，而詣祠壇，欲大祠祀。</p><p xml:id="pT12p0090a1812" rend="inline">時諸梵志<note n="0090008" resp="Taisho" type="orig" place="foot text">這＝遙【三】【宮】</note><note n="0090008" resp="CBETA" type="mod">遙【CB】【宋】【元】【明】【宮】，這【大】</note><app n="0090008"><lem resp="CBETA.maha" wit="【CBETA】">遙</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遙</rdg></app>
+<lb n="0090a18" ed="T"/>行遊觀，而詣祠壇，欲大祠祀。</p><p xml:id="pT12p0090a1812" rend="inline">時諸梵志<note n="0090008" resp="Taisho" type="orig" place="foot text">這＝遙【三】【宮】</note><note n="0090008" resp="CBETA" type="mod">遙【CB】【宋】【元】【明】【宮】，這【大】</note><app n="0090008"><lem resp="CBETA.maha" wit="【CB】">遙</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">遙</rdg></app>
 <lb n="0090a19" ed="T"/>見比丘，心中念言以為不吉。諸梵志中有一
 <lb n="0090a20" ed="T"/>梵志，年尊老耄，名曰梵天，<note n="0090009" resp="Taisho" type="orig" place="foot text">謂＝語【三】【宮】</note><note n="0090009" resp="CBETA" type="mod">謂【大】，語【宋】【元】【明】【宮】</note><app n="0090009"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">語</rdg></app>離垢施女：「當
 <lb n="0090a21" ed="T"/><note n="0090010" resp="Taisho" type="orig" place="foot text">知＋（之）【三】【宮】</note><note n="0090010" resp="CBETA" type="mod">知【大】，知之【宋】【元】【明】【宮】</note><app n="0090010"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">知之</rdg></app>今日不祥，見諸比丘住於城門。<note n="0090011" resp="Taisho" type="orig" place="foot text">止＝上【宮】</note><note n="0090011" resp="CBETA" type="mod">止【大】，上【宮】</note><app n="0090011"><lem wit="【大】">止</lem><rdg resp="Taisho" wit="【宮】">上</rdg></app>！不須
@@ -197,7 +197,7 @@ add cvs log
 <pb n="0090c" xml:id="T12.0338.0090c" ed="T"/>
 <lb n="0090c01" ed="T"/><l>散在四方，</l><l>欽樂愛敬，</l><l>自歸於佛。</l>
 <lb n="0090c02" ed="T"/><l>終不希望，</l><l>餘人之救，</l><l><note n="0090018" resp="Taisho" type="orig" place="foot text">唯＝惟【三】【宮】＊</note><note n="0090018" resp="CBETA" type="mod">唯【大】＊，惟【宋】【元】【明】【宮】＊</note><app n="0090018"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>當依附，</l>
-<lb n="0090c03" ed="T"/><l>三尊寶耳。</l><l>譬如失目，</l><l><note n="0090019" resp="Taisho" type="orig" place="foot text">面＝而【宮】＊</note><note n="0090019" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->而【CB】【麗-CB】，面【大】＊，而【宮】＊</note><app n="0090019"><lem wit="【CBETA】【麗】" resp="CBETA.maha">而<note type="cf1">K06n0041_p1208b17</note><note type="cf2">T12n0338_p0090b11</note></lem><rdg wit="【大】">面</rdg><rdg resp="Taisho" wit="【宮】">而</rdg></app>瞻明鏡。</l>
+<lb n="0090c03" ed="T"/><l>三尊寶耳。</l><l>譬如失目，</l><l><note n="0090019" resp="Taisho" type="orig" place="foot text">面＝而【宮】＊</note><note n="0090019" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->而【CB】【麗-CB】，面【大】＊，而【宮】＊</note><app n="0090019"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">而<note type="cf1">K06n0041_p1208b17</note><note type="cf2">T12n0338_p0090b11</note></lem><rdg wit="【大】">面</rdg><rdg resp="Taisho" wit="【宮】">而</rdg></app>瞻明鏡。</l>
 <lb n="0090c04" ed="T"/><l>外道異學，</l><l>若斯無益。</l><l>梵志猶如，</l>
 <lb n="0090c05" ed="T"/><l>須彌山燒。</l><l>博聞如是，</l><l>力脫為要。</l>
 <lb n="0090c06" ed="T"/><l>未曾乏少，</l><l>於博聞慧，</l><l>所可聞者，</l>
@@ -206,8 +206,8 @@ add cvs log
 <lb n="0090c09" ed="T"/><p xml:id="pT12p0090c0901">於是梵志謂離垢施女：「初未曾見於尊佛及
 <lb n="0090c10" ed="T"/>比丘眾，從何因緣而生歡悅？」</p><p xml:id="pT12p0090c1012" rend="inline">女即答曰：「梵
 <lb n="0090c11" ed="T"/>志！欲知？我初生時，母以我著金寶床上，上虛
-<lb n="0090c12" ed="T"/>空中五百天子而共飛行，我<note n="0090021" resp="Taisho" type="orig" place="foot text">這＝適【三】【宮】＊</note><note n="0090021" resp="CBETA" type="mod">適【CB】＊【宋】＊【元】＊【明】＊【宮】＊，這【大】＊</note><app n="0090021"><lem resp="CBETA.maha" wit="【CBETA】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>見之；以無數
-<lb n="0090c13" ed="T"/>事歎佛功德及法聖眾，<app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CBETA】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>聞音聲。時於眾
+<lb n="0090c12" ed="T"/>空中五百天子而共飛行，我<note n="0090021" resp="Taisho" type="orig" place="foot text">這＝適【三】【宮】＊</note><note n="0090021" resp="CBETA" type="mod">適【CB】【宋】＊【元】＊【明】＊【宮】＊＊，這【大】＊</note><app n="0090021"><lem resp="CBETA.maha" wit="【CB】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>見之；以無數
+<lb n="0090c13" ed="T"/>事歎佛功德及法聖眾，<app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CB】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>聞音聲。時於眾
 <lb n="0090c14" ed="T"/>中有一天子，初未曾見如來至真，問諸天子：
 <lb n="0090c15" ed="T"/>『所歎如來，德何所類？』時諸天子察我心念，志
 <lb n="0090c16" ed="T"/>懷篤信，即說此偈，而讚歎佛：</p>
@@ -253,7 +253,7 @@ add cvs log
 <lb n="0091a26" ed="T"/>廣說經法，吾悉聽之，不失一句義理<note n="0091009" resp="Taisho" type="orig" place="foot text">嚴＝微【三】【宮】</note><note n="0091009" resp="CBETA" type="mod">嚴【大】，微【宋】【元】【明】【宮】</note><app n="0091009"><lem wit="【大】">嚴</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">微</rdg></app>妙。
 <lb n="0091a27" ed="T"/>我常晝夜恒觀覩佛，無不見時。吾以晝夜見
 <lb n="0091a28" ed="T"/>佛正覺，欲聽聞法，奉敬聖眾，而無厭極。」</p><p xml:id="pT12p0091a2816" rend="inline">時離
-<lb n="0091a29" ed="T"/>垢施，嗟歎於佛、<note n="0091010" resp="Taisho" type="orig" place="foot text">聽＝聖【三】【宮】</note><note n="0091010" resp="CBETA" type="mod">聖【CB】【宋】【元】【明】【宮】，聽【大】</note><app n="0091010"><lem resp="CBETA.maha" wit="【CBETA】">聖</lem><rdg wit="【大】">聽</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聖</rdg></app>眾之德。梵天、梵志、五百
+<lb n="0091a29" ed="T"/>垢施，嗟歎於佛、<note n="0091010" resp="Taisho" type="orig" place="foot text">聽＝聖【三】【宮】</note><note n="0091010" resp="CBETA" type="mod">聖【CB】【宋】【元】【明】【宮】，聽【大】</note><app n="0091010"><lem resp="CBETA.maha" wit="【CB】">聖</lem><rdg wit="【大】">聽</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">聖</rdg></app>眾之德。梵天、梵志、五百
 <pb n="0091b" xml:id="T12.0338.0091b" ed="T"/>
 <lb n="0091b01" ed="T"/>群眾，聞之欣然，皆發無上正真道意。女即下
 <lb n="0091b02" ed="T"/>車，趣諸菩薩及大弟子，普為稽首，一一禮足，
@@ -262,14 +262,14 @@ add cvs log
 <lb n="0091b05" ed="T"/>二識，塵欲如火，多有放逸，所可好憙，心不順
 <lb n="0091b06" ed="T"/>念，不志解脫，而自<note n="0091011" resp="Taisho" type="orig" place="foot text">放逸＝放恣【宮】</note><note n="0091011" resp="CBETA" type="mod">放逸【大】，放恣【宮】</note><app n="0091011"><lem wit="【大】">放逸</lem><rdg resp="Taisho" wit="【宮】">放恣</rdg></app>。善哉，賢者！唯為我
 <lb n="0091b07" ed="T"/>等如應說法，哀矜長夜，安隱無難。」</p><p xml:id="pT12p0091b0714" rend="inline">說於此語
-<lb n="0091b08" ed="T"/><app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CBETA】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>欲竟時，王波斯匿與諸群臣，尋到彼間。
+<lb n="0091b08" ed="T"/><app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CB】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>欲竟時，王波斯匿與諸群臣，尋到彼間。
 <lb n="0091b09" ed="T"/>王聞斯言，謂離垢施女：「<note n="0091012" resp="Taisho" type="orig" place="foot text">遺＝惟【三】【宮】</note><note n="0091012" resp="CBETA" type="mod">遺【大】，惟【宋】【元】【明】【宮】</note><app n="0091012"><lem wit="【大】">遺</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>習樂，何故勤勞、
 <lb n="0091b10" ed="T"/>顏色<note n="0091013" resp="Taisho" type="orig" place="foot text">憔＝燋【宋】【宮】</note><note n="0091013" resp="CBETA" type="mod">憔【大】，燋【宋】【宮】</note><app n="0091013"><lem wit="【大】">憔</lem><rdg resp="Taisho" wit="【宋】【宮】">燋</rdg></app>悴而遊此間？從生以來未曾步行，初
 <lb n="0091b11" ed="T"/>不眠寐，卒發心行，而不戲樂，無以自娛。」</p><p xml:id="pT12p0091b1116" rend="inline">於是
 <lb n="0091b12" ed="T"/>王波斯匿，為離垢施而說頌曰：</p>
 <lb n="0091b13" ed="T"/><lg xml:id="lgT12p0091b1301" rend="margin-left:1em;text-indent:-1em"><l>「顏貌淨妙，</l><l>猶天玉女，</l><l><app type="star" corresp="#0089015"><lem wit="【大】">瓔珞</lem><rdg resp="Taisho" wit="【宋】【宮】">纓絡</rdg></app>儀式，</l>
 <lb n="0091b14" ed="T"/><l>香熏衣服。</l><l>如今女身，</l><l>何所患厭？</l>
-<lb n="0091b15" ed="T"/><l>汝既無有，</l><l>睡眠之<note n="0091014" resp="Taisho" type="orig" place="foot text">解＝懈【宮】</note><note n="0091014" resp="CBETA" type="mod">懈【CB】【麗-CB】【宮】，解【大】</note><app n="0091014"><lem wit="【CBETA】【麗】" resp="CBETA.maha">懈<note type="cf1">K06n0041_p1209b14</note><note type="cf2">T12n0338_p0091b22</note></lem><rdg wit="【大】">解</rdg><rdg resp="Taisho" wit="【宮】">懈</rdg></app>，</l><l>處在國土，</l>
+<lb n="0091b15" ed="T"/><l>汝既無有，</l><l>睡眠之<note n="0091014" resp="Taisho" type="orig" place="foot text">解＝懈【宮】</note><note n="0091014" resp="CBETA" type="mod">懈【CB】【麗-CB】【宮】，解【大】</note><app n="0091014"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">懈<note type="cf1">K06n0041_p1209b14</note><note type="cf2">T12n0338_p0091b22</note></lem><rdg wit="【大】">解</rdg><rdg resp="Taisho" wit="【宮】">懈</rdg></app>，</l><l>處在國土，</l>
 <lb n="0091b16" ed="T"/><l>倉庫盈富。</l><l>女之父母，</l><l>常得自由，</l>
 <lb n="0091b17" ed="T"/><l>何所不樂，</l><l>今得自在？</l><l>其心何故，</l>
 <lb n="0091b18" ed="T"/><l>不好在家？</l><l>又女父母，</l><l>而相可悅，</l>
@@ -699,7 +699,7 @@ add cvs log
 <lb n="0096a22" ed="T"/>上士、道法御、天人師、號佛世尊。此三千大千
 <lb n="0096a23" ed="T"/>世界六反震動，勿令眾生有退還者，天雨眾
 <lb n="0096a24" ed="T"/>華，箜篌樂器不鼓自鳴，我轉女像得為男子，
-<lb n="0096a25" ed="T"/>而年八歲<app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CBETA】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>立斯<note n="0096004" resp="Taisho" type="orig" place="foot text">〔誓〕－【三】【宮】</note><note n="0096004" resp="CBETA" type="mod">誓【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0096004"><lem wit="【大】">誓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>願。」</p><p xml:id="pT12p0096a2510" rend="inline">應時三千大千世
+<lb n="0096a25" ed="T"/>而年八歲<app type="star" corresp="#0090021"><lem resp="CBETA.maha" wit="【CB】">適</lem><rdg wit="【大】">這</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">適</rdg></app>立斯<note n="0096004" resp="Taisho" type="orig" place="foot text">〔誓〕－【三】【宮】</note><note n="0096004" resp="CBETA" type="mod">誓【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0096004"><lem wit="【大】">誓</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>願。」</p><p xml:id="pT12p0096a2510" rend="inline">應時三千大千世
 <lb n="0096a26" ed="T"/>界六反震動，箜篌樂器不鼓自鳴。離垢施女
 <lb n="0096a27" ed="T"/>身變為男形八歲童子。</p><p xml:id="pT12p0096a2710" rend="inline">時大目連即從坐起，
 <lb n="0096a28" ed="T"/>更整衣服，右膝著地，叉手白佛：「<app type="star" corresp="#0090018"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惟</rdg></app>天中天！

@@ -434,7 +434,7 @@ add cvs log
 <lb n="0501b05" ed="T"/>化<note n="0501004" resp="Taisho" type="orig" place="foot text">成熟＝成就【三】【宮】＊</note><note n="0501004" resp="CBETA" type="mod">成熟【大】＊，成就【宋】【元】【明】【宮】＊</note><app n="0501004"><lem wit="【大】">成熟</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">成就</rdg></app>眾生，無有休息。</p><p xml:id="pT10p0501b0510" rend="inline">「又，一切眾生，若有
 <lb n="0501b06" ed="T"/>色、若無色，若有想、若無想，若非有想、非無想，
 <lb n="0501b07" ed="T"/>若卵生、若胎生，若濕生、若化生，三界繫入於
-<lb n="0501b08" ed="T"/>六道，在一切生處名色所攝，為教化<anchor xml:id="fxT10p0501b01"/>成<note n="0501b0801" resp="CBETA" type="add">熟【CB】【麗-CB】，熱【大】，就【磧砂-CB】</note><app n="0501b0801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">熟<note type="cf1">K08n0098_p1135c15</note></lem><rdg wit="【大】">熱</rdg><rdg resp="CBETA.maha" wit="【磧砂-CB】">就<note type="cf1">Q08_p0388a19</note></rdg></app>
+<lb n="0501b08" ed="T"/>六道，在一切生處名色所攝，為教化<anchor xml:id="fxT10p0501b01"/>成<note n="0501b0801" resp="CBETA" type="add">熟【CB】【麗-CB】，熱【大】，就【磧砂-CB】</note><app n="0501b0801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">熟<note type="cf1">K08n0098_p1135c15</note></lem><rdg wit="【大】">熱</rdg><rdg resp="CBETA.maha" wit="【磧-CB】">就<note type="cf1">Q08_p0388a19</note></rdg></app>
 <lb n="0501b09" ed="T"/>一切眾生、斷一切世間道、令住佛法、集一切
 <lb n="0501b10" ed="T"/>智慧使無有餘，發如是大願，廣大如法性、究
 <lb n="0501b11" ed="T"/>竟如虛空，盡未來際、盡一切劫，教化一切眾
@@ -941,7 +941,7 @@ add cvs log
 <pb n="0507a" ed="T" xml:id="T10.0286.0507a"/>
 <lb n="0507a01" ed="T"/><l rend="text-indent:1em">即時虛空中，</l><l>雨眾名華香，</l>
 <lb n="0507a02" ed="T"/><l rend="text-indent:1em">如雲而垂下，</l><l>供養金剛藏。</l>
-<lb n="0507a03" ed="T"/><l rend="text-indent:1em">咸讚言：「善哉，</l><l>善哉！<note n="0507a0301" resp="CBETA" type="add">金【CB】【麗-CB】【磧砂-CB】，念【大】</note><app n="0507a0301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">金<note type="cf1">K08n0098_p1143a07</note><note type="cf2">Q08_p0391a07</note></lem><rdg wit="【大】">念</rdg></app>剛藏！</l>
+<lb n="0507a03" ed="T"/><l rend="text-indent:1em">咸讚言：「善哉，</l><l>善哉！<note n="0507a0301" resp="CBETA" type="add">金【CB】【麗-CB】【磧砂-CB】，念【大】</note><app n="0507a0301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">金<note type="cf1">K08n0098_p1143a07</note><note type="cf2">Q08_p0391a07</note></lem><rdg wit="【大】">念</rdg></app>剛藏！</l>
 <lb n="0507a04" ed="T"/><l rend="text-indent:1em">善說諸大人，</l><l>護持淨戒行。</l>
 <lb n="0507a05" ed="T"/><l rend="text-indent:1em">於諸眾生中，</l><l>深有憐愍心，</l>
 <lb n="0507a06" ed="T"/><l rend="text-indent:1em">敷演解說是，</l><l>第二地行處。</l>
@@ -1155,7 +1155,7 @@ add cvs log
 <lb n="0509b04" ed="T"/><l rend="text-indent:1em">次第皆能起，</l><l>自在不隨生。</l>
 <lb n="0509b05" ed="T"/><l rend="text-indent:1em">菩薩住是地，</l><l>能以決定心，</l>
 <lb n="0509b06" ed="T"/><l rend="text-indent:1em">多供養諸佛，</l><l>聽受所說法。</l>
-<lb n="0509b07" ed="T"/><l rend="text-indent:1em">斷邪、<note n="0509b0701" resp="CBETA" type="add">愛【CB】【麗-CB】，受【大】【磧砂-CB】</note><app n="0509b0701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">愛<note type="cf1">K08n0098_p1146a09</note></lem><rdg wit="【大】">受</rdg><rdg resp="CBETA.maha" wit="【磧砂-CB】">受<note type="cf1">Q08_p0395a24</note></rdg></app>、恚等，</l><l>餘煩惱微薄，</l>
+<lb n="0509b07" ed="T"/><l rend="text-indent:1em">斷邪、<note n="0509b0701" resp="CBETA" type="add">愛【CB】【麗-CB】，受【大】【磧砂-CB】</note><app n="0509b0701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">愛<note type="cf1">K08n0098_p1146a09</note></lem><rdg wit="【大】">受</rdg><rdg resp="CBETA.maha" wit="【磧-CB】">受<note type="cf1">Q08_p0395a24</note></rdg></app>、恚等，</l><l>餘煩惱微薄，</l>
 <lb n="0509b08" ed="T"/><l rend="text-indent:1em">猶如成鍊金，</l><l>調和得其所。</l>
 <lb n="0509b09" ed="T"/><l rend="text-indent:1em">菩薩住是地，</l><l><note n="0509003" resp="Taisho" type="orig" place="foot text">功＝福【三】【宮】</note><note n="0509003" resp="CBETA" type="mod">功【大】，福【宋】【元】【明】【宮】</note><app n="0509003"><lem wit="【大】">功</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">福</rdg></app>德藏充滿，</l>
 <lb n="0509b10" ed="T"/><l rend="text-indent:1em">多作忉利王，</l><l>自在化婬欲。</l>
@@ -2257,7 +2257,7 @@ add cvs log
 <lb n="0521b29" ed="T"/>無量相、差別相。</p><p xml:id="pT10p0521b2907" rend="inline">「知微塵細相、知微塵差別相，
 <pb n="0521c" ed="T" xml:id="T10.0286.0521c"/>
 <lb n="0521c01" ed="T"/>於一世界中所有微塵差別皆悉能知，此一
-<lb n="0521c02" ed="T"/>世界所有地若干微塵皆悉能知；若<note n="0521005" resp="Taisho" type="orig" place="foot text">于＋（大）【三】【宮】</note><note n="0521005" resp="CBETA" type="mod">干【大】，干大【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->于＝干【麗-CB】【磧砂-CB】【CB】</note><app n="0521005"><lem resp="CBETA.maha" wit="【CBETA】【麗】【磧砂】">干<note type="cf1">K08n0098_p1161a11</note><note type="cf2">Q08_p0405c22</note></lem><rdg wit="【大】">于</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">干大</rdg></app>水、
+<lb n="0521c02" ed="T"/>世界所有地若干微塵皆悉能知；若<note n="0521005" resp="Taisho" type="orig" place="foot text">于＋（大）【三】【宮】</note><note n="0521005" resp="CBETA" type="mod">干【大】，干大【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->于＝干【麗-CB】【磧砂-CB】【CB】</note><app n="0521005"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">干<note type="cf1">K08n0098_p1161a11</note><note type="cf2">Q08_p0405c22</note></lem><rdg wit="【大】">于</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">干大</rdg></app>水、
 <lb n="0521c03" ed="T"/><note n="0521006" resp="Taisho" type="orig" place="foot text">〔火〕－【宮】</note><note n="0521006" resp="CBETA" type="mod">火【大】，〔－〕【宮】</note><app n="0521006"><lem wit="【大】">火</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>、風微塵皆悉能知。</p><p xml:id="pT10p0521c0309" rend="inline">「<note n="0521007" resp="Taisho" type="orig" place="foot text">〔知〕－【三】</note><note n="0521007" resp="CBETA" type="mod">知【大】，〔－〕【宋】【元】【明】</note><app n="0521007"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>若干寶物斤兩微
 <lb n="0521c04" ed="T"/>塵、若干眾生身微塵、世界中萬物微塵差別，
 <lb n="0521c05" ed="T"/>分別眾生麁身、細身，從若干微塵生地獄身、
@@ -2888,7 +2888,7 @@ add cvs log
 <lb n="0528b28" ed="T"/><note n="0528004" resp="Taisho" type="orig" place="foot text">葉＝莖【宮】</note><note n="0528004" resp="CBETA" type="mod">葉【大】，莖【宮】</note><app n="0528004"><lem wit="【大】">葉</lem><rdg resp="Taisho" wit="【宮】">莖</rdg></app>；中有無量光明，一切妙寶皆在其內；寶
 <lb n="0528b29" ed="T"/>網覆上，滿十三千大千世界微塵數蓮花為
 <pb n="0528c" ed="T" xml:id="T10.0286.0528c"/>
-<lb n="0528c01" ed="T"/>眷屬。爾時，菩薩其身<note n="0528c0101" resp="CBETA" type="add">姝【CB】【磧砂-CB】，妹【大】【麗-CB】</note><app n="0528c0101"><lem resp="CBETA.maha" wit="【CB】【磧砂-CB】">姝<note type="cf1">Q08_p0411c05</note></lem><rdg wit="【大】">妹</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">妹<note type="cf1">K08n0098_p1168c11</note></rdg></app>妙，稱可華座。是菩
+<lb n="0528c01" ed="T"/>眷屬。爾時，菩薩其身<note n="0528c0101" resp="CBETA" type="add">姝【CB】【磧砂-CB】，妹【大】【麗-CB】</note><app n="0528c0101"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">姝<note type="cf1">Q08_p0411c05</note></lem><rdg wit="【大】">妹</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">妹<note type="cf1">K08n0098_p1168c11</note></rdg></app>妙，稱可華座。是菩
 <lb n="0528c02" ed="T"/>薩得益一切智位三昧力故，身現在大蓮華
 <lb n="0528c03" ed="T"/>座上。即時諸眷屬蓮華上皆有菩薩圍遶之，
 <lb n="0528c04" ed="T"/>一一菩薩坐蓮華上即得百萬三昧，皆一心

@@ -1319,7 +1319,7 @@ Added comment  for Emacs
 <lb n="0471c07" ed="T"/>窣覩扇多也　南謨窣覩扇帶<g ref="#CB02370"/>　南謨窣覩
 <lb n="0471c08" ed="T"/>木多也　南謨窣覩木帶<g ref="#CB02370"/>　諸有清淨婆羅
 <lb n="0471c09" ed="T"/>門　能除一切諸惡業　如是等眾我歸禮
-<lb n="0471c10" ed="T"/>　願擁護我并眷屬。<note n="0471007" resp="Taisho" place="foot text" type="orig">（天阿…安樂）百十二字∞（大孔…中）八字【元】，〔天阿…安樂〕百十二字－【明】</note><note n="0471007" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔－〕【明】，（天阿…安樂）百十二字【大】∞（大孔…中）八字【元】</note>天阿蘇羅藥叉等　來聽
+<lb n="0471c10" ed="T"/>　願擁護我并眷屬。<note n="0471007" resp="Taisho" place="foot text" type="orig">（天阿…安樂）百十二字∞（大孔…中）八字【元】，〔天阿…安樂〕百十二字－【明】</note><note n="0471007" resp="CBETA" type="mod"><!--CBETA todo type: a-->（天阿…安樂）百十二字【大】∞（大孔…中）八字【元】，<!--CBETA todo type: newmod-->〔天阿…安樂〕百十二字－【明】</note>天阿蘇羅藥叉等　來聽
 <lb n="0471c11" ed="T"/>法者應至心　擁護佛法使長存　各各勤行
 <lb n="0471c12" ed="T"/>世尊教　諸有聽徒來至此　或在地上或居
 <lb n="0471c13" ed="T"/>空　常於人世起慈心　日夜自身依法住
@@ -1327,7 +1327,7 @@ Added comment  for Emacs
 <lb n="0471c15" ed="T"/>罪業並消除　遠離眾苦歸圓寂　恒用戒香
 <lb n="0471c16" ed="T"/>塗瑩體　常持定服以資身　菩提妙花遍莊
 <lb n="0471c17" ed="T"/>嚴　隨所住處常安樂</p>
-<lb n="0471c18" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><note n="0471008" resp="Taisho" place="foot text" type="orig">（天阿…安樂）百十二字∞（大孔…中）八字【元】，〔天阿…安樂〕百十二字－【明】，（佛說）＋大【明】</note><note n="0471008" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔－〕【明】，（大孔…中）八字【大】∞（天阿…安樂）百十二字【元】，<!--CBETA todo type: newmod-->（佛說）＋大【明】</note>大孔雀呪王經卷中</cb:jhead></cb:juan>
+<lb n="0471c18" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><note n="0471008" resp="Taisho" place="foot text" type="orig">（天阿…安樂）百十二字∞（大孔…中）八字【元】，〔天阿…安樂〕百十二字－【明】，（佛說）＋大【明】</note><note n="0471008" resp="CBETA" type="mod"><!--CBETA todo type: a-->（大孔…中）八字【大】∞（天阿…安樂）百十二字【元】，<!--CBETA todo type: newmod-->〔天阿…安樂〕百十二字－【明】，（佛說）＋大【明】</note>大孔雀呪王經卷中</cb:jhead></cb:juan>
 <lb n="0471c19" ed="T"/>
 <milestone n="3" unit="juan"/>
 <lb n="0471c20" ed="T"/>
@@ -1825,7 +1825,7 @@ Added comment  for Emacs
 <lb n="0477b01" ed="T"/>信者。阿難陀更有心呪汝當受持。呪曰。</p>
 <lb n="0477b02" ed="T"/><p xml:id="pT19p0477b0201" cb:type="dharani">南謨佛陀也　南謨達摩也　南謨僧伽也
 <lb n="0477b03" ed="T"/>　南謨金光明孔雀王　南謨摩訶摩瑜利明呪
-<lb n="0477b04" ed="T"/>王　怛姪他　頞智<note place="inline">貞<note n="0477004" resp="Taisho" place="foot text" type="orig">勵＋（反）【宋】【元】，（切）【明】</note><note n="0477004" resp="CBETA" type="mod">勵【大】，勵反【宋】【元】，<!--CBETA todo type: newmod-->（切）【明】</note><app n="0477004"><lem wit="【大】">勵</lem><rdg resp="Taisho" wit="【宋】【元】">勵反</rdg><rdg resp="Taisho" wit="【明】">勵切</rdg></app></note>　伐智侘<note place="inline">他<note n="0477005" resp="Taisho" place="foot text" type="orig">革＋（切）【明】</note><note n="0477005" resp="CBETA" type="mod">革【大】，革切【明】</note><app n="0477005"><lem wit="【大】">革</lem><rdg resp="Taisho" wit="【明】">革切</rdg></app></note>計闥
+<lb n="0477b04" ed="T"/>王　怛姪他　頞智<note place="inline">貞<note n="0477004" resp="Taisho" place="foot text" type="orig">勵＋（反）【宋】【元】，（切）【明】</note><note n="0477004" resp="CBETA" type="mod">勵【大】，勵反【宋】【元】，<!--CBETA todo type: newmod-->勵切【明】</note><app n="0477004"><lem wit="【大】">勵</lem><rdg resp="Taisho" wit="【宋】【元】">勵反</rdg><rdg resp="Taisho" wit="【明】">勵切</rdg></app></note>　伐智侘<note place="inline">他<note n="0477005" resp="Taisho" place="foot text" type="orig">革＋（切）【明】</note><note n="0477005" resp="CBETA" type="mod">革【大】，革切【明】</note><app n="0477005"><lem wit="【大】">革</lem><rdg resp="Taisho" wit="【明】">革切</rdg></app></note>計闥
 <lb n="0477b05" ed="T"/>喇侘計惡羯死莫羯死　一里弭麗祇麗　戶
 <lb n="0477b06" ed="T"/>嚧<note n="0477006" resp="Taisho" place="foot text" type="orig">臘＝𡅘【三】</note><note n="0477006" resp="CBETA" type="mod">臘【大】，𡅘【宋】【元】【明】</note><app n="0477006"><lem wit="【大】">臘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𡅘</rdg></app>薜　莫訶戶嚧𡅘薜　步登笈謎　底冥
 <lb n="0477b07" ed="T"/>祇西　莫訶鴦揭西莎訶</p>

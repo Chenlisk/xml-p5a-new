@@ -998,7 +998,7 @@ Added comment  for Emacs
 <lb n="1021b13" ed="T"/>兩段。第一善住請。第二帝釋請。從爾時三十
 <lb n="1021b14" ed="T"/>三天已下至云何令我得免斯苦是善住請。
 <lb n="1021b15" ed="T"/>從爾時帝釋聞是語已甚大驚愕已下至具如
-<lb n="1021b16" ed="T"/>上說是帝釋請。今者先明善<note n="1021001" resp="Taisho" place="foot text" type="orig">住＋（請）？</note><app n="1021001"><lem resp="Taisho" wit="【大】">住</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">住請</rdg></app>。後明帝釋請。
+<lb n="1021b16" ed="T"/>上說是帝釋請。今者先明善<note n="1021001" resp="Taisho" place="foot text" type="orig">住＋（請）？</note><note n="1021001" resp="CBETA" type="mod">住【大】，住請【考偽-大】</note><app n="1021001"><lem resp="Taisho" wit="【大】">住</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">住請</rdg></app>。後明帝釋請。
 <lb n="1021b17" ed="T"/>言善住請中有十段文。第一標處顯名。第二
 <lb n="1021b18" ed="T"/>大天遊戲。第三受諸快樂。第四空聲告期。第
 <lb n="1021b19" ed="T"/>五示所生界。第六正顯受身。第七善住驚怖。
@@ -1507,7 +1507,7 @@ Added comment  for Emacs
 <lb n="1027a12" ed="T"/>者。一者阿浮陀。二者尼羅浮陀。三者阿羅羅。
 <lb n="1027a13" ed="T"/>四者阿波波。五者阿睺睺。六者漚波羅。七者
 <lb n="1027a14" ed="T"/>波頭摩。八者摩訶波頭摩。是名八寒地獄。言
-<lb n="1027a15" ed="T"/>八熱者。<note n="1027001" resp="Taisho" place="foot text" type="orig">（一者）＋炭ヵ【原】</note><note n="1027001" resp="CBETA" type="mod">炭ヵ【大】，一者炭ヵ【原】</note><app n="1027001"><lem resp="Taisho" wit="【大】">炭</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">一者炭</rdg></app>坑。二者沸屎。三者燒林。四者劍
+<lb n="1027a15" ed="T"/>八熱者。<note n="1027001" resp="Taisho" place="foot text" type="orig">（一者）＋炭ヵ【原】</note><note n="1027001" resp="CBETA" type="mod">炭【大】，一者炭【考偽-原】</note><app n="1027001"><lem resp="Taisho" wit="【大】">炭</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">一者炭</rdg></app>坑。二者沸屎。三者燒林。四者劍
 <lb n="1027a16" ed="T"/>林。五者刀路。六者刺林。七者醎河。八者銅
 <lb n="1027a17" ed="T"/>鐝。是名八熱地獄。云何阿浮陀地獄。唐云多
 <lb n="1027a18" ed="T"/>少有孔。謂滿中積氷。復有冷毒。風吹諸罪人
@@ -1521,7 +1521,7 @@ Added comment  for Emacs
 <lb n="1027a26" ed="T"/>罪人身分裂破其肉。乃宜所以名紅蓮華也。
 <lb n="1027a27" ed="T"/>云何摩訶波頭摩地獄。唐云大紅蓮華也。其
 <lb n="1027a28" ed="T"/>苦倍前。是名八寒地獄。云何炭坑地獄。謂
-<lb n="1027a29" ed="T"/><note n="1027002" resp="Taisho" place="foot text" type="orig">（滿）＋中ヵ【原】</note><note n="1027002" resp="CBETA" type="mod">中ヵ【大】，滿中ヵ【原】</note><app n="1027002"><lem resp="Taisho" wit="【大】">中</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">滿中</rdg></app>炭火火皆沒膝。若人破戒墮此地獄中。云
+<lb n="1027a29" ed="T"/><note n="1027002" resp="Taisho" place="foot text" type="orig">（滿）＋中ヵ【原】</note><note n="1027002" resp="CBETA" type="mod">中【大】，滿中【考偽-原】</note><app n="1027002"><lem resp="Taisho" wit="【大】">中</lem><rdg resp="Taisho" wit="【原】" type="correctionRemark">滿中</rdg></app>炭火火皆沒膝。若人破戒墮此地獄中。云
 <pb n="1027b" xml:id="T39.1803.1027b" ed="T"/>
 <lb n="1027b01" ed="T"/>何沸屎地獄。謂此地獄內滿中沸屎。深廣如
 <lb n="1027b02" ed="T"/>河。若人破齊夜食入此地獄中。云何名燒林
@@ -1543,7 +1543,7 @@ Added comment  for Emacs
 <lb n="1027b18" ed="T"/>口。灌以洋銅。與鐵丸食之。食足已訖。五臟焦
 <lb n="1027b19" ed="T"/>爛。支節火流。若人偷盜飲食。虛受信施。一旦
 <lb n="1027b20" ed="T"/>命終墮此地獄。是名八熱地獄。言畜生者。依
-<lb n="1027b21" ed="T"/>三法<note n="1027003" resp="Taisho" place="foot text" type="orig">〔智〕－？</note><app n="1027003"><lem resp="Taisho" wit="【大】">智</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>度論云。有其三處。合有九種。水中
+<lb n="1027b21" ed="T"/>三法<note n="1027003" resp="Taisho" place="foot text" type="orig">〔智〕－？</note><note n="1027003" resp="CBETA" type="mod">智【大】，〔－〕【考偽-大】</note><app n="1027003"><lem resp="Taisho" wit="【大】">智</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>度論云。有其三處。合有九種。水中
 <lb n="1027b22" ed="T"/>有三。一無足二多足三二足。陸地準之。空中
 <lb n="1027b23" ed="T"/>亦然。合有九種。言閻摩路迦者。瑜伽論云。此
 <lb n="1027b24" ed="T"/>南贍部下五百踰<g ref="#CB01804"/>那。有閻羅王所住之國。

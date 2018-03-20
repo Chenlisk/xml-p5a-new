@@ -1725,7 +1725,7 @@ Added comment  for Emacs
 <lb n="0168a21" ed="T"/>別尚名為賊，是故須殺。「不生於生」者，取
 <lb n="0168a22" ed="T"/>無為證生於界外，不生是生故不令生。供
 <lb n="0168a23" ed="T"/>彼所應名為供應，如《阿含》中佛至阿蘭若
-<lb n="0168a24" ed="T"/>語比丘等，具如《<note n="0168001" resp="Taisho" type="orig" place="foot text">上＝止？</note><note n="0168001" resp="CBETA" type="mod">上＝止？，<!--CBETA todo type: newmod-->＝止【CB】</note><app n="0168001"><lem resp="CBETA.maha Taisho" wit="【CBETA】">止</lem><rdg wit="【大】">上</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">止</rdg></app>觀》第四記。復應更分前
+<lb n="0168a24" ed="T"/>語比丘等，具如《<note n="0168001" resp="Taisho" type="orig" place="foot text">上＝止？</note><note n="0168001" resp="CBETA" type="mod">止【CB】，上【大】，止【考偽-大】</note><app n="0168001"><lem resp="CBETA.maha Taisho" wit="【CB】">止</lem><rdg wit="【大】">上</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">止</rdg></app>觀》第四記。復應更分前
 <lb n="0168a25" ed="T"/>之兩教能殺法異，後之二教不賊亦殊。「皆歎
 <lb n="0168a26" ed="T"/>初地初住德」者，前有翻家以三為名，次無
 <lb n="0168a27" ed="T"/>翻家以三為義，義即是德，故約教中以三
@@ -3298,7 +3298,7 @@ Added comment  for Emacs
 <lb n="0185c04" ed="T"/>是諸眾生忍於三毒及諸煩惱，能忍斯惡故
 <lb n="0185c05" ed="T"/>名忍土。是千人中唯除一人，餘並於賢劫
 <lb n="0185c06" ed="T"/>而得成佛。」</p>
-<lb n="0185c07" ed="T"/><cb:juan n="002b" fun="close"><cb:jhead>法華文<note n="0185001" resp="Taisho" type="orig" place="foot text">句＋（記）？</note><app n="0185001"><lem resp="Taisho" wit="【大】">句</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">句記</rdg></app>卷第二<note place="inline">中</note></cb:jhead></cb:juan>
+<lb n="0185c07" ed="T"/><cb:juan n="002b" fun="close"><cb:jhead>法華文<note n="0185001" resp="Taisho" type="orig" place="foot text">句＋（記）？</note><note n="0185001" resp="CBETA" type="mod">句【大】，句記【考偽-大】</note><app n="0185001"><lem resp="Taisho" wit="【大】">句</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">句記</rdg></app>卷第二<note place="inline">中</note></cb:jhead></cb:juan>
 <lb n="0185c08" ed="T"/>
 <lb n="0185c09" ed="T"/>
 <lb n="0185c10" ed="T"/><cb:juan n="002c" fun="open"><cb:mulu n="2c" type="卷">第二下</cb:mulu><cb:jhead>法華文句記卷第二<note place="inline">下</note></cb:jhead></cb:juan>
@@ -5035,7 +5035,7 @@ Added comment  for Emacs
 <lb n="0205a02" ed="T"/>並開佛知見，豈得云一切等耶？如下文云：
 <lb n="0205a03" ed="T"/>一切世間多怨難信，難信<note n="0205001" resp="Taisho" type="orig" place="foot text">〔之〕－【甲】</note><note n="0205001" resp="CBETA" type="mod">之【大】，〔－〕【甲】</note><app n="0205001"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><note n="0205002" resp="Taisho" type="orig" place="foot text">珠＝殊【甲】</note><note n="0205002" resp="CBETA" type="mod">珠【大】，殊【甲】</note><app n="0205002"><lem wit="【大】">珠</lem><rdg resp="Taisho" wit="【甲】">殊</rdg></app>四十餘年
 <lb n="0205a04" ed="T"/>方乃信解。</p><p xml:id="pT34p0205a0405" rend="inline">次廣曾者，還廣上二。言「橫竪」者，
-<lb n="0205a05" ed="T"/><note n="0205003" resp="Taisho" type="orig" place="foot text">被＝彼【甲】</note><note n="0205003" resp="CBETA" type="mod">彼【CB】【甲】，被【大】</note><app n="0205003"><lem resp="CBETA.maha" wit="【CBETA】">彼</lem><rdg wit="【大】">被</rdg><rdg resp="Taisho" wit="【甲】">彼</rdg></app>此相望為橫，今昔相望為竪。「通號」者，應
+<lb n="0205a05" ed="T"/><note n="0205003" resp="Taisho" type="orig" place="foot text">被＝彼【甲】</note><note n="0205003" resp="CBETA" type="mod">彼【CB】【甲】，被【大】</note><app n="0205003"><lem resp="CBETA.maha" wit="【CB】">彼</lem><rdg wit="【大】">被</rdg><rdg resp="Taisho" wit="【甲】">彼</rdg></app>此相望為橫，今昔相望為竪。「通號」者，應
 <lb n="0205a06" ed="T"/>身皆具十，故名為通。法身望應亦得義立，
 <lb n="0205a07" ed="T"/>吾今此身即是法身，故知應號即法號也。然
 <lb n="0205a08" ed="T"/>釋法號須從法立，具如《止觀》第二記。又諸
@@ -5651,7 +5651,7 @@ Added comment  for Emacs
 <lb n="0211c18" ed="T"/>即其相也。「法門」者，智所用法隨物機宜，指三
 <lb n="0211c19" ed="T"/>乘故，是法門也。言「智能」者，能施之智進否
 <lb n="0211c20" ed="T"/>有則，故於鹿苑設三乘也。「錘」佇偽反，亦
-<lb n="0211c21" ed="T"/>可「鎚」佇違<note n="0211011" resp="Taisho" type="orig" place="foot text">及＝反【甲】</note><note n="0211011" resp="CBETA" type="mod">反【CB】【甲】，及【大】</note><app n="0211011"><lem resp="CBETA.maha" wit="【CBETA】">反</lem><rdg wit="【大】">及</rdg><rdg resp="Taisho" wit="【甲】">反</rdg></app>，隨物輕重前<note n="0211012" resp="Taisho" type="orig" place="foot text">却＝劫【甲】＊</note><note n="0211012" resp="CBETA" type="mod">却【大】＊，劫【甲】＊</note><app n="0211012"><lem wit="【大】">却</lem><rdg resp="Taisho" wit="【甲】">劫</rdg></app>均平，故是
+<lb n="0211c21" ed="T"/>可「鎚」佇違<note n="0211011" resp="Taisho" type="orig" place="foot text">及＝反【甲】</note><note n="0211011" resp="CBETA" type="mod">反【CB】【甲】，及【大】</note><app n="0211011"><lem resp="CBETA.maha" wit="【CB】">反</lem><rdg wit="【大】">及</rdg><rdg resp="Taisho" wit="【甲】">反</rdg></app>，隨物輕重前<note n="0211012" resp="Taisho" type="orig" place="foot text">却＝劫【甲】＊</note><note n="0211012" resp="CBETA" type="mod">却【大】＊，劫【甲】＊</note><app n="0211012"><lem wit="【大】">却</lem><rdg resp="Taisho" wit="【甲】">劫</rdg></app>均平，故是
 <lb n="0211c22" ed="T"/>智之巧能也。</p><p xml:id="pT34p0211c2206" rend="inline">四結非中言「不包含」者，權實
 <lb n="0211c23" ed="T"/>自住不相即故，況約處約法但云三車，故
 <lb n="0211c24" ed="T"/>使智能不逾於此，文不收於四教行理，故
@@ -6849,7 +6849,7 @@ Added comment  for Emacs
 <lb n="0225a15" ed="T"/>人，又是有無異也，亦是雙隻異也。又上文不
 <lb n="0225a16" ed="T"/>分四佛但云「諸佛」，故今前行但云「世雄」即
 <lb n="0225a17" ed="T"/>當諸佛，後行但云「佛力」不云「吾今」，以前文
-<lb n="0225a18" ed="T"/>中釋迦權智具有力無<note n="0225003" resp="Taisho" type="orig" place="foot text">是＝畏【甲】</note><note n="0225003" resp="CBETA" type="mod">畏【CB】【甲】，是【大】</note><app n="0225003"><lem resp="CBETA.maha" wit="【CBETA】">畏</lem><rdg wit="【大】">是</rdg><rdg resp="Taisho" wit="【甲】">畏</rdg></app>等，知是頌釋迦
+<lb n="0225a18" ed="T"/>中釋迦權智具有力無<note n="0225003" resp="Taisho" type="orig" place="foot text">是＝畏【甲】</note><note n="0225003" resp="CBETA" type="mod">畏【CB】【甲】，是【大】</note><app n="0225003"><lem resp="CBETA.maha" wit="【CB】">畏</lem><rdg wit="【大】">是</rdg><rdg resp="Taisho" wit="【甲】">畏</rdg></app>等，知是頌釋迦
 <lb n="0225a19" ed="T"/>也。又前文有「諸佛」字，則可分為四佛，今但
 <lb n="0225a20" ed="T"/>云「世雄」似非諸佛，然以義分，以「世雄」句有
 <lb n="0225a21" ed="T"/>「世」字故可屬三世，世必有方故知是頌諸
@@ -7679,7 +7679,7 @@ Added comment  for Emacs
 <lb n="0234b05" ed="T"/>非佛知見。言「華嚴不明十信」者，古人亦以
 <lb n="0234b06" ed="T"/>《華嚴》住前修十梵行空即入初住，將十梵
 <lb n="0234b07" ed="T"/>行空對十信位；今文破者，經無信名，故云
-<lb n="0234b08" ed="T"/>「無」也。《攝大乘》等位，具<note n="0234001" resp="Taisho" type="orig" place="foot text">知＝如？</note><note n="0234001" resp="CBETA" type="mod">知＝如？，<!--CBETA todo type: newmod-->如＝【CB】</note><app n="0234001"><lem resp="CBETA.maha Taisho" wit="【CBETA】">如</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">如</rdg></app>《釋籤》所引，恐是《十
+<lb n="0234b08" ed="T"/>「無」也。《攝大乘》等位，具<note n="0234001" resp="Taisho" type="orig" place="foot text">知＝如？</note><note n="0234001" resp="CBETA" type="mod">知【大】，如【考偽-大】，<!--CBETA todo type: newmod-->如＝【CB】</note><app n="0234001"><lem resp="CBETA.maha Taisho" wit="【CB】">如</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">如</rdg></app>《釋籤》所引，恐是《十
 <lb n="0234b09" ed="T"/>地論》剩七字。「有人」去，破用《論》四智者。彼師
 <lb n="0234b10" ed="T"/>所引云「總別一時」，欲釋四句令無前後，
 <lb n="0234b11" ed="T"/>不意却成高下不當。今為二破：一者但云

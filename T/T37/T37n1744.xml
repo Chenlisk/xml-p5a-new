@@ -426,7 +426,7 @@ Added comment  for Emacs
 <lb n="0004a04" ed="T"/>一進趣方便。如見道前七方便等。二善巧名
 <lb n="0004a05" ed="T"/>為方便。如十波羅<note n="0004002" resp="Taisho" place="foot text" type="orig">蜜＋（中方便波羅密）ィ【原】</note><note n="0004002" resp="CBETA" type="mod">蜜【大】，蜜中方便波羅密【校異-原】</note><app n="0004002"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">蜜中方便波羅密</rdg></app>等。三善權方便。如無
 <lb n="0004a06" ed="T"/>三說三等。四施造方便。凡所造作。善巧施為。
-<lb n="0004a07" ed="T"/>故名方便。如地持所說十二巧方便等。<note n="0004003" resp="Taisho" place="foot text" type="orig">五＋（集成方便）？</note><app n="0004003"><lem resp="Taisho" wit="【大】">五</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">五集成方便</rdg></app>顯
+<lb n="0004a07" ed="T"/>故名方便。如地持所說十二巧方便等。<note n="0004003" resp="Taisho" place="foot text" type="orig">五＋（集成方便）？</note><note n="0004003" resp="CBETA" type="mod">五【大】，五集成方便【考偽-大】</note><app n="0004003"><lem resp="Taisho" wit="【大】">五</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">五集成方便</rdg></app>顯
 <lb n="0004a08" ed="T"/>此一乘離相巧成。故名方便。方便中極故名
 <lb n="0004a09" ed="T"/>為大。此即用一乘為方便也。復有人言。今此
 <lb n="0004a10" ed="T"/>所論。是其第四施造方便。又前四章。漸增向
@@ -937,7 +937,7 @@ Added comment  for Emacs
 <lb n="0009c05" ed="T"/>為過去第四鳩留村馱佛。已於此地起精舍。
 <lb n="0009c06" ed="T"/>爾時此地廣四十里。佛及人壽四萬歲。須達
 <lb n="0009c07" ed="T"/>爾時名毘沙長者。以黃金版布地。寶衣覆之。
-<lb n="0009c08" ed="T"/>供養佛也。第五<note n="0009008" resp="Taisho" place="foot text" type="orig">狗＝拘？</note><note n="0009008" resp="CBETA" type="mod">狗＝拘？，<!--CBETA todo type: newmod-->＝拘【CB】</note><app n="0009008"><lem wit="【CBETA】" resp="CBETA.maha">拘<note type="cf1">T01n0003_p0158b22</note></lem><rdg resp="Taisho" wit="【大】">狗</rdg>
+<lb n="0009c08" ed="T"/>供養佛也。第五<note n="0009008" resp="Taisho" place="foot text" type="orig">狗＝拘？</note><note n="0009008" resp="CBETA" type="mod">拘【CB】，狗【大】，拘【考偽-大】</note><app n="0009008"><lem wit="【CB】" resp="CBETA.maha">拘<note type="cf1">T01n0003_p0158b22</note></lem><rdg resp="Taisho" wit="【大】">狗</rdg>
 <rdg resp="Taisho" wit="【大】" type="correctionRemark">拘</rdg></app>那含牟尼佛。人及佛壽三
 <lb n="0009c09" ed="T"/>萬歲。爾時須達名<note n="0009009" resp="Taisho" place="foot text" type="orig">太＝大ィ【原】</note><note n="0009009" resp="CBETA" type="mod">太【大】，大【校異-原】</note><app n="0009009"><lem wit="【大】">太</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">大</rdg></app>家主長者。以銀布地。
 <lb n="0009c10" ed="T"/>滿中乳牛牛子。以為供養。爾時地廣三十里。
@@ -1452,7 +1452,7 @@ Added comment  for Emacs
 <lb n="0015b13" ed="T"/>德。何故復有波若。答。若作法身名說。無非法
 <lb n="0015b14" ed="T"/>身。餘二亦爾。故下文說智慧身自在。則波若
 <lb n="0015b15" ed="T"/>中有法身。今法身中亦有波若。故云智慧亦
-<lb n="0015b16" ed="T"/>復然。解<note n="0015011" resp="Taisho" place="foot text" type="orig">脫＋（中）ィ【原】，＋（中）【乙】</note><note n="0015011" resp="CBETA" type="mod">脫【大】，脫中【校異-原】，中【乙】</note><app n="0015011"><lem wit="【大】">脫</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">脫中</rdg><rdg resp="Taisho" wit="【乙】">脫中</rdg></app>亦有法身。故云是故禮法王。若
+<lb n="0015b16" ed="T"/>復然。解<note n="0015011" resp="Taisho" place="foot text" type="orig">脫＋（中）ィ【原】，＋（中）【乙】</note><note n="0015011" resp="CBETA" type="mod">脫【大】，脫中【校異-原】，脫中【乙】</note><app n="0015011"><lem wit="【大】">脫</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">脫中</rdg><rdg resp="Taisho" wit="【乙】">脫中</rdg></app>亦有法身。故云是故禮法王。若
 <lb n="0015b17" ed="T"/>就別義者。攝論云。法身是眾德所依。如身根
 <lb n="0015b18" ed="T"/>為眾根所依。是故法身具一切德。雖具眾德。
 <lb n="0015b19" ed="T"/>未必是常。故云常住。所以常者。如來藏中過
@@ -2556,7 +2556,7 @@ Added comment  for Emacs
 <lb n="0027c08" ed="T"/><note n="0027019" resp="Taisho" place="foot text" type="orig">章文此＝文此章ィ【原】，文此章【甲】</note><note n="0027019" resp="CBETA" type="mod">章文此【大】，文此章【校異-原】，文此章【甲】</note><app n="0027019"><lem wit="【大】">章文。此</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">文此章</rdg><rdg resp="Taisho" wit="【甲】">文此章</rdg></app>名為說不思議攝受正法。實相之
 <lb n="0027c09" ed="T"/><note n="0027020" resp="Taisho" place="foot text" type="orig">理＋（名）ィ【原】，名【甲】</note><note n="0027020" resp="CBETA" type="mod">理【大】，理名【校異-原】，名【甲】</note><app n="0027020"><lem wit="【大】">理</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">理名</rdg><rdg resp="Taisho" wit="【甲】">名</rdg></app>為正法。舊云。顯證在心。名為攝受。今謂
 <lb n="0027c10" ed="T"/>錄法在心為攝。如法領證為受。大宗猶是悟
-<lb n="0027c11" ed="T"/>解於理。<note n="0027021" resp="Taisho" place="foot text" type="orig">〔與理〕－【甲】</note><note n="0027021" resp="CBETA" type="mod">與理【大】，〔－〕【甲】</note><app n="0027021"><lem wit="【大】">與理</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>相應名<note n="0027022" resp="Taisho" place="foot text" type="orig">攝＋（受）ィ【原】，（受）【甲】</note><note n="0027022" resp="CBETA" type="mod">攝【大】，攝受【校異-原】，<!--CBETA todo type: newmod-->（受）【甲】</note><app n="0027022"><lem wit="【大】">攝</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">攝受</rdg><rdg resp="Taisho" wit="【甲】">攝受</rdg></app>。攝受之德。妙出心
+<lb n="0027c11" ed="T"/>解於理。<note n="0027021" resp="Taisho" place="foot text" type="orig">〔與理〕－【甲】</note><note n="0027021" resp="CBETA" type="mod">與理【大】，〔－〕【甲】</note><app n="0027021"><lem wit="【大】">與理</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>相應名<note n="0027022" resp="Taisho" place="foot text" type="orig">攝＋（受）ィ【原】，（受）【甲】</note><note n="0027022" resp="CBETA" type="mod">攝【大】，攝受【校異-原】，<!--CBETA todo type: newmod-->攝受【甲】</note><app n="0027022"><lem wit="【大】">攝</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">攝受</rdg><rdg resp="Taisho" wit="【甲】">攝受</rdg></app>。攝受之德。妙出心
 <lb n="0027c12" ed="T"/>言。名不思議。即是心行處滅。言語道斷也。勝
 <lb n="0027c13" ed="T"/>鬘於無名相中。為眾生故。以假名相寄言標
 <lb n="0027c14" ed="T"/>顯。故名為說。問。前來何不名說。至此方明說
@@ -2568,7 +2568,7 @@ Added comment  for Emacs
 <lb n="0027c20" ed="T"/>二章經。說於乘行。後八章經。說於乘境。然行
 <lb n="0027c21" ed="T"/>由境<note n="0027024" resp="Taisho" place="foot text" type="orig">成＝或ィ【原】，或【甲】</note><note n="0027024" resp="CBETA" type="mod">成【大】，或【校異-原】，或【甲】</note><app n="0027024"><lem wit="【大】">成</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">或</rdg><rdg resp="Taisho" wit="【甲】">或</rdg></app>。應前境而後行。但為<note n="0027025" resp="Taisho" place="foot text" type="orig">攝＝接【甲】</note><note n="0027025" resp="CBETA" type="mod">攝【大】，接【甲】</note><app n="0027025"><lem wit="【大】">攝</lem><rdg resp="Taisho" wit="【甲】">接</rdg></app>上願行之
 <lb n="0027c22" ed="T"/>因。明攝受一乘之果。是故前行後境。就境
-<lb n="0027c23" ed="T"/><note n="0027026" resp="Taisho" place="foot text" type="orig">行＋（中）ィ【原】，（中）【甲】</note><note n="0027026" resp="CBETA" type="mod">行【大】，行中【校異-原】，<!--CBETA todo type: newmod-->（中）【甲】</note><app n="0027026"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">行中</rdg><rdg resp="Taisho" wit="【甲】">行中</rdg></app>各開為二。行中二者。攝受明廣大出生。
+<lb n="0027c23" ed="T"/><note n="0027026" resp="Taisho" place="foot text" type="orig">行＋（中）ィ【原】，（中）【甲】</note><note n="0027026" resp="CBETA" type="mod">行【大】，行中【校異-原】，<!--CBETA todo type: newmod-->行中【甲】</note><app n="0027026"><lem wit="【大】">行</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">行中</rdg><rdg resp="Taisho" wit="【甲】">行中</rdg></app>各開為二。行中二者。攝受明廣大出生。
 <lb n="0027c24" ed="T"/>一乘辨無二收入。佛法雖曠。此二網羅。無義
 <lb n="0027c25" ed="T"/>不<note n="0027027" resp="Taisho" place="foot text" type="orig">盡＋（境中二者）【甲】</note><note n="0027027" resp="CBETA" type="mod">盡【大】，盡境中二者【甲】</note><app n="0027027"><lem wit="【大】">盡</lem><rdg resp="Taisho" wit="【甲】">盡境中二者</rdg></app>。後當具說。就攝受一章。大開為二。一
 <lb n="0027c26" ed="T"/>者略說。二者廣說。前略後廣。解義法然。又略
@@ -3156,7 +3156,7 @@ Added comment  for Emacs
 <lb n="0034b08" ed="T"/>薩攝受六度正法。以化於人。故攝受正法與
 <lb n="0034b09" ed="T"/>波羅蜜無異。此中明六度即為六階。一一度
 <lb n="0034b10" ed="T"/>中各有三句。一標機緣。二明菩薩行施。三結
-<lb n="0034b11" ed="T"/><note n="0034008" resp="Taisho" place="foot text" type="orig">行成＝成行ィ【原】</note><note n="0034008" resp="CBETA" type="mod">行成【大】，成行【校異-原】</note><app n="0034008"><lem wit="【大】">行成</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">成行</rdg></app>為波羅蜜。初言應以施<note n="0034009" resp="Taisho" place="foot text" type="orig">成就＝成熟？下同</note><app n="0034009"><lem resp="Taisho" wit="【大】">成就</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">成熟</rdg></app>者。此明
+<lb n="0034b11" ed="T"/><note n="0034008" resp="Taisho" place="foot text" type="orig">行成＝成行ィ【原】</note><note n="0034008" resp="CBETA" type="mod">行成【大】，成行【校異-原】</note><app n="0034008"><lem wit="【大】">行成</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">成行</rdg></app>為波羅蜜。初言應以施<note n="0034009" resp="Taisho" place="foot text" type="orig">成就＝成熟？下同</note><note n="0034009" resp="CBETA" type="mod">成就【大】下同，成熟【考偽-大】下同</note><app n="0034009"><lem resp="Taisho" wit="【大】">成就</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">成熟</rdg></app>者。此明
 <lb n="0034b12" ed="T"/>所化機緣也。問。此是何等人耶。答。有人言。
 <lb n="0034b13" ed="T"/>此是慳貪眾生。宜教行施。故<note n="0034010" resp="Taisho" place="foot text" type="orig">名＋（施）ィ【原】，【甲】</note><note n="0034010" resp="CBETA" type="mod">名【大】，名施【校異-原】，【甲】</note><app n="0034010"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">名施</rdg></app>成就。今謂
 <lb n="0034b14" ed="T"/>文相不爾。經云應以施成就者。此明前人根
@@ -3950,8 +3950,8 @@ Added comment  for Emacs
 <lb n="0043a24" ed="T"/>云出八千二十河。云何通會。答。舊相承直云。
 <lb n="0043a25" ed="T"/>閻浮中近北邊有山名香山。縱廣五百由旬。
 <lb n="0043a26" ed="T"/>阿耨達池在香山頂。若依立世毘曇。從此北
-<lb n="0043a27" ed="T"/>度九黑山<note n="0043006" resp="Taisho" place="foot text" type="orig">香＋（山）ィ【原】，＋（山）【乙】</note><note n="0043006" resp="CBETA" type="mod">香【大】，香山【校異-原】，山【乙】</note><app n="0043006"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">香山</rdg><rdg resp="Taisho" wit="【乙】">香山</rdg></app>北有雪山。此山有池縱廣五十
-<lb n="0043a28" ed="T"/>由旬。名阿耨大池。<note n="0043007" resp="Taisho" place="foot text" type="orig">於＋（池）ィ【原】，（池）【乙】</note><note n="0043007" resp="CBETA" type="mod">於【大】，於池【校異-原】，<!--CBETA todo type: newmod-->（池）【乙】</note><app n="0043007"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">於池</rdg><rdg resp="Taisho" wit="【乙】">於池</rdg></app>四面有四獸頭。東有
+<lb n="0043a27" ed="T"/>度九黑山<note n="0043006" resp="Taisho" place="foot text" type="orig">香＋（山）ィ【原】，＋（山）【乙】</note><note n="0043006" resp="CBETA" type="mod">香【大】，香山【校異-原】，香山【乙】</note><app n="0043006"><lem wit="【大】">香</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">香山</rdg><rdg resp="Taisho" wit="【乙】">香山</rdg></app>北有雪山。此山有池縱廣五十
+<lb n="0043a28" ed="T"/>由旬。名阿耨大池。<note n="0043007" resp="Taisho" place="foot text" type="orig">於＋（池）ィ【原】，（池）【乙】</note><note n="0043007" resp="CBETA" type="mod">於【大】，於池【校異-原】，<!--CBETA todo type: newmod-->於池【乙】</note><app n="0043007"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">於池</rdg><rdg resp="Taisho" wit="【乙】">於池</rdg></app>四面有四獸頭。東有
 <lb n="0043a29" ed="T"/>金<note n="0043008" resp="Taisho" place="foot text" type="orig">象＝𠌵【乙】</note><note n="0043008" resp="CBETA" type="mod">象【大】，𠌵【乙】</note><app n="0043008"><lem wit="【大】">象</lem><rdg resp="Taisho" wit="【乙】">𠌵</rdg></app>頭。口中流出恒伽大河。即有四眷屬小
 <pb n="0043b" xml:id="T37.1744.0043b" ed="T"/>
 <lb n="0043b01" ed="T"/>河。南有銀牛頭。口中出辛頭大河。亦有四眷
@@ -3975,7 +3975,7 @@ Added comment  for Emacs
 <lb n="0043b19" ed="T"/><note n="0043013" resp="Taisho" place="foot text" type="orig">〔受〕ィ－【原】</note><note n="0043013" resp="CBETA" type="mod">受【大】，〔－〕【校異-原】</note><app n="0043013"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【原】" type="variantRemark"><space quantity="0"/></rdg></app>大乘者。<note n="0043014" resp="Taisho" place="foot text" type="orig">智＋（受）ィ【原】</note><note n="0043014" resp="CBETA" type="mod">智【大】，智受【校異-原】</note><app n="0043014"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">智受</rdg></app>了悟大乘也。又依法起行名
 <lb n="0043b20" ed="T"/>之為住。行成證法名為攝受。即是住於二乘
 <lb n="0043b21" ed="T"/>攝受二乘者。大外無別小。小乘即是大乘麁
-<lb n="0043b22" ed="T"/>近之法。故云即是住於二乘攝受二<note n="0043015" resp="Taisho" place="foot text" type="orig">乘＋（也）ィ【原】，【乙】，（池）＋（者）【乙】</note><note n="0043015" resp="CBETA" type="mod">乘【大】，乘也【校異-原】，【乙】，<!--CBETA todo type: newmod-->（池）＋（者）【乙】</note><app n="0043015"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark">乘也</rdg></app><note n="0043015" type="rest" place="foot"><!--CBETA todo type: None-->（池）＋（者）【乙】</note>。又昔
+<lb n="0043b22" ed="T"/>近之法。故云即是住於二乘攝受二<note n="0043015" resp="Taisho" place="foot text" type="orig">乘＋（也）ィ【原】，【乙】，（池）＋（者）【乙】</note><note n="0043015" resp="CBETA" type="mod">乘【大】，乘也【校異-原】，<!--CBETA todo type: newmod-->乘池）＋（者【乙】，【乙】</note><app n="0043015"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【原】【乙】" type="variantRemark">乘也</rdg></app><note n="0043015" type="rest" place="foot"><!--CBETA todo type: None-->（池）＋（者）【乙】</note>。又昔
 <lb n="0043b23" ed="T"/>教說大為小。故云大即是小。又如池出大河。
 <lb n="0043b24" ed="T"/>雖復池河名異。而同是一水。雖<note n="0043016" resp="Taisho" place="foot text" type="orig">有大＝大有ィ【原】</note><note n="0043016" resp="CBETA" type="mod">有大【大】，大有【校異-原】</note><app n="0043016"><lem wit="【大】">有大</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">大有</rdg></app>小名
 <lb n="0043b25" ed="T"/>異。同是一乘。如世尊說六處下。自上已來名
@@ -4001,9 +4001,9 @@ Added comment  for Emacs
 <lb n="0043c15" ed="T"/>共戒。道定二戒通於道俗。又一得不失。不論
 <lb n="0043c16" ed="T"/>住滅。今正論別解脫戒住滅也所言住滅者。
 <lb n="0043c17" ed="T"/>有二種住滅。一者時節<note n="0043019" resp="Taisho" place="foot text" type="orig">理數＝興廢ィ【乙】</note><note n="0043019" resp="CBETA" type="mod">理數【大】，興廢【校異-乙】</note><app n="0043019"><lem wit="【大】">理數</lem><rdg resp="Taisho" wit="【乙】" type="variantRemark">興廢</rdg></app>有定期限。故有
-<lb n="0043c18" ed="T"/>住滅。如<note n="0043020" resp="Taisho" place="foot text" type="orig">釋＋（迦）ィ【原】，＋（迦）【乙】</note><note n="0043020" resp="CBETA" type="mod">釋【大】，釋迦【校異-原】，迦【乙】</note><app n="0043020"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">釋迦</rdg><rdg resp="Taisho" wit="【乙】">釋迦</rdg></app>正法千年。像法千年。末法萬年。
+<lb n="0043c18" ed="T"/>住滅。如<note n="0043020" resp="Taisho" place="foot text" type="orig">釋＋（迦）ィ【原】，＋（迦）【乙】</note><note n="0043020" resp="CBETA" type="mod">釋【大】，釋迦【校異-原】，釋迦【乙】</note><app n="0043020"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">釋迦</rdg><rdg resp="Taisho" wit="【乙】">釋迦</rdg></app>正法千年。像法千年。末法萬年。
 <lb n="0043c19" ed="T"/>所以有定數者。此是諸佛本願故爾。如俱舍
-<lb n="0043c20" ed="T"/>論云。釋迦過去作<note n="0043021" resp="Taisho" place="foot text" type="orig">瓦＝凡ィ【原】，（凡）【乙】</note><note n="0043021" resp="CBETA" type="mod">瓦【大】，凡【校異-原】，凡【乙】</note><app n="0043021"><lem wit="【大】">瓦</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">凡</rdg><rdg resp="Taisho" wit="【乙】">瓦<!--CBETA todo type: None-->凡</rdg></app>師。見過去釋迦佛眷屬
+<lb n="0043c20" ed="T"/>論云。釋迦過去作<note n="0043021" resp="Taisho" place="foot text" type="orig">瓦＝凡ィ【原】，（凡）【乙】</note><note n="0043021" resp="CBETA" type="mod">瓦【大】，凡【校異-原】，瓦凡【乙】</note><app n="0043021"><lem wit="【大】">瓦</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">凡</rdg><rdg resp="Taisho" wit="【乙】">瓦<!--CBETA todo type: None-->凡</rdg></app>師。見過去釋迦佛眷屬
 <lb n="0043c21" ed="T"/>及法住千年。是故發願。願我作佛國土弟子
 <lb n="0043c22" ed="T"/>及法住世亦同千年。是故今成佛住法得於
 <lb n="0043c23" ed="T"/>千年。首楞嚴經云。三昧力故。現分舍利。以本
@@ -6551,7 +6551,7 @@ Added comment  for Emacs
 <lb n="0072a15" ed="T"/>上已論藏身次第竟。今直說身藏體。故不相
 <lb n="0072a16" ed="T"/>違。問。今何故不依章名次第。前藏後身。而前
 <lb n="0072a17" ed="T"/>身後藏。答。<note n="0072006" resp="Taisho" place="foot text" type="orig">（滅）＋諦【甲】</note><note n="0072006" resp="CBETA" type="mod">諦【大】，滅諦【甲】</note><app n="0072006"><lem wit="【大】">諦</lem><rdg resp="Taisho" wit="【甲】">滅諦</rdg></app>是果。法身亦是果。欲接果。
-<lb n="0072a18" ed="T"/><note n="0072007" resp="Taisho" place="foot text" type="orig">故＋（次）ィ【原】，（次）【甲】</note><note n="0072007" resp="CBETA" type="mod">故【大】，故次【校異-原】，<!--CBETA todo type: newmod-->（次）【甲】</note><app n="0072007"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">故次</rdg><rdg resp="Taisho" wit="【甲】">故次</rdg></app>滅果。明法身果。却明此果本由於藏。故
+<lb n="0072a18" ed="T"/><note n="0072007" resp="Taisho" place="foot text" type="orig">故＋（次）ィ【原】，（次）【甲】</note><note n="0072007" resp="CBETA" type="mod">故【大】，故次【校異-原】，<!--CBETA todo type: newmod-->故次【甲】</note><app n="0072007"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">故次</rdg><rdg resp="Taisho" wit="【甲】">故次</rdg></app>滅果。明法身果。却明此果本由於藏。故
 <lb n="0072a19" ed="T"/>次明於藏。故前章前藏後身。是一種次第。今
 <lb n="0072a20" ed="T"/>前身後藏。復是一種次第。第二江南旻師等。
 <lb n="0072a21" ed="T"/>從此文即明空義隱覆成上如來藏及法身章
@@ -6587,7 +6587,7 @@ Added comment  for Emacs
 <lb n="0072b21" ed="T"/>滅無四。大滅有四。答。滅諦是大乘究竟極地。
 <lb n="0072b22" ed="T"/>是故須明大小差別。下辨其相。是諸佛同體
 <lb n="0072b23" ed="T"/>義分。非<note n="0072012" resp="Taisho" place="foot text" type="orig">今＝全ィ【原】，【甲】</note><note n="0072012" resp="CBETA" type="mod">今【大】，全【校異-原】，【甲】</note><app n="0072012"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">全</rdg></app>別體。故言不離。又對生死五陰
-<lb n="0072b24" ed="T"/>成身。其體<note n="0072013" resp="Taisho" place="foot text" type="orig">各別＝義分非全別體ィ【原】</note><note n="0072013" resp="CBETA" type="mod">各別【大】，義分非全別體【校異-原】</note><app n="0072013"><lem wit="【大】">各別</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">義分非全別體</rdg></app>。故<note n="0072014" resp="Taisho" place="foot text" type="orig">云＝言ィ【原】</note><note n="0072014" resp="CBETA" type="mod">云【大】，言【校異-原】</note><app n="0072014"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">言</rdg></app>不離。<note n="0072015" resp="Taisho" place="foot text" type="orig">（（體真…使失））十二字＝（（又對生死五陰成失））八字ィ【原】</note><note n="0072015" resp="CBETA" type="mod">（體真…使失）十二字【大】，又對生死五陰成失【原】</note><app cb:word-count="12" n="0072015"><lem wit="【大】">體真常住。不
+<lb n="0072b24" ed="T"/>成身。其體<note n="0072013" resp="Taisho" place="foot text" type="orig">各別＝義分非全別體ィ【原】</note><note n="0072013" resp="CBETA" type="mod">各別【大】，義分非全別體【校異-原】</note><app n="0072013"><lem wit="【大】">各別</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">義分非全別體</rdg></app>。故<note n="0072014" resp="Taisho" place="foot text" type="orig">云＝言ィ【原】</note><note n="0072014" resp="CBETA" type="mod">云【大】，言【校異-原】</note><app n="0072014"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">言</rdg></app>不離。<note n="0072015" resp="Taisho" place="foot text" type="orig">（（體真…使失））十二字＝（（又對生死五陰成失））八字ィ【原】</note><note n="0072015" resp="CBETA" type="mod">（體真…使失）十二字【大】，又對生死五陰成失【校異-原】</note><app cb:word-count="12" n="0072015"><lem wit="【大】">體真常住。不
 <lb n="0072b25" ed="T"/>可因緣易脫使失</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">又對生死五陰成失</rdg></app>。故云不脫。對眾生五陰成
 <lb n="0072b26" ed="T"/>身前後易脫。始終不變。名為不異。對眾生身
 <lb n="0072b27" ed="T"/>十時之異。故云不異。妙出情外。名不思議也。
@@ -6699,7 +6699,7 @@ Added comment  for Emacs
 <lb n="0073c13" ed="T"/>俱名空。答。以二智體無相及無性故。問。何故
 <lb n="0073c14" ed="T"/>明二智體絕一切相。答。眾生聞佛知空不空
 <lb n="0073c15" ed="T"/>二智。<app type="star" corresp="#0060001"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">即</rdg></app>謂智體是有。故今明智體絕於四
-<lb n="0073c16" ed="T"/>句。如云。波若波羅<note n="0073020" resp="Taisho" place="foot text" type="orig">蜜＋（寶）ィ【原】，（實）【甲】</note><note n="0073020" resp="CBETA" type="mod">蜜【大】，蜜寶【校異-原】，<!--CBETA todo type: newmod-->（實）【甲】</note><app n="0073020"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">蜜寶</rdg><rdg resp="Taisho" wit="【甲】">蜜實</rdg></app>。法不<app type="star" corresp="#0072021"><lem wit="【大】">轉</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">顛</rdg></app>倒。念<note n="0073021" resp="Taisho" place="foot text" type="orig">想＝相ィ【原】，【甲】</note><note n="0073021" resp="CBETA" type="mod">想【大】，相【校異-原】，【甲】</note><app n="0073021"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">相</rdg></app>觀
+<lb n="0073c16" ed="T"/>句。如云。波若波羅<note n="0073020" resp="Taisho" place="foot text" type="orig">蜜＋（寶）ィ【原】，（實）【甲】</note><note n="0073020" resp="CBETA" type="mod">蜜【大】，蜜寶【校異-原】，<!--CBETA todo type: newmod-->蜜實【甲】</note><app n="0073020"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">蜜寶</rdg><rdg resp="Taisho" wit="【甲】">蜜實</rdg></app>。法不<app type="star" corresp="#0072021"><lem wit="【大】">轉</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">顛</rdg></app>倒。念<note n="0073021" resp="Taisho" place="foot text" type="orig">想＝相ィ【原】，【甲】</note><note n="0073021" resp="CBETA" type="mod">想【大】，相【校異-原】，【甲】</note><app n="0073021"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">相</rdg></app>觀
 <lb n="0073c17" ed="T"/>已除。言語法亦滅。又如馬鳴說。是真如法。從
 <lb n="0073c18" ed="T"/>本已來。離一切相。謂非有相。非無相。非非有
 <lb n="0073c19" ed="T"/>相。非非無相。非有無俱相。非一相。非異相。
@@ -6738,7 +6738,7 @@ Added comment  for Emacs
 <lb n="0074a22" ed="T"/>法。非果法矣。江南<note n="0074004" resp="Taisho" place="foot text" type="orig">師＋（有）ィ【原】，【甲】</note><note n="0074004" resp="CBETA" type="mod">師【大】，師有【校異-原】，【甲】</note><app n="0074004"><lem wit="【大】">師</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">師有</rdg></app>釋云。二種如來藏空
 <lb n="0074a23" ed="T"/>智者。一是照隱。二者照顯也。下兩句。還釋隱
 <lb n="0074a24" ed="T"/>顯。從世尊空如來藏若離若脫。此釋空如來
-<lb n="0074a25" ed="T"/>藏。謂脫離眾<note n="0074005" resp="Taisho" place="foot text" type="orig">惑＋（累）ィ【原】，（異）【甲】</note><note n="0074005" resp="CBETA" type="mod">惑【大】，惑累【校異-原】，<!--CBETA todo type: newmod-->（異）【甲】</note><app n="0074005"><lem wit="【大】">惑</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">惑累</rdg><rdg resp="Taisho" wit="【甲】">惑異</rdg></app>煩惱藏。無累故云空。蘊萬
+<lb n="0074a25" ed="T"/>藏。謂脫離眾<note n="0074005" resp="Taisho" place="foot text" type="orig">惑＋（累）ィ【原】，（異）【甲】</note><note n="0074005" resp="CBETA" type="mod">惑【大】，惑累【校異-原】，<!--CBETA todo type: newmod-->惑異【甲】</note><app n="0074005"><lem wit="【大】">惑</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">惑累</rdg><rdg resp="Taisho" wit="【甲】">惑異</rdg></app>煩惱藏。無累故云空。蘊萬
 <lb n="0074a26" ed="T"/>德故云藏。此<app type="star" corresp="#0060001"><lem wit="【大】">則</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">即</rdg></app>法身也。此大意明法身顯
 <lb n="0074a27" ed="T"/>時。空無諸<note n="0074006" resp="Taisho" place="foot text" type="orig">果＝累ィ【原】，【甲】</note><note n="0074006" resp="CBETA" type="mod">果【大】，累【校異-原】，【甲】</note><app n="0074006"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">累</rdg></app>。故言空如來藏。世尊不空如
 <lb n="0074a28" ed="T"/>來藏者。此明隱時之藏。隱時未脫離異於煩
@@ -7216,7 +7216,7 @@ Added comment  for Emacs
 <lb n="0079c03" ed="T"/>法之始。憑理生智。法即四諦之法。了義是四
 <lb n="0079c04" ed="T"/>諦之教。義是四諦之義。<note n="0079017" resp="Taisho" place="foot text" type="orig">智＋（是）ィ【原】，【甲】</note><note n="0079017" resp="CBETA" type="mod">智【大】，智是【校異-原】，【甲】</note><app n="0079017"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">智是</rdg></app>四<note n="0079018" resp="Taisho" place="foot text" type="orig">真＝諦ィ【原】，【甲】</note><note n="0079018" resp="CBETA" type="mod">真【大】，諦【校異-原】，【甲】</note><app n="0079018"><lem wit="【大】">真</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">諦</rdg></app>之解。返於
 <lb n="0079c05" ed="T"/>識著。起自外凡。來入內凡。為四依智。今以
-<lb n="0079c06" ed="T"/><note n="0079019" resp="Taisho" place="foot text" type="orig">果＋（果）ィ【原】，（智）【甲】</note><note n="0079019" resp="CBETA" type="mod">果【大】，果果【校異-原】，<!--CBETA todo type: newmod-->（智）【甲】</note><app n="0079019"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">果果</rdg><rdg resp="Taisho" wit="【甲】">果智</rdg></app>況之。極果不知無邊之滅。況四依智能知
+<lb n="0079c06" ed="T"/><note n="0079019" resp="Taisho" place="foot text" type="orig">果＋（果）ィ【原】，（智）【甲】</note><note n="0079019" resp="CBETA" type="mod">果【大】，果果【校異-原】，<!--CBETA todo type: newmod-->果智【甲】</note><app n="0079019"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">果果</rdg><rdg resp="Taisho" wit="【甲】">果智</rdg></app>況之。極果不知無邊之滅。況四依智能知
 <lb n="0079c07" ed="T"/>滅耶。問。二種釋四依。以何為正。答。依四諦
 <lb n="0079c08" ed="T"/>而生智。名為四依。此文無所出。故不用之。又
 <lb n="0079c09" ed="T"/>依四諦而生智。名為四依。有濫上果。是故不

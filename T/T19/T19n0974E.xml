@@ -399,7 +399,7 @@ Added comment  for Emacs
 <lb n="0391c13" ed="T"/>背。真言曰。</p>
 <lb n="0391c14" ed="T"/><p xml:id="pT19p0391c1401" cb:type="dharani">唵步欠</p>
 <lb n="0391c15" ed="T"/><p xml:id="pT19p0391c1501">即以印安頂。次<note n="0391022" resp="Taisho" place="foot text" type="orig">〔以〕－【甲】</note><note n="0391022" resp="CBETA" type="mod">以【大】，〔－〕【甲】</note><app n="0391022"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>安額。真言曰。</p>
-<lb n="0391c16" ed="T"/><p xml:id="pT19p0391c1601" cb:type="dharani"><note n="0391023" resp="Taisho" place="foot text" type="orig">（唵嚩日羅薩怛嚩，次安頂右，真言曰）＋唵【甲】</note><note n="0391023" resp="CBETA" type="mod">（唵嚩日羅薩怛嚩，次安頂右，<!--CBETA todo type: newmod-->真言曰）＋唵【甲】</note><app n="0391023"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】">唵嚩日羅薩怛嚩，次安頂右，真言曰唵</rdg></app>嚩日囉囉怛娜</p>
+<lb n="0391c16" ed="T"/><p xml:id="pT19p0391c1601" cb:type="dharani"><note n="0391023" resp="Taisho" place="foot text" type="orig">（唵嚩日羅薩怛嚩，次安頂右，真言曰）＋唵【甲】</note><note n="0391023" resp="CBETA" type="mod">唵【大】，（唵嚩日羅薩怛嚩，次安頂右，真言曰唵）【甲】</note><app n="0391023"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】">唵嚩日羅薩怛嚩，次安頂右，真言曰唵</rdg></app>嚩日囉囉怛娜</p>
 <lb n="0391c17" ed="T"/><p xml:id="pT19p0391c1701">次安頂後。真言曰。</p>
 <lb n="0391c18" ed="T"/><p xml:id="pT19p0391c1801" cb:type="dharani">唵嚩日囉<note n="0391024" resp="Taisho" place="foot text" type="orig">達＝違【甲】</note><note n="0391024" resp="CBETA" type="mod">達【大】，違【甲】</note><app n="0391024"><lem wit="【大】">達</lem><rdg resp="Taisho" wit="【甲】">違</rdg></app>磨</p>
 <lb n="0391c19" ed="T"/><p xml:id="pT19p0391c1901">次安頂左。真言曰。</p>

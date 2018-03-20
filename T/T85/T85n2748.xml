@@ -243,7 +243,7 @@ Added comment  for Emacs
 <lb n="0171a01" ed="T"/>從大通智勝以下。明王子說法。善法其所故。
 <lb n="0171a02" ed="T"/>出定讚歎。勸人供養也所以出定讚歎者。時
 <lb n="0171a03" ed="T"/>坐生疑。十六菩薩。在其行地。所說未必當理。
-<lb n="0171a04" ed="T"/>今者讚歎。欲使時人信伏十六所說。<note n="0171001" resp="Taisho" place="foot text" type="orig">（不）＋虛？</note><app n="0171001"><lem resp="Taisho" wit="【大】">虛</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不虛</rdg></app>應當
+<lb n="0171a04" ed="T"/>今者讚歎。欲使時人信伏十六所說。<note n="0171001" resp="Taisho" place="foot text" type="orig">（不）＋虛？</note><note n="0171001" resp="CBETA" type="mod">虛【大】，不虛【考偽-大】</note><app n="0171001"><lem resp="Taisho" wit="【大】">虛</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不虛</rdg></app>應當
 <lb n="0171a05" ed="T"/>取信。其為希有。亦可道本菩薩地時。見機分
 <lb n="0171a06" ed="T"/>明。為眾說法。善得其所。況於今日。道成正
 <lb n="0171a07" ed="T"/>覺達□□□汝等說。應當生信也。世世所生。
@@ -482,7 +482,7 @@ Added comment  for Emacs
 <pb n="0173c" xml:id="T85.2748.0173c" ed="T"/>
 <lb n="0173c01" ed="T"/>師。此經中但伴為二依。住前為初依。上<note n="0173037" resp="Taisho" place="foot text" type="orig">三＋（為）【甲】</note><note n="0173037" resp="CBETA" type="mod">三【大】，三為【甲】</note><app n="0173037"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【甲】">三為</rdg></app>第
 <lb n="0173c02" ed="T"/>二。乃至<note n="0173038" resp="Taisho" place="foot text" type="orig">（一）＋偈【甲】</note><note n="0173038" resp="CBETA" type="mod">偈【大】，一偈【甲】</note><app n="0173038"><lem wit="【大】">偈</lem><rdg resp="Taisho" wit="【甲】">一偈</rdg></app>敬視如佛。種種供養者。明敬法
-<lb n="0173c03" ed="T"/>之人。畢能流通。勘為依也。<note n="0173039" resp="Taisho" place="foot text" type="orig">以增＝以曾【甲】，已曾？</note><note n="0173039" resp="CBETA" type="mod">以增【大】，以曾【甲】，<!--CBETA todo type: i-->＝已曾【考偽-大】</note><app n="0173039"><lem wit="【大】">以增</lem><rdg resp="Taisho" wit="【甲】">以曾</rdg></app>供養十萬
+<lb n="0173c03" ed="T"/>之人。畢能流通。勘為依也。<note n="0173039" resp="Taisho" place="foot text" type="orig">以增＝以曾【甲】，已曾？</note><note n="0173039" resp="CBETA" type="mod">以增【大】，以曾【甲】，<!--CBETA todo type: newmod--><!--CBETA todo type: i-->＝已曾【考偽-大】</note><app n="0173039"><lem wit="【大】">以增</lem><rdg resp="Taisho" wit="【甲】">以曾</rdg></app>供養十萬
 <lb n="0173c04" ed="T"/>億佛明下<note n="0173040" resp="Taisho" place="foot text" type="orig">□□□＝依人德【甲】</note><note n="0173040" resp="CBETA" type="mod">□□□【大】，依人德【甲】</note><app n="0173040"><lem wit="【大】">□□□</lem><rdg resp="Taisho" wit="【甲】">依人德</rdg></app>語<note n="0173041" resp="Taisho" place="foot text" type="orig">〔其〕－【甲】</note><note n="0173041" resp="CBETA" type="mod">其【大】，〔－〕【甲】</note><app n="0173041"><lem wit="【大】">其</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>實行。報生清淨土。
 <lb n="0173c05" ed="T"/>愍念眾生。故處惡土。經云。四住菩薩。自在
 <lb n="0173c06" ed="T"/>生也。初住菩薩。分人<note n="0173042" resp="Taisho" place="foot text" type="orig">□＝為【甲】</note><note n="0173042" resp="CBETA" type="mod">□【大】，為【甲】</note><app n="0173042"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">為</rdg></app>百。動百佛世界。化

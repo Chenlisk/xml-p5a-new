@@ -443,7 +443,7 @@ add cvs log
 <lb n="0596b14" ed="T"/>界諸天子身所有宮殿，次成欲界世人所居，
 <lb n="0596b15" ed="T"/>然後成就眾生之類。如來若斯，興顯現世，先
 <lb n="0596b16" ed="T"/>成就於諸菩薩慧，然後次演緣覺慧行，次乃
-<lb n="0596b17" ed="T"/>顯示聲聞德本所行之慧，然後示<note n="0596006" resp="Taisho" type="orig" place="foot text">於＋（諸）【三】，（於）【聖】</note><note n="0596006" resp="CBETA" type="mod">於【大】，於諸【宋】【元】【明】，<!--CBETA todo type: newmod-->（於）【聖】</note><app n="0596006"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宋】【元】【明】">於諸</rdg><rdg resp="Taisho" wit="【聖】">於於</rdg></app>餘眾生
+<lb n="0596b17" ed="T"/>顯示聲聞德本所行之慧，然後示<note n="0596006" resp="Taisho" type="orig" place="foot text">於＋（諸）【三】，（於）【聖】</note><note n="0596006" resp="CBETA" type="mod">於【大】，於諸【宋】【元】【明】，<!--CBETA todo type: newmod-->於於【聖】</note><app n="0596006"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宋】【元】【明】">於諸</rdg><rdg resp="Taisho" wit="【聖】">於於</rdg></app>餘眾生
 <lb n="0596b18" ed="T"/>合集善本所當行慧。道法一味，隨眾生樂、所
 <lb n="0596b19" ed="T"/>為德本、所居屋宅宮殿之處，如現一類，或不
 <lb n="0596b20" ed="T"/>用者。如來法味亦復如是，從黎庶器所<note n="0596007" resp="Taisho" type="orig" place="foot text">殖＝植【三】</note><note n="0596007" resp="CBETA" type="mod">殖【大】，植【宋】【元】【明】</note><app n="0596007"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【宋】【元】【明】">植</rdg></app>
@@ -462,7 +462,7 @@ add cvs log
 <lb n="0596c03" ed="T"/><l>水則入于地，</l><l>緣是生若干，</l>
 <lb n="0596c04" ed="T"/><l>因其地欲就，</l><l>生樹、山、叢林，</l>
 <lb n="0596c05" ed="T"/><l>其水不若干，</l><l>生地種之名。</l>
-<lb n="0596c06" ed="T"/><l>諸<note n="0596014" resp="Taisho" type="orig" place="foot text">明註曰導北藏作道</note><app n="0596014"><lem wit="【大】">導</lem><rdg resp="【明】" wit="【北藏】">道</rdg></app>師住諦，</l><l>智慧悉聖達，</l>
+<lb n="0596c06" ed="T"/><l>諸<note n="0596014" resp="Taisho" type="orig" place="foot text">明註曰導北藏作道</note><app n="0596014"><lem wit="【大】">導</lem><rdg resp="【明】" wit="【北藏-CB】">道</rdg></app>師住諦，</l><l>智慧悉聖達，</l>
 <lb n="0596c07" ed="T"/><l>哀慧如虛空，</l><l>執持於善權。</l>
 <lb n="0596c08" ed="T"/><l>如最勝之法，</l><l>則入斯供養，</l>
 <lb n="0596c09" ed="T"/><l>智慧離眾垢，</l><l>其身無所住。</l></lg>
@@ -678,7 +678,7 @@ add cvs log
 <lb n="0599a08" ed="T"/><l>於空而垂光，</l><l>除闇無蔽礙。</l>
 <lb n="0599a09" ed="T"/><l>本無無處所，</l><l>因地生蓮華，</l>
 <lb n="0599a10" ed="T"/><l>眾人而依怙，</l><l>若干之土地；</l>
-<lb n="0599a11" ed="T"/><l>勝日亦如是，</l><l>眾生<note n="0599003" resp="Taisho" type="orig" place="foot text">明註曰悉北藏作惜</note><app n="0599003"><lem wit="【大】">悉</lem><rdg resp="【明】" wit="【北藏】">惜</rdg></app>恃仰。</l>
+<lb n="0599a11" ed="T"/><l>勝日亦如是，</l><l>眾生<note n="0599003" resp="Taisho" type="orig" place="foot text">明註曰悉北藏作惜</note><app n="0599003"><lem wit="【大】">悉</lem><rdg resp="【明】" wit="【北藏-CB】">惜</rdg></app>恃仰。</l>
 <lb n="0599a12" ed="T"/><l>諸天、世人民，</l><l>善修於德本，</l>
 <lb n="0599a13" ed="T"/><l>降伏於無極，</l><l>逮致法光明，</l>
 <lb n="0599a14" ed="T"/><l>得見人中聖，</l><l>因成於三乘。</l></lg>
@@ -921,7 +921,7 @@ add cvs log
 <lb n="0601c11" ed="T"/><l>十力之音<app type="star" corresp="#0600017"><lem wit="【大】">響</lem><rdg resp="Taisho" wit="【聖】">嚮</rdg></app>，</l><l>法界無著念，</l>
 <lb n="0601c12" ed="T"/><l>分別開導人，</l><l>制化諸根<note n="0601019" resp="Taisho" type="orig" place="foot text">原＝源【三】</note><note n="0601019" resp="CBETA" type="mod">原【大】＊，源【宋】＊【元】＊【明】＊</note><app n="0601019"><lem wit="【大】">原</lem><rdg resp="Taisho" wit="【宋】【元】【明】">源</rdg></app>。</l>
 <lb n="0601c13" ed="T"/><l>諸微細眾生，</l><l>令其可意悅，</l>
-<lb n="0601c14" ed="T"/><l>有諸十力者，</l><l>不懷<note n="0601020" resp="Taisho" type="orig" place="foot text">忘＝妄【三】</note><note n="0601020" resp="CBETA" type="mod">妄【CB】【麗-CB】【宋】【元】【明】，忘【大】</note><app n="0601020"><lem wit="【CBETA】【麗】" resp="CBETA.maha">妄<note type="cf1">K08n0099_p1190b12</note></lem><rdg wit="【大】">忘</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">妄</rdg></app>想求。</l></lg>
+<lb n="0601c14" ed="T"/><l>有諸十力者，</l><l>不懷<note n="0601020" resp="Taisho" type="orig" place="foot text">忘＝妄【三】</note><note n="0601020" resp="CBETA" type="mod">妄【CB】【麗-CB】【宋】【元】【明】，忘【大】</note><app n="0601020"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">妄<note type="cf1">K08n0099_p1190b12</note></lem><rdg wit="【大】">忘</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">妄</rdg></app>想求。</l></lg>
 <lb n="0601c15" ed="T"/><p xml:id="pT10p0601c1501">「復次，佛子！如大雷震出音聲時，名曰諸天誠
 <lb n="0601c16" ed="T"/>諦之法，假使諸天遊行放逸，<note n="0601021" resp="Taisho" type="orig" place="foot text">應＝意【聖】</note><note n="0601021" resp="CBETA" type="mod">應【大】，意【聖】</note><app n="0601021"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【聖】">意</rdg></app>時虛空暢
 <lb n="0601c17" ed="T"/>法雷震：『一切愛欲皆歸無常，苦<note n="0601022" resp="Taisho" type="orig" place="foot text">惱＝𤺙【聖】</note><note n="0601022" resp="CBETA" type="mod">惱【大】，𤺙【聖】</note><app n="0601022"><lem wit="【大】">惱</lem><rdg resp="Taisho" wit="【聖】">𤺙</rdg></app>誑惑須
@@ -1069,12 +1069,12 @@ add cvs log
 <lb n="0603b09" ed="T"/>自在清明天宮，雲布覆蔭若干品類。又，眾雲
 <lb n="0603b10" ed="T"/>同現如是像，種種別異，或紫金色、或復黃色、
 <lb n="0603b11" ed="T"/>或琉璃<note n="0603007" resp="Taisho" type="orig" place="foot text">色＝光明【聖】</note><note n="0603007" resp="CBETA" type="mod">色【大】，光明【聖】</note><app n="0603007"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【聖】">光明</rdg></app>、或白銀色、或水精色、或赤珠色、
-<lb n="0603b12" ed="T"/>或<note n="0603008" resp="Taisho" type="orig" place="foot text">馬瑙＝瑪瑙【三】</note><note n="0603008" resp="CBETA" type="mod">瑪瑙【CB】【磧-CB】【宋】【元】【明】，馬瑙【大】</note><app n="0603008"><lem wit="【CBETA】【磧砂】" resp="CBETA.maha">瑪瑙<note type="cf1">Q08_p0443c03</note></lem><rdg wit="【大】">馬瑙</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">瑪瑙</rdg></app>光、或<note n="0603009" resp="Taisho" type="orig" place="foot text">車𤦲＝硨磲【三】</note><note n="0603009" resp="CBETA" type="mod">車𤦲【大】，硨磲【宋】【元】【明】</note><app n="0603009"><lem wit="【大】">車𤦲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">硨磲</rdg></app>光、或<note n="0603010" resp="Taisho" type="orig" place="foot text">首陀＝首藏【三】【聖】</note><note n="0603010" resp="CBETA" type="mod">首陀【大】，首藏【宋】【元】【明】【聖】</note><app n="0603010"><lem wit="【大】">首陀</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">首藏</rdg></app>光。如是雜
+<lb n="0603b12" ed="T"/>或<note n="0603008" resp="Taisho" type="orig" place="foot text">馬瑙＝瑪瑙【三】</note><note n="0603008" resp="CBETA" type="mod">瑪瑙【CB】【磧-CB】【宋】【元】【明】，馬瑙【大】</note><app n="0603008"><lem wit="【CB】【磧-CB】" resp="CBETA.maha">瑪瑙<note type="cf1">Q08_p0443c03</note></lem><rdg wit="【大】">馬瑙</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">瑪瑙</rdg></app>光、或<note n="0603009" resp="Taisho" type="orig" place="foot text">車𤦲＝硨磲【三】</note><note n="0603009" resp="CBETA" type="mod">車𤦲【大】，硨磲【宋】【元】【明】</note><app n="0603009"><lem wit="【大】">車𤦲</lem><rdg resp="Taisho" wit="【宋】【元】【明】">硨磲</rdg></app>光、或<note n="0603010" resp="Taisho" type="orig" place="foot text">首陀＝首藏【三】【聖】</note><note n="0603010" resp="CBETA" type="mod">首陀【大】，首藏【宋】【元】【明】【聖】</note><app n="0603010"><lem wit="【大】">首陀</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">首藏</rdg></app>光。如是雜
 <lb n="0603b13" ed="T"/><note n="0603011" resp="Taisho" type="orig" place="foot text">逮＝沓【三】</note><note n="0603011" resp="CBETA" type="mod">逮【大】，沓【宋】【元】【明】</note><app n="0603011"><lem wit="【大】">逮</lem><rdg resp="Taisho" wit="【宋】【元】【明】">沓</rdg></app>大陰所覆，普遍四<note n="0603012" resp="Taisho" type="orig" place="foot text">嵎＝隅【三】</note><note n="0603012" resp="CBETA" type="mod">嵎【大】，隅【宋】【元】【明】</note><app n="0603012"><lem wit="【大】">嵎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">隅</rdg></app>及四天下。又，其水
 <lb n="0603b14" ed="T"/>者無有別異，而雲霧布若干種像。變出電已，
 <lb n="0603b15" ed="T"/>暢大雷音，從其群萌所欲樂雨，或出玉女倡
 <lb n="0603b16" ed="T"/>樂之音、或天琴瑟眾<note n="0603013" resp="Taisho" type="orig" place="foot text">伎＝妓【元】【明】＊</note><note n="0603013" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->伎【大】＊，妓【元】【明】＊</note><app n="0603013"><lem wit="【大】">伎</lem><rdg resp="Taisho" wit="【元】【明】">妓</rdg></app>簫和、或以若干龍妃
-<lb n="0603b17" ed="T"/>樂音、或揵沓<note n="0603b1701" resp="CBETA" type="add">惒【CB】【麗-CB】，恕【大】，和【磧砂-CB】</note><app n="0603b1701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">惒<note type="cf1">K08n0099_p1192b22</note></lem><rdg wit="【大】">恕</rdg><rdg resp="CBETA.maha" wit="【磧砂-CB】">和<note type="cf1">Q08_p0443c08</note></rdg></app>妃樂音、或阿須倫<note n="0603014" resp="Taisho" type="orig" place="foot text">偶＝娛【三】，耦【聖】</note><note n="0603014" resp="CBETA" type="mod">偶【大】，娛【宋】【元】【明】，耦【聖】</note><app n="0603014"><lem wit="【大】">偶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">娛</rdg><rdg resp="Taisho" wit="【聖】">耦</rdg></app>樂音，或
+<lb n="0603b17" ed="T"/>樂音、或揵沓<note n="0603b1701" resp="CBETA" type="add">惒【CB】【麗-CB】，恕【大】，和【磧砂-CB】</note><app n="0603b1701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">惒<note type="cf1">K08n0099_p1192b22</note></lem><rdg wit="【大】">恕</rdg><rdg resp="CBETA.maha" wit="【磧-CB】">和<note type="cf1">Q08_p0443c08</note></rdg></app>妃樂音、或阿須倫<note n="0603014" resp="Taisho" type="orig" place="foot text">偶＝娛【三】，耦【聖】</note><note n="0603014" resp="CBETA" type="mod">偶【大】，娛【宋】【元】【明】，耦【聖】</note><app n="0603014"><lem wit="【大】">偶</lem><rdg resp="Taisho" wit="【宋】【元】【明】">娛</rdg><rdg resp="Taisho" wit="【聖】">耦</rdg></app>樂音，或
 <lb n="0603b18" ed="T"/>以土地所出音、或以海中雷震伎樂音、或以
 <lb n="0603b19" ed="T"/>鹿王鳴<note n="0603015" resp="Taisho" type="orig" place="foot text">呦＝𢒯【宋】【聖】，唬【元】【明】</note><note n="0603015" resp="CBETA" type="mod">呦【大】，𢒯【宋】【聖】，唬【元】【明】</note><app n="0603015"><lem wit="【大】">呦</lem><rdg resp="Taisho" wit="【宋】【聖】">𢒯</rdg><rdg resp="Taisho" wit="【元】【明】">唬</rdg></app>音、或以無壞鳥樂音、或若干種萬
 <lb n="0603b20" ed="T"/>舞之<note n="0603016" resp="Taisho" type="orig" place="foot text">伎＝妓【明】＊</note><note n="0603016" resp="CBETA" type="mod">伎【大】＊，妓【明】＊</note><app n="0603016"><lem wit="【大】">伎</lem><rdg resp="Taisho" wit="【明】">妓</rdg></app>。其巨雲陰之所覆蓋如是色像，時
@@ -1099,7 +1099,7 @@ add cvs log
 <lb n="0603c09" ed="T"/><note n="0603025" resp="Taisho" type="orig" place="foot text">變化＝化變【三】【聖】</note><note n="0603025" resp="CBETA" type="mod">變化【大】，化變【宋】【元】【明】【聖】</note><app n="0603025"><lem wit="【大】">變化</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">化變</rdg></app>身放法雲雨、現<note n="0603026" resp="Taisho" type="orig" place="foot text">建＝逮【聖】</note><note n="0603026" resp="CBETA" type="mod">建【大】，逮【聖】</note><app n="0603026"><lem wit="【大】">建</lem><rdg resp="Taisho" wit="【聖】">逮</rdg></app>立身而降法雨、現
 <lb n="0603c10" ed="T"/>色像身若干品雨、現功德身而演雲雨、或復
 <lb n="0603c11" ed="T"/>示現慧身雲雨、或復隨俗示現其身有十
-<lb n="0603c12" ed="T"/><note n="0603027" resp="Taisho" type="orig" place="foot text">明註曰種北藏作動</note><app n="0603027"><lem wit="【大】">種</lem><rdg resp="【明】" wit="【北藏】">動</rdg></app>力、或復現身四無所畏——自然為顯，無所
+<lb n="0603c12" ed="T"/><note n="0603027" resp="Taisho" type="orig" place="foot text">明註曰種北藏作動</note><app n="0603027"><lem wit="【大】">種</lem><rdg resp="【明】" wit="【北藏-CB】">動</rdg></app>力、或復現身四無所畏——自然為顯，無所
 <lb n="0603c13" ed="T"/>損<note n="0603028" resp="Taisho" type="orig" place="foot text">乏＝之【聖】</note><note n="0603028" resp="CBETA" type="mod">乏【大】，之【聖】</note><app n="0603028"><lem wit="【大】">乏</lem><rdg resp="Taisho" wit="【聖】">之</rdg></app>——或現法界而無身形，是為大聖法身陰
 <lb n="0603c14" ed="T"/>雨普遍世界。隨其音聲之所信樂，而為眾生
 <lb n="0603c15" ed="T"/>演其<note n="0603029" resp="Taisho" type="orig" place="foot text">耀光＝光曜【三】，光耀【聖】</note><note n="0603029" resp="CBETA" type="mod">耀光【大】，光曜【宋】【元】【明】，光耀【聖】</note><app n="0603029"><lem wit="【大】">耀光</lem><rdg resp="Taisho" wit="【宋】【元】【明】">光曜</rdg><rdg resp="Taisho" wit="【聖】">光耀</rdg></app>，除諸垢濁。斯光名曰平等<note n="0603030" resp="Taisho" type="orig" place="foot text">暉曜＝曜耀【聖】</note><note n="0603030" resp="CBETA" type="mod">暉曜【大】，曜耀【聖】</note><app n="0603030"><lem wit="【大】">暉曜</lem><rdg resp="Taisho" wit="【聖】">曜耀</rdg></app>、
@@ -1194,7 +1194,7 @@ add cvs log
 <lb n="0604c14" ed="T"/><l>其無本<note n="0604021" resp="Taisho" type="orig" place="foot text">味＝末【三】</note><note n="0604021" resp="CBETA" type="mod">味【大】，末【宋】【元】【明】</note><app n="0604021"><lem wit="【大】">味</lem><rdg resp="Taisho" wit="【宋】【元】【明】">末</rdg></app>等，</l><l>無應、不應想。</l>
 <lb n="0604c15" ed="T"/><l>至於無邊際，</l><l>成佛及聖眾，</l>
 <lb n="0604c16" ed="T"/><l>斯等為受持，</l><l>如是之像法。」</l></lg>
-<lb n="0604c17" ed="T"/><p xml:id="pT10p0604c1701">佛言：「以十名德於如來之音入<note n="0604022" resp="Taisho" type="orig" place="foot text">明註曰無北藏作於</note><app n="0604022"><lem wit="【大】">無</lem><rdg resp="【明】" wit="【北藏】">於</rdg></app>限量。何
+<lb n="0604c17" ed="T"/><p xml:id="pT10p0604c1701">佛言：「以十名德於如來之音入<note n="0604022" resp="Taisho" type="orig" place="foot text">明註曰無北藏作於</note><app n="0604022"><lem wit="【大】">無</lem><rdg resp="【明】" wit="【北藏-CB】">於</rdg></app>限量。何
 <lb n="0604c18" ed="T"/>謂十？遊入虛空則無限量；普至諸法一切境
 <lb n="0604c19" ed="T"/>界而無限量；遊入無餘，分別曉了眾生之界
 <lb n="0604c20" ed="T"/>而無限量；遊入一切，悅黎庶心，罪福所趣而
@@ -1317,7 +1317,7 @@ add cvs log
 <lb n="0606a15" ed="T"/>之慧。為諸菩薩忍眾恐懼、<note n="0606008" resp="Taisho" type="orig" place="foot text">殖＝植【明】</note><note n="0606008" resp="CBETA" type="mod">殖【大】，植【明】</note><app n="0606008"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>不可議功德
 <lb n="0606a16" ed="T"/>之本，至於一品諸天、人民及阿須倫濁俗之
 <lb n="0606a17" ed="T"/>眾，不堪諸患無量苦痛。若值如來<note n="0606009" resp="Taisho" type="orig" place="foot text">寂寞＝寂莫【聖】</note><note n="0606009" resp="CBETA" type="mod">寂寞【大】，寂莫【聖】</note><app n="0606009"><lem wit="【大】">寂寞</lem><rdg resp="Taisho" wit="【聖】">寂莫</rdg></app>之
-<lb n="0606a18" ed="T"/>地慧明所照，降伏諸著立于三昧，<note n="0606a1801" resp="CBETA" type="add">若【CB】【麗-CB】【磧砂-CB】，能【大】</note><app n="0606a1801"><lem wit="【CB】【麗-CB】【磧砂-CB】" resp="CBETA.maha">若<note type="cf1">K08n0099_p0569a21</note><note type="cf2">Q08_p0446a26</note></lem><rdg wit="【大】">能</rdg></app>聞法
+<lb n="0606a18" ed="T"/>地慧明所照，降伏諸著立于三昧，<note n="0606a1801" resp="CBETA" type="add">若【CB】【麗-CB】【磧砂-CB】，能【大】</note><app n="0606a1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">若<note type="cf1">K08n0099_p0569a21</note><note type="cf2">Q08_p0446a26</note></lem><rdg wit="【大】">能</rdg></app>聞法
 <lb n="0606a19" ed="T"/>頌消生死海。遭遇如來所開化慧篤樂三
 <lb n="0606a20" ed="T"/>昧，因得興於大聖神通微妙行音，大慧照世
 <lb n="0606a21" ed="T"/>消化眾穢，致神足行能自成立，為世大明開
@@ -1367,7 +1367,7 @@ add cvs log
 <lb n="0606c05" ed="T"/>物。近於地獄依水純陰故，雖在於彼而不迴
 <lb n="0606c06" ed="T"/>轉，是以於法而不得生。又，其餘處大地之場
 <lb n="0606c07" ed="T"/>所布根<app type="star" corresp="#0606018"><lem wit="【大】">原</lem><rdg resp="Taisho" wit="【宋】【元】【明】">源</rdg></app>，<app type="star" corresp="#0606016"><lem wit="【大】">藥</lem><rdg resp="Taisho" wit="【聖】">樹</rdg></app>之所生盡極其地，法應當然
-<lb n="0606c08" ed="T"/>也。如<note n="0606022" resp="Taisho" type="orig" place="foot text">明註曰來北藏作是</note><app n="0606022"><lem wit="【大】">來</lem><rdg resp="【明】" wit="【北藏】">是</rdg></app>道慧亦復如是，從本清淨則以大
+<lb n="0606c08" ed="T"/>也。如<note n="0606022" resp="Taisho" type="orig" place="foot text">明註曰來北藏作是</note><app n="0606022"><lem wit="【大】">來</lem><rdg resp="【明】" wit="【北藏-CB】">是</rdg></app>道慧亦復如是，從本清淨則以大
 <lb n="0606c09" ed="T"/>哀生堅固元，平等覺種乃為真諦，微妙達
 <lb n="0606c10" ed="T"/>要而不可動，斯謂根也；善權方便則<note n="0606023" resp="Taisho" type="orig" place="foot text">謂＝為【三】</note><note n="0606023" resp="CBETA" type="mod">謂【大】，為【宋】【元】【明】</note><app n="0606023"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">為</rdg></app>莖
 <lb n="0606c11" ed="T"/>也；慧則枝也；法界，節也；一心脫門三昧正受
@@ -1672,7 +1672,7 @@ add cvs log
 <lb n="0610a10" ed="T"/>受世界，一切<note n="0610001" resp="Taisho" type="orig" place="foot text">方＝號【聖】</note><note n="0610001" resp="CBETA" type="mod">方【大】，號【聖】</note><app n="0610001"><lem wit="【大】">方</lem><rdg resp="Taisho" wit="【聖】">號</rdg></app>俗志性自然成於世間。如
 <lb n="0610a11" ed="T"/>是比類，無盡、無長、亦無所生；所生<note n="0610002" resp="Taisho" type="orig" place="foot text">澹泊＝憺怕【三】</note><note n="0610002" resp="CBETA" type="mod">澹泊【大】，憺怕【宋】【元】【明】</note><app n="0610002"><lem wit="【大】">澹泊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">憺怕</rdg></app>亦
 <lb n="0610a12" ed="T"/>復如是，成最正覺亦無所覺。又，其相者，亦無
-<lb n="0610a13" ed="T"/>所<note n="0610003" resp="Taisho" type="orig" place="foot text">明註曰相北藏作想</note><app n="0610003"><lem wit="【大】">相</lem><rdg resp="【明】" wit="【北藏】">想</rdg></app>、亦復是相，而無若干。</p><p xml:id="pT10p0610a1311" rend="inline">「譬若士夫興化
+<lb n="0610a13" ed="T"/>所<note n="0610003" resp="Taisho" type="orig" place="foot text">明註曰相北藏作想</note><app n="0610003"><lem wit="【大】">相</lem><rdg resp="【明】" wit="【北藏-CB】">想</rdg></app>、亦復是相，而無若干。</p><p xml:id="pT10p0610a1311" rend="inline">「譬若士夫興化
 <lb n="0610a14" ed="T"/>變人，如江河沙等為諸如來也，令無比類、亦
 <lb n="0610a15" ed="T"/>無形容，適化現此，則復宣舉江河沙等皆為
 <lb n="0610a16" ed="T"/>劫數。於意云何？其人所化，以奚等化而令發
@@ -1955,7 +1955,7 @@ add cvs log
 <lb n="0613a21" ed="T"/>罣礙。又復至真不為餘人說斯弘典，<anchor xml:id="fxT10p0613a02"/>唯為志
 <lb n="0613a22" ed="T"/>求大乘行者無思議乘講菩薩道。又，斯經典
 <lb n="0613a23" ed="T"/>終不歸餘趣諸菩薩。</p><p xml:id="pT10p0613a2309" rend="inline">「猶如，佛子！轉輪聖王，金
-<lb n="0613a24" ed="T"/>輪、白象、紺馬、明珠、<note n="0613a2401" resp="CBETA" type="add">玉【CB】【麗-CB】【磧砂-CB】，王【大】</note><app n="0613a2401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">玉<note type="cf1">K08n0099_p1205b02</note><note type="cf2">Q08_p0452b25</note></lem><rdg wit="【大】">王</rdg></app>女、藏臣、兵臣——自然七寶——
+<lb n="0613a24" ed="T"/>輪、白象、紺馬、明珠、<note n="0613a2401" resp="CBETA" type="add">玉【CB】【麗-CB】【磧砂-CB】，王【大】</note><app n="0613a2401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">玉<note type="cf1">K08n0099_p1205b02</note><note type="cf2">Q08_p0452b25</note></lem><rdg wit="【大】">王</rdg></app>女、藏臣、兵臣——自然七寶——
 <lb n="0613a25" ed="T"/>有斯化來，不歸餘人，唯當趣王<note n="0613013" resp="Taisho" type="orig" place="foot text">適＝嫡【三】</note><note n="0613013" resp="CBETA" type="mod">適【大】，嫡【宋】【元】【明】</note><app n="0613013"><lem wit="【大】">適</lem><rdg resp="Taisho" wit="【宋】【元】【明】">嫡</rdg></app>太子也。
 <lb n="0613a26" ed="T"/>所以者何？因其聖后懷胎而生，則為具足轉
 <lb n="0613a27" ed="T"/>輪聖王。設使正后生是太子則為具足，為聖
@@ -2183,7 +2183,7 @@ add cvs log
 <lb n="0615c08" ed="T"/>師，若夜光珠因其所見而得自<note n="0615020" resp="Taisho" type="orig" place="foot text">恣＝姿【聖】</note><note n="0615020" resp="CBETA" type="mod">恣【大】，姿【聖】</note><app n="0615020"><lem wit="【大】">恣</lem><rdg resp="Taisho" wit="【聖】">姿</rdg></app>。於斯，所
 <lb n="0615c09" ed="T"/>好當所施者；其不清淨、無光<note n="0615021" resp="Taisho" type="orig" place="foot text">耀＝曜【三】＊</note><note n="0615021" resp="CBETA" type="mod">耀【大】＊，曜【宋】＊【元】＊【明】＊</note><app n="0615021"><lem wit="【大】">耀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">曜</rdg></app>者，悉蒙其
 <lb n="0615c10" ed="T"/>明，而蒙暉照亦無所造。又，其光明亦無所
-<lb n="0615c11" ed="T"/><note n="0615022" resp="Taisho" type="orig" place="foot text">明註曰有北藏作亦</note><app n="0615022"><lem wit="【大】">有</lem><rdg resp="【明】" wit="【北藏】">亦</rdg></app>——無有音響，亦無所生——因其光明而有所
+<lb n="0615c11" ed="T"/><note n="0615022" resp="Taisho" type="orig" place="foot text">明註曰有北藏作亦</note><app n="0615022"><lem wit="【大】">有</lem><rdg resp="【明】" wit="【北藏-CB】">亦</rdg></app>——無有音響，亦無所生——因其光明而有所
 <lb n="0615c12" ed="T"/>別。然其光明無所遊居，雖為清顯亦復不
 <lb n="0615c13" ed="T"/>與。清顯同處於光明地亦謂光明，照若干
 <lb n="0615c14" ed="T"/>流亦無所照，則無所周，影亦不入江河、泉

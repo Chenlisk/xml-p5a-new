@@ -1322,7 +1322,7 @@ Added comment  for Emacs
 <lb n="0377a13" ed="T"/>
 <lb n="0377a14" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"/><cb:mulu level="2">2</cb:mulu><cb:jhead><title>起世<note n="0377003" resp="Taisho" type="orig" place="foot text">〔因本〕－【元】【明】</note><note n="0377003" resp="CBETA" type="mod">因本【大】，〔－〕【元】【明】</note><app n="0377003"><lem wit="【大】">因本</lem><rdg resp="Taisho" wit="【元】【明】"><space quantity="0"/></rdg></app>經</title>卷第三</cb:jhead></cb:juan>
 <lb n="0377a15" ed="T"/>
-<lb n="0377a16" ed="T"/><byline cb:type="Translator"><note n="0377004" resp="Taisho" type="orig" place="foot text">譯號如卷第一【三】</note><note n="0377004" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->隋天竺沙門達摩笈多譯【CB】【麗-CB】，隋天竺三藏達摩笈多譯【大】＊，隋三藏闍那崛多達摩笈多二法師共譯【宋】＊，隋三藏法師闍那崛等譯【元】【明】＊</note><app n="0377004"><lem resp="CBETA.maha" wit="【CBETA】【麗】">隋天竺沙門達摩笈多譯<note type="cf1">K19n0661_p0361c02</note></lem><rdg wit="【大】">隋天竺三藏達摩笈多譯</rdg><rdg resp="Taisho" wit="【宋】">隋三藏闍那崛多達摩笈多二法師共譯</rdg><rdg resp="Taisho" wit="【元】【明】">隋三藏法師闍那崛等譯</rdg></app></byline>
+<lb n="0377a16" ed="T"/><byline cb:type="Translator"><note n="0377004" resp="Taisho" type="orig" place="foot text">譯號如卷第一【三】</note><note n="0377004" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->隋天竺沙門達摩笈多譯【CB】【麗-CB】，隋天竺三藏達摩笈多譯【大】＊，隋三藏闍那崛多達摩笈多二法師共譯【宋】＊，隋三藏法師闍那崛等譯【元】【明】＊</note><app n="0377004"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">隋天竺沙門達摩笈多譯<note type="cf1">K19n0661_p0361c02</note></lem><rdg wit="【大】">隋天竺三藏達摩笈多譯</rdg><rdg resp="Taisho" wit="【宋】">隋三藏闍那崛多達摩笈多二法師共譯</rdg><rdg resp="Taisho" wit="【元】【明】">隋三藏法師闍那崛等譯</rdg></app></byline>
 <lb n="0377a17" ed="T"/><head type="pin">地獄品<note n="0377005" resp="Taisho" type="orig" place="foot text">中＝第四之二【宋】</note><note n="0377005" resp="CBETA" type="mod">中【大】，第四之二【宋】</note><app n="0377005"><lem wit="【大】">中</lem><rdg resp="Taisho" wit="【宋】">第四之二</rdg></app></head>
 <lb n="0377a18" ed="T"/><p xml:id="pT01p0377a1801">「復次，諸比丘！彼等地獄諸眾生輩，有無量時
 <lb n="0377a19" ed="T"/>長遠道中，從彼燋渴五百由旬小地獄出，出
@@ -5186,7 +5186,7 @@ Added comment  for Emacs
 <pb n="0420a" ed="T" xml:id="T01.0025.0420a"/>
 <lb n="0420a01" ed="T"/>益，而行慈悲，我已作<note n="0420001" resp="Taisho" type="orig" place="foot text">訖＝說【宋】</note><note n="0420001" resp="CBETA" type="mod">訖【大】，說【宋】</note><app n="0420001"><lem wit="【大】">訖</lem><rdg resp="Taisho" wit="【宋】">說</rdg></app>，汝等須依。諸比
 <lb n="0420a02" ed="T"/>丘！此等空閑山林樹下、虛房靜室、土窟崖龕，
-<lb n="0420a03" ed="T"/>或塚墓間，以稻<note n="0420002" resp="Taisho" type="orig" place="foot text">芉＝芋【明】</note><note n="0420002" resp="CBETA" type="mod">芉【大】，芋【明】</note><app n="0420002"><lem resp="CBETA.maha CBETA.say" wit="【CBETA】【麗】">芉<note type="cf1">K19n0661_p0424b09</note></lem><rdg wit="【大】">芋</rdg><rdg resp="Taisho" wit="【明】">芋</rdg></app>等，為草庵住，離於村
+<lb n="0420a03" ed="T"/>或塚墓間，以稻<note n="0420002" resp="Taisho" type="orig" place="foot text">芉＝芋【明】</note><note n="0420002" resp="CBETA" type="mod">芉【大】，芋【明】</note><app n="0420002"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">芉<note type="cf1">K19n0661_p0424b09</note></lem><rdg wit="【大】">芋</rdg><rdg resp="Taisho" wit="【明】">芋</rdg></app>等，為草庵住，離於村
 <lb n="0420a04" ed="T"/>舍聚落居停如是之處。汝等比丘，應修習禪，
 <lb n="0420a05" ed="T"/>勿墮放逸，致令後悔。此我教示，汝諸比丘。」</p>
 <lb n="0420a06" ed="T"/><p xml:id="pT01p0420a0601">佛說經已，諸比丘等，歡喜奉行。</p></cb:div>

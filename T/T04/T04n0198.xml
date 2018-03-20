@@ -478,7 +478,7 @@ Added comment  for Emacs
 <lb n="0177c20" ed="T"/><cb:div type="jing"><cb:mulu level="1" n="4" type="經">4 摩竭梵志經</cb:mulu><head><note n="0177019" resp="Taisho" type="orig" place="foot text">摩竭梵志經 Cf. Sn. Aṭṭhaka-vagga, 4. Suddhaṭṭhaka &amp; Comt.</note><note n="0177019" place="foot" type="cf.">摩竭梵志經 Cf. Sn. Aṭṭhaka-vagga, 4. Suddhaṭṭhaka &amp; Comt.</note>摩竭梵<note n="0177020" resp="Taisho" type="orig" place="foot text">〔志經〕－【三】</note><note n="0177020" resp="CBETA" type="mod">志經【大】，〔－〕【宋】【元】【明】</note><app n="0177020"><lem wit="【大】">志經</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>第四</head>
 <lb n="0177c21" ed="T"/><p xml:id="pT04p0177c2101">聞如是：</p><p xml:id="pT04p0177c2104" rend="inline">佛在舍衛國祇樹給孤獨園。時有
 <lb n="0177c22" ed="T"/>一梵志，字摩竭，卒死講堂。同學便著床上，
-<lb n="0177c23" ed="T"/>共<note n="0177021" resp="Taisho" type="orig" place="foot text"><g ref="#CB02436"/>＝以【三】</note><note n="0177021" resp="CBETA" type="mod">舁【大】，以【宋】【元】【明】</note><app n="0177021"><lem wit="【CBETA】" resp="CBETA.maha">舁</lem><rdg wit="【大】"><g ref="#CB02436"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】">以</rdg></app>出於舍衛里巷四街道，舉聲言：「見摩
+<lb n="0177c23" ed="T"/>共<note n="0177021" resp="Taisho" type="orig" place="foot text"><g ref="#CB02436"/>＝以【三】</note><note n="0177021" resp="CBETA" type="mod">舁【大】，以【宋】【元】【明】</note><app n="0177021"><lem wit="【CB】" resp="CBETA.maha">舁</lem><rdg wit="【大】"><g ref="#CB02436"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】">以</rdg></app>出於舍衛里巷四街道，舉聲言：「見摩
 <lb n="0177c24" ed="T"/>竭者，悉得解脫；今見死屍亦解脫；後聞名
 <lb n="0177c25" ed="T"/>者亦解脫。」</p><p xml:id="pT04p0177c2505" rend="inline">諸比丘食時悉持應器，入城求
 <lb n="0177c26" ed="T"/>食，時見梵志說摩竭功德如是，食竟悉澡
@@ -487,7 +487,7 @@ Added comment  for Emacs
 <lb n="0177c29" ed="T"/>悉聞解，廣為後世作明，令我經道久住。說
 <pb n="0178a" ed="T" xml:id="T04.0198.0178a"/>
 <lb n="0178a01" ed="T"/>是義足經：</p>
-<lb n="0178a02" ed="T"/><lg xml:id="lgT04p0178a0201" rend="margin-left:1em;text-indent:-1em"><l>「<note n="0178001" resp="Taisho" type="orig" place="foot text">我見＝當著淨 Sn. 788-795. (Suddhaṭṭhaka).</note><note n="0178001" resp="CBETA" type="mod">我見【大】，當著淨【？】，Sn. 788-795. (Suddhaṭṭhaka).</note><app n="0178001"><lem wit="【大】">我見</lem><rdg resp="Taisho" wit="【？】">當著淨</rdg></app><note n="0178001" place="foot" type="equivalent">Sn. 788-795. (Suddhaṭṭhaka).</note>淨無有病，</l><l>信見諦及自淨，</l>
+<lb n="0178a02" ed="T"/><lg xml:id="lgT04p0178a0201" rend="margin-left:1em;text-indent:-1em"><l>「<note n="0178001" resp="Taisho" type="orig" place="foot text">我見＝當著淨 Sn. 788-795. (Suddhaṭṭhaka).</note><note n="0178001" resp="CBETA" type="mod">我見【大】，當著淨【【考偽-大】】，Sn. 788-795. (Suddhaṭṭhaka).</note><app n="0178001"><lem wit="【大】">我見</lem><rdg resp="Taisho" wit="【？】">當著淨</rdg></app><note n="0178001" place="foot" type="equivalent">Sn. 788-795. (Suddhaṭṭhaka).</note>淨無有病，</l><l>信見諦及自淨，</l>
 <lb n="0178a03" ed="T"/><l>有知是悉可度，</l><l>苦斷習證前<note n="0178002" resp="Taisho" type="orig" place="foot text">服＝形【三】</note><note n="0178002" resp="CBETA" type="mod">服【大】，形【宋】【元】【明】</note><app n="0178002"><lem wit="【大】">服</lem><rdg resp="Taisho" wit="【宋】【元】【明】">形</rdg></app>。</l>
 <lb n="0178a04" ed="T"/><l>見好人以為淨，</l><l>有慧行及離苦，</l>
 <lb n="0178a05" ed="T"/><l><g ref="#CB00834"/>除凶見淨徑，</l><l>斷所見證<note n="0178003" resp="Taisho" type="orig" place="foot text">至淨＝如前【三】</note><note n="0178003" resp="CBETA" type="mod">至淨【大】，如前【宋】【元】【明】</note><app n="0178003"><lem wit="【大】">至淨</lem><rdg resp="Taisho" wit="【宋】【元】【明】">如前</rdg></app>。</l>

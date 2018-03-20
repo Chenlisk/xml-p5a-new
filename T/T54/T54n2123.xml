@@ -1480,7 +1480,7 @@ add cvs log
 <lb n="0015b26" ed="T"/>聾盲不見正法。</p>
 <lb n="0015b27" ed="T"/><p xml:id="pT54p0015b2701">又阿難請戒律論云。僧尼白衣等因讀經律
 <lb n="0015b28" ed="T"/>論等。行語手執翻卷者。依忉利天歲數。犯重
-<lb n="0015b29" ed="T"/>突吉羅。<note n="0015010" resp="Taisho" place="foot text" type="orig">傍＋（生）【三】，（求）【宮】</note><note n="0015010" resp="CBETA" type="mod">傍【大】，傍生【宋】【元】【明】，<!--CBETA todo type: newmod-->（求）【宮】</note><app n="0015010"><lem wit="【大】">傍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">傍生</rdg><rdg resp="Taisho" wit="【宮】">傍求</rdg></app>報二億歲。墮麞鹿中。恒被摺脊
+<lb n="0015b29" ed="T"/>突吉羅。<note n="0015010" resp="Taisho" place="foot text" type="orig">傍＋（生）【三】，（求）【宮】</note><note n="0015010" resp="CBETA" type="mod">傍【大】，傍生【宋】【元】【明】，<!--CBETA todo type: newmod-->傍求【宮】</note><app n="0015010"><lem wit="【大】">傍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">傍生</rdg><rdg resp="Taisho" wit="【宮】">傍求</rdg></app>報二億歲。墮麞鹿中。恒被摺脊
 <pb n="0015c" xml:id="T54.2123.0015c" ed="T"/>
 <lb n="0015c01" ed="T"/>苦痛難忍。無記戲言捉經律論。亦招前報。或
 <lb n="0015c02" ed="T"/>安經像房堂簷前者。依忉利天歲數八百歲。
@@ -2207,7 +2207,7 @@ add cvs log
 <lb n="0023c05" ed="T"/>百問事云。若是<note n="0023010" resp="Taisho" place="foot text" type="orig">淨潔＝潔淨【明】</note><note n="0023010" resp="CBETA" type="mod">淨潔【大】，潔淨【明】</note><app n="0023010"><lem wit="【大】">淨潔</lem><rdg resp="Taisho" wit="【明】">潔淨</rdg></app>靴履鞋靺等。得著禮拜。
 <lb n="0023c06" ed="T"/>僧祇律云。若受人禮拜。不得如瘂羊不語。當
 <lb n="0023c07" ed="T"/>相問訊少病少惱安樂不。道路不疲苦不。述
-<lb n="0023c08" ed="T"/>曰。若有士人。<note n="0023011" resp="Taisho" place="foot text" type="orig">或＋（有）【三】，（人）【宮】</note><note n="0023011" resp="CBETA" type="mod">或【大】，或有【宋】【元】【明】，<!--CBETA todo type: newmod-->（人）【宮】</note><app n="0023011"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【宋】【元】【明】">或有</rdg><rdg resp="Taisho" wit="【宮】">或人</rdg></app>難因緣。須至寺宿。不得臥
+<lb n="0023c08" ed="T"/>曰。若有士人。<note n="0023011" resp="Taisho" place="foot text" type="orig">或＋（有）【三】，（人）【宮】</note><note n="0023011" resp="CBETA" type="mod">或【大】，或有【宋】【元】【明】，<!--CBETA todo type: newmod-->或人【宮】</note><app n="0023011"><lem wit="【大】">或</lem><rdg resp="Taisho" wit="【宋】【元】【明】">或有</rdg><rdg resp="Taisho" wit="【宮】">或人</rdg></app>難因緣。須至寺宿。不得臥
 <lb n="0023c09" ed="T"/>僧床席。必無私有。借臥如法。然不得共僧同
 <lb n="0023c10" ed="T"/>其床臥。故寶梁經云。共僧同床半身枯死。墮
 <lb n="0023c11" ed="T"/>地獄受其大苦。僧未眠時不得在先眠。不得
@@ -4337,7 +4337,7 @@ add cvs log
 <lb n="0047b05" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="6" type="卷"/><cb:jhead>諸經要集卷第<note n="0047012" resp="Taisho" place="foot text" type="orig">六＋（上）【明】</note><note n="0047012" resp="CBETA" type="mod">六【大】，六上【明】</note><app n="0047012"><lem wit="【大】">六</lem><rdg resp="Taisho" wit="【明】">六上</rdg></app></cb:jhead></cb:juan>
 <lb n="0047b06" ed="T"/>
 <lb n="0047b07" ed="T"/><byline cb:type="Collector"><anchor xml:id="fxT54p0047b03"/>西明寺沙門<anchor xml:id="fxT54p0047b04"/>釋道<anchor xml:id="fxT54p0047b05"/>世<anchor xml:id="fxT54p0047b06"/>集</byline>
-<lb n="0047b08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">8 受齋部</cb:mulu><list><item xml:id="itemT54p0047b0801">受齋部第八<note place="inline">此有<note n="0047013" resp="Taisho" place="foot text" type="orig">三＝二【三】【宮】</note><note n="0047013" resp="CBETA" type="mod">三【大】，二【宋】【元】【明】【宮】</note><app n="0047013"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>緣</note></item><note n="0047014" resp="Taisho" place="foot text" type="orig">〔破齋…一〕十六字－【明】，〔破齋…緣〕二十二字－【宮】</note><note n="0047014" resp="CBETA" type="mod"><!--CBETA todo type: a-->（破齋…一）十六字【大】，〔－〕【明】，〔－〕【宮】</note><item xml:id="itemT54p0047b0810">破齋部第九</item>
+<lb n="0047b08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">8 受齋部</cb:mulu><list><item xml:id="itemT54p0047b0801">受齋部第八<note place="inline">此有<note n="0047013" resp="Taisho" place="foot text" type="orig">三＝二【三】【宮】</note><note n="0047013" resp="CBETA" type="mod">三【大】，二【宋】【元】【明】【宮】</note><app n="0047013"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>緣</note></item><note n="0047014" resp="Taisho" place="foot text" type="orig">〔破齋…一〕十六字－【明】，〔破齋…緣〕二十二字－【宮】</note><note n="0047014" resp="CBETA" type="mod"><!--CBETA todo type: a-->（破齋…一）十六字【大】，〔－〕【明】，<!--CBETA todo type: newmod-->〔破齋…緣〕二十二字－【宮】</note><item xml:id="itemT54p0047b0810">破齋部第九</item>
 <lb n="0047b09" ed="T"/><item xml:id="itemT54p0047b0901">富貴部第十</item><item xml:id="itemT54p0047b0906">貧賤部第十一</item></list>
 <lb n="0047b10" ed="T"/><note n="0047015" resp="Taisho" place="foot text" type="orig">〔述意…緣〕六字－【宋】【元】＊</note><note n="0047015" resp="CBETA" type="mod">（述意…緣）六字【大】＊，〔－〕【宋】【元】＊</note><app cb:word-count="6" n="0047015"><lem wit="【大】"><list><item xml:id="itemT54p0047b1001">述意緣</item><item xml:id="itemT54p0047b1004">引證緣</item></list></lem><rdg resp="Taisho" wit="【宋】【元】"><space quantity="0"/></rdg></app>
 <lb n="0047b11" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">1 述意緣</cb:mulu><head>述意緣第一</head>
@@ -4789,7 +4789,7 @@ add cvs log
 <lb n="0052b07" ed="T"/>時還國。王語群臣。其樹提伽是我之民。女婦
 <lb n="0052b08" ed="T"/>宅舍過殊於我。我欲伐之。可取<note n="0052009" resp="Taisho" place="foot text" type="orig">以＝已【宋】【宮】</note><note n="0052009" resp="CBETA" type="mod">以【大】，已【宋】【宮】</note><app n="0052009"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【宮】">已</rdg></app>不。諸臣
 <lb n="0052b09" ed="T"/>皆言可取。王將四十萬眾。椎鍾鳴鼓圍樹提
-<lb n="0052b10" ed="T"/>宅。數百餘重。樹提伽宅。南門中有<note n="0052010" resp="Taisho" place="foot text" type="orig">一＋（人）【三】，（萬）【宮】</note><note n="0052010" resp="CBETA" type="mod">一【大】，一人【宋】【元】【明】，<!--CBETA todo type: newmod-->（萬）【宮】</note><app n="0052010"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一人</rdg><rdg resp="Taisho" wit="【宮】">一萬</rdg></app>力士。
+<lb n="0052b10" ed="T"/>宅。數百餘重。樹提伽宅。南門中有<note n="0052010" resp="Taisho" place="foot text" type="orig">一＋（人）【三】，（萬）【宮】</note><note n="0052010" resp="CBETA" type="mod">一【大】，一人【宋】【元】【明】，<!--CBETA todo type: newmod-->一萬【宮】</note><app n="0052010"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】">一人</rdg><rdg resp="Taisho" wit="【宮】">一萬</rdg></app>力士。
 <lb n="0052b11" ed="T"/>手捉金杖一擬。四十萬眾人馬俱倒。手脚<note n="0052011" resp="Taisho" place="foot text" type="orig">撩＝繚【三】【宮】</note><note n="0052011" resp="CBETA" type="mod">撩【大】，繚【宋】【元】【明】【宮】</note><app n="0052011"><lem wit="【大】">撩</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">繚</rdg></app>
 <lb n="0052b12" ed="T"/>戾。腰臗娿婆。狀似醉容。頭腦<note n="0052012" resp="Taisho" place="foot text" type="orig">叵＝頗【元】【明】</note><note n="0052012" resp="CBETA" type="mod">叵【大】，頗【元】【明】</note><app n="0052012"><lem wit="【大】">叵</lem><rdg resp="Taisho" wit="【元】【明】">頗</rdg></app><note n="0052013" resp="Taisho" place="foot text" type="orig">我＝𩒰【三】</note><note n="0052013" resp="CBETA" type="mod">我【大】，𩒰【宋】【元】【明】</note><app n="0052013"><lem wit="【大】">我</lem><rdg resp="Taisho" wit="【宋】【元】【明】">𩒰</rdg></app>不復得
 <lb n="0052b13" ed="T"/>起。於是樹提乘雲母之車。來問諸人。來時何
@@ -4943,7 +4943,7 @@ add cvs log
 <lb n="0054a11" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">2 引證緣</cb:mulu><head>引證緣第二</head>
 <lb n="0054a12" ed="T"/><p xml:id="pT54p0054a1201">如燈指經云。當知貧窮比於地獄。失所依憑。
 <lb n="0054a13" ed="T"/>拪寄無處。憂心火熾。愁顇燋然。華色既衰。
-<lb n="0054a14" ed="T"/><note n="0054012" resp="Taisho" place="foot text" type="orig">威容轉＝容轉障【三】【宮】</note><note n="0054012" resp="CBETA" type="mod">威容轉【大】，容轉障【宋】【元】【明】【宮】</note><app n="0054012"><lem wit="【大】">威容轉</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">容轉障</rdg></app>礙。身體尫羸。飢渴消削。眼目<note n="0054013" resp="Taisho" place="foot text" type="orig">搯＝䁍【元】【明】，塪【宮】</note><note n="0054013" resp="CBETA" type="mod">掐【CB】，搯【大】，䁍【元】【明】，塪【宮】</note><app n="0054013"><lem resp="CBETA.maha" wit="【CBETA】">掐<note type="cf1">K35n1257_p0419c09</note></lem><rdg wit="【大】">搯</rdg><rdg resp="Taisho" wit="【元】【明】">䁍</rdg><rdg resp="Taisho" wit="【宮】">塪</rdg></app>陷。
+<lb n="0054a14" ed="T"/><note n="0054012" resp="Taisho" place="foot text" type="orig">威容轉＝容轉障【三】【宮】</note><note n="0054012" resp="CBETA" type="mod">威容轉【大】，容轉障【宋】【元】【明】【宮】</note><app n="0054012"><lem wit="【大】">威容轉</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">容轉障</rdg></app>礙。身體尫羸。飢渴消削。眼目<note n="0054013" resp="Taisho" place="foot text" type="orig">搯＝䁍【元】【明】，塪【宮】</note><note n="0054013" resp="CBETA" type="mod">掐【CB】，搯【大】，䁍【元】【明】，塪【宮】</note><app n="0054013"><lem resp="CBETA.maha" wit="【CB】">掐<note type="cf1">K35n1257_p0419c09</note></lem><rdg wit="【大】">搯</rdg><rdg resp="Taisho" wit="【元】【明】">䁍</rdg><rdg resp="Taisho" wit="【宮】">塪</rdg></app>陷。
 <lb n="0054a15" ed="T"/>諸節骨立。薄皮纏裹。筋脈露現。頭髮蓬亂。手
 <lb n="0054a16" ed="T"/>足銳細。其色艾白。舉體皴裂。又無衣裳。至糞
 <lb n="0054a17" ed="T"/>穢中。拾掇麁弊。連掇相著。纔遮人形。赤露四
@@ -5477,7 +5477,7 @@ add cvs log
 <lb n="0060a05" ed="T"/>髑髏。髑髏是骨。屠家猪頭骨亦皆同。頭中有
 <lb n="0060a06" ed="T"/>腦。腦者如泥。臊臭逆鼻。下之著地。莫能蹈
 <lb n="0060a07" ed="T"/>者。目者是池。決之純汁。鼻中有<app type="star" corresp="#0059003"><lem wit="【大】">洟</lem><rdg resp="Taisho" wit="【宋】【元】【明】">涕</rdg></app>。口但有
-<lb n="0060a08" ed="T"/>唾。腹藏肝肺。皆爾腥<note n="0060001" resp="Taisho" place="foot text" type="orig"><g ref="#CB05369"/>＝臊【三】【宮】</note><note n="0060001" resp="CBETA" type="mod">臊【CB】【麗-CB】【宋】【元】【明】【宮】，<g ref="#CB05369"/>【大】</note><app n="0060001"><lem wit="【CBETA】【麗】" resp="CBETA.maha CBETA.say">臊<note type="cf1">K31n1052_p0088c03</note><note type="cf2">T53n2122_p0444b20</note></lem><rdg wit="【大】"><g ref="#CB05369"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">臊</rdg></app>。腸<note n="0060002" resp="Taisho" place="foot text" type="orig">𦝩＝胃【三】</note><note n="0060002" resp="CBETA" type="mod">𦝩【大】，胃【宋】【元】【明】</note><app n="0060002"><lem wit="【大】">𦝩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">胃</rdg></app>膀胱。但盛屎
+<lb n="0060a08" ed="T"/>唾。腹藏肝肺。皆爾腥<note n="0060001" resp="Taisho" place="foot text" type="orig"><g ref="#CB05369"/>＝臊【三】【宮】</note><note n="0060001" resp="CBETA" type="mod">臊【CB】【麗-CB】【宋】【元】【明】【宮】，<g ref="#CB05369"/>【大】</note><app n="0060001"><lem wit="【CB】【麗-CB】" resp="CBETA.maha CBETA.say">臊<note type="cf1">K31n1052_p0088c03</note><note type="cf2">T53n2122_p0444b20</note></lem><rdg wit="【大】"><g ref="#CB05369"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">臊</rdg></app>。腸<note n="0060002" resp="Taisho" place="foot text" type="orig">𦝩＝胃【三】</note><note n="0060002" resp="CBETA" type="mod">𦝩【大】，胃【宋】【元】【明】</note><app n="0060002"><lem wit="【大】">𦝩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">胃</rdg></app>膀胱。但盛屎
 <lb n="0060a09" ed="T"/>尿。腐臭難論。腹為<note n="0060003" resp="Taisho" place="foot text" type="orig">韋＝革【元】【明】</note><note n="0060003" resp="CBETA" type="mod">韋【大】，革【元】【明】</note><app n="0060003"><lem wit="【大】">韋</lem><rdg resp="Taisho" wit="【元】【明】">革</rdg></app>囊。裹諸不淨。四<note n="0060004" resp="Taisho" place="foot text" type="orig">支＝肢【三】【宮】</note><note n="0060004" resp="CBETA" type="mod">支【大】，肢【宋】【元】【明】【宮】</note><app n="0060004"><lem wit="【大】">支</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">肢</rdg></app>
 <lb n="0060a10" ed="T"/>手足。骨骨相拄筋攣皮縮。但恃氣息。以動
 <lb n="0060a11" ed="T"/>作之。譬如木人機關作之。作之訖畢解剝
@@ -6719,7 +6719,7 @@ add cvs log
 <lb n="0073c19" ed="T"/>與。我故行求家門共食。卿此<note n="0073018" resp="Taisho" place="foot text" type="orig">少＝小【三】【宮】</note><note n="0073018" resp="CBETA" type="mod">少【大】，小【宋】【元】【明】【宮】</note><app n="0073018"><lem wit="【大】">少</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">小</rdg></app>飯何所足
 <lb n="0073c20" ed="T"/>乎。沙門慇懃曉喻語之。其人觝突不肯隨言。
 <lb n="0073c21" ed="T"/>沙門又言。設不肯者。可以示我。其人即出以
-<lb n="0073c22" ed="T"/>示沙門。沙門舉飯以飼狗子。以手摩<note n="0073019" resp="Taisho" place="foot text" type="orig">抆＝捫，挱【三】【宮】</note><note n="0073019" resp="CBETA" type="mod">抆【大】，捫【？】，挱【宋】【元】【明】【宮】</note><app n="0073019"><lem wit="【大】">抆</lem><rdg resp="Taisho" wit="【？】">捫</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">挱</rdg></app>呪願
+<lb n="0073c22" ed="T"/>示沙門。沙門舉飯以飼狗子。以手摩<note n="0073019" resp="Taisho" place="foot text" type="orig">抆＝捫，挱【三】【宮】</note><note n="0073019" resp="CBETA" type="mod">抆【大】，捫【【考偽-大】】，挱【宋】【元】【明】【宮】</note><app n="0073019"><lem wit="【大】">抆</lem><rdg resp="Taisho" wit="【？】">捫</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">挱</rdg></app>呪願
 <lb n="0073c23" ed="T"/>淚出。卿罪所致得是犬身。不得自在見殺食
 <lb n="0073c24" ed="T"/>噉。使爾世世罪滅福生。離狗子身得生為人。
 <lb n="0073c25" ed="T"/>所在遇法三寶自然。狗子得食善心生焉。踊
@@ -7676,7 +7676,7 @@ add cvs log
 <lb n="0084b17" ed="T"/>五欲樂。若生人中。生於正見大長者家。若有
 <lb n="0084b18" ed="T"/>人能柔軟深心。離一切垢。涅槃解脫猶如在
 <lb n="0084b19" ed="T"/>手。軟心之人心如白鑞。修行善業眾人所信。
-<lb n="0084b20" ed="T"/>麁<note n="0084006" resp="Taisho" place="foot text" type="orig">鑛＝獷【三】【宮】</note><note n="0084006" resp="CBETA" type="mod">獷【CB】【宋】【元】【明】【宮】，鑛【大】</note><app n="0084006"><lem wit="【CBETA】" resp="CBETA.maha">獷</lem><rdg wit="【大】">鑛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">獷</rdg></app>之人<note n="0084007" resp="Taisho" place="foot text" type="orig">〔心〕－【三】【宮】</note><note n="0084007" resp="CBETA" type="mod">心【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0084007"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>如金剛。恒常不忘怨結之心。
+<lb n="0084b20" ed="T"/>麁<note n="0084006" resp="Taisho" place="foot text" type="orig">鑛＝獷【三】【宮】</note><note n="0084006" resp="CBETA" type="mod">獷【CB】【宋】【元】【明】【宮】，鑛【大】</note><app n="0084006"><lem wit="【CB】" resp="CBETA.maha">獷</lem><rdg wit="【大】">鑛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">獷</rdg></app>之人<note n="0084007" resp="Taisho" place="foot text" type="orig">〔心〕－【三】【宮】</note><note n="0084007" resp="CBETA" type="mod">心【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0084007"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>如金剛。恒常不忘怨結之心。
 <lb n="0084b21" ed="T"/>行不調伏。眾人所憎不愛不信。爾時孔雀菩
 <lb n="0084b22" ed="T"/>薩。以佛經偈。而說頌曰。</p>
 <lb n="0084b23" ed="T"/><lg xml:id="lgT54p0084b2301"><l>善人心柔軟</l><l>猶如成<note n="0084008" resp="Taisho" place="foot text" type="orig">練＝鍊【三】【宮】</note><note n="0084008" resp="CBETA" type="mod"><!--CBETA todo type: c-->練【大】，鍊【宋】【元】【明】【宮】</note>鍊金</l>
@@ -8207,7 +8207,7 @@ add cvs log
 <lb n="0090b08" ed="T"/><l>法施如甘雨</l><l>充滿陰界池</l>
 <lb n="0090b09" ed="T"/><l>四攝為方便</l><l>安樂解脫因</l>
 <lb n="0090b10" ed="T"/><l>修治八正道</l><l>能得涅槃果</l></lg>
-<lb n="0090b11" ed="T"/><p xml:id="pT54p0090b1101">又月燈三<note n="0090008" resp="Taisho" place="foot text" type="orig">味＝昧【宮】</note><note n="0090008" resp="CBETA" type="mod">昧【CB】【麗-CB】【宮】，味【大】</note><app n="0090008"><lem resp="CBETA.maha" wit="【CBETA】【麗】">昧<note type="cf1">K31n1052_p0132c19</note><note type="cf2">T15n0639_p0549a03</note></lem><rdg wit="【大】">味</rdg><rdg resp="Taisho" wit="【宮】">昧</rdg></app>經云。佛言。若有菩薩行於法
+<lb n="0090b11" ed="T"/><p xml:id="pT54p0090b1101">又月燈三<note n="0090008" resp="Taisho" place="foot text" type="orig">味＝昧【宮】</note><note n="0090008" resp="CBETA" type="mod">昧【CB】【麗-CB】【宮】，味【大】</note><app n="0090008"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">昧<note type="cf1">K31n1052_p0132c19</note><note type="cf2">T15n0639_p0549a03</note></lem><rdg wit="【大】">味</rdg><rdg resp="Taisho" wit="【宮】">昧</rdg></app>經云。佛言。若有菩薩行於法
 <lb n="0090b12" ed="T"/>施。有十種利益。何等為十。一棄捨惡事。二能
 <lb n="0090b13" ed="T"/>作善事。三住善人法。四淨佛國土。五趣詣道
 <lb n="0090b14" ed="T"/>場。六捨所愛事。七降伏煩惱。八於諸眾生施
@@ -14799,7 +14799,7 @@ add cvs log
 <lb n="0163c12" ed="T"/><l>懇責其心</l><l>如被刑罰</l><l>此人乃從</l>
 <lb n="0163c13" ed="T"/><l>毱地獄來</l><l>喜宿臭處</l><l>好食麁弊</l>
 <lb n="0163c14" ed="T"/><l>所著醜陋</l><l>從屎獄來</l><l>顏色醜惡</l>
-<lb n="0163c15" ed="T"/><l>口氣麁<note n="0163013" resp="Taisho" place="foot text" type="orig">鑛＝獷【三】【宮】</note><note n="0163013" resp="CBETA" type="mod">獷【CB】【宋】【元】【明】【宮】，鑛【大】</note><app n="0163013"><lem wit="【CBETA】" resp="CBETA.maha">獷</lem><rdg wit="【大】">鑛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">獷</rdg></app></l><l>好讒鬪人</l><l>善香獄來</l>
+<lb n="0163c15" ed="T"/><l>口氣麁<note n="0163013" resp="Taisho" place="foot text" type="orig">鑛＝獷【三】【宮】</note><note n="0163013" resp="CBETA" type="mod">獷【CB】【宋】【元】【明】【宮】，鑛【大】</note><app n="0163013"><lem wit="【CB】" resp="CBETA.maha">獷</lem><rdg wit="【大】">鑛</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">獷</rdg></app></l><l>好讒鬪人</l><l>善香獄來</l>
 <lb n="0163c16" ed="T"/><l>當觀此貌</l><l>所從來處</l><l>知之遠離</l>
 <lb n="0163c17" ed="T"/><l>如避劫燒</l><l>地獄之相</l><l>略說如是</l></lg>
 <lb n="0163c18" ed="T"/><p xml:id="pT54p0163c1801">第二畜生相者。</p>
@@ -15545,7 +15545,7 @@ add cvs log
 <lb n="0172a14" ed="T"/>噉。諸鳥失子。悲鳴叫<note n="0172005" resp="Taisho" place="foot text" type="orig">裂＝烈【宋】【宮】＊</note><note n="0172005" resp="CBETA" type="mod">裂【大】＊，烈【宋】【宮】＊</note><app n="0172005"><lem wit="【大】">裂</lem><rdg resp="Taisho" wit="【宋】【宮】">烈</rdg></app>眼中<note n="0172006" resp="Taisho" place="foot text" type="orig">血出＝出血【三】【宮】</note><note n="0172006" resp="CBETA" type="mod">血出【大】，出血【宋】【元】【明】【宮】</note><app n="0172006"><lem wit="【大】">血出</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">出血</rdg></app>。故獲斯
 <lb n="0172a15" ed="T"/>罪。</p>
 <lb n="0172a16" ed="T"/><p xml:id="pT54p0172a1601">第十九復有眾生。少小孤寒。無有父母兄弟。
-<lb n="0172a17" ed="T"/>為他作使辛苦活命。長大成人橫<note n="0172007" resp="Taisho" place="foot text" type="orig">羅＝罹【明】＊</note><note n="0172007" resp="CBETA" type="mod">罹【CB】＊【明】，羅【大】＊</note><app n="0172007"><lem wit="【CBETA】" resp="CBETA.maha">罹</lem><rdg wit="【大】">羅</rdg><rdg resp="Taisho" wit="【明】">罹</rdg></app>殃禍。懸
+<lb n="0172a17" ed="T"/>為他作使辛苦活命。長大成人橫<note n="0172007" resp="Taisho" place="foot text" type="orig">羅＝罹【明】＊</note><note n="0172007" resp="CBETA" type="mod">罹【CB】【明】＊，羅【大】＊</note><app n="0172007"><lem wit="【CB】" resp="CBETA.maha">罹</lem><rdg wit="【大】">羅</rdg><rdg resp="Taisho" wit="【明】">罹</rdg></app>殃禍。懸
 <lb n="0172a18" ed="T"/>官所縛繫閉牢獄。無人追餉飢窮困苦。無所
 <lb n="0172a19" ed="T"/>告及。何罪所致。佛言。以前世時。坐喜捕拾。
 <lb n="0172a20" ed="T"/><note n="0172008" resp="Taisho" place="foot text" type="orig">鵰＝鵬【宮】</note><note n="0172008" resp="CBETA" type="mod">鵰【大】，鵬【宮】</note><app n="0172008"><lem wit="【大】">鵰</lem><rdg resp="Taisho" wit="【宮】">鵬</rdg></app>鷲鷹鷂。熊羆虎豹。枷鎖而畜。孤此眾生。

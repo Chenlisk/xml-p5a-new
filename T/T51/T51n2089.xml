@@ -215,11 +215,11 @@ Added comment  for Emacs
 <lb n="0975b05" ed="T"/>損也。此塔東南三十里。有一寺。名娑般檀寺
 <lb n="0975b06" ed="T"/>有□餘□□□□□□常供養彼禪師衣食令
 <lb n="0975b07" ed="T"/>在塔所供養<note place="inline">下缺</note>。</p>
-<lb n="0975b08" ed="T"/><p xml:id="pT51p0975b0801">日。至<note n="0975008" resp="Taisho" place="foot text" type="orig">彼＝波？，波羅痆斯 Vārāṇasī</note><app n="0975008"><lem resp="Taisho" wit="【大】">彼</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波</rdg></app>羅痆斯國。此國亦廢無王即□<note place="inline">下缺</note>。</p>
+<lb n="0975b08" ed="T"/><p xml:id="pT51p0975b0801">日。至<note n="0975008" resp="Taisho" place="foot text" type="orig">彼＝波？，波羅痆斯 Vārāṇasī</note><note n="0975008" resp="CBETA" type="mod">彼【大】，波【考偽-大】，波羅痆斯 Vārāṇasī</note><app n="0975008"><lem resp="Taisho" wit="【大】">彼</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">波</rdg></app>羅痆斯國。此國亦廢無王即□<note place="inline">下缺</note>。</p>
 <lb n="0975b09" ed="T"/><p xml:id="pT51p0975b0901">彼五俱輪。見索形像在於塔中<note place="inline">下缺</note>。</p>
 <lb n="0975b10" ed="T"/><p xml:id="pT51p0975b1001">上有師子。彼幢極麗。五人合抱。文里細<note place="inline">下缺</note>。</p>
 <lb n="0975b11" ed="T"/><p xml:id="pT51p0975b1101">塔時。并造此幢。寺名<note n="0975009" resp="Taisho" place="foot text" type="orig">達磨斫葛羅 Dharmacakra</note><cb:tt n="0975009" type="app"><cb:t resp="Taisho" xml:lang="zh-Hant">達磨斫葛羅</cb:t><cb:t resp="Taisho" xml:lang="sa" place="foot">Dharmacakra</cb:t></cb:tt>僧<note place="inline">下缺</note>。</p>
-<lb n="0975b12" ed="T"/><p xml:id="pT51p0975b1201">外道不著衣服。身上塗灰事於大<note n="0975010" resp="Taisho" place="foot text" type="orig">大＝天？大天 Mahādeva</note><note n="0975010" resp="CBETA" type="mod">大＝天？，大天 Mahādeva</note><app n="0975010"><lem resp="Taisho" wit="【大】">大</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">天</rdg></app><note place="inline">下缺</note>。</p>
+<lb n="0975b12" ed="T"/><p xml:id="pT51p0975b1201">外道不著衣服。身上塗灰事於大<note n="0975010" resp="Taisho" place="foot text" type="orig">大＝天？大天 Mahādeva</note><note n="0975010" resp="CBETA" type="mod">大【大】，天【考偽-大】，大天 Mahādeva</note><app n="0975010"><lem resp="Taisho" wit="【大】">大</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">天</rdg></app><note place="inline">下缺</note>。</p>
 <lb n="0975b13" ed="T"/><p xml:id="pT51p0975b1301">此寺中有一金銅像。五百□□□。是<note n="0975011" resp="Taisho" place="foot text" type="orig">摩揭拕 Magadha</note><note n="0975011" resp="CBETA" type="mod"><!--CBETA todo type: u-->摩揭拕 Magadha</note>摩揭陀
 <lb n="0975b14" ed="T"/>國舊有一王名<note n="0975012" resp="Taisho" place="foot text" type="orig">尸羅栗底 Śīlāditya</note><cb:tt n="0975012" type="app"><cb:t resp="Taisho" xml:lang="zh-Hant">尸羅栗底</cb:t><cb:t resp="Taisho" xml:lang="sa" place="foot">Śīlāditya</cb:t></cb:tt>。造此像也。兼造一
 <lb n="0975b15" ed="T"/>金銅□□輻團圓正寸三十餘步此城俯臨恒
@@ -317,7 +317,7 @@ Added comment  for Emacs
 <lb n="0976b17" ed="T"/>山。東有一小國。名<note n="0976012" resp="Taisho" place="foot text" type="orig">蘇跋那具怛羅 Suvarṇagotra</note><cb:tt n="0976012" type="app"><cb:t resp="Taisho" xml:lang="zh-Hant">蘇跋那具怛羅</cb:t><cb:t resp="Taisho" xml:lang="sa" place="foot">Suvarṇagotra</cb:t></cb:tt>。屬土蕃
 <lb n="0976b18" ed="T"/>國所管。衣著與北天相似。言音即別。土地極
 <lb n="0976b19" ed="T"/>寒也。又從此闍蘭達羅國西行。經一月。至一
-<lb n="0976b20" ed="T"/><note n="0976013" resp="Taisho" place="foot text" type="orig">社吒＝吒社？ Tākī</note><app n="0976013"><lem resp="Taisho" wit="【大】">社吒</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">吒社</rdg></app>國。言音稍別。大分相似。衣著人風。土
+<lb n="0976b20" ed="T"/><note n="0976013" resp="Taisho" place="foot text" type="orig">社吒＝吒社？ Tākī</note><note n="0976013" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->社吒＝吒社【考偽-大】 Tākī</note><app n="0976013"><lem resp="Taisho" wit="【大】">社吒</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">吒社</rdg></app>國。言音稍別。大分相似。衣著人風。土
 <lb n="0976b21" ed="T"/>地所出。節氣寒暖。與北天相似。亦足寺足僧。
 <lb n="0976b22" ed="T"/>大小乘俱行。王及首領百姓等。大敬信三寶
 <lb n="0976b23" ed="T"/>　又從此吒國西行一月。至新頭故羅國。衣
@@ -472,7 +472,7 @@ Added comment  for Emacs
 <lb n="0978a22" ed="T"/>皮毬㲲布等。上至國王。下及黎庶。皆以皮毬。
 <lb n="0978a23" ed="T"/>為上服。土地足駝騾羊馬㲲布蒲桃。食唯愛
 <lb n="0978a24" ed="T"/>餅。土地寒冷。冬天霜雪也。國王首領及百姓
-<lb n="0978a25" ed="T"/>等。甚敬三寶。足寺足僧。行小乘法。<note n="0978004" resp="Taisho" place="foot text" type="orig">（不）＋食？</note><app n="0978004"><lem resp="Taisho" wit="【大】">食</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不食</rdg></app><note n="0978005" resp="Taisho" place="foot text" type="orig">內＝肉？</note><note n="0978005" resp="CBETA" type="mod">內【大】，肉【考偽-大】</note><app n="0978005"><lem resp="Taisho" wit="【大】">內</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">肉</rdg></app>及
+<lb n="0978a25" ed="T"/>等。甚敬三寶。足寺足僧。行小乘法。<note n="0978004" resp="Taisho" place="foot text" type="orig">（不）＋食？</note><note n="0978004" resp="CBETA" type="mod">食【大】，不食【考偽-大】</note><app n="0978004"><lem resp="Taisho" wit="【大】">食</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不食</rdg></app><note n="0978005" resp="Taisho" place="foot text" type="orig">內＝肉？</note><note n="0978005" resp="CBETA" type="mod">內【大】，肉【考偽-大】</note><app n="0978005"><lem resp="Taisho" wit="【大】">內</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">肉</rdg></app>及
 <lb n="0978a26" ed="T"/>葱<note n="0978006" resp="Taisho" place="foot text" type="orig">蕜＝韮？</note><note n="0978006" resp="CBETA" type="mod">蕜【大】，韮【考偽-大】</note><app n="0978006"><lem resp="Taisho" wit="【大】">蕜</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">韮</rdg></app>等。不事外道。男人並剪鬚髮。女人在髮
 <lb n="0978a27" ed="T"/>土地足山　又從吐火羅國。西行一月。至
 <lb n="0978a28" ed="T"/>波斯國。此王先管<note n="0978007" resp="Taisho" place="foot text" type="orig">大<g ref="#CB13984"/> Tazi</note><note n="0978007" resp="CBETA" type="mod">大𥦽 Tazi</note><cb:tt n="0978007" type="app"><cb:t resp="Taisho" xml:lang="zh-Hant">大𥦽</cb:t><cb:t resp="Taisho" xml:lang="sa" place="foot">Tazi</cb:t></cb:tt>。大𥦽是波斯王<note n="0978008" resp="Taisho" place="foot text" type="orig">放＝牧？</note><note n="0978008" resp="CBETA" type="mod">放【大】，牧【考偽-大】</note><app n="0978008"><lem resp="Taisho" wit="【大】">放</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">牧</rdg></app>
@@ -550,7 +550,7 @@ Added comment  for Emacs
 <lb n="0979a10" ed="T"/><p xml:id="pT51p0979a1001">又胡蜜國北山裏。有<note n="0979002" resp="Taisho" place="foot text" type="orig">九＝五？</note><note n="0979002" resp="CBETA" type="mod">九【大】，五【考偽-大】</note><app n="0979002"><lem resp="Taisho" wit="【大】">九</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">五</rdg></app>箇識匿國。九箇王各
 <lb n="0979a11" ed="T"/>領兵馬而住。有一箇王。屬胡蜜王。自外各並
 <lb n="0979a12" ed="T"/>自住。不屬餘國。近有兩窟王。來投於漢國使
-<lb n="0979a13" ed="T"/>命安西。往來<note n="0979003" resp="Taisho" place="foot text" type="orig">（不）＋絕？</note><app n="0979003"><lem resp="Taisho" wit="【大】">絕</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不絕</rdg></app>。唯王首領。衣著疊布皮裘。
+<lb n="0979a13" ed="T"/>命安西。往來<note n="0979003" resp="Taisho" place="foot text" type="orig">（不）＋絕？</note><note n="0979003" resp="CBETA" type="mod">絕【大】，不絕【考偽-大】</note><app n="0979003"><lem resp="Taisho" wit="【大】">絕</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">不絕</rdg></app>。唯王首領。衣著疊布皮裘。
 <lb n="0979a14" ed="T"/>自餘百姓。唯是皮裘氈衫。土地極寒。為居雪
 <lb n="0979a15" ed="T"/>山。不同餘國。亦有羊馬牛驢。言音各別。不同
 <lb n="0979a16" ed="T"/>諸國。彼王常遣三二百人於大播蜜川。劫彼
@@ -804,12 +804,12 @@ Added comment  for Emacs
 <lb n="0981c24" ed="T"/>處。遂至健陀羅國。謂之中印土。</p>
 <lb n="0981c25" ed="T"/><p xml:id="pT51p0981c2501">又西至。庶流波國及<note n="0981010" resp="Taisho" place="foot text" type="orig">太＝左？</note><note n="0981010" resp="CBETA" type="mod">太【大】，左【考偽-大】</note><app n="0981010"><lem resp="Taisho" wit="【大】">太</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">左</rdg></app>爛陀羅國。國有二寺。
 <lb n="0981c26" ed="T"/>又西過四大國。至大曲女城。南臨陷牟河。北
-<lb n="0981c27" ed="T"/>背<note n="0981011" resp="Taisho" place="foot text" type="orig">洹＝恆？＊</note><note n="0981011" resp="CBETA" type="mod">洹＝恆？＊，<!--CBETA todo type: newmod-->＝恒【CB】＊</note><app n="0981011"><lem resp="CBETA.maha" wit="【CBETA】">恒<note type="cf1">B17n0093_p0679b12</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河塔廟甚多。而無僧尼。又西二程有寶
+<lb n="0981c27" ed="T"/>背<note n="0981011" resp="Taisho" place="foot text" type="orig">洹＝恆？＊</note><note n="0981011" resp="CBETA" type="mod">恒【CB】＊，洹【大】＊，恆【考偽-大】＊</note><app n="0981011"><lem resp="CBETA.maha" wit="【CB】">恒<note type="cf1">B17n0093_p0679b12</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河塔廟甚多。而無僧尼。又西二程有寶
 <lb n="0981c28" ed="T"/>階故基。又西至波羅奈國。兩城相去五里。南
-<lb n="0981c29" ed="T"/>臨<app type="star" corresp="#0981011"><lem resp="CBETA.maha" wit="【CBETA】">恒<note type="cf1">B17n0093_p0679b13</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河。又西北十許里至鹿野苑。塔廟佛蹟
+<lb n="0981c29" ed="T"/>臨<app type="star" corresp="#0981011"><lem resp="CBETA.maha" wit="【CB】">恒<note type="cf1">B17n0093_p0679b13</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河。又西北十許里至鹿野苑。塔廟佛蹟
 <pb n="0982a" xml:id="T51.2089.0982a" ed="T"/>
 <lb n="0982a01" ed="T"/>最夥。業自云。別有傳記。今不傳矣。</p>
-<lb n="0982a02" ed="T"/><p xml:id="pT51p0982a0201">南行十里渡<app type="star" corresp="#0981011"><lem resp="CBETA.maha" wit="【CBETA】">恒<note type="cf1">B17n0093_p0679b14</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河。河南有大浮圖。自鹿野苑
+<lb n="0982a02" ed="T"/><p xml:id="pT51p0982a0201">南行十里渡<app type="star" corresp="#0981011"><lem resp="CBETA.maha" wit="【CB】">恒<note type="cf1">B17n0093_p0679b14</note></lem><rdg resp="Taisho" wit="【大】">洹</rdg><rdg resp="Taisho" wit="【大】" type="correctionRemark">恆</rdg></app>河。河南有大浮圖。自鹿野苑
 <lb n="0982a03" ed="T"/>西至摩迦提國。館於漢寺。寺多租入。八村隷
 <lb n="0982a04" ed="T"/>焉。僧徒往來如歸。南與杖林山相直。巍峯巋
 <lb n="0982a05" ed="T"/>然。山北有優婆掬多石室及塔廟故基。南百
@@ -1486,7 +1486,7 @@ Added comment  for Emacs
 <lb n="0989b20" ed="T"/>嶼山。住一月。待好風發。欲到<note n="0989050" resp="Taisho" place="foot text" type="orig">桑石＝桑名【丁】，乘名【戊】【己】</note><note n="0989050" resp="CBETA" type="mod">桑石【大】，桑名【丁】，乘名【戊】【己】</note><app n="0989050"><lem wit="【大】">桑石</lem><rdg resp="Taisho" wit="【丁】">桑名</rdg><rdg resp="Taisho" wit="【戊】【己】">乘名</rdg></app>山。風<app type="star" corresp="#0989047"><lem wit="【大】">急</lem><rdg resp="Taisho" wit="【甲】">怱</rdg></app>
 <lb n="0989b21" ed="T"/>浪<note n="0989051" resp="Taisho" place="foot text" type="orig">〔高〕－【甲】</note><note n="0989051" resp="CBETA" type="mod">高【大】，〔－〕【甲】</note><app n="0989051"><lem wit="【大】">高</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。舟<note n="0989052" resp="Taisho" place="foot text" type="orig">無著岸＝垂著石【乙】【丙】</note><note n="0989052" resp="CBETA" type="mod">無著岸【大】，垂著石【乙】【丙】</note><app n="0989052"><lem wit="【大】">無著<note n="0989053" resp="Taisho" place="foot text" type="orig">岸＝石【甲】</note><note n="0989053" resp="CBETA" type="mod">岸【大】，石【甲】</note><app n="0989053"><lem wit="【大】">岸</lem><rdg resp="Taisho" wit="【甲】">石</rdg></app></lem><rdg resp="Taisho" wit="【乙】【丙】">垂著石</rdg></app>。無計可量。纔離嶮岸。還
 <lb n="0989b22" ed="T"/>落石上。舟破。人並舟上岸。水米俱盡。飢渴三
-<lb n="0989b23" ed="T"/>日。風停浪靜。<note n="0989054" resp="Taisho" place="foot text" type="orig">泉郎＝白水郎？，泉海郎【丙】</note><note n="0989054" resp="CBETA" type="mod"><!--CBETA todo type: a-->泉郎＝白水郎？，<!--CBETA todo type: newmod-->＝泉海郎【丙】</note><app n="0989054"><lem resp="Taisho" wit="【大】">泉郎</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">白水郎</rdg><rdg resp="Taisho" wit="【丙】" type="correctionRemark">泉海郎</rdg></app>將水米來相救。又經五
+<lb n="0989b23" ed="T"/>日。風停浪靜。<note n="0989054" resp="Taisho" place="foot text" type="orig">泉郎＝白水郎？，泉海郎【丙】</note><note n="0989054" resp="CBETA" type="mod"><!--CBETA todo type: a-->泉郎【大】，白水郎【考偽-大】，泉海郎【丙】</note><app n="0989054"><lem resp="Taisho" wit="【大】">泉郎</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">白水郎</rdg><rdg resp="Taisho" wit="【丙】" type="correctionRemark">泉海郎</rdg></app>將水米來相救。又經五
 <lb n="0989b24" ed="T"/>日。有還海官。來問消息。申請明州大守處分。
 <lb n="0989b25" ed="T"/>安置鄮縣山阿育王寺。寺有阿育王塔。明州
 <lb n="0989b26" ed="T"/>者舊是越州之一縣也。開元二十<note n="0989055" resp="Taisho" place="foot text" type="orig">一＝二【乙】</note><note n="0989055" resp="CBETA" type="mod">一【大】，二【乙】</note><app n="0989055"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【乙】">二</rdg></app>年。越州
@@ -1537,7 +1537,7 @@ Added comment  for Emacs
 <lb n="0990a20" ed="T"/>嚴華飾。不可言盡。孫綽天台山賦不能盡其
 <lb n="0990a21" ed="T"/>萬一。<app type="star" corresp="#0989071"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>和上巡禮聖<note n="0990014" resp="Taisho" place="foot text" type="orig">跡＝迹【甲】</note><note n="0990014" resp="CBETA" type="mod">跡【大】，迹【甲】</note><app n="0990014"><lem wit="【大】">跡</lem><rdg resp="Taisho" wit="【甲】">迹</rdg></app>。出始豐縣。入臨海
 <lb n="0990a22" ed="T"/>縣。導於<note n="0990015" resp="Taisho" place="foot text" type="orig">白＝日【甲】【丙】</note><note n="0990015" resp="CBETA" type="mod">白【大】，日【甲】【丙】</note><app n="0990015"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【甲】【丙】">日</rdg></app>峯。尋江遂至黃巖縣。便取永嘉
-<lb n="0990a23" ed="T"/>郡路。到禪林寺宿。明朝早<note n="0990016" resp="Taisho" place="foot text" type="orig">食＋（食）【甲】【乙】，＋（蚤）【丙】</note><note n="0990016" resp="CBETA" type="mod">食【大】，食食【甲】【乙】，蚤【丙】</note><app n="0990016"><lem wit="【大】">食</lem><rdg resp="Taisho" wit="【甲】【乙】">食食</rdg><rdg resp="Taisho" wit="【丙】">食蚤</rdg></app>。發欲向溫州。
+<lb n="0990a23" ed="T"/>郡路。到禪林寺宿。明朝早<note n="0990016" resp="Taisho" place="foot text" type="orig">食＋（食）【甲】【乙】，＋（蚤）【丙】</note><note n="0990016" resp="CBETA" type="mod">食【大】，食食【甲】【乙】，食蚤【丙】</note><app n="0990016"><lem wit="【大】">食</lem><rdg resp="Taisho" wit="【甲】【乙】">食食</rdg><rdg resp="Taisho" wit="【丙】">食蚤</rdg></app>。發欲向溫州。
 <lb n="0990a24" ed="T"/>忽有採訪使牃來追。其意者在揚州<app type="star" corresp="#0989071"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>和上
 <lb n="0990a25" ed="T"/>弟子僧靈祐。及諸寺三綱眾僧同議曰。我大
 <lb n="0990a26" ed="T"/>師和上發願向日本國。<note n="0990017" resp="Taisho" place="foot text" type="orig">登＝發【甲】</note><note n="0990017" resp="CBETA" type="mod">登【大】，發【甲】</note><app n="0990017"><lem wit="【大】">登</lem><rdg resp="Taisho" wit="【甲】">發</rdg></app>山涉海。數年艱苦。
@@ -1552,7 +1552,7 @@ Added comment  for Emacs
 <lb n="0990b05" ed="T"/>護<note n="0990021" resp="Taisho" place="foot text" type="orig">〔曰〕－【甲】</note><note n="0990021" resp="CBETA" type="mod">曰【大】，〔－〕【甲】</note><app n="0990021"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>。勿令更向他國。諸州道俗聞<app type="star" corresp="#0989071"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>和上
 <lb n="0990b06" ed="T"/>還至。各<note n="0990b0601" resp="CBETA" type="add">辦【CB】，辨【大】</note><app n="0990b0601"><lem wit="【CB】" resp="CBETA">辦</lem><rdg wit="【大】">辨</rdg></app>四事供養。競來慶賀。遞相把手慰
 <lb n="0990b07" ed="T"/>勞。獨<app type="star" corresp="#0989071"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>和上憂愁。呵嘖靈祐。不賜開顏。其
-<lb n="0990b08" ed="T"/>靈祐日日懺謝乞歡喜。每夜一更立至五<note n="0990022" resp="Taisho" place="foot text" type="orig">更＋（更）【甲】，＋（已）【丙】【丁】</note><note n="0990022" resp="CBETA" type="mod">更【大】，更更【甲】，已【丙】【丁】</note><app n="0990022"><lem wit="【大】">更</lem><rdg resp="Taisho" wit="【甲】">更更</rdg><rdg resp="Taisho" wit="【丙】【丁】">更已</rdg></app>
+<lb n="0990b08" ed="T"/>靈祐日日懺謝乞歡喜。每夜一更立至五<note n="0990022" resp="Taisho" place="foot text" type="orig">更＋（更）【甲】，＋（已）【丙】【丁】</note><note n="0990022" resp="CBETA" type="mod">更【大】，更更【甲】，更已【丙】【丁】</note><app n="0990022"><lem wit="【大】">更</lem><rdg resp="Taisho" wit="【甲】">更更</rdg><rdg resp="Taisho" wit="【丙】【丁】">更已</rdg></app>
 <lb n="0990b09" ed="T"/>謝罪。遂終六十日。又諸寺三綱大德共來禮
 <lb n="0990b10" ed="T"/>謝乞歡喜。<app type="star" corresp="#0989071"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】"><space quantity="0"/></rdg></app>和上乃開顏耳。</p>
 <lb n="0990b11" ed="T"/><p xml:id="pT51p0990b1101">天寶七載春。榮叡普照師從同安郡至揚州
@@ -1935,7 +1935,7 @@ Added comment  for Emacs
 <lb n="0994c14" ed="T"/><l>戒香餘散馥</l><l>慧炬復流風</l>
 <lb n="0994c15" ed="T"/><l>月隱歸靈鷲</l><l>珠逃入梵宮</l>
 <lb n="0994c16" ed="T"/><l>神飛生死表</l><l>遺教法門中</l></lg></cb:div>
-<lb n="0994c17" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">五言傷大和上</cb:mulu><head>五<note n="0994020" resp="Taisho" place="foot text" type="orig">言＋（同）【乙】【丙】＊，（同前）【丙】＊</note><note n="0994020" resp="CBETA" type="mod">言【大】＊，言同【乙】＊，<!--CBETA todo type: i-->言同【丙】＊，<!--CBETA todo type: newmod-->（同前）【丙】＊</note><app n="0994020"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【乙】">言同</rdg></app>傷　大和上</head>
+<lb n="0994c17" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">五言傷大和上</cb:mulu><head>五<note n="0994020" resp="Taisho" place="foot text" type="orig">言＋（同）【乙】【丙】＊，（同前）【丙】＊</note><note n="0994020" resp="CBETA" type="mod">言【大】＊，言同【乙】＊，<!--CBETA todo type: newmod-->言同前【丙】＊，<!--CBETA todo type: newmod--><!--CBETA todo type: i-->言＋（同）【丙】＊</note><app n="0994020"><lem wit="【大】">言</lem><rdg resp="Taisho" wit="【乙】">言同</rdg></app>傷　大和上</head>
 <lb n="0994c18" ed="T"/><byline cb:type="author">金紫光祿大夫中納言行式部卿石上宅
 <lb n="0994c19" ed="T"/>嗣</byline>
 <lb n="0994c20" ed="T"/><lg xml:id="lgT51p0994c2001"><l>上德從遷化</l><l>餘燈欲斷風</l>

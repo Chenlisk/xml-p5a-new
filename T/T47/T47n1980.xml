@@ -349,7 +349,7 @@ Added comment  for Emacs
 <lb n="0440c23" ed="T"/><p xml:id="pT47p0440c2301" rend="margin-left:1em">初夜偈云。</p>
 <lb n="0440c24" ed="T"/><lg xml:id="lgT47p0440c2401"><l>煩惱深無底</l><l>生死海無邊</l>
 <lb n="0440c25" ed="T"/><l>度苦船未立</l><l>云何樂睡眠</l>
-<lb n="0440c26" ed="T"/><l>勇猛勤精進</l><l>攝心常在<note n="0440010" resp="Taisho" place="foot text" type="orig">禪＋（勤脩六度行，菩提道自然）ィ【原】【甲】</note><note n="0440010" resp="CBETA" type="mod">禪＋（勤脩六度行，<!--CBETA todo type: newmod-->菩提道自然）ィ【原】【甲】</note><app n="0440010"><lem wit="【大】">禪</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">禪勤脩六度行，菩提道自然</rdg></app></l></lg>
+<lb n="0440c26" ed="T"/><l>勇猛勤精進</l><l>攝心常在<note n="0440010" resp="Taisho" place="foot text" type="orig">禪＋（勤脩六度行，菩提道自然）ィ【原】【甲】</note><note n="0440010" resp="CBETA" type="mod">禪【大】，（禪勤脩六度行，菩提道自然）【校異-原】【甲】</note><app n="0440010"><lem wit="【大】">禪</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">禪勤脩六度行，菩提道自然</rdg></app></l></lg>
 <lb n="0440c27" ed="T"/><p xml:id="pT47p0440c2701" rend="margin-left:1em">中夜偈云。</p>
 <lb n="0440c28" ed="T"/><lg xml:id="lgT47p0440c2801"><l>汝等勿抱臭屍臥</l><l>種種不淨假名人</l>
 <lb n="0440c29" ed="T"/><l>如得重病箭入體</l><l>眾苦痛集安可眠</l></lg>
@@ -956,7 +956,7 @@ Added comment  for Emacs
 <lb n="0447c01" ed="T"/><p xml:id="pT47p0447c0101">若入觀及睡眠時。應發此願。若坐若立。一心
 <lb n="0447c02" ed="T"/>合掌。正面向西。十聲稱阿彌陀佛觀音勢至
 <lb n="0447c03" ed="T"/>諸菩薩清淨大海眾竟。弟子<note place="inline">某甲</note>現是生死凡
-<lb n="0447c04" ed="T"/>夫。罪障深重。<note n="0447007" resp="Taisho" place="foot text" type="orig">（（淪六…云））八字＝（（輪回六道苦不可言））八字ィ【原】【甲】</note><note n="0447007" resp="CBETA" type="mod">（淪六…云）八字【大】，輪回六道苦不可言【原】【甲】</note><app cb:word-count="8" n="0447007"><lem wit="【大】">淪六道苦不可具云</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">輪回六道苦不可言</rdg></app>。今日遇
+<lb n="0447c04" ed="T"/>夫。罪障深重。<note n="0447007" resp="Taisho" place="foot text" type="orig">（（淪六…云））八字＝（（輪回六道苦不可言））八字ィ【原】【甲】</note><note n="0447007" resp="CBETA" type="mod">（淪六…云）八字【大】，輪回六道苦不可言【校異-原】【甲】</note><app cb:word-count="8" n="0447007"><lem wit="【大】">淪六道苦不可具云</lem><rdg resp="Taisho" wit="【原】【甲】" type="variantRemark">輪回六道苦不可言</rdg></app>。今日遇
 <lb n="0447c05" ed="T"/>善知識。得聞彌陀本願名號。一心稱念求願
 <lb n="0447c06" ed="T"/>往生。願佛慈悲不捨本弘誓願攝受。弟子不
 <lb n="0447c07" ed="T"/>識彌陀佛身相光明。願佛慈悲示現弟子身

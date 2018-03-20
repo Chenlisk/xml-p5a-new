@@ -5057,7 +5057,7 @@ Added comment  for Emacs
 <lb n="0434c09" ed="T"/>
 <lb n="0434c10" ed="T"/><byline cb:type="author">無性菩薩造</byline>
 <lb n="0434c11" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT31p0434c02"/>三藏法師玄奘奉　<anchor xml:id="fxT31p0434c03"/>詔譯</byline>
-<lb n="0434c12" ed="T"/><cb:mulu level="1" n="10" type="分">10 果斷分</cb:mulu><head><note n="0434004" resp="Taisho" place="foot text" type="orig">（釋）＋果【明】，（彼）【宮】</note><note n="0434004" resp="CBETA" type="mod">果【大】，釋果【明】，<!--CBETA todo type: newmod-->（彼）【宮】</note><app n="0434004"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【明】">釋果</rdg><rdg resp="Taisho" wit="【宮】">彼果</rdg></app>斷分第十</head>
+<lb n="0434c12" ed="T"/><cb:mulu level="1" n="10" type="分">10 果斷分</cb:mulu><head><note n="0434004" resp="Taisho" place="foot text" type="orig">（釋）＋果【明】，（彼）【宮】</note><note n="0434004" resp="CBETA" type="mod">果【大】，釋果【明】，<!--CBETA todo type: newmod-->彼果【宮】</note><app n="0434004"><lem wit="【大】">果</lem><rdg resp="Taisho" wit="【明】">釋果</rdg><rdg resp="Taisho" wit="【宮】">彼果</rdg></app>斷分第十</head>
 <lb n="0434c13" ed="T"/><p xml:id="pT31p0434c1301">論曰。如是已說增上慧殊勝。彼果斷殊勝云
 <lb n="0434c14" ed="T"/>何可見。斷謂菩薩無住涅槃。以捨雜染不捨
 <lb n="0434c15" ed="T"/>生死。二所依止轉依為相。此中生死。謂依他

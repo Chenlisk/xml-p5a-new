@@ -269,7 +269,7 @@ Added comment  for Emacs
 <lb ed="T" n="0787a03"/>海、千蘇迷盧大寶山王、千七金山輪圍山等，
 <lb ed="T" n="0787a04"/>千<note place="foot text" n="0787001" resp="Taisho" type="orig">贍＝瞻【宋】【元】</note><note n="0787001" resp="CBETA" type="mod">贍【大】，瞻【宋】【元】</note><app n="0787001"><lem wit="【大】">贍</lem><rdg resp="Taisho" wit="【宋】【元】">瞻</rdg></app>部洲、千毘提訶、千瞿陀尼、千俱盧洲、
 <lb n="0787a05" ed="T"/>千四<note type="orig" place="foot text" n="0787002" resp="Taisho">天＝大【聖】</note><note type="mod" n="0787002" resp="CBETA">天【大】，大【聖】</note><app n="0787002"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【聖】">大</rdg></app>王天、千三十三天、千夜摩天、千覩
-<lb ed="T" n="0787a06"/>史多天、千<note n="0787003" resp="Taisho" place="foot text" type="orig">樂化＝化樂【三】【宮】，樂＋（變）【聖】</note><note resp="CBETA" n="0787003" type="mod">樂化【大】，化樂【宋】【元】【明】【宮】，樂變【聖】</note><app n="0787003"><lem wit="【大】">樂化</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">化樂</rdg><rdg resp="Taisho" wit="【聖】">樂變化</rdg></app>天、千他化自在天、千梵眾
+<lb ed="T" n="0787a06"/>史多天、千<note n="0787003" resp="Taisho" place="foot text" type="orig">樂化＝化樂【三】【宮】，樂＋（變）【聖】</note><note resp="CBETA" n="0787003" type="mod">樂化【大】，化樂【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->樂＋（變）【聖】</note><app n="0787003"><lem wit="【大】">樂化</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">化樂</rdg><rdg resp="Taisho" wit="【聖】">樂變化</rdg></app>天、千他化自在天、千梵眾
 <lb ed="T" n="0787a07"/>天，一大梵王於中自在，如是名為一小千界。
 <lb ed="T" n="0787a08"/>乘此復有中千世界，有鐵輪山周匝圍繞，其
 <lb n="0787a09" ed="T"/>中具有千小千界，如是名為一中千界。乘此

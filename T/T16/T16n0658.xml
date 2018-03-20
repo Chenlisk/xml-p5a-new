@@ -333,7 +333,7 @@ Added comment  for Emacs
 <lb n="0210c28" ed="T"/><l>指地以為證，</l><l>魔怨皆退散，</l>
 <lb n="0210c29" ed="T"/><l>我今到伽耶，</l><l>稽首無垢尊。</l>
 <pb n="0211a" ed="T" xml:id="T16.0658.0211a"/>
-<lb n="0211a01" ed="T"/><l>世間皆幻化，</l><note n="0211001" resp="Taisho" type="orig" place="foot text">〔亦如…清淨身無垢〕三十六句－【元】【明】</note><note n="0211001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔亦如…清淨身無垢〕三十六句－【元】【明】</note><app n="0211001" cb:word-count="180"><lem wit="【大】"><l>亦如沫泡炎，</l>
+<lb n="0211a01" ed="T"/><l>世間皆幻化，</l><note n="0211001" resp="Taisho" type="orig" place="foot text">〔亦如…清淨身無垢〕三十六句－【元】【明】</note><note n="0211001" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（亦如…清淨身無垢）三十六句【大】，〔－〕【元】【明】</note><app n="0211001" cb:word-count="180"><lem wit="【大】"><l>亦如沫泡炎，</l>
 <lb n="0211a02" ed="T"/><l>虛誑如水月；</l><l>法相亦如是，</l>
 <lb n="0211a03" ed="T"/><l>我今來至此，</l><l>敬禮正智樹。</l>
 <lb n="0211a04" ed="T"/><l>譬如伎藝人，</l><l>能現諸權變，</l>
@@ -528,7 +528,7 @@ Added comment  for Emacs
 <lb n="0213a13" ed="T"/>提，亦自具足菩<note n="0213001" resp="Taisho" type="orig" place="foot text">提＝薩【元】【明】</note><note n="0213001" resp="CBETA" type="mod">提【大】，薩【元】【明】</note><app n="0213001"><lem wit="【大】">提</lem><rdg resp="Taisho" wit="【元】【明】">薩</rdg></app>威儀，言辭柔軟，少於言
 <lb n="0213a14" ed="T"/>說，不好親近大臣、群官，恒修阿練若行，和顏
 <lb n="0213a15" ed="T"/>悅色。能具如是菩薩威儀戒，及餘經中諸菩
-<lb n="0213a16" ed="T"/>薩戒悉具修行，是名菩薩<note n="0213a1601" resp="CBETA" type="add">緻密【大】【磧砂-CB】，密緻【麗-CB】</note><app n="0213a1601"><lem wit="【大】">緻密</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">緻密<note type="cf1">Q12_p0714c02</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">密緻<note type="cf1">K10n0134_p0152c19</note></rdg></app>戒。</p><p xml:id="pT16p0213a1614" rend="inline">「云何名菩
+<lb n="0213a16" ed="T"/>薩戒悉具修行，是名菩薩<note n="0213a1601" resp="CBETA" type="add">緻密【大】【磧砂-CB】，密緻【麗-CB】</note><app n="0213a1601"><lem wit="【大】">緻密</lem><rdg resp="CBETA.maha" wit="【磧-CB】">緻密<note type="cf1">Q12_p0714c02</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">密緻<note type="cf1">K10n0134_p0152c19</note></rdg></app>戒。</p><p xml:id="pT16p0213a1614" rend="inline">「云何名菩
 <lb n="0213a17" ed="T"/>薩滅<note n="0213a1701" resp="CBETA" type="add">一【CB】，［－］【大】</note><app n="0213a1701"><lem wit="【CB】" resp="CBETA">一</lem><rdg wit="【大】">　</rdg></app>切結使皆悉燋然？貪欲、瞋恚、愚<note n="0213a1702" resp="CBETA" type="add">癡【CB】，疑【大】</note><app n="0213a1702"><lem wit="【CB】" resp="CBETA">癡</lem><rdg wit="【大】">疑</rdg></app>及餘
 <lb n="0213a18" ed="T"/>纏障一切眾具亦皆燋然。於貪欲處生對治
 <lb n="0213a19" ed="T"/>法，能起欲處<note n="0213002" resp="Taisho" type="orig" place="foot text">皆悉＝悉皆【元】【明】</note><note n="0213002" resp="CBETA" type="mod">皆悉【大】，悉皆【元】【明】</note><app n="0213002"><lem wit="【大】">皆悉</lem><rdg resp="Taisho" wit="【元】【明】">悉皆</rdg></app>除斷。云何是貪欲處？於

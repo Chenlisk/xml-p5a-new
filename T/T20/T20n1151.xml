@@ -154,7 +154,7 @@ Added comment  for Emacs
 <lb n="0610c28" ed="T"/><l>殷勤心加持</l><l>奉獻諸如來</l>
 <lb n="0610c29" ed="T"/><l>如空剎土爾</l><l>如剎佛亦然</l>
 <pb n="0611a" xml:id="T20.1151.0611a" ed="T"/>
-<lb n="0611a01" ed="T"/><note n="0611001" resp="Taisho" place="foot text" type="orig">（如佛…量）十五字＝（佛法既無窮供養悉周遍一心恒供養）十五字ィ【甲】</note><note n="0611001" resp="CBETA" type="mod">（如佛…量）十五字【大】，佛法既無窮供養悉周遍一心恒供養【甲】</note><app cb:word-count="15" n="0611001"><lem wit="【大】"><l>如佛法亦然</l><l>如法供養然</l>
+<lb n="0611a01" ed="T"/><note n="0611001" resp="Taisho" place="foot text" type="orig">（如佛…量）十五字＝（佛法既無窮供養悉周遍一心恒供養）十五字ィ【甲】</note><note n="0611001" resp="CBETA" type="mod">（如佛…量）十五字【大】，佛法既無窮供養悉周遍一心恒供養【校異-甲】</note><app cb:word-count="15" n="0611001"><lem wit="【大】"><l>如佛法亦然</l><l>如法供養然</l>
 <lb n="0611a02" ed="T"/><l>一切皆無量</l></lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">佛法既無窮供養悉周遍一心恒供養</rdg></app><l>十方無邊剎</l>
 <lb n="0611a03" ed="T"/><l>知已作是言</l><l><note n="0611002" resp="Taisho" place="foot text" type="orig">敬禮諸如來＝普禮佛法海ィ【甲】</note><note n="0611002" resp="CBETA" type="mod">敬禮諸如來【大】，普禮佛法海【校異-甲】</note><app n="0611002"><lem wit="【大】">敬禮諸如來</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">普禮佛法海</rdg></app></l></lg>
 <lb n="0611a04" ed="T"/><p xml:id="pT20p0611a0401">遍禮一切如來真言曰。</p>
@@ -200,7 +200,7 @@ Added comment  for Emacs
 <lb n="0611b14" ed="T"/><p xml:id="pT20p0611b1401" cb:type="dharani">嚩日囉<note place="inline">二合</note>滿馱</p>
 <lb n="0611b15" ed="T"/><lg xml:id="lgT20p0611b1501"><l>如前金剛縛</l><l>掣擊於心上</l>
 <lb n="0611b16" ed="T"/><l>能滅諸結使</l><l>開顯解脫宮</l></lg>
-<lb n="0611b17" ed="T"/><p xml:id="pT20p0611b1701"><note n="0611009" resp="Taisho" place="foot text" type="orig">（即當…曰）八字＝（字想安於二乳即誦開心真言每誦掣開心戶）十八字ィ【甲】</note><note n="0611009" resp="CBETA" type="mod">（即當…曰）八字【大】，字想安於二乳即誦開心真言每誦掣開心戶【甲】</note><app cb:word-count="8" n="0611009"><lem wit="【大】">即當誦開心真言曰</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">字想安於二乳即誦開心真言每誦掣開心戶</rdg></app>。</p>
+<lb n="0611b17" ed="T"/><p xml:id="pT20p0611b1701"><note n="0611009" resp="Taisho" place="foot text" type="orig">（即當…曰）八字＝（字想安於二乳即誦開心真言每誦掣開心戶）十八字ィ【甲】</note><note n="0611009" resp="CBETA" type="mod">（即當…曰）八字【大】，字想安於二乳即誦開心真言每誦掣開心戶【校異-甲】</note><app cb:word-count="8" n="0611009"><lem wit="【大】">即當誦開心真言曰</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">字想安於二乳即誦開心真言每誦掣開心戶</rdg></app>。</p>
 <lb n="0611b18" ed="T"/><p xml:id="pT20p0611b1801" cb:type="dharani">嚩日囉<note place="inline">二合</note>滿馱怛囉<note place="inline">二合</note>吒<note place="inline">吒半音呼</note></p>
 <lb n="0611b19" ed="T"/><lg xml:id="lgT20p0611b1901"><l>次結發智印</l><l>如前金剛縛</l>
 <lb n="0611b20" ed="T"/><l>定慧入於掌</l><l>召入圓寂智</l>
@@ -278,7 +278,7 @@ Added comment  for Emacs
 <lb n="0612b02" ed="T"/><p xml:id="pT20p0612b0201" cb:type="dharani">唵<note place="inline">一</note>嚩日囉<note place="inline">二合引</note>麼<note place="inline">引</note>邏<note place="inline">引</note>避詵者<note place="inline">二</note>滿<note place="inline">三引</note>𤚥</p>
 <lb n="0612b03" ed="T"/><p xml:id="pT20p0612b0301">次結甲冑印。二羽金剛印。擐甲及自他。頭指
 <lb n="0612b04" ed="T"/>相繞結。恒成於大護。即誦甲冑真言曰。</p>
-<lb n="0612b05" ed="T"/><p xml:id="pT20p0612b0501" cb:type="dharani">唵<note n="0612007" resp="Taisho" place="foot text" type="orig">（嚩日…唅）二十一字＝（砧）一字ィ【甲】</note><note n="0612007" resp="CBETA" type="mod">（嚩日…唅）二十一字【大】，砧【甲】</note><app cb:word-count="21" n="0612007"><lem wit="【大】">嚩日囉<note place="inline">二合</note>迦嚩左嚩日𠼝<note place="inline">二合</note>句嚕嚩日
+<lb n="0612b05" ed="T"/><p xml:id="pT20p0612b0501" cb:type="dharani">唵<note n="0612007" resp="Taisho" place="foot text" type="orig">（嚩日…唅）二十一字＝（砧）一字ィ【甲】</note><note n="0612007" resp="CBETA" type="mod">（嚩日…唅）二十一字【大】，砧【校異-甲】</note><app cb:word-count="21" n="0612007"><lem wit="【大】">嚩日囉<note place="inline">二合</note>迦嚩左嚩日𠼝<note place="inline">二合</note>句嚕嚩日
 <lb n="0612b06" ed="T"/>囉<note place="inline">二合</note>唅</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">砧</rdg></app></p>
 <lb n="0612b07" ed="T"/><p xml:id="pT20p0612b0701">以此甲冑印及誦真言而被甲。即得金剛性
 <lb n="0612b08" ed="T"/>身。及獲金剛壽命。盡形得大加護。於一切處

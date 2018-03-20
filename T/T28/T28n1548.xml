@@ -1131,7 +1131,7 @@ Added comment  for Emacs
 <lb n="0535c15" ed="T"/>名意界有漏。云何意界無漏？若意界無愛，是
 <lb n="0535c16" ed="T"/>名意界無漏。云何意界無漏？若意界信根相
 <lb n="0535c17" ed="T"/>應意界，是名意界無漏。云何意界無漏？若意
-<lb n="0535c18" ed="T"/>界若學無<note resp="Taisho" n="0535011" place="foot text" type="orig">學＋（學）【三】【宮】，（學學）【聖】【聖乙】</note><note resp="CBETA" n="0535011" type="mod">學【大】，學學【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->（學學）【聖】【聖乙】</note><app n="0535011"><lem wit="【大】">學</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">學學</rdg><rdg resp="Taisho" wit="【聖】【聖乙】">學學學</rdg></app>人離結使，乃至即得阿羅漢果。
+<lb n="0535c18" ed="T"/>界若學無<note resp="Taisho" n="0535011" place="foot text" type="orig">學＋（學）【三】【宮】，（學學）【聖】【聖乙】</note><note resp="CBETA" n="0535011" type="mod">學【大】，學學【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->學學學【聖】【聖乙】</note><app n="0535011"><lem wit="【大】">學</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">學學</rdg><rdg resp="Taisho" wit="【聖】【聖乙】">學學學</rdg></app>人離結使，乃至即得阿羅漢果。
 <lb n="0535c19" ed="T"/>若實人若趣意界，是名意界無漏。意識界亦
 <lb n="0535c20" ed="T"/>如是。云何法界有漏？若法界有愛，是名法界
 <lb n="0535c21" ed="T"/>有漏。云何法界有漏？受受陰、想受陰、行受陰，
@@ -1276,7 +1276,7 @@ Added comment  for Emacs
 <lb n="0537b10" ed="T"/>共心或不共心？法界，是名一二分或共心或
 <lb n="0537b11" ed="T"/>不共心。云何法界共心？若法界隨心轉，共心
 <lb n="0537b12" ed="T"/>生共住共滅，受想乃至煩惱使、有漏身口戒
-<lb n="0537b13" ed="T"/>無教、有漏身進有漏身除、正語正業正<note n="0537b1301" resp="CBETA" type="add">命【大】【磧砂-CB】，念【麗-CB】</note><app n="0537b1301"><lem wit="【大】">命</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">命<note type="cf1">Q27_p0125c24</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">念<note type="cf1">K29n0969_p0019b19</note></rdg></app>、正
+<lb n="0537b13" ed="T"/>無教、有漏身進有漏身除、正語正業正<note n="0537b1301" resp="CBETA" type="add">命【大】【磧砂-CB】，念【麗-CB】</note><app n="0537b1301"><lem wit="【大】">命</lem><rdg resp="CBETA.maha" wit="【磧-CB】">命<note type="cf1">Q27_p0125c24</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">念<note type="cf1">K29n0969_p0019b19</note></rdg></app>、正
 <lb n="0537b14" ed="T"/>身進正身除，是名法界共心。云何法界不共
 <lb n="0537b15" ed="T"/>心？若法界不隨心轉，不共心生不共住不共
 <lb n="0537b16" ed="T"/>滅，生乃至非想非非想處智，是名法界不共
@@ -2769,8 +2769,8 @@ Added comment  for Emacs
 <lb n="0554a01" ed="T"/>愛、瞋恚，若得甘露，是名阿那含果。云何阿那
 <lb n="0554a02" ed="T"/>含果？五下分煩惱斷，身見、疑、戒盜、欲愛、瞋恚，
 <lb n="0554a03" ed="T"/>聖道一時俱斷煩惱，是名阿那含果。云何阿
-<lb n="0554a04" ed="T"/>那含果？五下分煩惱斷，身見、疑、戒盜、欲愛、<note n="0554a0401" resp="CBETA" type="add">瞋【大】，恚【磧砂-CB】【麗-CB】</note><app n="0554a0401"><lem wit="【大】">瞋</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】【麗-CB】">恚<note type="cf1">Q27_p0142a20</note><note type="cf2">K29n0969_p0044c17</note></rdg></app>
-<lb n="0554a05" ed="T"/><note n="0554a0501" resp="CBETA" type="add">恚【大】，瞋【磧砂-CB】【麗-CB】</note><app n="0554a0501"><lem wit="【大】">恚</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】【麗-CB】">瞋<note type="cf1">Q27_p0142a20</note><note type="cf2">K29n0969_p0044c17</note></rdg></app>，聖道一時俱斷煩惱，若得甘露，是名阿那
+<lb n="0554a04" ed="T"/>那含果？五下分煩惱斷，身見、疑、戒盜、欲愛、<note n="0554a0401" resp="CBETA" type="add">瞋【大】，恚【磧砂-CB】【麗-CB】</note><app n="0554a0401"><lem wit="【大】">瞋</lem><rdg resp="CBETA.maha" wit="【麗-CB】【磧-CB】">恚<note type="cf1">Q27_p0142a20</note><note type="cf2">K29n0969_p0044c17</note></rdg></app>
+<lb n="0554a05" ed="T"/><note n="0554a0501" resp="CBETA" type="add">恚【大】，瞋【磧砂-CB】【麗-CB】</note><app n="0554a0501"><lem wit="【大】">恚</lem><rdg resp="CBETA.maha" wit="【麗-CB】【磧-CB】">瞋<note type="cf1">Q27_p0142a20</note><note type="cf2">K29n0969_p0044c17</note></rdg></app>，聖道一時俱斷煩惱，若得甘露，是名阿那
 <lb n="0554a06" ed="T"/>含果。云何阿羅漢果？若思惟斷色界無色界
 <lb n="0554a07" ed="T"/>煩惱斷無餘，是名阿羅漢果。云何阿羅漢果？
 <lb n="0554a08" ed="T"/>思惟斷色界無色界煩惱斷無餘，若得甘露，
@@ -3029,7 +3029,7 @@ Added comment  for Emacs
 <lb n="0556c21" ed="T"/>教、有漏身進、不定心思、生老死、命、結，是名苦
 <lb n="0556c22" ed="T"/>聖諦不共業。隨業轉不隨業轉亦如是。</p>
 <lb n="0556c23" ed="T"/><p xml:id="pT28p0556c2301">四聖諦，幾因、幾非因？二因，一非因，一二分
-<lb n="0556c24" ed="T"/>或因或非因。云何<note resp="Taisho" n="0556004" place="foot text" type="orig">一＝二【三】【宮】</note><note resp="CBETA" n="0556004" type="mod">二【CB】【宋】【元】【明】【宮】，一【大】</note><app n="0556004"><lem resp="CBETA.maha" wit="【CBETA】">二</lem><rdg wit="【大】">一</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>因？集聖諦、道聖諦，是
+<lb n="0556c24" ed="T"/>或因或非因。云何<note resp="Taisho" n="0556004" place="foot text" type="orig">一＝二【三】【宮】</note><note resp="CBETA" n="0556004" type="mod">二【CB】【宋】【元】【明】【宮】，一【大】</note><app n="0556004"><lem resp="CBETA.maha" wit="【CB】">二</lem><rdg wit="【大】">一</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">二</rdg></app>因？集聖諦、道聖諦，是
 <lb n="0556c25" ed="T"/>名二因。云何一非因？滅聖諦，是名一非因。云
 <lb n="0556c26" ed="T"/>何一二分或因或非因？苦聖諦，是名一二分
 <lb n="0556c27" ed="T"/>或因或非因。云何苦聖諦因？苦聖諦緣、苦聖
@@ -3557,7 +3557,7 @@ Added comment  for Emacs
 <lb n="0562c07" ed="T"/>知根無報。云何已知根有報？已知根報法，名
 <lb n="0562c08" ed="T"/>已知根有報。云何已知根有報？無學人欲得
 <lb n="0562c09" ed="T"/>阿羅漢，未得聖法欲得，修道。若實人若趣，想、
-<lb n="0562c10" ed="T"/>思、觸、思惟、覺觀、解脫、悅、喜、心除、欲、不放逸、<note resp="Taisho" n="0562008" place="foot text" type="orig">心＋（進心）【三】【宮】，（進）【聖】【聖乙】</note><note resp="CBETA" n="0562008" type="mod">心【大】，心進心【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->（進）【聖】【聖乙】</note><app n="0562008"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">心進心</rdg><rdg resp="Taisho" wit="【聖】【聖乙】">心進</rdg></app>
+<lb n="0562c10" ed="T"/>思、觸、思惟、覺觀、解脫、悅、喜、心除、欲、不放逸、<note resp="Taisho" n="0562008" place="foot text" type="orig">心＋（進心）【三】【宮】，（進）【聖】【聖乙】</note><note resp="CBETA" n="0562008" type="mod">心【大】，心進心【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->心進【聖】【聖乙】</note><app n="0562008"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">心進心</rdg><rdg resp="Taisho" wit="【聖】【聖乙】">心進</rdg></app>
 <lb n="0562c11" ed="T"/>捨、滅盡定、正語正業正命、正身除，名已知根
 <lb n="0562c12" ed="T"/>有報。云何已知根無報？<note resp="Taisho" n="0562009" place="foot text" type="orig">〔已知…報〕十七字－【聖】【聖乙】</note><note resp="CBETA" n="0562009" type="mod">（已知…報）十七字【大】，〔－〕【聖】【聖乙】</note><app n="0562009" cb:word-count="17"><lem wit="【大】">已知根報，名已知
 <lb n="0562c13" ed="T"/>根無報。云何已知根無報</lem><rdg resp="Taisho" wit="【聖】【聖乙】"><space quantity="0"/></rdg></app>？無學人欲得阿羅
@@ -4782,7 +4782,7 @@ Added comment  for Emacs
 <lb n="0576a29" ed="T"/>云何非業報界？若法<note resp="Taisho" n="0576006" place="foot text" type="orig">〔報〕－【三】【宮】【聖】</note><note resp="CBETA" n="0576006" type="mod">報【大】，〔－〕【宋】【元】【明】【宮】【聖】</note><app n="0576006"><lem wit="【大】">報</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】"><space quantity="0"/></rdg></app>、若非報非報法，是名
 <pb n="0576b" ed="T" xml:id="T28.1548.0576b"/>
 <lb n="0576b01" ed="T"/>非業報界。</p>
-<lb n="0576b02" ed="T"/><p xml:id="pT28p0576b0201">云何業相應界？若法<note resp="Taisho" n="0576007" place="foot text" type="orig">〔界〕－【三】【宮】</note><note resp="CBETA" n="0576007" type="mod">〔－〕【CB】【宋】【元】【明】【宮】，界【大】</note><app n="0576007"><lem resp="CBETA.maha" wit="【CBETA】"><space quantity="0"/></lem><rdg wit="【大】">界</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>思相應，是名業相應
+<lb n="0576b02" ed="T"/><p xml:id="pT28p0576b0201">云何業相應界？若法<note resp="Taisho" n="0576007" place="foot text" type="orig">〔界〕－【三】【宮】</note><note resp="CBETA" n="0576007" type="mod">〔－〕【CB】【宋】【元】【明】【宮】，界【大】</note><app n="0576007"><lem resp="CBETA.maha" wit="【CB】"><space quantity="0"/></lem><rdg wit="【大】">界</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>思相應，是名業相應
 <lb n="0576b03" ed="T"/>界。云何非業相應界？若法非思相應，是名非
 <lb n="0576b04" ed="T"/>業相應界。云何非業相應非非業相應界？思，
 <lb n="0576b05" ed="T"/>是名非業相應非非業相應界。</p>
@@ -4996,7 +4996,7 @@ Added comment  for Emacs
 <lb n="0578c03" ed="T"/>莖節，及餘外非受堅，是名外地界。如是內
 <lb n="0578c04" ed="T"/><note resp="Taisho" n="0578017" place="foot text" type="orig">〔地〕－【聖】</note><note resp="CBETA" n="0578017" type="mod">地【大】，〔－〕【聖】</note><app n="0578017"><lem wit="【大】">地</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>界、外地界，是名地界。云何水界？二水界，
 <lb n="0578c05" ed="T"/>內水界、外水界。云何內水界？若此身內受水，
-<lb n="0578c06" ed="T"/>涎癊<note resp="Taisho" n="0578018" place="foot text" type="orig">膽＝痰【三】【宮】</note><note resp="CBETA" n="0578018" type="mod">膽【大】，痰【宋】【元】【明】【宮】</note><app n="0578018"><lem wit="【大】">膽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">痰</rdg></app>汗、肪髓腦脂<note resp="Taisho" n="0578019" place="foot text" type="orig"><g ref="#CB02224"/>＝𦙽【三】【宮】</note><note resp="CBETA" n="0578019" type="mod">𦙽【CB】【麗-CB】【宋】【元】【明】【宮】，<g ref="#CB02224"/>【大】</note><app n="0578019"><lem resp="CBETA.maha" wit="【CBETA】【麗】">𦙽<note type="cf1">K29n0969_p0082b13</note></lem><rdg wit="【大】"><g ref="#CB02224"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">𦙽</rdg></app>、涕唾膿血小便，及餘
+<lb n="0578c06" ed="T"/>涎癊<note resp="Taisho" n="0578018" place="foot text" type="orig">膽＝痰【三】【宮】</note><note resp="CBETA" n="0578018" type="mod">膽【大】，痰【宋】【元】【明】【宮】</note><app n="0578018"><lem wit="【大】">膽</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">痰</rdg></app>汗、肪髓腦脂<note resp="Taisho" n="0578019" place="foot text" type="orig"><g ref="#CB02224"/>＝𦙽【三】【宮】</note><note resp="CBETA" n="0578019" type="mod">𦙽【CB】【麗-CB】【宋】【元】【明】【宮】，<g ref="#CB02224"/>【大】</note><app n="0578019"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">𦙽<note type="cf1">K29n0969_p0082b13</note></lem><rdg wit="【大】"><g ref="#CB02224"/></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">𦙽</rdg></app>、涕唾膿血小便，及餘
 <lb n="0578c07" ed="T"/>此身內受水潤等，是名內水界。云何外水界？
 <lb n="0578c08" ed="T"/>若外水界非受，<note resp="Taisho" n="0578020" place="foot text" type="orig">蘇＝酥【三】【宮】</note><note resp="CBETA" n="0578020" type="mod">蘇【大】，酥【宋】【元】【明】【宮】</note><app n="0578020"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">酥</rdg></app>油蜜石<note resp="Taisho" n="0578021" place="foot text" type="orig">〔蜜〕－【聖】</note><note resp="CBETA" n="0578021" type="mod">蜜【大】，〔－〕【聖】</note><app n="0578021"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>黑石蜜、乳酪
 <lb n="0578c09" ed="T"/>酪漿、醪酒甘蔗酒蜜酒，及餘外水非受，是名
@@ -6336,7 +6336,7 @@ Added comment  for Emacs
 <lb n="0593b24" ed="T"/>四大色身攝法受心，餘一切外法、一處外法，
 <lb n="0593b25" ed="T"/>彼如事觀無常苦空無我若智生，是名外法
 <lb n="0593b26" ed="T"/>觀外法智。云何內外法觀內外法智？除四大
-<lb n="0593b27" ed="T"/>色身攝法受心，餘一切內外法、<note resp="Taisho" n="0593014" place="foot text" type="orig">（一）＋處【三】</note><note resp="CBETA" n="0593014" type="mod">一處【CB】【宋】【元】【明】，處【大】</note><app n="0593014"><lem resp="CBETA.maha" wit="【CBETA】">一處</lem><rdg wit="【大】">處</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">一處</rdg></app>內外法，如
+<lb n="0593b27" ed="T"/>色身攝法受心，餘一切內外法、<note resp="Taisho" n="0593014" place="foot text" type="orig">（一）＋處【三】</note><note resp="CBETA" n="0593014" type="mod">一處【CB】【宋】【元】【明】，處【大】</note><app n="0593014"><lem resp="CBETA.maha" wit="【CB】">一處</lem><rdg wit="【大】">處</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">一處</rdg></app>內外法，如
 <lb n="0593b28" ed="T"/>事觀無常苦空無我若智生，是名內外法觀
 <lb n="0593b29" ed="T"/>內外法智。</p>
 <pb n="0593c" ed="T" xml:id="T28.1548.0593c"/>
@@ -6392,7 +6392,7 @@ Added comment  for Emacs
 <lb n="0594a20" ed="T"/>無量智無量境界？<app corresp="#0594001" type="star"><lem wit="【大】">智若</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若智</rdg></app>無量住、無量利、若無
 <lb n="0594a21" ed="T"/>量眾生、法始生，如來涅槃，是名無量智無量
 <lb n="0594a22" ed="T"/>境界。</p><p rend="inline" xml:id="pT28p0594a2203">云何少住智？若智少<note resp="Taisho" n="0594007" place="foot text" type="orig">間＝聞【聖】</note><note resp="CBETA" n="0594007" type="mod">間【大】，聞【聖】</note><app n="0594007"><lem wit="【大】">間</lem><rdg resp="Taisho" wit="【聖】">聞</rdg></app>住、一彈指頃
-<lb n="0594a23" ed="T"/>或多、<note resp="Taisho" n="0594008" place="foot text" type="orig">作＝住【三】【宮】</note><note resp="CBETA" n="0594008" type="mod">非【CB】，作【大】，住【宋】【元】【明】【宮】</note><app n="0594008"><lem resp="CBETA.maha" wit="【CBETA】">非</lem><rdg wit="【大】">作</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">住</rdg></app><note resp="Taisho" n="0594009" place="foot text" type="orig">𤚲＝搆【聖】＊</note><note resp="CBETA" n="0594009" type="mod">𤚲【大】＊，搆【聖】＊</note><app n="0594009"><lem wit="【大】">𤚲</lem><rdg resp="Taisho" wit="【聖】">搆</rdg></app>牛頃或多，是名少住智。云何中
+<lb n="0594a23" ed="T"/>或多、<note resp="Taisho" n="0594008" place="foot text" type="orig">作＝住【三】【宮】</note><note resp="CBETA" n="0594008" type="mod">非【CB】，作【大】，住【宋】【元】【明】【宮】</note><app n="0594008"><lem resp="CBETA.maha" wit="【CB】">非</lem><rdg wit="【大】">作</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">住</rdg></app><note resp="Taisho" n="0594009" place="foot text" type="orig">𤚲＝搆【聖】＊</note><note resp="CBETA" n="0594009" type="mod">𤚲【大】＊，搆【聖】＊</note><app n="0594009"><lem wit="【大】">𤚲</lem><rdg resp="Taisho" wit="【聖】">搆</rdg></app>牛頃或多，是名少住智。云何中
 <lb n="0594a24" ed="T"/>住智？若智中間住、<app corresp="#0594009" type="star"><lem wit="【大】">𤚲</lem><rdg resp="Taisho" wit="【聖】">搆</rdg></app>牛頃或多、非七日或
 <lb n="0594a25" ed="T"/>多，是名中住智。云何無量住智？若智無量間
 <lb n="0594a26" ed="T"/>住、七日或多，是名無<note resp="Taisho" n="0594010" place="foot text" type="orig">〔量〕－【聖】</note><note resp="CBETA" n="0594010" type="mod">量【大】，〔－〕【聖】</note><app n="0594010"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>住智。云何少智少
@@ -7733,7 +7733,7 @@ Added comment  for Emacs
 <lb n="0609a19" ed="T"/>六入，是名名色緣現在六入。緣喜處色，現在
 <lb n="0609a20" ed="T"/>眼根潤益增長、耳鼻舌身意根潤益增長。喜
 <lb n="0609a21" ed="T"/><note resp="Taisho" n="0609002" place="foot text" type="orig">處＝慶【宮】</note><note resp="CBETA" n="0609002" type="mod">處【大】，慶【宮】</note><app n="0609002"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【宮】">慶</rdg></app>色謂色，由意生受、想、思、觸、思惟謂名。如是
-<lb n="0609a22" ed="T"/><note resp="Taisho" n="0609003" place="foot text" type="orig">（名）＋色【三】＊</note><note resp="CBETA" n="0609003" type="mod">名色【CB】＊【磧-CB】＊【宋】＊【元】＊【明】＊，色【大】＊</note><app n="0609003"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">名色<note type="cf1">Q27_p0195a24</note></lem><rdg wit="【大】">色</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">名色</rdg></app>緣現在六入。復次若有比丘阿羅漢，諸漏
+<lb n="0609a22" ed="T"/><note resp="Taisho" n="0609003" place="foot text" type="orig">（名）＋色【三】＊</note><note resp="CBETA" n="0609003" type="mod">名色【CB】【磧-CB】【宋】＊【元】＊【明】＊＊＊，色【大】＊</note><app n="0609003"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">名色<note type="cf1">Q27_p0195a24</note></lem><rdg wit="【大】">色</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">名色</rdg></app>緣現在六入。復次若有比丘阿羅漢，諸漏
 <lb n="0609a23" ed="T"/>已盡所作已辦、捨於重擔己利具足、有煩惱
 <lb n="0609a24" ed="T"/>盡正解脫已、受勝業成就，彼現在眼根潤益
 <lb n="0609a25" ed="T"/>增長、耳鼻舌身意根潤益增長。若實人身業
@@ -7848,7 +7848,7 @@ Added comment  for Emacs
 <lb n="0610b14" ed="T"/>獄畜生餓鬼，以因緒緣得地獄畜生餓鬼名
 <lb n="0610b15" ed="T"/>色，四大、四大所造色，由意生受、想、思、觸、思惟
 <lb n="0610b16" ed="T"/>謂名。名色增長，得地獄畜生餓鬼眼耳鼻舌
-<lb n="0610b17" ed="T"/>身意根。如是緣未來<note n="0610b1701" resp="CBETA" type="add">［－］【CB】，名【大】</note><app n="0610b1701"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【大】">名</rdg></app><app corresp="#0609003" type="star"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">名色<note type="cf1">Q27_p0196b16</note></lem><rdg wit="【大】">色</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">名色</rdg></app>生未來六入，是名
+<lb n="0610b17" ed="T"/>身意根。如是緣未來<note n="0610b1701" resp="CBETA" type="add">［－］【CB】，名【大】</note><app n="0610b1701"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【大】">名</rdg></app><app corresp="#0609003" type="star"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">名色<note type="cf1">Q27_p0196b16</note></lem><rdg wit="【大】">色</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">名色</rdg></app>生未來六入，是名
 <lb n="0610b18" ed="T"/>名色緣未來六入。復次若人無慧無明未斷，
 <lb n="0610b19" ed="T"/>作有漏身善行當受欲界生、作有漏口善行
 <lb n="0610b20" ed="T"/>意善行當受欲界生。作善行已，身壞命終若
@@ -8295,7 +8295,7 @@ Added comment  for Emacs
 <lb n="0615b10" ed="T"/>無常，如是不放逸觀，得定心住正住，是名內
 <lb n="0615b11" ed="T"/>外心觀心行。復次比丘若一切內外心、一處
 <lb n="0615b12" ed="T"/>內外心，觀苦患癰箭味病、依緣、壞法、不定、不
-<lb n="0615b13" ed="T"/>滿、可壞、苦空無我，思惟緣、知<note resp="Taisho" n="0615009" place="foot text" type="orig">緣＋（苦空無我）【聖】，（苦空無）【聖乙】</note><note resp="CBETA" n="0615009" type="mod">緣【大】，緣苦空無我【聖】，<!--CBETA todo type: newmod-->（苦空無）【聖乙】</note><app n="0615009"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【聖】">緣苦空無我</rdg><rdg resp="Taisho" wit="【聖乙】">緣苦空無</rdg></app>、解緣、受緣，即
+<lb n="0615b13" ed="T"/>滿、可壞、苦空無我，思惟緣、知<note resp="Taisho" n="0615009" place="foot text" type="orig">緣＋（苦空無我）【聖】，（苦空無）【聖乙】</note><note resp="CBETA" n="0615009" type="mod">緣【大】，緣苦空無我【聖】，<!--CBETA todo type: newmod-->緣苦空無【聖乙】</note><app n="0615009"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【聖】">緣苦空無我</rdg><rdg resp="Taisho" wit="【聖乙】">緣苦空無</rdg></app>、解緣、受緣，即
 <lb n="0615b14" ed="T"/>無明緣行行緣識，乃至是名內外心觀心行。
 <lb n="0615b15" ed="T"/>復次比丘一切內外心、一處內外心，思惟滅、
 <lb n="0615b16" ed="T"/>知滅、解滅、受滅，<note resp="Taisho" n="0615010" place="foot text" type="orig">〔即〕－【三】【宮】</note><note resp="CBETA" n="0615010" type="mod">即【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0615010"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>無明滅則行滅，行滅則識
@@ -8812,7 +8812,7 @@ Added comment  for Emacs
 <lb n="0621a16" ed="T"/>是名捨離憎愛金剛。</p>
 <lb n="0621a17" ed="T"/><p xml:id="pT28p0621a1701">云何不求利？若不以麁食為足，多食嗜味貪
 <lb n="0621a18" ed="T"/>味、勤求悕望飲食，是名求利。若比丘以麁
-<lb n="0621a19" ed="T"/>食為足、量食，<note resp="Taisho" n="0621004" place="foot text" type="orig">（不）＋嗜味【三】</note><note resp="CBETA" n="0621004" type="mod">不嗜味【CB】【宋】【元】【明】，嗜味【大】</note><app n="0621004"><lem resp="CBETA.maha" wit="【CBETA】">不嗜味</lem><rdg wit="【大】">嗜味</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不嗜味</rdg></app>、不貪味、不勤求、不悕望飲
+<lb n="0621a19" ed="T"/>食為足、量食，<note resp="Taisho" n="0621004" place="foot text" type="orig">（不）＋嗜味【三】</note><note resp="CBETA" n="0621004" type="mod">不嗜味【CB】【宋】【元】【明】，嗜味【大】</note><app n="0621004"><lem resp="CBETA.maha" wit="【CB】">不嗜味</lem><rdg wit="【大】">嗜味</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不嗜味</rdg></app>、不貪味、不勤求、不悕望飲
 <lb n="0621a20" ed="T"/>食，是名不求利。</p>
 <lb n="0621a21" ed="T"/><p xml:id="pT28p0621a2101">云何勤力？若作是念：我食此食，欲身勤進自
 <lb n="0621a22" ed="T"/>勉。是謂勤力。</p>
@@ -8932,10 +8932,10 @@ Added comment  for Emacs
 <lb n="0622b16" ed="T"/>靜、尊上寂靜、傾向寂靜已，覺觀寂靜、正寂靜、
 <lb n="0622b17" ed="T"/>滅、沒、除、盡。覺觀寂靜正寂靜滅沒除盡已，內
 <lb n="0622b18" ed="T"/>淨信生，具足成就，是名內淨信。復次比丘思
-<lb n="0622b19" ed="T"/>惟覺觀是麁法，滅麁法心清淨，清淨<note resp="Taisho" n="0622003" place="foot text" type="orig">〔人〕－【三】</note><note resp="CBETA" n="0622003" type="mod">〔－〕【CB】【磧-CB】【宋】【元】【明】，人【大】</note><app n="0622003"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】"><space quantity="0"/><note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">人</rdg><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>心是
-<lb n="0622b20" ed="T"/>名內淨<note resp="Taisho" n="0622004" place="foot text" type="orig">行＝信【三】</note><note resp="CBETA" n="0622004" type="mod">信【CB】【磧-CB】【宋】【元】【明】，行【大】</note><app n="0622004"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">信<note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">行</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">信</rdg></app>。復次比丘思惟覺觀是麁法，離麁
+<lb n="0622b19" ed="T"/>惟覺觀是麁法，滅麁法心清淨，清淨<note resp="Taisho" n="0622003" place="foot text" type="orig">〔人〕－【三】</note><note resp="CBETA" n="0622003" type="mod">〔－〕【CB】【磧-CB】【宋】【元】【明】，人【大】</note><app n="0622003"><lem resp="CBETA.maha" wit="【CB】【磧-CB】"><space quantity="0"/><note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">人</rdg><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>心是
+<lb n="0622b20" ed="T"/>名內淨<note resp="Taisho" n="0622004" place="foot text" type="orig">行＝信【三】</note><note resp="CBETA" n="0622004" type="mod">信【CB】【磧-CB】【宋】【元】【明】，行【大】</note><app n="0622004"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">信<note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">行</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">信</rdg></app>。復次比丘思惟覺觀是麁法，離麁
 <lb n="0622b21" ed="T"/>法心清白，清白心是名內淨信。復次比丘思
-<lb n="0622b22" ed="T"/>惟覺觀是麁法，除麁法心明了，<note resp="Taisho" n="0622005" place="foot text" type="orig">明了＋（心）【三】</note><note resp="CBETA" n="0622005" type="mod">明了心【CB】【磧-CB】【宋】【元】【明】，明了【大】</note><app n="0622005"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">明了心<note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">明了</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">明了心</rdg></app>是名內
+<lb n="0622b22" ed="T"/>惟覺觀是麁法，除麁法心明了，<note resp="Taisho" n="0622005" place="foot text" type="orig">明了＋（心）【三】</note><note resp="CBETA" n="0622005" type="mod">明了心【CB】【磧-CB】【宋】【元】【明】，明了【大】</note><app n="0622005"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">明了心<note type="cf1">Q27_p0208b17-22</note></lem><rdg wit="【大】">明了</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">明了心</rdg></app>是名內
 <lb n="0622b23" ed="T"/>淨信。復次比丘思惟覺觀是麁法，無覺無觀
 <lb n="0622b24" ed="T"/>地寂靜勝妙，是名內淨信。復次比丘思惟有
 <lb n="0622b25" ed="T"/>覺觀其心不軟、不調、不清淨、不清白、不明了，無
@@ -8944,7 +8944,7 @@ Added comment  for Emacs
 <lb n="0622b28" ed="T"/>心喜心定，如行人若信、入信、究竟入信、勝信、淳
 <lb n="0622b29" ed="T"/>信，心信是名內淨信。何謂喜？如行人歡喜踊
 <pb n="0622c" ed="T" xml:id="T28.1548.0622c"/>
-<lb n="0622c01" ed="T"/>躍，是名喜。何謂樂？如行人心忍受<note n="0622c0101" resp="CBETA" type="add">［－］【CB】【磧砂-CB】，樂【大】</note><app n="0622c0101"><lem resp="CBETA.maha" wit="【CB】【磧砂-CB】"><space quantity="0"/><note type="cf1"> Q27_p0208b30</note></lem><rdg wit="【大】">樂</rdg></app><note resp="Taisho" n="0622006" place="foot text" type="orig">樂意＝信【三】【宮】</note><note resp="CBETA" n="0622006" type="mod">樂意【大】，信【宋】【元】【明】【宮】</note><app n="0622006"><lem wit="【大】">樂、意</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">信</rdg></app>
+<lb n="0622c01" ed="T"/>躍，是名喜。何謂樂？如行人心忍受<note n="0622c0101" resp="CBETA" type="add">［－］【CB】【磧砂-CB】，樂【大】</note><app n="0622c0101"><lem resp="CBETA.maha" wit="【CB】【磧-CB】"><space quantity="0"/><note type="cf1"> Q27_p0208b30</note></lem><rdg wit="【大】">樂</rdg></app><note resp="Taisho" n="0622006" place="foot text" type="orig">樂意＝信【三】【宮】</note><note resp="CBETA" n="0622006" type="mod">樂意【大】，信【宋】【元】【明】【宮】</note><app n="0622006"><lem wit="【大】">樂、意</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">信</rdg></app>
 <lb n="0622c02" ed="T"/>觸樂受，是名樂。何謂一心？如行人心信正信，
 <lb n="0622c03" ed="T"/>是名一心。如是四支<note resp="Taisho" n="0622007" place="foot text" type="orig">名＝若【三】【宮】</note><note resp="CBETA" n="0622007" type="mod">名【大】，若【宋】【元】【明】【宮】</note><app n="0622007"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若</rdg></app>二禪。何謂二？如四
 <lb n="0622c04" ed="T"/>禪次順不逆，以次入定行，二與初無有中間，
@@ -8959,7 +8959,7 @@ Added comment  for Emacs
 <lb n="0622c13" ed="T"/>從底涌出，此陂津液遍滿無有減少。如是比
 <lb n="0622c14" ed="T"/>丘身定生喜樂，津液遍滿無有減少。云何
 <lb n="0622c15" ed="T"/>津？云何液？云何遍？云何滿？如比丘住禪時身
-<lb n="0622c16" ed="T"/>定生喜樂，生正生、起正起、<note resp="Taisho" n="0622009" place="foot text" type="orig">重＝觸【三】</note><note resp="CBETA" n="0622009" type="mod">觸【CB】【宋】【元】【明】，重【大】</note><app n="0622009"><lem resp="CBETA.maha" wit="【CBETA】">觸</lem><rdg wit="【大】">重</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">觸</rdg></app>證，身定生喜樂，
+<lb n="0622c16" ed="T"/>定生喜樂，生正生、起正起、<note resp="Taisho" n="0622009" place="foot text" type="orig">重＝觸【三】</note><note resp="CBETA" n="0622009" type="mod">觸【CB】【宋】【元】【明】，重【大】</note><app n="0622009"><lem resp="CBETA.maha" wit="【CB】">觸</lem><rdg wit="【大】">重</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">觸</rdg></app>證，身定生喜樂，
 <lb n="0622c17" ed="T"/>爾時名津。<note resp="Taisho" n="0622010" place="foot text" type="orig">住＝往【宮】</note><note resp="CBETA" n="0622010" type="mod">住【大】，往【宮】</note><app n="0622010"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宮】">往</rdg></app>禪時定生喜樂漸開微行、未能
 <lb n="0622c18" ed="T"/>增廣，身定生喜樂，爾時名液。住禪時身定生
 <lb n="0622c19" ed="T"/>喜樂能增廣、未到彼岸，定生喜樂，爾時名遍。
@@ -8969,7 +8969,7 @@ Added comment  for Emacs
 <lb n="0622c23" ed="T"/>時名液。液已水遂增廣、未到彼岸，爾時名遍。
 <lb n="0622c24" ed="T"/>遍已水到彼岸地一切高下盡滿，滿時水還
 <lb n="0622c25" ed="T"/>攘水口，爾時名滿。比丘亦如是，住禪時身定
-<lb n="0622c26" ed="T"/>生喜樂，生正生、起正起、觸<note resp="Taisho" n="0622011" place="foot text" type="orig">（證）＋禪定【三】</note><note resp="CBETA" n="0622011" type="mod">證禪定【CB】【宋】【元】【明】，禪定【大】</note><app n="0622011"><lem resp="CBETA.maha" wit="【CBETA】">證，禪定</lem><rdg wit="【大】">禪定</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">證禪定</rdg></app>生喜樂，爾時
+<lb n="0622c26" ed="T"/>生喜樂，生正生、起正起、觸<note resp="Taisho" n="0622011" place="foot text" type="orig">（證）＋禪定【三】</note><note resp="CBETA" n="0622011" type="mod">證禪定【CB】【宋】【元】【明】，禪定【大】</note><app n="0622011"><lem resp="CBETA.maha" wit="【CB】">證，禪定</lem><rdg wit="【大】">禪定</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">證禪定</rdg></app>生喜樂，爾時
 <lb n="0622c27" ed="T"/>名津。乃至住禪時定生喜樂能至彼岸，齊是
 <lb n="0622c28" ed="T"/>謂定生喜樂，爾時名身滿。復次津液遍滿，如
 <lb n="0622c29" ed="T"/>是諸句義一名異。如佛說：云何觸？緣<note resp="Taisho" n="0622012" place="foot text" type="orig">眼＝明【三】【宮】</note><note resp="CBETA" n="0622012" type="mod">眼【大】，明【宋】【元】【明】【宮】</note><app n="0622012"><lem wit="【大】">眼</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">明</rdg></app>緣
@@ -9234,7 +9234,7 @@ Added comment  for Emacs
 <lb n="0625c21" ed="T"/><l>若能除滅食，</l><l>則無是諸苦。</l>
 <lb n="0625c22" ed="T"/><l>如是知過患，</l><l>食是成就苦，</l>
 <lb n="0625c23" ed="T"/><l>比丘滅食已，</l><l>決定得涅槃。」</l></lg>
-<lb n="0625c24" ed="T"/><p xml:id="pT28p0625c2401">如是人念憶念，<note resp="Taisho" n="0625013" place="foot text" type="orig">實＝是【三】【宮】</note><note resp="CBETA" n="0625013" type="mod">是【CB】【宋】【元】【明】【宮】，實【大】</note><app n="0625013"><lem resp="CBETA.maha" wit="【CBETA】">是</lem><rdg wit="【大】">實</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">是</rdg></app>名身念處。此念親近多修
+<lb n="0625c24" ed="T"/><p xml:id="pT28p0625c2401">如是人念憶念，<note resp="Taisho" n="0625013" place="foot text" type="orig">實＝是【三】【宮】</note><note resp="CBETA" n="0625013" type="mod">是【CB】【宋】【元】【明】【宮】，實【大】</note><app n="0625013"><lem resp="CBETA.maha" wit="【CB】">是</lem><rdg wit="【大】">實</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">是</rdg></app>名身念處。此念親近多修
 <lb n="0625c25" ed="T"/>學，得須陀洹果乃至阿羅漢果，是名身念處
 <lb n="0625c26" ed="T"/>一支向涅槃道。復次比丘觀身盡空俱空，以
 <lb n="0625c27" ed="T"/>念遍知解行。如竹<note n="0625c2701" resp="CBETA" type="add">𥯤【CB】【麗-CB】，葦【大】</note><app n="0625c2701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">𥯤<note type="cf1">K29n0969_p0153c06</note></lem><rdg wit="【大】">葦</rdg></app>盡空俱空。如是比丘觀
@@ -9251,7 +9251,7 @@ Added comment  for Emacs
 <lb n="0626a08" ed="T"/>是不淨津漏、是胎始膜、是腐敗、是臭穢、是可
 <lb n="0626a09" ed="T"/>惡津漏。比丘如是觀身是癰瘡，此身九入九
 <lb n="0626a10" ed="T"/>瘡九津九漏，眼耳鼻口一一處所出津漏皆
-<lb n="0626a11" ed="T"/>是不淨津漏、是胎始<note n="0626a1101" resp="CBETA" type="add">膜【大】【磧砂-CB】，瞙【麗-CB】</note><app n="0626a1101"><lem wit="【大】">膜</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">膜<note type="cf1">Q27_p0212a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">瞙<note type="cf1">K29n0969_p0153c21</note></rdg></app>、是腐敗、是臭穢、是
+<lb n="0626a11" ed="T"/>是不淨津漏、是胎始<note n="0626a1101" resp="CBETA" type="add">膜【大】【磧砂-CB】，瞙【麗-CB】</note><app n="0626a1101"><lem wit="【大】">膜</lem><rdg resp="CBETA.maha" wit="【磧-CB】">膜<note type="cf1">Q27_p0212a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">瞙<note type="cf1">K29n0969_p0153c21</note></rdg></app>、是腐敗、是臭穢、是
 <lb n="0626a12" ed="T"/>可惡津漏，眼出眵淚膿血津漏、耳出<app corresp="#0626001" type="star"><lem wit="【大】">耵</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">結</rdg></app>𦡲膿
 <lb n="0626a13" ed="T"/>血津漏、鼻出涕痰膿血津漏、口出涕唾膿血
 <lb n="0626a14" ed="T"/>津漏、二處出便利膿血津漏。如摩訶迦葉所
@@ -10176,7 +10176,7 @@ Added comment  for Emacs
 <lb n="0636b02" ed="T"/>不善行、修意善行。是名智緣斷。</p>
 <lb n="0636b03" ed="T"/><lg xml:id="lgT28p0636b0301"><l>戒護緣修斷，</l><l>自性如來說，</l>
 <lb n="0636b04" ed="T"/><l>比丘行是法，</l><l><note resp="Taisho" n="0636006" place="foot text" type="orig">一切苦際盡＝盡一切苦際【三】【宮】</note><note resp="CBETA" n="0636006" type="mod">一切苦際盡【大】，盡一切苦際【宋】【元】【明】【宮】</note><app n="0636006"><lem wit="【大】">一切苦際盡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">盡一切苦際</rdg></app>，</l>
-<lb n="0636b05" ed="T"/><l>是名四斷<note n="0636b0501" resp="CBETA" type="add">智【大】【磧砂-CB】，知【麗-CB】</note><app n="0636b0501"><lem wit="【大】">智</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">智<note type="cf1">Q27_p0221c04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">知<note type="cf1">K29n0969_p0169b04</note></rdg></app>。<note resp="Taisho" n="0636007" place="foot text" type="orig">卷第十三終【宋】【元】【宮】，卷第十三下終【明】</note><note resp="CBETA" n="0636007" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第十三終【宋】【元】【宮】，卷第十三下終【明】</note><anchor type="circle"/></l></lg>
+<lb n="0636b05" ed="T"/><l>是名四斷<note n="0636b0501" resp="CBETA" type="add">智【大】【磧砂-CB】，知【麗-CB】</note><app n="0636b0501"><lem wit="【大】">智</lem><rdg resp="CBETA.maha" wit="【磧-CB】">智<note type="cf1">Q27_p0221c04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">知<note type="cf1">K29n0969_p0169b04</note></rdg></app>。<note resp="Taisho" n="0636007" place="foot text" type="orig">卷第十三終【宋】【元】【宮】，卷第十三下終【明】</note><note resp="CBETA" n="0636007" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第十三終【宋】【元】【宮】，卷第十三下終【明】</note><anchor type="circle"/></l></lg>
 <lb n="0636b06" ed="T"/><p xml:id="pT28p0636b0601"><anchor type="circle"/><note resp="Taisho" n="0636008" place="foot text" type="orig">卷第十四非問分道品之餘首【宋】【元】，卷第十四非問分道品第十之餘首【明】，卷第十四十道品下首【宮】，譯號同異如卷第十五</note><note resp="CBETA" n="0636008" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第十四非問分道品之餘首【宋】【元】，卷第十四非問分道品第十之餘首【明】，卷第十四十道品下首【宮】，譯號同異如卷第十五</note>何謂五根？信根、進根、念根、定根、慧根，是名
 <lb n="0636b07" ed="T"/>五根。五力亦如是。</p><p rend="inline" xml:id="pT28p0636b0708">何謂五解脫處？謂比丘不
 <lb n="0636b08" ed="T"/>放逸勤念正智寂靜行，心未解脫得解脫、諸
@@ -10280,7 +10280,7 @@ Added comment  for Emacs
 <lb n="0637b16" ed="T"/>是生苦，有病有老死。若受想行識生住即是
 <lb n="0637b17" ed="T"/>生苦，有病有老死。復次如世尊說三苦：行
 <lb n="0637b18" ed="T"/>苦、苦苦、變易苦。何謂行苦？五受陰行自性苦、
-<lb n="0637b19" ed="T"/>形<note n="0637b1901" resp="CBETA" type="add">式【CB】【麗-CB】，或【大】【磧砂-CB】</note><app n="0637b1901"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">式<note type="cf1">K29n0969_p0171a09</note></lem><rdg wit="【大】">或</rdg><rdg resp="CBETA.maha" wit="【磧砂-CB】">或<note type="cf1">Q27_p0223a12</note></rdg></app>苦、自相苦，是名行苦。何謂苦苦？五受陰
+<lb n="0637b19" ed="T"/>形<note n="0637b1901" resp="CBETA" type="add">式【CB】【麗-CB】，或【大】【磧砂-CB】</note><app n="0637b1901"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">式<note type="cf1">K29n0969_p0171a09</note></lem><rdg wit="【大】">或</rdg><rdg resp="CBETA.maha" wit="【磧-CB】">或<note type="cf1">Q27_p0223a12</note></rdg></app>苦、自相苦，是名行苦。何謂苦苦？五受陰
 <lb n="0637b20" ed="T"/>行自性苦，生等生、起等起、出等出，具足成就
 <lb n="0637b21" ed="T"/>生種種病，因熱生病，因痰<note resp="Taisho" n="0637010" place="foot text" type="orig">癊＝陰【三】【宮】</note><note resp="CBETA" n="0637010" type="mod">癊【大】，陰【宋】【元】【明】【宮】</note><app n="0637010"><lem wit="【大】">癊</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">陰</rdg></app>、因風、因過力、
 <lb n="0637b22" ed="T"/><note resp="Taisho" n="0637011" place="foot text" type="orig">因＋（力因）【三】【宮】</note><note resp="CBETA" n="0637011" type="mod">因【大】，因力因【宋】【元】【明】【宮】</note><app n="0637011"><lem wit="【大】">因</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">因力因</rdg></app>他惱、因時變、因諸大相違、因食飲不消、
@@ -10708,7 +10708,7 @@ Added comment  for Emacs
 <lb n="0642a23" ed="T"/>見。有如是想，內無色想觀外色無量好色非
 <lb n="0642a24" ed="T"/>好色，勝知勝見。有如是想，內無色想觀外色
 <lb n="0642a25" ed="T"/>青，青色青光，如優摩華青青色青光、如波羅
-<lb n="0642a26" ed="T"/><note resp="Taisho" n="0642003" place="foot text" type="orig">㮈＝捺【三】【宮】</note><note resp="CBETA" n="0642003" type="mod">捺【CB】【磧-CB】【宋】【元】【明】【宮】，㮈【大】，㮈【麗-CB】</note><app n="0642003"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">捺<note type="cf1">Q27_p0227b19</note></lem><rdg wit="【大】">㮈</rdg><rdg resp="CBETA.maha" wit="【麗】">㮈<note type="cf1">K29n0969_p0178a23</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">捺</rdg></app>衣善染青青色青光。觀如是妙色青青色
+<lb n="0642a26" ed="T"/><note resp="Taisho" n="0642003" place="foot text" type="orig">㮈＝捺【三】【宮】</note><note resp="CBETA" n="0642003" type="mod">捺【CB】【磧-CB】【宋】【元】【明】【宮】，㮈【大】，㮈【麗-CB】</note><app n="0642003"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">捺<note type="cf1">Q27_p0227b19</note></lem><rdg wit="【大】">㮈</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">㮈<note type="cf1">K29n0969_p0178a23</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">捺</rdg></app>衣善染青青色青光。觀如是妙色青青色
 <lb n="0642a27" ed="T"/>青光，勝知勝見。有如是想，內無色想觀外
 <lb n="0642a28" ed="T"/>色黃，黃色黃光，如迦尼伽羅華黃黃色黃光、
 <lb n="0642a29" ed="T"/>如波羅捺善染衣黃黃色黃光。觀如是妙色
@@ -11084,7 +11084,7 @@ Added comment  for Emacs
 <lb n="0646b08" ed="T"/>威儀、不受教。近惡知識、惡親厚、取惡行、惡
 <lb n="0646b09" ed="T"/>行、親近怯弱者、受怯弱法、知怯弱、<note resp="Taisho" n="0646015" place="foot text" type="orig">〔持怯弱法〕－【宮】</note><note resp="CBETA" n="0646015" type="mod">持怯弱法【大】，〔－〕【宮】</note><app n="0646015"><lem wit="【大】">持怯弱
 <lb n="0646b10" ed="T"/>法</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>、不順思惟、親近怯弱<note resp="Taisho" n="0646016" place="foot text" type="orig">〔道〕－【宮】</note><note resp="CBETA" n="0646016" type="mod">道【大】，〔－〕【宮】</note><app n="0646016"><lem wit="【大】">道</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>。<note resp="Taisho" n="0646017" place="foot text" type="orig">心亂＝劣心亂心【三】【宮】</note><note resp="CBETA" n="0646017" type="mod">心亂【大】，劣心亂心【宋】【元】【明】【宮】</note><app n="0646017"><lem wit="【大】">心亂</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">劣心亂心</rdg></app>、喜諍、寬
-<lb n="0646b11" ed="T"/>禁戒、<note n="0646b1101" resp="CBETA" type="add">敬【大】【磧砂-CB】，欲【麗-CB】</note><app n="0646b1101"><lem wit="【大】">敬</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">敬<note type="cf1">Q27_p0231c02</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">欲<note type="cf1">K29n0969_p0184b16</note></rdg></app>邪法、退善法、<note resp="Taisho" n="0646018" place="foot text" type="orig">掉＝鉀【宮】</note><note resp="CBETA" n="0646018" type="mod">掉【大】，鉀【宮】</note><app n="0646018"><lem wit="【大】">掉</lem><rdg resp="Taisho" wit="【宮】">鉀</rdg></app>、嚴身、險、耐恥、狂
+<lb n="0646b11" ed="T"/>禁戒、<note n="0646b1101" resp="CBETA" type="add">敬【大】【磧砂-CB】，欲【麗-CB】</note><app n="0646b1101"><lem wit="【大】">敬</lem><rdg resp="CBETA.maha" wit="【磧-CB】">敬<note type="cf1">Q27_p0231c02</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">欲<note type="cf1">K29n0969_p0184b16</note></rdg></app>邪法、退善法、<note resp="Taisho" n="0646018" place="foot text" type="orig">掉＝鉀【宮】</note><note resp="CBETA" n="0646018" type="mod">掉【大】，鉀【宮】</note><app n="0646018"><lem wit="【大】">掉</lem><rdg resp="Taisho" wit="【宮】">鉀</rdg></app>、嚴身、險、耐恥、狂
 <lb n="0646b12" ed="T"/>言、不記、外念、隨憂喜、自高、毀他、不敬、不自
 <lb n="0646b13" ed="T"/>卑、不實敬、難滿、難養、窳惰、懈怠、中退、後善。
 <lb n="0646b14" ed="T"/>欲勤、<note resp="Taisho" n="0646019" place="foot text" type="orig">苦勤＝勤苦【三】</note><note resp="CBETA" n="0646019" type="mod">苦勤【大】，勤苦【宋】【元】【明】</note><app n="0646019"><lem wit="【大】">苦勤</lem><rdg resp="Taisho" wit="【宋】【元】【明】">勤苦</rdg></app>、貪、貪勤、纏、惱、悲、苦、憂念、眾苦、
@@ -11545,7 +11545,7 @@ Added comment  for Emacs
 <lb n="0651b22" ed="T"/>名四<note n="0651b2201" resp="CBETA" type="add">扼【CB】【麗-CB】，軛【大】</note><app n="0651b2201"><lem resp="CBETA.maha" wit="【CB】【麗-CB】">扼<note type="cf1">K29n0969_p0192b05</note></lem><rdg wit="【大】">軛</rdg></app>。</p><p rend="inline" xml:id="pT28p0651b2204">何謂四取？欲取、有取、戒取、我取，是名
 <lb n="0651b23" ed="T"/>四取。</p>
 <lb n="0651b24" ed="T"/><p xml:id="pT28p0651b2401">何謂四染？欲染、色染、無色染、見染，是名四染。</p>
-<lb n="0651b25" ed="T"/><p xml:id="pT28p0651b2501">何謂口四惡行？妄<note n="0651b2501" resp="CBETA" type="add">言【CB】【麗-CB】【磧砂-CB】，語【大】</note><app n="0651b2501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">言<note type="cf1">K29n0969_p0192b08</note><note type="cf2">Q27_p0236b10</note></lem><rdg wit="【大】">語</rdg></app>、綺語、兩舌、惡口，是名口
+<lb n="0651b25" ed="T"/><p xml:id="pT28p0651b2501">何謂口四惡行？妄<note n="0651b2501" resp="CBETA" type="add">言【CB】【麗-CB】【磧砂-CB】，語【大】</note><app n="0651b2501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">言<note type="cf1">K29n0969_p0192b08</note><note type="cf2">Q27_p0236b10</note></lem><rdg wit="【大】">語</rdg></app>、綺語、兩舌、惡口，是名口
 <lb n="0651b26" ed="T"/>四惡行。</p><p rend="inline" xml:id="pT28p0651b2604">何謂四結？悕望身結、瞋恚身結、戒<note resp="Taisho" n="0651007" place="foot text" type="orig">道身＝盜取【三】【宮】</note><note resp="CBETA" n="0651007" type="mod">道身【大】，盜取【宋】【元】【明】【宮】</note><app n="0651007"><lem wit="【大】">道
 <lb n="0651b27" ed="T"/>身</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">盜取</rdg></app>結、見實身結，是名四結。</p><p rend="inline" xml:id="pT28p0651b2711">何謂四箭？欲箭、瞋
 <lb n="0651b28" ed="T"/>箭、慢箭、見箭，是名四箭。</p>
@@ -12133,7 +12133,7 @@ Added comment  for Emacs
 <lb n="0658a15" ed="T"/>邊，盡入四見中無有能過。唯佛能知此見處，
 <lb n="0658a16" ed="T"/>如是持、如是執，亦知報應。如來所知又復過
 <lb n="0658a17" ed="T"/>是，雖知不著，以不著則得寂滅，知<note resp="Taisho" n="0658001" place="foot text" type="orig">愛＝受【三】【宮】</note><note resp="CBETA" n="0658001" type="mod">愛【大】，受【宋】【元】【明】【宮】</note><app n="0658001"><lem wit="【大】">愛</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">受</rdg></app>集、滅、味、
-<lb n="0658a18" ed="T"/>過、出要，以平等觀無餘解脫，故名如<note resp="Taisho" n="0658002" place="foot text" type="orig">來＋（是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來）二十四字【三】【宮】，但宮本無真實平等四字</note><note resp="CBETA" n="0658002" type="mod">來【大】，來是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來【宋】【元】【明】，是名餘甚深微妙大法光明使賢聖弟子讚歎如來【宮】</note><app n="0658002"><lem wit="【大】">來</lem><rdg resp="Taisho" wit="【宋】【元】【明】">來是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來</rdg><rdg resp="Taisho" wit="【宮】">來是名餘甚深微妙大法光明使賢聖弟子讚歎如來</rdg></app>。</p>
+<lb n="0658a18" ed="T"/>過、出要，以平等觀無餘解脫，故名如<note resp="Taisho" n="0658002" place="foot text" type="orig">來＋（是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來）二十四字【三】【宮】，但宮本無真實平等四字</note><note resp="CBETA" n="0658002" type="mod">來【大】，來是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來【宋】【元】【明】，來是名餘甚深微妙大法光明使賢聖弟子讚歎如來【宮】</note><app n="0658002"><lem wit="【大】">來</lem><rdg resp="Taisho" wit="【宋】【元】【明】">來是名餘甚深微妙大法光明使賢聖弟子真實平等讚歎如來</rdg><rdg resp="Taisho" wit="【宮】">來是名餘甚深微妙大法光明使賢聖弟子讚歎如來</rdg></app>。</p>
 <lb n="0658a19" ed="T"/><p xml:id="pT28p0658a1901">復有餘甚深微妙大法光明，使賢聖弟子真
 <lb n="0658a20" ed="T"/>實平等讚歎如來。何等是餘甚深微妙大法
 <lb n="0658a21" ed="T"/>光明，使賢聖弟子真實平等讚歎如來？諸沙
@@ -12532,7 +12532,7 @@ Added comment  for Emacs
 <lb n="0662b23" ed="T"/>作非作處作非作已，若悔心燋熱，是名悔法。
 <lb n="0662b24" ed="T"/>何謂<note resp="Taisho" n="0662004" place="foot text" type="orig">無＝非【三】＊</note><note resp="CBETA" n="0662004" type="mod">無【大】＊，非【宋】＊【元】＊【明】＊</note><app n="0662004"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】">非</rdg></app>悔法？除悔，若餘法，是名<app corresp="#0662004" type="star"><lem wit="【大】">無</lem><rdg resp="Taisho" wit="【宋】【元】【明】">非</rdg></app>悔法。何
 <lb n="0662b25" ed="T"/>謂<note resp="Taisho" n="0662005" place="foot text" type="orig">非＝無【三】＊</note><note resp="CBETA" n="0662005" type="mod">非【大】＊，無【宋】＊【元】＊【明】＊</note><app n="0662005"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【宋】【元】【明】">無</rdg></app>悔法？於作非作處作非作已，若不悔、
-<lb n="0662b26" ed="T"/>心不<note n="0662b2601" resp="CBETA" type="add">燋【大】【磧砂-CB】，憔【麗-CB】</note><app n="0662b2601"><lem wit="【大】">燋</lem><rdg resp="CBETA.maha" wit="【磧砂-CB】">燋<note type="cf1">Q27_p0247a06</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">憔<note type="cf1">K29n0969_p0209a15</note></rdg></app>熱，是名非悔法。何謂非無悔法？除
+<lb n="0662b26" ed="T"/>心不<note n="0662b2601" resp="CBETA" type="add">燋【大】【磧砂-CB】，憔【麗-CB】</note><app n="0662b2601"><lem wit="【大】">燋</lem><rdg resp="CBETA.maha" wit="【磧-CB】">燋<note type="cf1">Q27_p0247a06</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">憔<note type="cf1">K29n0969_p0209a15</note></rdg></app>熱，是名非悔法。何謂非無悔法？除
 <lb n="0662b27" ed="T"/>非悔，若餘法，是名非無悔法。何謂悅法？若心
 <lb n="0662b28" ed="T"/>悅豫，是名悅法。何謂非悅法？除悅法，若餘法，
 <lb n="0662b29" ed="T"/>是名非悅法。何謂喜法？若喜踊躍、重踊躍、寂
@@ -13229,7 +13229,7 @@ Added comment  for Emacs
 <lb n="0670a29" ed="T"/>法，幾非陰界入攝？問何等法？問非集諦繫法。
 <pb n="0670b" ed="T" xml:id="T28.1548.0670b"/>
 <lb n="0670b01" ed="T"/>除餘法。除何等法？除集諦繫法。非集諦繫
-<lb n="0670b02" ed="T"/><note resp="Taisho" n="0670004" place="foot text" type="orig">法＋（非集諦繫法）【三】，（集諦繫法）【宮】</note><note resp="CBETA" n="0670004" type="mod">法【大】，法非集諦繫法【宋】【元】【明】，<!--CBETA todo type: newmod-->（集諦繫法）【宮】</note><app n="0670004"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】">法非集諦繫法</rdg><rdg resp="Taisho" wit="【宮】">法集諦繫法</rdg></app>，幾非陰界入攝？問何等法？問集諦繫法。
+<lb n="0670b02" ed="T"/><note resp="Taisho" n="0670004" place="foot text" type="orig">法＋（非集諦繫法）【三】，（集諦繫法）【宮】</note><note resp="CBETA" n="0670004" type="mod">法【大】，法非集諦繫法【宋】【元】【明】，<!--CBETA todo type: newmod-->法集諦繫法【宮】</note><app n="0670004"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】">法非集諦繫法</rdg><rdg resp="Taisho" wit="【宮】">法集諦繫法</rdg></app>，幾非陰界入攝？問何等法？問集諦繫法。
 <lb n="0670b03" ed="T"/>除餘法。除何等法？除非集諦繫法。滅諦繫法，
 <lb n="0670b04" ed="T"/>幾非陰界入攝？問何等法？問非滅諦繫法。除
 <lb n="0670b05" ed="T"/>餘法。除何等法？除滅諦繫法。非滅諦繫<note resp="Taisho" n="0670005" place="foot text" type="orig">法＋（非滅諦繫法）【三】</note><note resp="CBETA" n="0670005" type="mod">法【大】，法非滅諦繫法【宋】【元】【明】</note><app n="0670005"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【宋】【元】【明】">法非滅諦繫法</rdg></app>，
@@ -14628,7 +14628,7 @@ Added comment  for Emacs
 <lb n="0686a02" ed="T"/>間緣。何謂非相續緣非無間緣？若法非增長、
 <lb n="0686a03" ed="T"/>若增長不至生第三、非生滅、若未滅，是名非
 <lb n="0686a04" ed="T"/>相續緣非無間緣。</p>
-<lb n="0686a05" ed="T"/><p xml:id="pT28p0686a0501"><note resp="Taisho" n="0686001" place="foot text" type="orig">〔何謂〕－【三】【宮】</note><note resp="CBETA" n="0686001" type="mod">〔－〕【CB】【宋】【元】【明】【宮】，何謂【大】</note><app n="0686001"><lem resp="CBETA.maha" wit="【CBETA】"><space quantity="0"/></lem><rdg wit="【大】">何謂</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>相續緣境界緣，或相續緣是境界緣、或
+<lb n="0686a05" ed="T"/><p xml:id="pT28p0686a0501"><note resp="Taisho" n="0686001" place="foot text" type="orig">〔何謂〕－【三】【宮】</note><note resp="CBETA" n="0686001" type="mod">〔－〕【CB】【宋】【元】【明】【宮】，何謂【大】</note><app n="0686001"><lem resp="CBETA.maha" wit="【CB】"><space quantity="0"/></lem><rdg wit="【大】">何謂</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>相續緣境界緣，或相續緣是境界緣、或
 <lb n="0686a06" ed="T"/>相續緣非境界緣。何謂相續緣是境界緣？若
 <lb n="0686a07" ed="T"/>法<note resp="Taisho" n="0686002" place="foot text" type="orig">增長＝非增長不【三】【宮】</note><note resp="CBETA" n="0686002" type="mod">增長【大】，非增長不【宋】【元】【明】【宮】</note><app n="0686002"><lem wit="【大】">增長</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">非增長不</rdg></app>至生第三、有境界，是名相續緣是境
 <lb n="0686a08" ed="T"/>界緣。何謂相續緣非境界緣？若法增長至生
@@ -14659,7 +14659,7 @@ Added comment  for Emacs
 <lb n="0686b02" ed="T"/>謂非相續緣是業緣？若法非增長、若增長不
 <lb n="0686b03" ed="T"/>至生第三、是業、若業生業，是名非<note resp="Taisho" n="0686005" place="foot text" type="orig">相續＝增長【宋】【元】【宮】</note><note resp="CBETA" n="0686005" type="mod">相續【大】，增長【宋】【元】【宮】</note><app n="0686005"><lem wit="【大】">相續</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">增長</rdg></app>緣是
 <lb n="0686b04" ed="T"/>業緣。何謂非相續緣非業緣？若法非增長、若
-<lb n="0686b05" ed="T"/>增長不至生第三、非業、若業生非業，是<note resp="Taisho" n="0686006" place="foot text" type="orig">〔名〕－【麗】</note><note resp="CBETA" n="0686006" type="mod">名【大】，〔－〕【麗-CB】</note><app n="0686006"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【麗】"><space quantity="0"/></rdg></app>非
+<lb n="0686b05" ed="T"/>增長不至生第三、非業、若業生非業，是<note resp="Taisho" n="0686006" place="foot text" type="orig">〔名〕－【麗】</note><note resp="CBETA" n="0686006" type="mod">名【大】，〔－〕【麗-CB】</note><app n="0686006"><lem wit="【大】">名</lem><rdg resp="Taisho" wit="【麗-CB】"><space quantity="0"/></rdg></app>非
 <lb n="0686b06" ed="T"/>相續緣非業緣。</p>
 <lb n="0686b07" ed="T"/><p xml:id="pT28p0686b0701">相續緣是報緣，無也。非相續緣報緣，或非相
 <lb n="0686b08" ed="T"/>續緣是報緣、或非相續緣非報緣。何謂非相
@@ -14800,7 +14800,7 @@ Added comment  for Emacs
 <lb n="0687c23" ed="T"/>次福行、非福行、不動行，此謂行。復次五受陰，
 <lb n="0687c24" ed="T"/>此謂行。復次行陰，此謂行。若如是法因，是名
 <lb n="0687c25" ed="T"/>行因。云何識因？眼識、身耳鼻舌身意識身因，
-<lb n="0687c26" ed="T"/>是名識因。云何<note resp="Taisho" n="0687008" place="foot text" type="orig">法＝名【三】【宮】</note><note resp="CBETA" n="0687008" type="mod">名【CB】【磧-CB】【宋】【元】【明】【宮】，法【大】</note><app n="0687008"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">名<note type="cf1">Q27_p0271a08</note></lem><rdg wit="【大】">法</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">名</rdg></app>色因？若憶想假稱制名，
+<lb n="0687c26" ed="T"/>是名識因。云何<note resp="Taisho" n="0687008" place="foot text" type="orig">法＝名【三】【宮】</note><note resp="CBETA" n="0687008" type="mod">名【CB】【磧-CB】【宋】【元】【明】【宮】，法【大】</note><app n="0687008"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">名<note type="cf1">Q27_p0271a08</note></lem><rdg wit="【大】">法</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">名</rdg></app>色因？若憶想假稱制名，
 <lb n="0687c27" ed="T"/>此謂名。若法色，此謂色。復次若由憶想假稱
 <lb n="0687c28" ed="T"/>制名，生受、想、思、觸、思惟，此謂名。十色入及法
 <lb n="0687c29" ed="T"/>入色，此謂色。復次觸首五法，此謂名。四大及
@@ -14929,7 +14929,7 @@ Added comment  for Emacs
 <lb n="0689b02" ed="T"/>名色調伏欲染、斷欲染，是名斷名色。今當集
 <lb n="0689b03" ed="T"/>名色正門。</p>
 <lb n="0689b04" ed="T"/><p xml:id="pT28p0689b0401">因、起、報、共、增上、依、食。長養、<note resp="Taisho" n="0689003" place="foot text" type="orig">持＝特【宮】＊</note><note resp="CBETA" n="0689003" type="mod">持【大】＊，特【宮】＊</note><app n="0689003"><lem wit="【大】">持</lem><rdg resp="Taisho" wit="【宮】">特</rdg></app>微攝、所依、所須。
-<lb n="0689b05" ed="T"/>始胎、住<note resp="Taisho" n="0689004" place="foot text" type="orig">〔住〕－【宮】</note><note resp="CBETA" n="0689004" type="mod">〔－〕【CB】【宮】，住【大】</note><app n="0689004"><lem resp="CBETA.maha" wit="【CBETA】"><space quantity="0"/></lem><rdg wit="【大】">住</rdg><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>處、生、道、所向、津、液、遍、滿。不調、不
+<lb n="0689b05" ed="T"/>始胎、住<note resp="Taisho" n="0689004" place="foot text" type="orig">〔住〕－【宮】</note><note resp="CBETA" n="0689004" type="mod">〔－〕【CB】【宮】，住【大】</note><app n="0689004"><lem resp="CBETA.maha" wit="【CB】"><space quantity="0"/></lem><rdg wit="【大】">住</rdg><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>處、生、道、所向、津、液、遍、滿。不調、不
 <lb n="0689b06" ed="T"/>堅、不護、不攝、不脩，調、堅、護、攝、脩。不解、不證、不
 <lb n="0689b07" ed="T"/>斷、不盡、不滅。解、證、斷、盡、滅。喜處、憂處、捨處。善、
 <lb n="0689b08" ed="T"/>不善、無記。學、無學、非學非無學。報、報法、非報
@@ -15374,7 +15374,7 @@ Added comment  for Emacs
 <lb n="0694a28" ed="T"/>生於地獄中非終，非始生畜生中，眠沒幾結？
 <lb n="0694a29" ed="T"/>若眾生於地獄中非終，<app corresp="#0694008" type="star"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>生畜生中，眠沒幾
 <pb n="0694b" ed="T" xml:id="T28.1548.0694b"/>
-<lb n="0694b01" ed="T"/><note resp="Taisho" n="0694009" place="foot text" type="orig">結＋（若眾生於地獄中非終非生畜生中眠沒幾結中）十九字【三】，（中）【宮】</note><note resp="CBETA" n="0694009" type="mod">結【大】，結若眾生於地獄中非終非生畜生中眠沒幾結中【宋】【元】【明】，<!--CBETA todo type: newmod-->（中）【宮】</note><app n="0694009"><lem wit="【大】">結</lem><rdg resp="Taisho" wit="【宋】【元】【明】">結若眾生於地獄中非終非生畜生中眠沒幾結中</rdg><rdg resp="Taisho" wit="【宮】">結中</rdg></app>？從地獄至餓鬼、從地獄至人中、從地獄
+<lb n="0694b01" ed="T"/><note resp="Taisho" n="0694009" place="foot text" type="orig">結＋（若眾生於地獄中非終非生畜生中眠沒幾結中）十九字【三】，（中）【宮】</note><note resp="CBETA" n="0694009" type="mod">結【大】，結若眾生於地獄中非終非生畜生中眠沒幾結中【宋】【元】【明】，<!--CBETA todo type: newmod-->結中【宮】</note><app n="0694009"><lem wit="【大】">結</lem><rdg resp="Taisho" wit="【宋】【元】【明】">結若眾生於地獄中非終非生畜生中眠沒幾結中</rdg><rdg resp="Taisho" wit="【宮】">結中</rdg></app>？從地獄至餓鬼、從地獄至人中、從地獄
 <lb n="0694b02" ed="T"/>至天上，亦如是。從畜生至餓鬼、從畜生至人
 <lb n="0694b03" ed="T"/>中、從畜生至天上、從畜生至地獄、從餓鬼至
 <lb n="0694b04" ed="T"/>人中、從餓鬼至天上、從餓鬼至地獄、從餓
@@ -16753,7 +16753,7 @@ Added comment  for Emacs
 <lb n="0709b26" ed="T"/><p xml:id="pT28p0709b2601">何謂學無常觀出息、學無常觀入息？何謂無
 <lb n="0709b27" ed="T"/>常想？如比丘或在樹下露處，如是思惟：色無
 <lb n="0709b28" ed="T"/>常、受想行識無常。如實人若想憶想，是名無
-<lb n="0709b29" ed="T"/>常想。云何觀？<note resp="Taisho" n="0709008" place="foot text" type="orig">知＝如【三】【宮】</note><note resp="CBETA" n="0709008" type="mod">如【CB】【宋】【元】【明】【宮】，知【大】</note><app n="0709008"><lem resp="CBETA.maha" wit="【CBETA】">如</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">如</rdg></app>實人若觀、正觀、微觀，分別
+<lb n="0709b29" ed="T"/>常想。云何觀？<note resp="Taisho" n="0709008" place="foot text" type="orig">知＝如【三】【宮】</note><note resp="CBETA" n="0709008" type="mod">如【CB】【宋】【元】【明】【宮】，知【大】</note><app n="0709008"><lem resp="CBETA.maha" wit="【CB】">如</lem><rdg wit="【大】">知</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">如</rdg></app>實人若觀、正觀、微觀，分別
 <pb n="0709c" ed="T" xml:id="T28.1548.0709c"/>
 <lb n="0709c01" ed="T"/>解<note resp="Taisho" n="0709009" place="foot text" type="orig">射＝脫【三】【宮】＊</note><note resp="CBETA" n="0709009" type="mod">射【大】＊，脫【宋】【元】【明】【宮】＊</note><app n="0709009"><lem wit="【大】">射</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">脫</rdg></app>，是名觀。比丘思惟法生無常想，善取
 <lb n="0709c02" ed="T"/>法相、善思惟、善解。若思惟法不生無常想，善
@@ -16774,7 +16774,7 @@ Added comment  for Emacs
 <lb n="0709c17" ed="T"/>觀若不生思惟法，親近勝法不親近不勝法。
 <lb n="0709c18" ed="T"/>比丘生無常觀思惟、若不生思<note resp="Taisho" n="0709011" place="foot text" type="orig">惟＋（法）【三】</note><note resp="CBETA" n="0709011" type="mod">惟【大】，惟法【宋】【元】【明】</note><app n="0709011"><lem wit="【大】">惟</lem><rdg resp="Taisho" wit="【宋】【元】【明】">惟法</rdg></app>，親近勝
 <lb n="0709c19" ed="T"/>法不親近不勝法。比丘思惟生無常觀出息
-<lb n="0709c20" ed="T"/>入息思惟法、若不生不思惟<note resp="Taisho" n="0709012" place="foot text" type="orig">不＝法【三】</note><note resp="CBETA" n="0709012" type="mod">法【CB】【宋】【元】【明】，不【大】</note><app n="0709012"><lem resp="CBETA.maha" wit="【CBETA】">法</lem><rdg wit="【大】">不</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">法</rdg></app>，親近勝法
+<lb n="0709c20" ed="T"/>入息思惟法、若不生不思惟<note resp="Taisho" n="0709012" place="foot text" type="orig">不＝法【三】</note><note resp="CBETA" n="0709012" type="mod">法【CB】【宋】【元】【明】，不【大】</note><app n="0709012"><lem resp="CBETA.maha" wit="【CB】">法</lem><rdg wit="【大】">不</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">法</rdg></app>，親近勝法
 <lb n="0709c21" ed="T"/>不親近不勝法。比丘思惟法生無常觀出息
 <lb n="0709c22" ed="T"/>入息覺知思惟法、若不生不思惟，親近勝法
 <lb n="0709c23" ed="T"/>不親近不勝法。比丘思惟應所修法、不思惟
@@ -16861,7 +16861,7 @@ Added comment  for Emacs
 <lb n="0710c14" ed="T"/>息覺知，善取法相、善思惟、善解。比丘思惟法
 <lb n="0710c15" ed="T"/>生出世<app corresp="#0710001" type="star"><lem wit="【大】">想</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">相</rdg></app>思惟、若不生不思惟，親近勝法
 <lb n="0710c16" ed="T"/>不親近不勝法。比丘思惟法生出世觀思惟
-<lb n="0710c17" ed="T"/>法、若<note resp="Taisho" n="0710005" place="foot text" type="orig">（不）＋生【三】</note><note resp="CBETA" n="0710005" type="mod">不生【CB】【磧-CB】【宋】【元】【明】，生【大】</note><app n="0710005"><lem resp="CBETA.maha" wit="【CBETA】【磧砂】">不生<note type="cf1">Q27_p0293a25</note></lem><rdg wit="【大】">生</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不生</rdg></app>不思惟法，親近勝法不親近不勝
+<lb n="0710c17" ed="T"/>法、若<note resp="Taisho" n="0710005" place="foot text" type="orig">（不）＋生【三】</note><note resp="CBETA" n="0710005" type="mod">不生【CB】【磧-CB】【宋】【元】【明】，生【大】</note><app n="0710005"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">不生<note type="cf1">Q27_p0293a25</note></lem><rdg wit="【大】">生</rdg><rdg resp="Taisho" wit="【宋】【元】【明】">不生</rdg></app>不思惟法，親近勝法不親近不勝
 <lb n="0710c18" ed="T"/>法。比丘思惟生出世觀出息入息思惟法、若
 <lb n="0710c19" ed="T"/>不生不思惟法，親近勝法不親近不勝法。比
 <lb n="0710c20" ed="T"/>丘思惟法生出世觀出息入息覺知思惟法、

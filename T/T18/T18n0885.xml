@@ -174,7 +174,7 @@ Added comment  for Emacs
 <lb n="0469c13" ed="T"/>
 <lb n="0469c14" ed="T"/>
 <lb n="0469c15" ed="T"/><cb:docNumber>No. 885</cb:docNumber>
-<lb n="0469c16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0469004" resp="Taisho" place="foot text" type="orig">【原】麗本，梵經名 Śrī sarva tathāgata-kāya-vāk-citta-rahasyād-vinirgama śrī guhyasamājasya mahā-tantra-rājasya pūrvārddhaḥ. （漢譯經梵經東大梵本475之前半耳，東大梵本195與漢譯同）</note><note n="0469004" resp="CBETA" type="mod">【原】麗本，梵經名 Śrī sarva tathāgata-kāya-vāk-citta-rahasyād-vinirgama śrī guhyasamājasya mahā-tantra-rājasya pūrvārddhaḥ. （漢譯經梵經東大梵本475之前半耳，東大梵本195與漢譯同）</note>佛說一切如來金剛三業最上
+<lb n="0469c16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0469004" resp="Taisho" place="foot text" type="orig">【原】麗本，梵經名 Śrī sarva tathāgata-kāya-vāk-citta-rahasyād-vinirgama śrī guhyasamājasya mahā-tantra-rājasya pūrvārddhaḥ. （漢譯經梵經東大梵本475之前半耳，東大梵本195與漢譯同）</note><note n="0469004" resp="CBETA" type="mod">【原】麗本，梵經名 Śrī sarva tathāgata-kāya-vāk-citta-rahasyād-vinirgama śrī guhyasamājasya mahā-tantra-rājasya pūrvārddhaḥ. （漢譯經梵經東大梵本475之前半耳<,,>東大梵本195與漢譯同）</note>佛說一切如來金剛三業最上
 <lb n="0469c17" ed="T"/>祕密大教王經卷第一</cb:jhead></cb:juan>
 <lb n="0469c18" ed="T"/>
 <lb n="0469c19" ed="T"/><byline cb:type="Translator">西天譯經三藏朝奉大夫試鴻臚卿
@@ -3375,8 +3375,8 @@ Added comment  for Emacs
 <lb n="0506a01" ed="T"/>切語金剛行一切如來語平等中。默然而住。</p>
 <lb n="0506a02" ed="T"/><p xml:id="pT18p0506a0201">又復世尊阿閦心金剛如來。即於三界一切
 <lb n="0506a03" ed="T"/>心金剛行一切如來心平等中。默然而住。</p>
-<lb n="0506a04" ed="T"/><p xml:id="pT18p0506a0401"><note n="0506a0401" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧砂-CB】，又復世尊阿閦心金剛如來即於三界一切【大】</note><app n="0506a0401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】"><space quantity="0"/><note type="cf1">K40n1418_p0134c15-17</note><note type="cf2">Q34_p0674a12-13</note></lem><rdg wit="【大】">又復世尊阿閦心金剛如來。即於三界一切</rdg></app>
-<lb n="0506a05" ed="T"/><note n="0506a0501" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧砂-CB】，心金剛行一切如來心平等中默然而住【大】</note><app n="0506a0501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】"><space quantity="0"/><note type="cf1">K40n1418_p0134c15-17</note><note type="cf2">Q34_p0674a12-13</note></lem><rdg wit="【大】">心金剛行一切如來心平等中。默然而住。</rdg></app></p></cb:div>
+<lb n="0506a04" ed="T"/><p xml:id="pT18p0506a0401"><note n="0506a0401" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧砂-CB】，又復世尊阿閦心金剛如來即於三界一切【大】</note><app n="0506a0401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】"><space quantity="0"/><note type="cf1">K40n1418_p0134c15-17</note><note type="cf2">Q34_p0674a12-13</note></lem><rdg wit="【大】">又復世尊阿閦心金剛如來。即於三界一切</rdg></app>
+<lb n="0506a05" ed="T"/><note n="0506a0501" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧砂-CB】，心金剛行一切如來心平等中默然而住【大】</note><app n="0506a0501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】"><space quantity="0"/><note type="cf1">K40n1418_p0134c15-17</note><note type="cf2">Q34_p0674a12-13</note></lem><rdg wit="【大】">心金剛行一切如來心平等中。默然而住。</rdg></app></p></cb:div>
 <lb n="0506a06" ed="T"/><cb:div type="fen"><cb:mulu level="1" n="18" type="分">18 宣說一切祕密行金剛加持分</cb:mulu><head><note n="0506001" resp="Taisho" place="foot text" type="orig">一切…十八 Sarva-tathāgata-kāya-vāk-citta-rahasyat guhya-samāja-mahā-tantra-rāje sarva-guhya-nirdeśa-vajra-jñānādhiṣṭhā-nāmāṣṭādaśaḥ paṭalaḥ.</note><cb:tt word-count="37" n="0506001" type="app"><cb:t resp="Taisho" xml:lang="zh-Hant"><title>一切如來金剛三業最上甚深祕密中祕密
 <lb n="0506a07" ed="T"/>諸佛大集會</title>宣說一切祕密行金剛加持分第
 <lb n="0506a08" ed="T"/>十八</cb:t><cb:t resp="Taisho" xml:lang="sa" place="foot">Sarva-tathāgata-kāya-vāk-citta-rahasyat guhya-samāja-mahā-tantra-rāje sarva-guhya-nirdeśa-vajra-jñānādhiṣṭhā-nāmāṣṭādaśaḥ paṭalaḥ.</cb:t></cb:tt></head>

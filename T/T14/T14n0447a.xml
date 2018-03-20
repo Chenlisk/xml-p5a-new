@@ -271,7 +271,7 @@ Added comment  for Emacs
 <lb n="0377a21" ed="T"/>嚴佛、南無善行意佛、南無智勝佛、南無
 <lb n="0377a22" ed="T"/>無量目佛、<note n="0377008" resp="Taisho" type="orig" place="foot text">南無目明佛∞南無實語佛【宋】【元】【宮】</note><note n="0377008" resp="CBETA" type="mod">南無目明佛【大】∞南無實語佛【宋】【元】【宮】</note><app n="0377008"><lem wit="【大】">南無目<note n="0377009" resp="Taisho" type="orig" place="foot text">〔丹日〕－【宋】【元】【宮】</note><note n="0377009" resp="CBETA" type="mod">丹日【大】，〔－〕【宋】【元】【宮】</note><app n="0377009"><lem wit="【大】"><note place="inline">丹日</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app>明佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">南無實語佛</rdg></app>、<note n="0377010" resp="Taisho" type="orig" place="foot text">南無目明佛∞南無實語佛【宋】【元】【宮】</note><note n="0377010" resp="CBETA" type="mod">南無實語佛【大】∞南無目明佛【宋】【元】【宮】</note><app n="0377010"><lem wit="【大】">南無實語
 <lb n="0377a23" ed="T"/>佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">南無目明佛</rdg></app>、南無定意佛、南無無量形佛、南無明
-<lb n="0377a24" ed="T"/>照<note n="0377011" resp="Taisho" type="orig" place="foot text">〔丹本照明〕－【宋】【元】【宮】</note><note n="0377011" resp="CBETA" type="mod">丹本照明【CB】，丹本　明【大】，〔－〕【宋】【元】【宮】</note><app n="0377011"><lem wit="【CBETA】" resp="CBETA.maha"><note place="inline">丹本照明</note></lem><rdg wit="【大】"><note place="inline">丹本　明</note></rdg><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app>佛、南無寶相佛、南無斷疑佛、南
+<lb n="0377a24" ed="T"/>照<note n="0377011" resp="Taisho" type="orig" place="foot text">〔丹本照明〕－【宋】【元】【宮】</note><note n="0377011" resp="CBETA" type="mod">丹本照明【CB】，丹本　明【大】，〔－〕【宋】【元】【宮】</note><app n="0377011"><lem wit="【CB】" resp="CBETA.maha"><note place="inline">丹本照明</note></lem><rdg wit="【大】"><note place="inline">丹本　明</note></rdg><rdg resp="Taisho" wit="【宋】【元】【宮】"><space quantity="0"/></rdg></app>佛、南無寶相佛、南無斷疑佛、南
 <lb n="0377a25" ed="T"/>無善明佛、南無不虛步佛、南無覺悟佛、
 <lb n="0377a26" ed="T"/>南無花相佛、南無山主王佛、<note n="0377012" resp="Taisho" type="orig" place="foot text">南無遍見佛∞南無大威德佛【宋】【元】【宮】</note><note n="0377012" resp="CBETA" type="mod">南無遍見佛【大】∞南無大威德佛【宋】【元】【宮】</note><app n="0377012"><lem wit="【大】">南無遍見
 <lb n="0377a27" ed="T"/>佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">南無大威德佛</rdg></app>、<note n="0377013" resp="Taisho" type="orig" place="foot text">南無遍見佛∞南無大威德佛【宋】【元】【宮】</note><note n="0377013" resp="CBETA" type="mod">南無大威德佛【大】∞南無遍見佛【宋】【元】【宮】</note><app n="0377013"><lem wit="【大】">南無大威德佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">南無遍見佛</rdg></app>、南無無量名佛、南
@@ -482,7 +482,7 @@ Added comment  for Emacs
 <lb n="0379b24" ed="T"/>佛、南無月光佛、南無持明佛、南無善寂
 <lb n="0379b25" ed="T"/>行佛、南無不動佛、南無大請佛、南無德
 <lb n="0379b26" ed="T"/>法佛、南無嚴土佛、南無莊嚴王佛、南無
-<lb n="0379b27" ed="T"/>高出佛、南無焰熾佛、南無花德<note n="0379009" resp="Taisho" type="orig" place="foot text">佛＋（南無寶嚴佛）五字【宋】【元】，南無弗沙佛【宮】</note><note n="0379009" resp="CBETA" type="mod">佛【大】，佛南無寶嚴佛【宋】【元】，南無弗沙佛【宮】</note><app n="0379009"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】">佛南無寶嚴佛</rdg><rdg resp="Taisho" wit="【宮】">佛南無弗沙佛</rdg></app>、南
+<lb n="0379b27" ed="T"/>高出佛、南無焰熾佛、南無花德<note n="0379009" resp="Taisho" type="orig" place="foot text">佛＋（南無寶嚴佛）五字【宋】【元】，南無弗沙佛【宮】</note><note n="0379009" resp="CBETA" type="mod">佛【大】，佛南無寶嚴佛【宋】【元】，佛南無弗沙佛【宮】</note><app n="0379009"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】">佛南無寶嚴佛</rdg><rdg resp="Taisho" wit="【宮】">佛南無弗沙佛</rdg></app>、南
 <lb n="0379b28" ed="T"/>無寶嚴<note n="0379010" resp="Taisho" type="orig" place="foot text">佛＋（五百佛竟）【宋】【元】【宮】</note><note n="0379010" resp="CBETA" type="mod">佛【大】，佛五百佛竟【宋】【元】【宮】</note><app n="0379010"><lem wit="【大】">佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">佛五百佛竟</rdg></app>、南無上善佛、南無寶上佛、
 <lb n="0379b29" ed="T"/>南無利慧佛。</p>
 <pb n="0379c" ed="T" xml:id="T14.0447a.0379c"/>
@@ -807,7 +807,7 @@ Added comment  for Emacs
 <lb n="0383a19" ed="T"/>顏佛、南無妙髻佛、南無欲樂佛、南無樓至
 <lb n="0383a20" ed="T"/>佛。</p>
 <lb n="0383a21" ed="T"/><p xml:id="pT14p0383a2101"><note n="0383006" resp="Taisho" type="orig" place="foot text">從此已上一千佛＝一千佛竟【宋】【元】【宮】</note><note n="0383006" resp="CBETA" type="mod">從此已上一千佛【大】，一千佛竟【宋】【元】【宮】</note><app n="0383006"><lem wit="【大】">從此已上一千佛</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">一千佛竟</rdg></app>。</p>
-<lb n="0383a22" ed="T"/><p xml:id="pT14p0383a2201"><note n="0383007" resp="Taisho" type="orig" place="foot text">（南無…法也）四百七十一字【宋】【元】與【麗】大異故以【宋】【元】對校【明】 p.388 參照，〔南無…法也〕四百七十一字－【宮】</note><note n="0383007" resp="CBETA" type="mod">〔－〕【宮】，<!--CBETA todo type: newmod-->（南無…法也）四百七十一字【宋】【元】與【麗】大異故以【宋】【元】對校【明】 p.388 參照</note><app n="0383007" cb:word-count="471"><lem wit="【大】">南無過現未來，十方三世，盡虛空界，一切諸
+<lb n="0383a22" ed="T"/><p xml:id="pT14p0383a2201"><note n="0383007" resp="Taisho" type="orig" place="foot text">（南無…法也）四百七十一字【宋】【元】與【麗】大異故以【宋】【元】對校【明】 p.388 參照，〔南無…法也〕四百七十一字－【宮】</note><note n="0383007" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->（南無…法也）四百七十一字【宋】【元】與【麗】大異故以【宋】【元】對校【明】 p.388 參照，〔南無…法也〕四百七十一字－【宮】</note><app n="0383007" cb:word-count="471"><lem wit="【大】">南無過現未來，十方三世，盡虛空界，一切諸
 <lb n="0383a23" ed="T"/>佛，歸命懺悔：「至心懺悔！弟子等，從無量劫來
 <lb n="0383a24" ed="T"/>至于今日，於其中間，隨心造過，逐意為愆；是
 <lb n="0383a25" ed="T"/>事乖違，觸途多犯；行三障路，入八邪林；上煩

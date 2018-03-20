@@ -847,11 +847,11 @@ Added comment  for Emacs
 <lb n="0366c11" ed="T"/>一。如智度論。加如實智。謂能如實知諸法
 <lb n="0366c12" ed="T"/>故。或說十三。如集論等。然今此中說十智義。
 <lb n="0366c13" ed="T"/>故依顯揚。<note n="0366002" resp="Taisho" place="foot text" type="orig">說＝論？</note><note n="0366002" resp="CBETA" type="mod">說【大】，論【考偽-大】</note><app n="0366002"><lem resp="Taisho" wit="【大】">說</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">論</rdg></app>十智相。故顯揚第二云。論曰
-<lb n="0366c14" ed="T"/>智者謂十種智。廣說如經。一法智。謂於<note n="0366003" resp="Taisho" place="foot text" type="orig">〔內〕－？</note><app n="0366003"><lem resp="Taisho" wit="【大】">內</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>共
+<lb n="0366c14" ed="T"/>智者謂十種智。廣說如經。一法智。謂於<note n="0366003" resp="Taisho" place="foot text" type="orig">〔內〕－？</note><note n="0366003" resp="CBETA" type="mod">內【大】，〔－〕【考偽-大】</note><app n="0366003"><lem resp="Taisho" wit="【大】">內</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>共
 <lb n="0366c15" ed="T"/>了現見所知諸義境界無漏之智。二種類智。
 <lb n="0366c16" ed="T"/>謂於不共了不現前所知義無漏之智。三他
 <lb n="0366c17" ed="T"/>心智。謂脩所生脩果。能知他心。及心法智。及
-<lb n="0366c18" ed="T"/>諸如來知諸眾生。隨其意解<note n="0366004" resp="Taisho" place="foot text" type="orig">〔隨其〕－？</note><app n="0366004"><lem resp="Taisho" wit="【大】">隨其</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>隨眠。教授
+<lb n="0366c18" ed="T"/>諸如來知諸眾生。隨其意解<note n="0366004" resp="Taisho" place="foot text" type="orig">〔隨其〕－？</note><note n="0366004" resp="CBETA" type="mod">隨其【大】，〔－〕【考偽-大】</note><app n="0366004"><lem resp="Taisho" wit="【大】">隨其</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>隨眠。教授
 <lb n="0366c19" ed="T"/>教誡轉起妙智。四世俗智。謂世間慧由依此
 <lb n="0366c20" ed="T"/>故。如來為諸眾生。隨其意解。隨其隨眠。演說
 <lb n="0366c21" ed="T"/>妙法。五苦智。謂於有漏諸行之中。無常苦空。
@@ -870,7 +870,7 @@ Added comment  for Emacs
 <lb n="0367a04" ed="T"/>義。亦同前說。廣辨十智。義如別章。</p>
 <lb n="0367a05" ed="T"/><p xml:id="pT33p0367a0501">經。三根。</p><p xml:id="pT33p0367a0504" rend="inline">釋曰。第三三根差別德。言三根者。
 <lb n="0367a06" ed="T"/>依本記云。一自性根。謂凡夫。二引取根。謂十
-<lb n="0367a07" ed="T"/>信至十地三得果根。謂如來。今解不爾。<note n="0367001" resp="Taisho" place="foot text" type="orig">一＋（者）？</note><app n="0367001"><lem resp="Taisho" wit="【大】">一</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">一者</rdg></app>
+<lb n="0367a07" ed="T"/>信至十地三得果根。謂如來。今解不爾。<note n="0367001" resp="Taisho" place="foot text" type="orig">一＋（者）？</note><note n="0367001" resp="CBETA" type="mod">一【大】，一者【考偽-大】</note><app n="0367001"><lem resp="Taisho" wit="【大】">一</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">一者</rdg></app>
 <lb n="0367a08" ed="T"/>未知當知根。二者已知根。三者具知根。然此
 <lb n="0367a09" ed="T"/>三根。對見修道及無學道三位別者。諸宗不
 <lb n="0367a10" ed="T"/>同。薩婆多宗。三無漏根。見道修道及無學道。
@@ -922,7 +922,7 @@ Added comment  for Emacs
 <lb n="0367b26" ed="T"/><p xml:id="pT33p0367b2601">經。法假<note place="inline">至</note>名假虛實觀。</p><p xml:id="pT33p0367b2610" rend="inline">釋曰。第五三假觀門
 <lb n="0367b27" ed="T"/>德。依本記云。三種三假別教因成等。成實論
 <lb n="0367b28" ed="T"/>宗。因生緣成相續三假也。通教名受等。大品
-<lb n="0367b29" ed="T"/>等云。法假受假<note n="0367003" resp="Taisho" place="foot text" type="orig">〔名假〕－？</note><app n="0367003"><lem resp="Taisho" wit="【大】">名假</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>也。通宗如今義<note place="inline">解深密等三性三無
+<lb n="0367b29" ed="T"/>等云。法假受假<note n="0367003" resp="Taisho" place="foot text" type="orig">〔名假〕－？</note><note n="0367003" resp="CBETA" type="mod">名假【大】，〔－〕【考偽-大】</note><app n="0367003"><lem resp="Taisho" wit="【大】">名假</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>也。通宗如今義<note place="inline">解深密等三性三無
 <pb n="0367c" xml:id="T33.1708.0367c" ed="T"/>
 <lb n="0367c01" ed="T"/>性也</note>一真實。二依他三名字。法假則真實之法。
 <lb n="0367c02" ed="T"/>受假則妄相。依他之心。受納前境。名假則一
@@ -1006,10 +1006,10 @@ Added comment  for Emacs
 <lb n="0368b20" ed="T"/>經八百萬億仙人者。或是聲聞種性。或是緣
 <lb n="0368b21" ed="T"/>覺種性。而言出無佛世者。依多分說。又雜集
 <lb n="0368b22" ed="T"/>論十三云。獨覺乘補特伽羅者。謂住獨覺法
-<lb n="0368b23" ed="T"/><note n="0368003" resp="Taisho" place="foot text" type="orig">性＝物？</note><note n="0368003" resp="CBETA" type="mod">性【大】，物【考偽-大】</note><app n="0368003"><lem resp="Taisho" wit="【大】">性</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">物</rdg></app>若定不定性。是中根自求解脫。乃至<note n="0368004" resp="Taisho" place="foot text" type="orig">或＋（先）？</note><app n="0368004"><lem resp="Taisho" wit="【大】">或</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">或先</rdg></app>
+<lb n="0368b23" ed="T"/><note n="0368003" resp="Taisho" place="foot text" type="orig">性＝物？</note><note n="0368003" resp="CBETA" type="mod">性【大】，物【考偽-大】</note><app n="0368003"><lem resp="Taisho" wit="【大】">性</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">物</rdg></app>若定不定性。是中根自求解脫。乃至<note n="0368004" resp="Taisho" place="foot text" type="orig">或＋（先）？</note><note n="0368004" resp="CBETA" type="mod">或【大】，或先【考偽-大】</note><app n="0368004"><lem resp="Taisho" wit="【大】">或</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">或先</rdg></app>
 <lb n="0368b24" ed="T"/>未起順決擇分。或先已起。或先未得果。
 <lb n="0368b25" ed="T"/>或先已得果。出無佛<note n="0368005" resp="Taisho" place="foot text" type="orig">時也＝世？</note><note n="0368005" resp="CBETA" type="mod">時也【大】，世【考偽-大】</note><app n="0368005"><lem resp="Taisho" wit="【大】">時也</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">世</rdg></app>。唯內思惟聖觀
-<lb n="0368b26" ed="T"/>現前。或如麟<note n="0368006" resp="Taisho" place="foot text" type="orig">角＋（獨住）？</note><app n="0368006"><lem resp="Taisho" wit="【大】">角</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">角獨住</rdg></app>。或復獨勝部行。若先未
+<lb n="0368b26" ed="T"/>現前。或如麟<note n="0368006" resp="Taisho" place="foot text" type="orig">角＋（獨住）？</note><note n="0368006" resp="CBETA" type="mod">角【大】，角獨住【考偽-大】</note><app n="0368006"><lem resp="Taisho" wit="【大】">角</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">角獨住</rdg></app>。或復獨勝部行。若先未
 <lb n="0368b27" ed="T"/>起。亦未得果。方成麟角。餘名部行。廣如彼
 <lb n="0368b28" ed="T"/>說。</p>
 <lb n="0368b29" ed="T"/><p xml:id="pT33p0368b2901">經。非斷非常。四諦十二緣皆成就。</p><p xml:id="pT33p0368b2914" rend="inline">釋曰。第
@@ -1910,7 +1910,7 @@ Added comment  for Emacs
 <pb n="0378c" xml:id="T33.1708.0378c" ed="T"/>
 <lb n="0378c01" ed="T"/>七六百偈部。即文殊問。八三百偈部。即金剛
 <lb n="0378c02" ed="T"/>般若。若依真諦金剛般若記中。所說八部般
-<lb n="0378c03" ed="T"/>若。亦同留支。而差別者。第六部<note n="0378001" resp="Taisho" place="foot text" type="orig">〔無〕－？</note><app n="0378001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>云。此方
+<lb n="0378c03" ed="T"/>若。亦同留支。而差別者。第六部<note n="0378001" resp="Taisho" place="foot text" type="orig">〔無〕－？</note><note n="0378001" resp="CBETA" type="mod">無【大】，〔－〕【考偽-大】</note><app n="0378001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>云。此方
 <lb n="0378c04" ed="T"/>未有。今問日照三藏。于闐三藏。皆作此說。彼
 <lb n="0378c05" ed="T"/>處未聞八部之名。今依大般若。四處十六會。
 <lb n="0378c06" ed="T"/>而不攝仁王般若。又慈恩三藏云。西方不限
@@ -2527,7 +2527,7 @@ Added comment  for Emacs
 <lb n="0385b17" ed="T"/>羸劣隨眠。謂於第六第七地中。微細現行。若
 <lb n="0385b18" ed="T"/>修所伏。不現行故。三者微細隨眠。謂於第八
 <lb n="0385b19" ed="T"/>地以上。從此已去。一切煩惱不復現行。唯有
-<lb n="0385b20" ed="T"/>所依所知障。為依<note n="0385002" resp="Taisho" place="foot text" type="orig">〔為依〕－？</note><app n="0385002"><lem resp="Taisho" wit="【大】">為依</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>止故。</p>
+<lb n="0385b20" ed="T"/>所依所知障。為依<note n="0385002" resp="Taisho" place="foot text" type="orig">〔為依〕－？</note><note n="0385002" resp="CBETA" type="mod">為依【大】，〔－〕【考偽-大】</note><app n="0385002"><lem resp="Taisho" wit="【大】">為依</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>止故。</p>
 <lb n="0385b21" ed="T"/><p xml:id="pT33p0385b2101">經。金剛菩薩<note place="inline">至</note>因空故空。</p><p xml:id="pT33p0385b2111" rend="inline">釋曰。第二釋空所
 <lb n="0385b22" ed="T"/>由。此明金剛菩薩。得理盡三昧故。二種生死
 <lb n="0385b23" ed="T"/>惑業皆空。所言惑者。謂發業煩惱果者。即是
@@ -3892,7 +3892,7 @@ Added comment  for Emacs
 <lb n="0400c01" ed="T"/>阿摩羅者。第八識中淨分第八。然諸教立識
 <lb n="0400c02" ed="T"/>不定。有處但說六識。不說七八。如諸般若。或
 <lb n="0400c03" ed="T"/>說八識。如金光明等。而諸般若。所說六識。自
-<lb n="0400c04" ed="T"/>有三品。謂上中下。上品細者。名為賴邪。<note n="0400002" resp="Taisho" place="foot text" type="orig">中＋（名）？</note><app n="0400002"><lem resp="Taisho" wit="【大】">中</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">中名</rdg></app>
+<lb n="0400c04" ed="T"/>有三品。謂上中下。上品細者。名為賴邪。<note n="0400002" resp="Taisho" place="foot text" type="orig">中＋（名）？</note><note n="0400002" resp="CBETA" type="mod">中【大】，中名【考偽-大】</note><app n="0400002"><lem resp="Taisho" wit="【大】">中</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">中名</rdg></app>
 <lb n="0400c05" ed="T"/>末那。下名六識。如是三品。從意根生。故名意
 <lb n="0400c06" ed="T"/>識。言初一念識。異木石者。隨生何處。受生剎
 <lb n="0400c07" ed="T"/>那。初一念識。名正受生識。唯是異熟。自性分
@@ -4108,7 +4108,7 @@ Added comment  for Emacs
 <lb n="0403a07" ed="T"/>其二問。一問一二。二問有無。答有四重。彼
 <lb n="0403a08" ed="T"/>云。二諦法性。為一為二。為有為無。下佛答
 <lb n="0403a09" ed="T"/>云。佛子二諦者。世諦有故不空。無諦空故不
-<lb n="0403a10" ed="T"/>有。<note n="0403004" resp="Taisho" place="foot text" type="orig">二＋（諦）？</note><app n="0403004"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二諦</rdg></app>常爾故不一。聖照空故不二。有佛無
+<lb n="0403a10" ed="T"/>有。<note n="0403004" resp="Taisho" place="foot text" type="orig">二＋（諦）？</note><note n="0403004" resp="CBETA" type="mod">二【大】，二諦【考偽-大】</note><app n="0403004"><lem resp="Taisho" wit="【大】">二</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">二諦</rdg></app>常爾故不一。聖照空故不二。有佛無
 <lb n="0403a11" ed="T"/>佛。法界不變。法常清淨故不二。諸佛還為凡
 <lb n="0403a12" ed="T"/>夫故不空。無無故不有。空實故不一。本際不
 <lb n="0403a13" ed="T"/>生故不二。不壞假名諸法相故不空。諸法即
@@ -4222,7 +4222,7 @@ Added comment  for Emacs
 <lb n="0404b01" ed="T"/>具如別章。</p>
 <lb n="0404b02" ed="T"/><p xml:id="pT33p0404b0201">經。幻化見幻化<note place="inline">至</note>諦實則皆無。</p><p xml:id="pT33p0404b0213" rend="inline">釋曰。第二
 <lb n="0404b03" ed="T"/>顯能所化虛。謂幻化見幻化者。皆非實有。故
-<lb n="0404b04" ed="T"/>維摩云。其說法者。<note n="0404001" resp="Taisho" place="foot text" type="orig">（無說）＋無？</note><app n="0404001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">無說無</rdg></app>示。其聽法者。無聞無
+<lb n="0404b04" ed="T"/>維摩云。其說法者。<note n="0404001" resp="Taisho" place="foot text" type="orig">（無說）＋無？</note><note n="0404001" resp="CBETA" type="mod">無【大】，無說無【考偽-大】</note><app n="0404001"><lem resp="Taisho" wit="【大】">無</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">無說無</rdg></app>示。其聽法者。無聞無
 <lb n="0404b05" ed="T"/>得。諸說不同。准上應知。</p>
 <lb n="0404b06" ed="T"/><p xml:id="pT33p0404b0601">經。名為諸佛觀。菩薩觀亦然。</p><p xml:id="pT33p0404b0612" rend="inline">釋曰。第三結
 <lb n="0404b07" ed="T"/>觀歸人。如上所說。一二之義。是佛菩薩之所
@@ -4343,7 +4343,7 @@ Added comment  for Emacs
 <lb n="0405c02" ed="T"/>三義。一眾生性。譬如意珠。所須皆能成就。二
 <lb n="0405c03" ed="T"/>眾生根。譬如清水。影和潤清。如慈悲心。三
 <lb n="0405c04" ed="T"/>眾生智。譬如虛空。於如如不轉不異。性是不
-<lb n="0405c05" ed="T"/>改義。所求竟<note n="0405001" resp="Taisho" place="foot text" type="orig">（必）＋得？</note><app n="0405001"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">必得</rdg></app>。是不改。也根是能生義。能
+<lb n="0405c05" ed="T"/>改義。所求竟<note n="0405001" resp="Taisho" place="foot text" type="orig">（必）＋得？</note><note n="0405001" resp="CBETA" type="mod">得【大】，必得【考偽-大】</note><app n="0405001"><lem resp="Taisho" wit="【大】">得</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">必得</rdg></app>。是不改。也根是能生義。能
 <lb n="0405c06" ed="T"/>生慈悲。利益一切眾生。第三明本性以為母。
 <lb n="0405c07" ed="T"/>未得佛時。以當佛為智母。若得佛時。即薩婆
 <lb n="0405c08" ed="T"/>若。是一切智。諸佛未成佛時。名自性。即是隱
@@ -4375,7 +4375,7 @@ Added comment  for Emacs
 <lb n="0406a04" ed="T"/>字者。明一味波羅蜜故。證真性為最勝。翻波
 <lb n="0406a05" ed="T"/>羅蜜。為究竟最勝也。第五結護佛果。護十地。
 <lb n="0406a06" ed="T"/>護<note n="0406001" resp="Taisho" place="foot text" type="orig">因＝用？</note><note n="0406001" resp="CBETA" type="mod">因【大】，用【考偽-大】</note><app n="0406001"><lem resp="Taisho" wit="【大】">因</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">用</rdg></app>。護化眾生利他。今解不爾。問答分別
-<lb n="0406a07" ed="T"/>說法不二。文別<note n="0406002" resp="Taisho" place="foot text" type="orig">有＋（二）？</note><app n="0406002"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">有二</rdg></app>初問答分別說法不二。後
+<lb n="0406a07" ed="T"/>說法不二。文別<note n="0406002" resp="Taisho" place="foot text" type="orig">有＋（二）？</note><note n="0406002" resp="CBETA" type="mod">有【大】，有二【考偽-大】</note><app n="0406002"><lem resp="Taisho" wit="【大】">有</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">有二</rdg></app>初問答分別說法不二。後
 <lb n="0406a08" ed="T"/>大王下。依上說法。修諸智母。上來已釋空訖。
 <lb n="0406a09" ed="T"/>自下第二。修諸智母。文別有三。初廣辨修習。
 <lb n="0406a10" ed="T"/>次三乘下。逐難重釋。後大王下。結修所成。就
@@ -4414,7 +4414,7 @@ Added comment  for Emacs
 <lb n="0406b13" ed="T"/>謂前所說。如如文字。修諸智母。而未能顯修
 <lb n="0406b14" ed="T"/>相差別。故今重釋。文有兩節。即初釋如如文
 <lb n="0406b15" ed="T"/>字。後修無脩下。釋修諸智母。謂若菩薩無受
-<lb n="0406b16" ed="T"/>乃至非非<note n="0406003" resp="Taisho" place="foot text" type="orig">文＋（字）？</note><app n="0406003"><lem resp="Taisho" wit="【大】">文</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">文字</rdg></app>者。名為如如文字。然此四句。
+<lb n="0406b16" ed="T"/>乃至非非<note n="0406003" resp="Taisho" place="foot text" type="orig">文＋（字）？</note><note n="0406003" resp="CBETA" type="mod">文【大】，文字【考偽-大】</note><app n="0406003"><lem resp="Taisho" wit="【大】">文</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">文字</rdg></app>者。名為如如文字。然此四句。
 <lb n="0406b17" ed="T"/>諸說不同。一云。無受者總句。菩薩不執文字。
 <lb n="0406b18" ed="T"/>故言不受。無文字者。下有三句。別釋不受。一
 <lb n="0406b19" ed="T"/>不受無文字。以不執著無文字故。離文字者。

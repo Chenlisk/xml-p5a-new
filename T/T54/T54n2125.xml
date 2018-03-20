@@ -180,7 +180,7 @@ add cvs log
 <lb n="0205b19" ed="T"/>崙，頭捲體黑——自餘諸國，與神州不殊——赤脚
 <lb n="0205b20" ed="T"/>敢曼，總是其式，廣如《南海錄》中具述。驩州正
 <lb n="0205b21" ed="T"/>南步行可餘半月，若乘船纔五六<note n="0205015" resp="Taisho" type="orig" place="foot text">朝＝潮【三】</note><note n="0205015" resp="CBETA" type="mod">朝【大】，潮【宋】【元】【明】</note><app n="0205015"><lem wit="【大】">朝</lem><rdg resp="Taisho" wit="【宋】【元】【明】">潮</rdg></app>，即到
-<lb n="0205b22" ed="T"/><note n="0205016" resp="Taisho" type="orig" place="foot text">匕＝已【宋】，上【明】</note><note n="0205016" resp="CBETA" type="mod">匕【大】，已【宋】，上【明】</note><app n="0205016"><lem resp="CBETA.say" wit="【CBETA】">匕</lem><rdg wit="【大】">七</rdg><rdg resp="Taisho" wit="【宋】">已</rdg><rdg resp="Taisho" wit="【明】">上</rdg></app>景。南至占波，即是臨邑。此國多是正量，
+<lb n="0205b22" ed="T"/><note n="0205016" resp="Taisho" type="orig" place="foot text">匕＝已【宋】，上【明】</note><note n="0205016" resp="CBETA" type="mod">匕【大】，已【宋】，上【明】</note><app n="0205016"><lem resp="CBETA.say" wit="【CB】">匕</lem><rdg wit="【大】">七</rdg><rdg resp="Taisho" wit="【宋】">已</rdg><rdg resp="Taisho" wit="【明】">上</rdg></app>景。南至占波，即是臨邑。此國多是正量，
 <lb n="0205b23" ed="T"/>少兼有部。西南一月至跋南國，舊云扶南，
 <lb n="0205b24" ed="T"/>先是裸國，人多事天，後乃佛法盛流；惡王今
 <lb n="0205b25" ed="T"/>並除滅，逈無僧眾，外道雜居。斯即贍部南
@@ -868,7 +868,7 @@ add cvs log
 <lb n="0213a18" ed="T"/>得七條<note n="0213007" resp="Taisho" type="orig" place="foot text">〔五條〕－【甲】</note><note n="0213007" resp="CBETA" type="mod">五條【大】，〔－〕【甲】</note><app n="0213007"><lem wit="【大】">五條</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>，內葉三指、外緣一寸，外緣有刺
 <lb n="0213a19" ed="T"/>三道，內葉悉皆縫合。充事表儀，亦何假精妙？
 <lb n="0213a20" ed="T"/>若著納衣者，意存省事，或拾遺於糞聚、或
-<lb n="0213a21" ed="T"/>取棄於屍林，隨得隨縫，用<note n="0213008" resp="Taisho" type="orig" place="foot text">袪＝社【甲】</note><note n="0213008" resp="CBETA" type="mod">祛【大】，社【甲】</note><app n="0213008"><lem wit="【CBETA】" resp="CBETA.maha">祛</lem><rdg wit="【大】">袪</rdg><rdg resp="Taisho" wit="【甲】">社</rdg></app>寒暑耳。而有
+<lb n="0213a21" ed="T"/>取棄於屍林，隨得隨縫，用<note n="0213008" resp="Taisho" type="orig" place="foot text">袪＝社【甲】</note><note n="0213008" resp="CBETA" type="mod">祛【大】，社【甲】</note><app n="0213008"><lem wit="【CB】" resp="CBETA.maha">祛</lem><rdg wit="【大】">袪</rdg><rdg resp="Taisho" wit="【甲】">社</rdg></app>寒暑耳。而有
 <lb n="0213a22" ed="T"/>說云「律中臥具，即是三衣。」見制野蠶便生異
 <lb n="0213a23" ed="T"/>意，剩謂法衣非絹，遂即覓布慇懃。寧委本
 <lb n="0213a24" ed="T"/>文元來是褥，高世耶乃是蠶名，作絹還受斯
@@ -1884,7 +1884,7 @@ add cvs log
 <lb n="0224b15" ed="T"/>斷食。又三等丸能療眾病復非難得，取訶
 <lb n="0224b16" ed="T"/>黎勒皮、乾薑、沙糖，三事等分，擣前二令碎，
 <lb n="0224b17" ed="T"/>以<note n="0224009" resp="Taisho" type="orig" place="foot text">水＝氷【明】</note><note n="0224009" resp="CBETA" type="mod">水【大】，氷【明】</note><app n="0224009"><lem wit="【大】">水</lem><rdg resp="Taisho" wit="【明】">氷</rdg></app>片許和沙糖融之併擣為丸，旦服
-<lb n="0224b18" ed="T"/>十丸許<note n="0224010" resp="Taisho" type="orig" place="foot text">以＋（知）【宋】【元】，（和）【明】</note><note n="0224010" resp="CBETA" type="mod">以【大】，以知【宋】【元】，<!--CBETA todo type: newmod-->（和）【明】</note><app n="0224010"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】">以知</rdg><rdg resp="Taisho" wit="【明】">以和</rdg></app>為度，諸無所忌。若患痢者，不
+<lb n="0224b18" ed="T"/>十丸許<note n="0224010" resp="Taisho" type="orig" place="foot text">以＋（知）【宋】【元】，（和）【明】</note><note n="0224010" resp="CBETA" type="mod">以【大】，以知【宋】【元】，<!--CBETA todo type: newmod-->以和【明】</note><app n="0224010"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】">以知</rdg><rdg resp="Taisho" wit="【明】">以和</rdg></app>為度，諸無所忌。若患痢者，不
 <lb n="0224b19" ed="T"/>過三兩服即差，能破胘氣除風消食，為益
 <lb n="0224b20" ed="T"/>處廣故此言之。若無沙糖者，<note n="0224011" resp="Taisho" type="orig" place="foot text">飴＝餳【元】【明】</note><note n="0224011" resp="CBETA" type="mod">飴【大】，餳【元】【明】</note><app n="0224011"><lem wit="【大】">飴</lem><rdg resp="Taisho" wit="【元】【明】">餳</rdg></app>蜜亦得。又
 <lb n="0224b21" ed="T"/>訶黎勒若能每日嚼一顆咽汁，亦終身無病。
@@ -1960,7 +1960,7 @@ add cvs log
 <lb n="0225b01" ed="T"/>毒，自有磂黃、雄黃、雌黃之石，片子隨身誠非
 <lb n="0225b02" ed="T"/>難得。若遭熱瘴，即有甘草、恒山、苦<app type="star" corresp="#0224016"><lem wit="【大】">蔘</lem><rdg resp="Taisho" wit="【宋】【元】【明】">參</rdg></app>之
 <lb n="0225b03" ed="T"/>湯，貯畜少多理便易獲。薑、椒、蓽<anchor xml:id="fxT54p0225b03"/>茇，旦咽而
-<lb n="0225b04" ed="T"/>風冷全<note n="0225009" resp="Taisho" type="orig" place="foot text">袪＝法【宋】</note><note n="0225009" resp="CBETA" type="mod">祛【大】，法【宋】</note><app n="0225009"><lem wit="【CBETA】" resp="CBETA.maha">祛</lem><rdg wit="【大】">袪</rdg><rdg resp="Taisho" wit="【宋】">法</rdg></app>，石蜜、沙糖，夜飡而飢渴俱息，不
+<lb n="0225b04" ed="T"/>風冷全<note n="0225009" resp="Taisho" type="orig" place="foot text">袪＝法【宋】</note><note n="0225009" resp="CBETA" type="mod">祛【大】，法【宋】</note><app n="0225009"><lem wit="【CB】" resp="CBETA.maha">祛</lem><rdg wit="【大】">袪</rdg><rdg resp="Taisho" wit="【宋】">法</rdg></app>，石蜜、沙糖，夜飡而飢渴俱息，不
 <lb n="0225b05" ed="T"/>畜湯藥之直，臨事定有闕如。違教不行罪
 <lb n="0225b06" ed="T"/>愆寧免，錢財漫用急處便閑，若不曲題誰能
 <lb n="0225b07" ed="T"/>直悟。嗚呼！不肯施佳藥，<note n="0225010" resp="Taisho" type="orig" place="foot text">遂＝逐【三】</note><note n="0225010" resp="CBETA" type="mod">遂【大】，逐【宋】【元】【明】</note><app n="0225010"><lem wit="【大】">遂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">逐</rdg></app>省用龍湯，雖

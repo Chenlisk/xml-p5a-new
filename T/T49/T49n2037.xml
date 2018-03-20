@@ -8094,7 +8094,7 @@ Added comment  for Emacs
 <lb n="0826c13" ed="T"/>十五道。各置采訪使。方士張<note n="0826003" resp="Taisho" place="foot text" type="orig">果老</note>果老自言。已
 <lb n="0826c14" ed="T"/>數百歲。帝召之至闕。懇辭歸山。制賜銀青
 <lb n="0826c15" ed="T"/>光祿大夫號通玄先生入常山不知所終。</p>
-<lb n="0826c16" ed="T"/><p xml:id="pT49p0826c1601">華嚴<note n="0826004" resp="Taisho" place="foot text" type="orig">〔合〕－？</note><app n="0826004"><lem resp="Taisho" wit="【大】">合</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>論　開元二十二年。太原李長者。名
+<lb n="0826c16" ed="T"/><p xml:id="pT49p0826c1601">華嚴<note n="0826004" resp="Taisho" place="foot text" type="orig">〔合〕－？</note><note n="0826004" resp="CBETA" type="mod">合【大】，〔－〕【考偽-大】</note><app n="0826004"><lem resp="Taisho" wit="【大】">合</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark"><space quantity="0"/></rdg></app>論　開元二十二年。太原李長者。名
 <lb n="0826c17" ed="T"/>通玄。日食一柏葉棗小餅。因呼棗柏大士。初
 <lb n="0826c18" ed="T"/>開元七年。太原孟縣高仙奴舘之齋中造論。
 <lb n="0826c19" ed="T"/>逾三年遷馬氏古佛堂側。閱十年負經書而
@@ -10868,7 +10868,7 @@ Added comment  for Emacs
 <lb n="0858a01" ed="T"/>為定國節度使兼殿前都指揮使。匡胤表渭
 <lb n="0858a02" ed="T"/>州軍事判官蘇州人趙普為節度推官。</p>
 <lb n="0858a03" ed="T"/><p xml:id="pT49p0858a0301">正月。周下詔。帝親征淮南<note place="inline">唐也</note>。帝召華山隱
-<lb n="0858a04" ed="T"/>士真源<note n="0858001" resp="Taisho" place="foot text" type="orig">疎搏</note><note n="0858001" resp="CBETA" type="mod">疎搏，<!--CBETA todo type: newmod-->＝陳摶【CB】</note>陳<app n="0858001"><lem wit="【CBETA】" resp="CBETA.maha">摶<note type="cf1">T49n2035_p0394b17</note><note type="cf2">X61n1156_p0459b23</note></lem><rdg wit="【大】">搏</rdg></app>。問以飛昇黃白之術。<note n="0858a0401" resp="CBETA" type="add">摶【CB】，搏【大】</note><app n="0858a0401"><lem wit="【CB】" resp="CBETA.maha">摶<note type="cf1">T49n2035_p0394b17</note><note type="cf2">X61n1156_p0459b23</note></lem><rdg wit="【大】">搏</rdg></app>對曰。
+<lb n="0858a04" ed="T"/>士真源<note n="0858001" resp="Taisho" place="foot text" type="orig">疎搏</note><note n="0858001" resp="CBETA" type="mod">疎搏，<!--CBETA todo type: newmod-->＝陳摶【CB】</note>陳<app n="0858001"><lem wit="【CB】" resp="CBETA.maha">摶<note type="cf1">T49n2035_p0394b17</note><note type="cf2">X61n1156_p0459b23</note></lem><rdg wit="【大】">搏</rdg></app>。問以飛昇黃白之術。<note n="0858a0401" resp="CBETA" type="add">摶【CB】，搏【大】</note><app n="0858a0401"><lem wit="【CB】" resp="CBETA.maha">摶<note type="cf1">T49n2035_p0394b17</note><note type="cf2">X61n1156_p0459b23</note></lem><rdg wit="【大】">搏</rdg></app>對曰。
 <lb n="0858a05" ed="T"/>陛下為天子。當以治天下為務。安用此為。乃
 <lb n="0858a06" ed="T"/>辭還山。</p>
 <lb n="0858a07" ed="T"/><p xml:id="pT49p0858a0701">丁巳顯德四年　大遼應曆七年。</p>

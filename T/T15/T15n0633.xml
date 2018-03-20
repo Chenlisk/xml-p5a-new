@@ -134,7 +134,7 @@ Added comment  for Emacs
 <lb n="0468b01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0468b02" ed="T"/><cb:docNumber>No. 633 [Nos. 632, 634]</cb:docNumber>
-<lb n="0468b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說如來智印經</title><note n="0468007" resp="Taisho" type="orig" place="foot text">〔一卷〕－【三】【宮】</note><note n="0468007" resp="CBETA" type="mod">一卷【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0468007"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0468008" resp="Taisho" type="orig" place="foot text">＋（一名諸佛法身）【宋】【元】【宮】，（一名諸佛法身經）【明】</note><note n="0468008" resp="CBETA" type="mod">〔－〕【大】，一名諸佛法身【宋】【元】【宮】，<!--CBETA todo type: newmod-->（一名諸佛法身經）【明】</note><app n="0468008"><lem wit="【大】"><space quantity="0"/></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">一名諸佛法身</rdg><rdg resp="Taisho" wit="【明】">一名諸佛法身經</rdg></app></cb:jhead></cb:juan>
+<lb n="0468b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>佛說如來智印經</title><note n="0468007" resp="Taisho" type="orig" place="foot text">〔一卷〕－【三】【宮】</note><note n="0468007" resp="CBETA" type="mod">一卷【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0468007"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0468008" resp="Taisho" type="orig" place="foot text">＋（一名諸佛法身）【宋】【元】【宮】，（一名諸佛法身經）【明】</note><note n="0468008" resp="CBETA" type="mod">〔－〕【大】，一名諸佛法身【宋】【元】【宮】，一名諸佛法身經【明】</note><app n="0468008"><lem wit="【大】"><space quantity="0"/></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">一名諸佛法身</rdg><rdg resp="Taisho" wit="【明】">一名諸佛法身經</rdg></app></cb:jhead></cb:juan>
 <lb n="0468b04" ed="T"/>
 <lb n="0468b05" ed="T"/><byline cb:type="Translator"><note n="0468009" resp="Taisho" type="orig" place="foot text">僧祐…錄（十字）＝僧祐錄失譯【宋】【宮】，僧祐錄失譯人開元附劉宋【元】，僧祐錄失譯人名開元附劉宋錄【明】</note><note n="0468009" resp="CBETA" type="mod">僧祐云闕譯人今附宋錄【大】，僧祐錄失譯【宋】【宮】，僧祐錄失譯人開元附劉宋【元】，僧祐錄失譯人名開元附劉宋錄【明】</note><app n="0468009"><lem wit="【大】">僧祐云闕譯人今附宋錄</lem><rdg resp="Taisho" wit="【宋】【宮】">僧祐錄失譯</rdg><rdg resp="Taisho" wit="【元】">僧祐錄失譯人開元附劉宋</rdg><rdg resp="Taisho" wit="【明】">僧祐錄失譯人名開元附劉宋錄</rdg></app></byline>
 <lb n="0468b06" ed="T"/><cb:div type="jing"><p xml:id="pT15p0468b0601">如是我聞：</p><p xml:id="pT15p0468b0605" rend="inline">一時佛在王舍城迦蘭陀竹園，與
@@ -475,7 +475,7 @@ Added comment  for Emacs
 <lb n="0472a11" ed="T"/><l>三十恒沙未來佛，</l><l>護持正法不斷絕。</l>
 <lb n="0472a12" ed="T"/><l>時慧御王阿閦佛，</l><l>汝等於彼常俱生，</l>
 <lb n="0472a13" ed="T"/><l>以護法緣捨女身，</l><l>當生無量極樂國。</l>
-<lb n="0472a14" ed="T"/><l>此眾護法亦當生，</l><l><note n="0472001" resp="Taisho" type="orig" place="foot text">汝＝法【三】【宮】</note><note n="0472001" resp="CBETA" type="mod">法【CB】【宋】【元】【明】【宮】，汝【大】</note><app n="0472001"><lem resp="CBETA.maha" wit="【CBETA】">法<note type="cf1">T15n0634_p0483b28</note><note type="cf2">T15n0632_p0465a17</note></lem><rdg wit="【大】">汝</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法</rdg></app>將欲滅為已住，</l>
+<lb n="0472a14" ed="T"/><l>此眾護法亦當生，</l><l><note n="0472001" resp="Taisho" type="orig" place="foot text">汝＝法【三】【宮】</note><note n="0472001" resp="CBETA" type="mod">法【CB】【宋】【元】【明】【宮】，汝【大】</note><app n="0472001"><lem resp="CBETA.maha" wit="【CB】">法<note type="cf1">T15n0634_p0483b28</note><note type="cf2">T15n0632_p0465a17</note></lem><rdg wit="【大】">汝</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">法</rdg></app>將欲滅為已住，</l>
 <lb n="0472a15" ed="T"/><l>必生極樂千葉華，</l><l>相好莊嚴為佛子。</l>
 <lb n="0472a16" ed="T"/><l>既得生彼供正覺，</l><l>莊嚴王劫無荊棘，</l>
 <lb n="0472a17" ed="T"/><l>於彼得成無上道，</l><l>執持正法及天人。</l>

@@ -750,7 +750,7 @@ Added comment  for Emacs
 <lb n="0335a13" ed="T"/>失。風界增故生飢，火界增故生渴，餘隨所應
 <lb n="0335a14" ed="T"/>皆當配釋。如是所造，離大種外別有體性，後
 <lb n="0335a15" ed="T"/>當廣辯。</p></cb:div>
-<lb n="0335a16" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><note resp="Taisho" n="0335003" place="foot text" type="orig">說一切有部＝阿毘達磨【三】【宮】</note><note resp="CBETA" n="0335003" type="mod">說一切有部【大】，阿毘達磨【宋】【元】【明】【宮】</note><app n="0335003"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0335004" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0335004" type="mod"><!--CBETA todo type: ＊--><!--CBETA todo type: newmod-->卷第一＋（說一切有部）五字細註【明】＊</note><app n="0335004"><lem wit="【大】">卷第一</lem><rdg resp="Taisho" wit="【明】">卷第一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0335a16" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><note resp="Taisho" n="0335003" place="foot text" type="orig">說一切有部＝阿毘達磨【三】【宮】</note><note resp="CBETA" n="0335003" type="mod">說一切有部【大】，阿毘達磨【宋】【元】【明】【宮】</note><app n="0335003"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0335004" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0335004" type="mod"><!--CBETA todo type: ＊-->卷第一【大】＊，卷第一(說一切有部)【明】＊</note><app n="0335004"><lem wit="【大】">卷第一</lem><rdg resp="Taisho" wit="【明】">卷第一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
 <lb n="0335a17" ed="T"/>
 <milestone unit="juan" n="2"/>
 <lb n="0335a18" ed="T"/>
@@ -4920,7 +4920,7 @@ Added comment  for Emacs
 <lb n="0381b05" ed="T"/>說深為有用。眼等前八及最後三，此十一
 <lb n="0381b06" ed="T"/>根定無異熟，八無記故、三無漏故。餘皆通
 <lb n="0381b07" ed="T"/>二，義准已成，謂意根餘四受，信等言等取精
-<lb n="0381b08" ed="T"/>進等四根，此<note resp="Taisho" n="0381004" place="foot text" type="orig">十＝七【宮】</note><note resp="CBETA" n="0381004" type="mod">十【大】，七【宮】</note><app n="0381004"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宮】">七</rdg></app><note resp="Taisho" n="0381005" place="foot text" type="orig">一＋（根）【宋】，（根一）【明】</note><note resp="CBETA" n="0381005" type="mod">一【大】，一根【宋】，<!--CBETA todo type: newmod-->（根一）【明】</note><app n="0381005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】">一根</rdg><rdg resp="Taisho" wit="【明】">一根一</rdg></app>一皆通二類。意樂喜捨，
+<lb n="0381b08" ed="T"/>進等四根，此<note resp="Taisho" n="0381004" place="foot text" type="orig">十＝七【宮】</note><note resp="CBETA" n="0381004" type="mod">十【大】，七【宮】</note><app n="0381004"><lem wit="【大】">十</lem><rdg resp="Taisho" wit="【宮】">七</rdg></app><note resp="Taisho" n="0381005" place="foot text" type="orig">一＋（根）【宋】，（根一）【明】</note><note resp="CBETA" n="0381005" type="mod">一【大】，一根【宋】，<!--CBETA todo type: newmod-->一根一【明】</note><app n="0381005"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】">一根</rdg><rdg resp="Taisho" wit="【明】">一根一</rdg></app>一皆通二類。意樂喜捨，
 <lb n="0381b09" ed="T"/>若不善善有漏有異熟，若無記無漏無異熟。
 <lb n="0381b10" ed="T"/>苦根若善不善有異熟，若無記無異熟。信等
 <lb n="0381b11" ed="T"/>五根若有漏有異熟，若無漏無異熟。如是已
@@ -5087,7 +5087,7 @@ Added comment  for Emacs
 <lb n="0383a22" ed="T"/>八，七如苦說，第八<app corresp="#0383001" type="star"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【明】">身</rdg></app>根。信等亦八，謂命意
 <lb n="0383a23" ed="T"/>捨信等五根。若女男俱成，彼定成十五。若成
 <lb n="0383a24" ed="T"/>具知<note resp="Taisho" n="0383002" place="foot text" type="orig">根＝相【宋】</note><note resp="CBETA" n="0383002" type="mod">根【大】，相【宋】</note><app n="0383002"><lem wit="【大】">根</lem><rdg resp="Taisho" wit="【宋】">相</rdg></app>，定成就十一，謂命與意樂喜捨根
-<lb n="0383a25" ed="T"/>信<note resp="Taisho" n="0383003" place="foot text" type="orig">第＝等【三】【宮】</note><note resp="CBETA" n="0383003" type="mod">等【CB】【宋】【元】【明】【宮】，第【大】</note><app n="0383003"><lem resp="CBETA.maha" wit="【CBETA】">等</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">等</rdg></app>五根及具知根。已知根亦爾，<app corresp="#0383001" type="star"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【明】">身</rdg></app>根<note resp="Taisho" n="0383004" place="foot text" type="orig">等＝第【三】【宮】</note><note resp="CBETA" n="0383004" type="mod">等【大】，第【宋】【元】【明】【宮】</note><app n="0383004"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>
+<lb n="0383a25" ed="T"/>信<note resp="Taisho" n="0383003" place="foot text" type="orig">第＝等【三】【宮】</note><note resp="CBETA" n="0383003" type="mod">等【CB】【宋】【元】【明】【宮】，第【大】</note><app n="0383003"><lem resp="CBETA.maha" wit="【CB】">等</lem><rdg wit="【大】">第</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">等</rdg></app>五根及具知根。已知根亦爾，<app corresp="#0383001" type="star"><lem wit="【大】">自</lem><rdg resp="Taisho" wit="【明】">身</rdg></app>根<note resp="Taisho" n="0383004" place="foot text" type="orig">等＝第【三】【宮】</note><note resp="CBETA" n="0383004" type="mod">等【大】，第【宋】【元】【明】【宮】</note><app n="0383004"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">第</rdg></app>
 <lb n="0383a26" ed="T"/>十一。若成未知根，定成就十三，謂身命意苦
 <lb n="0383a27" ed="T"/>樂喜捨信等五根及未知根。漸命終位，傳說
 <lb n="0383a28" ed="T"/>深心厭生死故，能入見道。如是已說位，定成
@@ -7052,7 +7052,7 @@ Added comment  for Emacs
 <lb n="0405a15" ed="T"/>勞、意念忘失。又由發起增上憤恚，以怨恨心
 <lb n="0405a16" ed="T"/>更相顧視，是故於彼殞沒非餘。此復應說捨
 <lb n="0405a17" ed="T"/>壽行者，以不由他自捨命故。唯可他害非自
-<lb n="0405a18" ed="T"/>害者，謂處卵中，及處胎中羯<note resp="Taisho" n="0405002" place="foot text" type="orig">刺＝剌【三】【宮】</note><note resp="CBETA" n="0405002" type="mod">剌【CB】【宋】【元】【明】【宮】，刺【大】</note><app n="0405002"><lem resp="CBETA.maha" wit="【CBETA】">剌<note type="cf1">T26n1536_p0404a02</note><note type="cf2">T27n1545_p0088a17</note></lem><rdg wit="【大】">刺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">剌</rdg></app>藍、頞部曇、
+<lb n="0405a18" ed="T"/>害者，謂處卵中，及處胎中羯<note resp="Taisho" n="0405002" place="foot text" type="orig">刺＝剌【三】【宮】</note><note resp="CBETA" n="0405002" type="mod">剌【CB】【宋】【元】【明】【宮】，刺【大】</note><app n="0405002"><lem resp="CBETA.maha" wit="【CB】">剌<note type="cf1">T26n1536_p0404a02</note><note type="cf2">T27n1545_p0088a17</note></lem><rdg wit="【大】">刺</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">剌</rdg></app>藍、頞部曇、
 <lb n="0405a19" ed="T"/>閉尸、鍵南、鉢羅奢佉位，由彼無能自損害故。
 <lb n="0405a20" ed="T"/>俱可害者，謂餘多分欲界有情。俱非害者，謂
 <lb n="0405a21" ed="T"/>在中有、色無色界一切有情，及在欲界一分有
@@ -11119,7 +11119,7 @@ Added comment  for Emacs
 <lb n="0450b05" ed="T"/><note resp="Taisho" n="0450003" place="foot text" type="orig">過＝果【宋】</note><note resp="CBETA" n="0450003" type="mod">過【大】，果【宋】</note><app n="0450003"><lem wit="【大】">過</lem><rdg resp="Taisho" wit="【宋】">果</rdg></app>去時可有作用，此言作用意顯功能，二
 <lb n="0450b06" ed="T"/>相別中已曾思擇。以因雖滅經無量時，而有
 <lb n="0450b07" ed="T"/>功能令自果起。由不共故，自果生時作用雖
-<lb n="0450b08" ed="T"/>無，而於自果<note resp="Taisho" n="0450004" place="foot text" type="orig">興＝與【三】【宮】</note><note resp="CBETA" n="0450004" type="mod">與【CB】【宋】【元】【明】【宮】，興【大】</note><app n="0450004"><lem resp="CBETA.maha" wit="【CBETA】">與</lem><rdg wit="【大】">興</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">與</rdg></app>功能上立作用名。彼上座
+<lb n="0450b08" ed="T"/>無，而於自果<note resp="Taisho" n="0450004" place="foot text" type="orig">興＝與【三】【宮】</note><note resp="CBETA" n="0450004" type="mod">與【CB】【宋】【元】【明】【宮】，興【大】</note><app n="0450004"><lem resp="CBETA.maha" wit="【CB】">與</lem><rdg wit="【大】">興</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">與</rdg></app>功能上立作用名。彼上座
 <lb n="0450b09" ed="T"/>言：一剎那頃難說此是生時滅時，非法由因
 <lb n="0450b10" ed="T"/>先生後滅，如杖持羂內蛇穴中，繫頸挽出方斷
 <lb n="0450b11" ed="T"/>其命，然體本無，由因故有。彼說但是掉舉戲
@@ -11389,7 +11389,7 @@ Added comment  for Emacs
 <lb n="0453b05" ed="T"/>從八無間起，謂自界四；色界二心於出定時
 <lb n="0453b06" ed="T"/>從彼善起，<note resp="Taisho" n="0453002" place="foot text" type="orig">被＝彼【明】</note>
 <note resp="CBETA" n="0453002" type="mod">彼【CB】【明】，被【大】</note>
-<app n="0453002"><lem resp="CBETA.maha" wit="【CBETA】">彼</lem><rdg wit="【大】">被</rdg><rdg resp="Taisho" wit="【明】">彼</rdg></app>初靜慮染定惱時，從彼染心
+<app n="0453002"><lem resp="CBETA.maha" wit="【CB】">彼</lem><rdg wit="【大】">被</rdg><rdg resp="Taisho" wit="【明】">彼</rdg></app>初靜慮染定惱時，從彼染心
 <lb n="0453b07" ed="T"/>生於欲善，求依下善為防退故；及學無學，謂
 <lb n="0453b08" ed="T"/>出觀時。染謂不善、有覆無記，二各從十無間
 <lb n="0453b09" ed="T"/>而生，謂自界四，色無色六。於續生位，上界六
@@ -12140,7 +12140,7 @@ Added comment  for Emacs
 <lb n="0461c03" ed="T"/>信。或異相託，理亦無違。鹿子仙人、魚身者等，
 <lb n="0461c04" ed="T"/>由滿業異形相不同，其實是人，故趣無雜。自
 <lb n="0461c05" ed="T"/>餘感赴因果不同，思擇業中當廣分別<note resp="Taisho" n="0461009" place="foot text" type="orig">此下聖本有光明皇后願文</note>。</p></cb:div>
-<lb n="0461c06" ed="T"/><cb:juan n="021" fun="close"><cb:jhead><title><note resp="Taisho" n="0461010" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0461010" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0461010"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0461011" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0461011" type="mod"><!--CBETA todo type: ＊--><!--CBETA todo type: newmod-->卷第二十一＋（說一切有部）五字細註【明】＊</note><app n="0461011"><lem wit="【大】">卷第二十一</lem><rdg resp="Taisho" wit="【明】">卷第二十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0461c06" ed="T"/><cb:juan n="021" fun="close"><cb:jhead><title><note resp="Taisho" n="0461010" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0461010" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0461010"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0461011" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0461011" type="mod"><!--CBETA todo type: ＊-->卷第二十一【大】＊，卷第二十一(說一切有部)【明】＊</note><app n="0461011"><lem wit="【大】">卷第二十一</lem><rdg resp="Taisho" wit="【明】">卷第二十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
 <lb n="0461c07" ed="T"/>
 <milestone unit="juan" n="22"/>
 <lb n="0461c08" ed="T"/>
@@ -17035,7 +17035,7 @@ Added comment  for Emacs
 <lb n="0516a05" ed="T"/>洲、二嗢怛羅漫怛里拏洲。俱盧洲邊二中洲
 <lb n="0516a06" ed="T"/>者，一矩拉婆洲、二憍拉婆洲。此一切洲皆人
 <lb n="0516a07" ed="T"/>所住，由下劣業增上所生，故住彼人身形卑
-<lb n="0516a08" ed="T"/>陋。有餘師說：遮末羅洲，邏剎<note resp="Taisho" n="0516001" place="foot text" type="orig">婆＝娑【三】【宮】</note><note resp="CBETA" n="0516001" type="mod">娑【CB】【宋】【元】【明】【宮】，婆【大】</note><app n="0516001"><lem resp="CBETA.maha" wit="【CBETA】">娑</lem><rdg wit="【大】">婆</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">娑</rdg></app>居，餘皆人
+<lb n="0516a08" ed="T"/>陋。有餘師說：遮末羅洲，邏剎<note resp="Taisho" n="0516001" place="foot text" type="orig">婆＝娑【三】【宮】</note><note resp="CBETA" n="0516001" type="mod">娑【CB】【宋】【元】【明】【宮】，婆【大】</note><app n="0516001"><lem resp="CBETA.maha" wit="【CB】">娑</lem><rdg wit="【大】">婆</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">娑</rdg></app>居，餘皆人
 <lb n="0516a09" ed="T"/>住。<app corresp="#0514018" type="star"><lem wit="【大】">辯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">辨</rdg></app>諸洲已，無熱惱池何方幾量？頌曰：</p>
 <lb n="0516a10" ed="T"/><lg xml:id="lgT29p0516a1001"><l>此北九黑山，</l><l>雪香醉山內，</l>
 <lb n="0516a11" ed="T"/><l>無熱池縱廣，</l><l>五十踰繕那。</l></lg>
@@ -20231,7 +20231,7 @@ Added comment  for Emacs
 <lb n="0552c29" ed="T"/>在家白衣男子，男根成就歸佛法僧，起殷淨
 <pb n="0553a" ed="T" xml:id="T29.1562.0553a"/>
 <lb n="0553a01" ed="T"/>心發誠諦語，自稱我是鄔波索迦，願尊憶持
-<lb n="0553a02" ed="T"/>慈悲護念。<note resp="Taisho" n="0553001" place="foot text" type="orig">齋＝齊【三】【宮】</note><note resp="CBETA" n="0553001" type="mod">齊【CB】【宋】【元】【明】【宮】，齋【大】</note><app n="0553001"><lem resp="CBETA.maha" wit="【CBETA】">齊</lem><rdg wit="【大】">齋</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">齊</rdg></app>是名曰鄔波索迦。此不相違，受
+<lb n="0553a02" ed="T"/>慈悲護念。<note resp="Taisho" n="0553001" place="foot text" type="orig">齋＝齊【三】【宮】</note><note resp="CBETA" n="0553001" type="mod">齊【CB】【宋】【元】【明】【宮】，齋【大】</note><app n="0553001"><lem resp="CBETA.maha" wit="【CB】">齊</lem><rdg wit="【大】">齋</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">齊</rdg></app>是名曰鄔波索迦。此不相違，受
 <lb n="0553a03" ed="T"/>三歸位未成近事。所以者何？要發律儀成近
 <lb n="0553a04" ed="T"/>事故。於何時發近事律儀？頌曰：</p>
 <lb n="0553a05" ed="T"/><lg xml:id="lgT29p0553a0501"><l>稱近事發戒，</l><l>說如苾芻等。</l></lg>
@@ -22508,7 +22508,7 @@ Added comment  for Emacs
 <lb n="0578a25" ed="T"/>有他力逼入此中，因即同心亦成殺罪，唯除
 <lb n="0578a26" ed="T"/>若有立誓要期：救自命終亦不行殺。無殺心
 <lb n="0578a27" ed="T"/>故，不得殺罪。</p></cb:div>
-<lb n="0578a28" ed="T"/><cb:juan n="041" fun="close"><cb:jhead><title><note resp="Taisho" n="0578001" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0578001" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0578001"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0578002" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0578002" type="mod"><!--CBETA todo type: ＊--><!--CBETA todo type: newmod-->卷第四十一＋（說一切有部）五字細註【明】＊</note><app n="0578002"><lem wit="【大】">卷第四十一</lem><rdg resp="Taisho" wit="【明】">卷第四十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0578a28" ed="T"/><cb:juan n="041" fun="close"><cb:jhead><title><note resp="Taisho" n="0578001" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0578001" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0578001"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0578002" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0578002" type="mod"><!--CBETA todo type: ＊-->卷第四十一【大】＊，卷第四十一(說一切有部)【明】＊</note><app n="0578002"><lem wit="【大】">卷第四十一</lem><rdg resp="Taisho" wit="【明】">卷第四十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
 <pb n="0578b" ed="T" xml:id="T29.1562.0578b"/>
 <lb n="0578b01" ed="T"/>
 <milestone unit="juan" n="42"/>
@@ -31882,7 +31882,7 @@ Added comment  for Emacs
 <lb n="0682b01" ed="T"/>言為顯處身有<note resp="Taisho" n="0682003" place="foot text" type="orig">惑＝或【三】【宮】</note><note resp="CBETA" n="0682003" type="mod">惑【大】，或【宋】【元】【明】【宮】</note><app n="0682003"><lem wit="【大】">惑</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">或</rdg></app>。處謂無想、大梵、北洲，無
 <lb n="0682b02" ed="T"/>想、大梵僻見處故，北俱盧洲無現觀故。身謂
 <lb n="0682b03" ed="T"/>扇搋等，多諸煩惱故。有謂第八等，聖必不受
-<lb n="0682b04" ed="T"/>故。<note resp="Taisho" n="0682004" place="foot text" type="orig">或＝惑【三】【宮】</note><note resp="CBETA" n="0682004" type="mod">惑【CB】【宋】【元】【明】【宮】，或【大】</note><app n="0682004"><lem resp="CBETA.maha" wit="【CBETA】">惑</lem><rdg wit="【大】">或</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惑</rdg></app>謂見斷惑，必不復起故。得世第一法雖
+<lb n="0682b04" ed="T"/>故。<note resp="Taisho" n="0682004" place="foot text" type="orig">或＝惑【三】【宮】</note><note resp="CBETA" n="0682004" type="mod">惑【CB】【宋】【元】【明】【宮】，或【大】</note><app n="0682004"><lem resp="CBETA.maha" wit="【CB】">惑</lem><rdg wit="【大】">或</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">惑</rdg></app>謂見斷惑，必不復起故。得世第一法雖
 <lb n="0682b05" ed="T"/>住異生位，而能<note resp="Taisho" n="0682005" place="foot text" type="orig">趣＝起【三】</note><note resp="CBETA" n="0682005" type="mod">趣【大】，起【宋】【元】【明】</note><app n="0682005"><lem wit="【大】">趣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">起</rdg></app>入正性離生。頌雖不言
 <lb n="0682b06" ed="T"/>離命終捨，既無間入正性離生，義准已成無
 <lb n="0682b07" ed="T"/>命終捨。何緣唯此能入離生？已得異生非擇
@@ -31934,7 +31934,7 @@ Added comment  for Emacs
 <lb n="0682c23" ed="T"/>而不能<app corresp="#0682007" type="star"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>順解脫分。由意業勝<app corresp="#0682007" type="star"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>此善根，
 <lb n="0682c24" ed="T"/>故唯人中三方能<app corresp="#0682007" type="star"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>厭離般若，餘處劣故。有
 <lb n="0682c25" ed="T"/>佛出世若無佛時，俱能種<app corresp="#0682007" type="star"><lem wit="【大】">殖</lem><rdg resp="Taisho" wit="【明】">植</rdg></app>順解脫分<note resp="Taisho" n="0682010" place="foot text" type="orig">此下聖本有光明皇后願文</note>。</p></cb:div>
-<lb n="0682c26" ed="T"/><cb:juan n="061" fun="close"><cb:jhead><title><note resp="Taisho" n="0682011" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0682011" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0682011"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0682012" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0682012" type="mod"><!--CBETA todo type: ＊--><!--CBETA todo type: newmod-->卷第六十一＋（說一切有部）五字細註【明】＊</note><app n="0682012"><lem wit="【大】">卷第六十一</lem><rdg resp="Taisho" wit="【明】">卷第六十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0682c26" ed="T"/><cb:juan n="061" fun="close"><cb:jhead><title><note resp="Taisho" n="0682011" place="foot text" type="orig">說一切有部＝阿毘達磨【明】＊</note><note resp="CBETA" n="0682011" type="mod">說一切有部【大】＊，阿毘達磨【明】＊</note><app n="0682011"><lem wit="【大】">說一切有部</lem><rdg resp="Taisho" wit="【明】">阿毘達磨</rdg></app>順正理論</title><note resp="Taisho" n="0682012" place="foot text" type="orig">卷數下明本有說一切有部五字細註＊</note><note resp="CBETA" n="0682012" type="mod"><!--CBETA todo type: ＊-->卷第六十一【大】＊，卷第六十一(說一切有部)【明】＊</note><app n="0682012"><lem wit="【大】">卷第六十一</lem><rdg resp="Taisho" wit="【明】">卷第六十一<note place="inline">說一切有部</note></rdg></app></cb:jhead></cb:juan>
 <pb n="0683a" ed="T" xml:id="T29.1562.0683a"/>
 <lb n="0683a01" ed="T"/>
 <milestone unit="juan" n="62"/>
@@ -32473,7 +32473,7 @@ Added comment  for Emacs
 <lb n="0688c23" ed="T"/>斷諸疑。謂此契經說前後際所有緣起，有情
 <lb n="0688c24" ed="T"/>於彼愚因果故生多疑惑，謂我過去為曾有
 <lb n="0688c25" ed="T"/>等。乘此契經作如是說，知薩因苦斷一切疑。
-<lb n="0688c26" ed="T"/><note resp="Taisho" n="0688006" place="foot text" type="orig">惑＝或【三】【宮】</note><note resp="CBETA" n="0688006" type="mod">或【CB】【宋】【元】【明】【宮】，惑【大】</note><app n="0688006"><lem resp="CBETA.maha" wit="【CBETA】">或</lem><rdg wit="【大】">惑</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">或</rdg></app>此縱說斷一切疑，<note resp="Taisho" n="0688007" place="foot text" type="orig">如何＝何如【明】</note><note resp="CBETA" n="0688007" type="mod">如何【大】，何如【明】</note><app n="0688007"><lem wit="【大】">如何</lem><rdg resp="Taisho" wit="【明】">何如</rdg></app>便能證唯頓斷？
+<lb n="0688c26" ed="T"/><note resp="Taisho" n="0688006" place="foot text" type="orig">惑＝或【三】【宮】</note><note resp="CBETA" n="0688006" type="mod">或【CB】【宋】【元】【明】【宮】，惑【大】</note><app n="0688006"><lem resp="CBETA.maha" wit="【CB】">或</lem><rdg wit="【大】">惑</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">或</rdg></app>此縱說斷一切疑，<note resp="Taisho" n="0688007" place="foot text" type="orig">如何＝何如【明】</note><note resp="CBETA" n="0688007" type="mod">如何【大】，何如【明】</note><app n="0688007"><lem wit="【大】">如何</lem><rdg resp="Taisho" wit="【明】">何如</rdg></app>便能證唯頓斷？
 <lb n="0688c27" ed="T"/>由此或可顯隣近義，謂顯<note resp="Taisho" n="0688008" place="foot text" type="orig">苦＝若【三】【宮】【聖】</note><note resp="CBETA" n="0688008" type="mod">苦【大】，若【宋】【元】【明】【宮】【聖】</note><app n="0688008"><lem wit="【大】">苦</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">若</rdg></app>時知有因苦，便
 <lb n="0688c28" ed="T"/>極隣近斷一切疑，是一切疑必當斷義。如言
 <lb n="0688c29" ed="T"/>汝等若無憤發，則為證得究竟涅槃。是故此
@@ -36955,7 +36955,7 @@ Added comment  for Emacs
 <lb n="0738c07" ed="T"/>一全四少分，盡無生智各攝一全六少分。何
 <lb n="0738c08" ed="T"/>緣二智建立為十？頌曰：</p>
 <lb n="0738c09" ed="T"/><lg xml:id="lgT29p0738c0901"><l>由自性對治，</l><l>行相行相境，</l>
-<lb n="0738c10" ed="T"/><l>加行<note resp="Taisho" n="0738005" place="foot text" type="orig">辨＝辦【三】【宮】，辯【聖】</note><note resp="CBETA" n="0738005" type="mod">辦【CB】【宋】【元】【明】【宮】，辨【大】，辯【聖】</note><app n="0738005"><lem resp="CBETA.maha" wit="【CBETA】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">辦</rdg><rdg resp="Taisho" wit="【聖】">辯</rdg></app>因圓，</l><l>故建立十智。</l></lg>
+<lb n="0738c10" ed="T"/><l>加行<note resp="Taisho" n="0738005" place="foot text" type="orig">辨＝辦【三】【宮】，辯【聖】</note><note resp="CBETA" n="0738005" type="mod">辦【CB】【宋】【元】【明】【宮】，辨【大】，辯【聖】</note><app n="0738005"><lem resp="CBETA.maha" wit="【CB】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">辦</rdg><rdg resp="Taisho" wit="【聖】">辯</rdg></app>因圓，</l><l>故建立十智。</l></lg>
 <lb n="0738c11" ed="T"/><p xml:id="pT29p0738c1101">論曰：由七緣故立二為十。一自性故立世俗
 <lb n="0738c12" ed="T"/>智，以世俗智為自性故。二對治故立法類智，
 <lb n="0738c13" ed="T"/>全能對治欲上界故。三行相故立苦集智，此
@@ -36963,8 +36963,8 @@ Added comment  for Emacs
 <lb n="0738c15" ed="T"/>二行相境俱有別故。五加行故立他心智，<note resp="Taisho" n="0738006" place="foot text" type="orig">〔非〕－【聖】</note><note resp="CBETA" n="0738006" type="mod">非【大】，〔－〕【聖】</note><app n="0738006"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>
 <lb n="0738c16" ed="T"/>此不知他心所法。本修加行為知他心，雖成
 <lb n="0738c17" ed="T"/>滿時亦知心所，而約加行故立他心智名。加
-<lb n="0738c18" ed="T"/>行如前已具分別。六事<note resp="Taisho" n="0738007" place="foot text" type="orig">辨＝辯【宋】【聖】＊，辦【元】【明】【宮】＊</note><note resp="CBETA" n="0738007" type="mod">辦【CB】＊【元】【明】【宮】，辨【大】＊，辯【宋】【聖】＊</note><app n="0738007"><lem resp="CBETA.maha" wit="【CBETA】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【聖】">辯</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">辦</rdg></app>故建立盡智，事
-<lb n="0738c19" ed="T"/><app corresp="#0738007" type="star"><lem resp="CBETA.maha" wit="【CBETA】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【聖】">辯</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">辦</rdg></app>身中定初生故。七因圓故立無生智，一切
+<lb n="0738c18" ed="T"/>行如前已具分別。六事<note resp="Taisho" n="0738007" place="foot text" type="orig">辨＝辯【宋】【聖】＊，辦【元】【明】【宮】＊</note><note resp="CBETA" n="0738007" type="mod">辦【CB】【元】【明】【宮】＊，辨【大】＊，辯【宋】【聖】＊</note><app n="0738007"><lem resp="CBETA.maha" wit="【CB】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【聖】">辯</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">辦</rdg></app>故建立盡智，事
+<lb n="0738c19" ed="T"/><app corresp="#0738007" type="star"><lem resp="CBETA.maha" wit="【CB】">辦</lem><rdg wit="【大】">辨</rdg><rdg resp="Taisho" wit="【宋】【聖】">辯</rdg><rdg resp="Taisho" wit="【元】【明】【宮】">辦</rdg></app>身中定初生故。七因圓故立無生智，一切
 <lb n="0738c20" ed="T"/>聖道為因生故。謂有盡智非無生智為因故
 <lb n="0738c21" ed="T"/>生，無無生智不以盡智為因故起。如上既言
 <lb n="0738c22" ed="T"/>法智類智全能對治欲上界法，為有少分治
@@ -39743,7 +39743,7 @@ Added comment  for Emacs
 <lb n="0769c03" ed="T"/>能伏惑？願得樂等寧謂顛倒？謂此不言已得
 <lb n="0769c04" ed="T"/>樂等，但由勝解願諸有情當得樂等，能伏諸
 <lb n="0769c05" ed="T"/>惑，故修此四功不唐捐。於定蘊中說四行相，
-<lb n="0769c06" ed="T"/><note resp="Taisho" n="0769006" place="foot text" type="orig">六＝云【三】【宮】</note><note resp="CBETA" n="0769006" type="mod">云【CB】【宋】【元】【明】【宮】，六【大】</note><app n="0769006"><lem resp="CBETA.maha" wit="【CBETA】">云</lem><rdg wit="【大】">六</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">云</rdg></app>何令等？具如前說。言如是思惟入某等至
+<lb n="0769c06" ed="T"/><note resp="Taisho" n="0769006" place="foot text" type="orig">六＝云【三】【宮】</note><note resp="CBETA" n="0769006" type="mod">云【CB】【宋】【元】【明】【宮】，六【大】</note><app n="0769006"><lem resp="CBETA.maha" wit="【CB】">云</lem><rdg wit="【大】">六</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">云</rdg></app>何令等？具如前說。言如是思惟入某等至
 <lb n="0769c07" ed="T"/>者，此言若就等無間緣，慈等應無無間生理，
 <lb n="0769c08" ed="T"/>別別思惟所引起故。若俱生者入言相違。初
 <lb n="0769c09" ed="T"/>業位中別加行引，至成滿位亦有俱生，定蘊

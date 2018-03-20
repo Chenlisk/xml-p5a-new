@@ -71,7 +71,7 @@ no message
 <lb n="0020b01" ed="T"/>
 <milestone n="1" unit="juan"/><cb:docNumber>No. 922 [cf. Nos. 449-451]</cb:docNumber>
 <lb n="0020b02" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0020022" resp="Taisho" place="foot text" type="orig">【原】享保十九年刊豐山大學藏本，【甲】永久四年寫高山寺藏本，【乙】高山寺藏古寫本，【丙】端拱二年寫仁和寺藏本</note><note n="0020022" resp="CBETA" type="mod">【原】享保十九年刊豐山大學藏本，【甲】永久四年寫高山寺藏本，【乙】高山寺藏古寫本，【丙】端拱二年寫仁和寺藏本</note><cb:jhead>藥師瑠璃光如來消災除難念誦
-<lb n="0020b03" ed="T"/>儀<note n="0020023" resp="Taisho" place="foot text" type="orig">軌＋（一行阿闍梨撰集）ィ【原】，（一行阿闍梨詮集）【乙】</note><note n="0020023" resp="CBETA" type="mod">軌【大】，軌一行阿闍梨撰集【校異-原】，<!--CBETA todo type: newmod-->（一行阿闍梨詮集）【乙】</note><app n="0020023"><lem wit="【大】">軌</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">軌一行阿闍梨撰集</rdg><rdg resp="Taisho" wit="【乙】">軌一行阿闍梨詮集</rdg></app></cb:jhead></cb:juan>
+<lb n="0020b03" ed="T"/>儀<note n="0020023" resp="Taisho" place="foot text" type="orig">軌＋（一行阿闍梨撰集）ィ【原】，（一行阿闍梨詮集）【乙】</note><note n="0020023" resp="CBETA" type="mod">軌【大】，軌一行阿闍梨撰集【校異-原】，<!--CBETA todo type: newmod-->軌一行阿闍梨詮集【乙】</note><app n="0020023"><lem wit="【大】">軌</lem><rdg resp="Taisho" wit="【原】" type="variantRemark">軌一行阿闍梨撰集</rdg><rdg resp="Taisho" wit="【乙】">軌一行阿闍梨詮集</rdg></app></cb:jhead></cb:juan>
 <lb n="0020b04" ed="T"/>
 <lb n="0020b05" ed="T"/><cb:div type="other"><lg xml:id="lgT19p0020b0501"><l>先淨身口意</l><l>歸命佛法僧</l>
 <lb n="0020b06" ed="T"/><l>敬禮遍照尊</l><l>十方諸聖眾</l>
@@ -148,7 +148,7 @@ no message
 <lb n="0021a22" ed="T"/><l>次結迎請印</l><l>用前佛部<note n="0021009" resp="Taisho" place="foot text" type="orig">心＝印【乙】</note><note n="0021009" resp="CBETA" type="mod">心【大】，印【乙】</note><app n="0021009"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【乙】">印</rdg></app></l>
 <lb n="0021a23" ed="T"/><l>二輪向身招</l><l>念真言三遍</l></lg>
 <lb n="0021a24" ed="T"/><p xml:id="pT19p0021a2401">真言曰</p>
-<lb n="0021a25" ed="T"/><p xml:id="pT19p0021a2501" cb:type="dharani">唵爾曩爾迦翳醯曳<note place="inline">二合</note>呬婆誐嚩妬<note place="inline">引</note><note n="0021010" resp="Taisho" place="foot text" type="orig">（烏）＋瑟【乙】</note><note n="0021010" resp="CBETA" type="mod">烏瑟【CB】【乙】，瑟【大】</note><app n="0021010"><lem resp="CBETA.maha" wit="【CBETA】">烏瑟<note type="cf1">T19n0922_p0021c14</note><note type="cf2">T18n0893bp0634b15</note><note type="cf3">T18n0893cp0664a01</note></lem><rdg wit="【大】">瑟</rdg><rdg resp="Taisho" wit="【乙】">烏瑟</rdg></app>抳
+<lb n="0021a25" ed="T"/><p xml:id="pT19p0021a2501" cb:type="dharani">唵爾曩爾迦翳醯曳<note place="inline">二合</note>呬婆誐嚩妬<note place="inline">引</note><note n="0021010" resp="Taisho" place="foot text" type="orig">（烏）＋瑟【乙】</note><note n="0021010" resp="CBETA" type="mod">烏瑟【CB】【乙】，瑟【大】</note><app n="0021010"><lem resp="CBETA.maha" wit="【CB】">烏瑟<note type="cf1">T19n0922_p0021c14</note><note type="cf2">T18n0893bp0634b15</note><note type="cf3">T18n0893cp0664a01</note></lem><rdg wit="【大】">瑟</rdg><rdg resp="Taisho" wit="【乙】">烏瑟</rdg></app>抳
 <lb n="0021a26" ed="T"/><note place="inline">二合</note>灑野娑嚩<note place="inline">二合</note>賀<app type="star" corresp="#0021006"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></p>
 <lb n="0021a27" ed="T"/><lg xml:id="lgT19p0021a2701"><l>由此加持故</l><l>一切作障者</l>
 <lb n="0021a28" ed="T"/><l>悉皆而遠走</l><l>恭敬修行者</l>
@@ -158,7 +158,7 @@ no message
 <lb n="0021b02" ed="T"/><l>捧至頂上獻</l><l>念真言七遍</l>
 <lb n="0021b03" ed="T"/><l>想浴聖眾足</l><l>稱所求之願</l></lg>
 <lb n="0021b04" ed="T"/><p xml:id="pT19p0021b0401">真言曰</p>
-<lb n="0021b05" ed="T"/><p xml:id="pT19p0021b0501" cb:type="dharani">曩莫<note place="inline">入</note>三<note n="0021011" resp="Taisho" place="foot text" type="orig">滿＝曼【乙】＊</note><note n="0021011" resp="CBETA" type="mod">滿【大】＊，曼【乙】＊</note><app n="0021011"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【乙】">曼</rdg></app>哆沒馱喃唵誐誐曩娑<note n="0021012" resp="Taisho" place="foot text" type="orig">麼＋（引）ヵ夾註【原】，摩【乙】＊</note><note n="0021012" resp="CBETA" type="mod">摩【乙】＊，<!--CBETA todo type: newmod-->麼＋（引）ヵ夾註【原】</note><app n="0021012"><lem resp="Taisho" wit="【大】">麼</lem><rdg resp="Taisho" wit="【乙】">摩</rdg><rdg resp="Taisho" wit="【原】" type="correctionRemark">麼(引)</rdg></app>娑麼
+<lb n="0021b05" ed="T"/><p xml:id="pT19p0021b0501" cb:type="dharani">曩莫<note place="inline">入</note>三<note n="0021011" resp="Taisho" place="foot text" type="orig">滿＝曼【乙】＊</note><note n="0021011" resp="CBETA" type="mod">滿【大】＊，曼【乙】＊</note><app n="0021011"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【乙】">曼</rdg></app>哆沒馱喃唵誐誐曩娑<note n="0021012" resp="Taisho" place="foot text" type="orig">麼＋（引）ヵ夾註【原】，摩【乙】＊</note><note n="0021012" resp="CBETA" type="mod">麼【大】＊，麼(引)【考偽-原】，摩【乙】＊</note><app n="0021012"><lem resp="Taisho" wit="【大】">麼</lem><rdg resp="Taisho" wit="【乙】">摩</rdg><rdg resp="Taisho" wit="【原】" type="correctionRemark">麼(引)</rdg></app>娑麼
 <lb n="0021b06" ed="T"/>娑縛<note place="inline">二合</note>賀<note place="inline">引</note></p>
 <lb n="0021b07" ed="T"/><lg xml:id="lgT19p0021b0701"><l>由獻香水故</l><l>離垢獲清淨</l>
 <lb n="0021b08" ed="T"/><l>當得灌頂地</l><l>證如來法身</l>

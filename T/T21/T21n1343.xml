@@ -582,7 +582,7 @@ Added comment  for Emacs
 <lb n="0848c05" ed="T"/>勝及一切他方來會菩薩摩訶薩。及闍婆遮
 <lb n="0848c06" ed="T"/>夜叉王。并一切大眾諸天世人。及乾闥婆阿
 <lb n="0848c07" ed="T"/>修羅等。聞佛所說。歡喜奉行。</p>
-<lb n="0848c08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>尊勝菩薩所問一切諸法入無<note n="0848010" resp="Taisho" place="foot text" type="orig">量＋（門）【宋】，（法門）【元】【明】</note><note n="0848010" resp="CBETA" type="mod">量【大】，量門【宋】，<!--CBETA todo type: newmod-->（法門）【元】【明】</note><app n="0848010"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【宋】">量門</rdg><rdg resp="Taisho" wit="【元】【明】">量法門</rdg></app>陀羅尼<note n="0848011" resp="Taisho" place="foot text" type="orig">〔門〕－【三】</note><note n="0848011" resp="CBETA" type="mod">門【大】，〔－〕【宋】【元】【明】</note><app n="0848011"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>
+<lb n="0848c08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>尊勝菩薩所問一切諸法入無<note n="0848010" resp="Taisho" place="foot text" type="orig">量＋（門）【宋】，（法門）【元】【明】</note><note n="0848010" resp="CBETA" type="mod">量【大】，量門【宋】，<!--CBETA todo type: newmod-->量法門【元】【明】</note><app n="0848010"><lem wit="【大】">量</lem><rdg resp="Taisho" wit="【宋】">量門</rdg><rdg resp="Taisho" wit="【元】【明】">量法門</rdg></app>陀羅尼<note n="0848011" resp="Taisho" place="foot text" type="orig">〔門〕－【三】</note><note n="0848011" resp="CBETA" type="mod">門【大】，〔－〕【宋】【元】【明】</note><app n="0848011"><lem wit="【大】">門</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>
 <lb n="0848c09" ed="T"/><note n="0848012" resp="Taisho" place="foot text" type="orig">經＋（一卷）【元】</note><note n="0848012" resp="CBETA" type="mod">經【大】，經一卷【元】</note><app n="0848012"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【元】">經一卷</rdg></app></cb:jhead></cb:juan></cb:div>
 <lb n="0848c10" ed="T"/><cb:div type="w"><p xml:id="pT21p0848c1001"><note n="0848013" resp="Taisho" place="foot text" type="orig">爾時以下至卷末元明兩本無之而有所載於卷末尊勝菩薩所問經譯師傳 cf. P. 849 [11]</note>爾時三千日月諸天王。諸龍王。諸阿須倫
 <lb n="0848c11" ed="T"/>王。主天地大鬼神及天魔王。火神王山神王
@@ -636,7 +636,7 @@ Added comment  for Emacs
 <lb n="0849a29" ed="T"/>帝婆帝　迦賜　摩訶迦賜　赴陀摩訶赴陀
 <pb n="0849b" xml:id="T21.1343.0849b" ed="T"/>
 <lb n="0849b01" ed="T"/>　赴赴陀　赴奢婆帝</p>
-<lb n="0849b02" ed="T"/><p xml:id="pT21p0849b0201">能自<note n="0849004" resp="Taisho" place="foot text" type="orig">億＝憶【宋】</note><note n="0849004" resp="CBETA" type="mod">憶【CB】【宋】，億【大】，億【麗-CB】</note><app n="0849004"><lem resp="CBETA.maha" wit="【CBETA】">憶<note type="cf1">T21n1343_p0849a26</note></lem><rdg wit="【大】">億</rdg><rdg resp="CBETA.maha" wit="【麗】">億<note type="cf1">K12n0335_p0017a19</note></rdg><rdg resp="Taisho" wit="【宋】">憶</rdg></app>念十二世生事。阿難。此呪是八十二
+<lb n="0849b02" ed="T"/><p xml:id="pT21p0849b0201">能自<note n="0849004" resp="Taisho" place="foot text" type="orig">億＝憶【宋】</note><note n="0849004" resp="CBETA" type="mod">憶【CB】【宋】，億【大】，億【麗-CB】</note><app n="0849004"><lem resp="CBETA.maha" wit="【CB】">憶<note type="cf1">T21n1343_p0849a26</note></lem><rdg wit="【大】">億</rdg><rdg resp="CBETA.maha" wit="【麗-CB】">億<note type="cf1">K12n0335_p0017a19</note></rdg><rdg resp="Taisho" wit="【宋】">憶</rdg></app>念十二世生事。阿難。此呪是八十二
 <lb n="0849b03" ed="T"/>億諸佛所說。</p>
 <lb n="0849b04" ed="T"/><p xml:id="pT21p0849b0401" cb:type="dharani">阿踦　摩踦　那踦　那祈尼　那<note n="0849005" resp="Taisho" place="foot text" type="orig">伽＝迦【宋】</note><note n="0849005" resp="CBETA" type="mod">伽【大】，迦【宋】</note><app n="0849005"><lem wit="【大】">伽</lem><rdg resp="Taisho" wit="【宋】">迦</rdg></app>娑離
 <lb n="0849b05" ed="T"/>　娑羅尼離　闍醯離闍醯羅婆帝禪帝離禪

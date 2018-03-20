@@ -86,7 +86,7 @@ add cvs log
 <lb n="0876b02" ed="T"/><cb:docNumber>No. 295 [Part of No. 278(34), 279(39), 293]</cb:docNumber><cb:div type="jing">
 <lb n="0876b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>大方廣佛華嚴<note n="0876002" resp="Taisho" type="orig" place="foot text">經＋（續）【三】【宮】＊</note><note n="0876002" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->經【大】＊，經續【宋】【元】【明】【宮】＊</note><app n="0876002"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">經續</rdg></app></title>入法界品</cb:jhead></cb:juan>
 <lb n="0876b04" ed="T"/>
-<lb n="0876b05" ed="T"/><byline>唐<note n="0876003" resp="Taisho" type="orig" place="foot text">（中）＋天【三】【宮】</note><note n="0876003" resp="CBETA" type="mod">天【大】，中天【宋】【元】【明】【宮】</note><app n="0876003"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">中天</rdg></app><note n="0876004" resp="Taisho" type="orig" place="foot text">竺＋（國）【宋】【宮】</note><note n="0876004" resp="CBETA" type="mod">竺【大】，竺國【宋】【宮】</note><app n="0876004"><lem wit="【大】">竺</lem><rdg resp="Taisho" wit="【宋】【宮】">竺國</rdg></app><note n="0876005" resp="Taisho" type="orig" place="foot text">三藏＝沙門【三】【宮】</note><note n="0876005" resp="CBETA" type="mod">三藏【大】，沙門【宋】【元】【明】【宮】</note><app n="0876005"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">沙門</rdg></app>地婆訶<note n="0876006" resp="Taisho" type="orig" place="foot text">羅＋（奉制）【宋】【明】【宮】，（奉制於西太原寺初）【元】</note><note n="0876006" resp="CBETA" type="mod">羅【大】，羅奉制【宋】【明】【宮】，<!--CBETA todo type: newmod-->（奉制於西太原寺初）【元】</note><app n="0876006"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【明】【宮】">羅奉制</rdg><rdg resp="Taisho" wit="【元】">羅奉制於西太原寺初</rdg></app>譯</byline>
+<lb n="0876b05" ed="T"/><byline>唐<note n="0876003" resp="Taisho" type="orig" place="foot text">（中）＋天【三】【宮】</note><note n="0876003" resp="CBETA" type="mod">天【大】，中天【宋】【元】【明】【宮】</note><app n="0876003"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">中天</rdg></app><note n="0876004" resp="Taisho" type="orig" place="foot text">竺＋（國）【宋】【宮】</note><note n="0876004" resp="CBETA" type="mod">竺【大】，竺國【宋】【宮】</note><app n="0876004"><lem wit="【大】">竺</lem><rdg resp="Taisho" wit="【宋】【宮】">竺國</rdg></app><note n="0876005" resp="Taisho" type="orig" place="foot text">三藏＝沙門【三】【宮】</note><note n="0876005" resp="CBETA" type="mod">三藏【大】，沙門【宋】【元】【明】【宮】</note><app n="0876005"><lem wit="【大】">三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">沙門</rdg></app>地婆訶<note n="0876006" resp="Taisho" type="orig" place="foot text">羅＋（奉制）【宋】【明】【宮】，（奉制於西太原寺初）【元】</note><note n="0876006" resp="CBETA" type="mod">羅【大】，羅奉制【宋】【明】【宮】，<!--CBETA todo type: newmod-->羅奉制於西太原寺初【元】</note><app n="0876006"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【明】【宮】">羅奉制</rdg><rdg resp="Taisho" wit="【元】">羅奉制於西太原寺初</rdg></app>譯</byline>
 <lb n="0876b06" ed="T"/><p xml:id="pT10p0876b0601">爾時，摩耶夫人復告善財童子言：「善男子！於
 <lb n="0876b07" ed="T"/>此世界三十三天，有王名正念，王有童女，名
 <lb n="0876b08" ed="T"/>天主光，汝詣彼問，云何菩薩學菩薩行、修菩
@@ -208,7 +208,7 @@ add cvs log
 <lb n="0877c04" ed="T"/>苑園，巖泉藪澤，凡是一切人眾所居，菩薩咸
 <lb n="0877c05" ed="T"/>能隨方攝護。又善觀察天文地理，人相吉凶，
 <lb n="0877c06" ed="T"/>鳥獸音聲，雲霞氣候，年穀豐儉，國土安危，如
-<lb n="0877c07" ed="T"/>是世間所有<note n="0877010" resp="Taisho" type="orig" place="foot text">技＝伎【宋】【宮】</note><note n="0877010" resp="CBETA" type="mod">伎【CB】【麗-CB】【宋】【宮】，技【大】</note><app n="0877010"><lem wit="【CBETA】【麗】" resp="CBETA.maha">伎<note type="cf1">K08n0104_p1339a08</note></lem><rdg wit="【大】">技</rdg><rdg resp="Taisho" wit="【宋】【宮】">伎</rdg></app>藝，莫不該練，盡其源本。又能
+<lb n="0877c07" ed="T"/>是世間所有<note n="0877010" resp="Taisho" type="orig" place="foot text">技＝伎【宋】【宮】</note><note n="0877010" resp="CBETA" type="mod">伎【CB】【麗-CB】【宋】【宮】，技【大】</note><app n="0877010"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">伎<note type="cf1">K08n0104_p1339a08</note></lem><rdg wit="【大】">技</rdg><rdg resp="Taisho" wit="【宋】【宮】">伎</rdg></app>藝，莫不該練，盡其源本。又能
 <lb n="0877c08" ed="T"/>分別出世之法，正名辯義，觀察體相，隨順修
 <lb n="0877c09" ed="T"/>行，智入其中，無疑無礙、無愚暗、無頑鈍、無憂
 <lb n="0877c10" ed="T"/>惱、無沈沒，無不現證。而我云何能知能說彼
@@ -226,7 +226,7 @@ add cvs log
 <lb n="0877c22" ed="T"/>盡故，又能出生一切智性耳無盡故，又能出
 <lb n="0877c23" ed="T"/>生一切智性鼻無盡故，又能出生一切智性
 <lb n="0877c24" ed="T"/>舌無盡故，又能出生一切智性身無盡故，又
-<lb n="0877c25" ed="T"/>能出<note n="0877c2501" resp="CBETA" type="add">生【CB】【麗-CB】【磧砂-CB】，世【大】</note><app n="0877c2501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">生<note type="cf1">K08n0104_p1339b04</note><note type="cf2">Q08_p0520b22</note></lem><rdg wit="【大】">世</rdg></app>一切智性意無盡故，又能出生一切
+<lb n="0877c25" ed="T"/>能出<note n="0877c2501" resp="CBETA" type="add">生【CB】【麗-CB】【磧砂-CB】，世【大】</note><app n="0877c2501"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">生<note type="cf1">K08n0104_p1339b04</note><note type="cf2">Q08_p0520b22</note></lem><rdg wit="【大】">世</rdg></app>一切智性意無盡故，又能出生一切
 <lb n="0877c26" ed="T"/>智性種種慧明無盡故，又能出生一切智性
 <lb n="0877c27" ed="T"/>周遍神通無盡故，又能出生一切智性如海
 <lb n="0877c28" ed="T"/>波濤無量功德皆無盡故，又能出生一切智
@@ -244,7 +244,7 @@ add cvs log
 <lb n="0878a10" ed="T"/>言：「善男子！我得菩薩解脫，名無著清淨念，我
 <lb n="0878a11" ed="T"/>自得是解脫已來，法願充滿，於十方佛所，無
 <lb n="0878a12" ed="T"/>復悕求。善男子！我唯知此淨念解脫，如諸菩
-<lb n="0878a13" ed="T"/>薩摩訶薩，<note n="0878a1301" resp="CBETA" type="add">獲【CB】【麗-CB】【磧砂-CB】，護【大】</note><app n="0878a1301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧砂-CB】">獲<note type="cf1">K08n0104_p1339c03</note><note type="cf2">Q08_p0520c09</note></lem><rdg wit="【大】">護</rdg></app>無所畏大師子吼安住高廣福
+<lb n="0878a13" ed="T"/>薩摩訶薩，<note n="0878a1301" resp="CBETA" type="add">獲【CB】【麗-CB】【磧砂-CB】，護【大】</note><app n="0878a1301"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">獲<note type="cf1">K08n0104_p1339c03</note><note type="cf2">Q08_p0520c09</note></lem><rdg wit="【大】">護</rdg></app>無所畏大師子吼安住高廣福
 <lb n="0878a14" ed="T"/>慧之聚，而我云何能知能說彼功德行？善男
 <lb n="0878a15" ed="T"/>子！即此城中，有一長者名為妙月，其長者宅，
 <lb n="0878a16" ed="T"/>常有光明。汝詣彼問，云何菩薩學菩薩行、修
