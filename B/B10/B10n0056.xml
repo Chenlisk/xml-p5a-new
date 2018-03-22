@@ -58,7 +58,7 @@ $Log:$
 <lb ed="B" n="0124a02"/><byline cb:type="editor">美國伊文思溫慈博士編註</byline>
 <lb ed="B" n="0124a03"/><byline cb:type="translator">趙洪鑄居士譯漢</byline>
 <lb ed="B" n="0124a04"/><cb:div type="other"><cb:mulu type="其他" level="1">編者導言</cb:mulu><head>編者導言</head>
-<lb ed="B" n="0124a05"/><cb:div type="other"><cb:mulu type="其他" level="2">（一）書之纂集者與其同門法侶</cb:mulu><head><note n="0124a0501" resp="CBETA" type="add">一【CB】，［－］【補編】</note><app n="0124a0501"><lem wit="【CB】" resp="CBETA.maha">（一）</lem><rdg wit="【補編】"><space quantity="0"/></rdg></app>書之纂集者與其同門法侶</head>
+<lb ed="B" n="0124a05"/><cb:div type="other"><cb:mulu type="其他" level="2">（一）書之纂集者與其同門法侶</cb:mulu><head><note n="0124a0501" resp="CBETA" type="add"><!-- check:檢查括號是否保留 -->（一）【CB】，［－］【補編】</note><app n="0124a0501"><lem wit="【CB】" resp="CBETA.maha">（一）</lem><rdg wit="【補編】"><space quantity="0"/></rdg></app>書之纂集者與其同門法侶</head>
 <lb ed="B" n="0124a06"/><p xml:id="pB10p0124a0601" rend="margin-left:0em;text-indent:2em">本書彙集密教訓語，按二十八門分列，為古德密拉熱巴尊者傳鉢人瓦波拉傑上師所纂集。時在西曆
 <lb ed="B" n="0124a07"/>十二世紀之中葉，上師為藏東瓦波省人，稱為瓦波拉傑者，名以地顯也。誕生於西曆一千〇七十七年，
 <lb ed="B" n="0124a08"/>示寂於一千一百五十二年。書中別稱為岡波巴上師，蓋指師為西藏崇法統治者隆贊崗波王之轉生也。王

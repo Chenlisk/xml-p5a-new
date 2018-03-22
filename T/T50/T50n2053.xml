@@ -215,7 +215,7 @@ Added comment  for Emacs
 <lb n="0220c04" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0220c05" ed="T"/><cb:docNumber>No. 2053</cb:docNumber>
-<lb n="0220c06" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大唐大慈恩寺三藏法師傳序</cb:mulu><head><note n="0220001" resp="Taisho" type="orig" place="foot text">【原】麗本，【甲】承元四年寫松本文三郎氏藏本</note><note n="0220001" resp="CBETA" type="mod">【原】麗本，【甲】承元四年寫松本文三郎氏藏本</note>大唐大慈恩寺三藏法師傳序</head>
+<lb n="0220c06" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大唐大慈恩寺三藏法師傳序</cb:mulu><head><note n="0220001" resp="Taisho" type="orig" place="foot text">【原】麗本，【甲】承元四年寫松本文三郎氏藏本</note>大唐大慈恩寺三藏法師傳序</head>
 <lb n="0220c07" ed="T"/>
 <lb n="0220c08" ed="T"/><byline cb:type="author"><note n="0220002" resp="Taisho" type="orig" place="foot text">〔垂拱…上〕十一字－【三】【宮】</note><note n="0220002" resp="CBETA" type="mod">（垂拱…上）十一字【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0220002" cb:word-count="11"><lem wit="【大】">垂拱四年三月十五日，
 <lb n="0220c09" ed="T"/>仰<note n="0220003" resp="Taisho" type="orig" place="foot text">上＝止【甲】</note><note n="0220003" resp="CBETA" type="mod">上【大】，止【甲】</note><app n="0220003"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">止</rdg></app></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app><note n="0220004" resp="Taisho" type="orig" place="foot text">（唐）＋沙【明】</note><note n="0220004" resp="CBETA" type="mod">沙【大】，唐沙【明】</note><app n="0220004"><lem wit="【大】">沙</lem><rdg resp="Taisho" wit="【明】">唐沙</rdg></app>門釋彥悰述</byline>
@@ -806,7 +806,7 @@ Added comment  for Emacs
 <lb n="0227b02" ed="T"/>軍眾皆裘<note n="0227011" resp="Taisho" type="orig" place="foot text">毼＝褐【宋】</note><note n="0227011" resp="CBETA" type="mod">褐【CB】【麗-CB】【宋】，毼【大】</note><app n="0227011"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">褐<note type="cf1">K32n1071_p0656b07</note><note type="cf2">X16n0308_p0210b22</note></lem><rdg wit="【大】">毼</rdg><rdg resp="Taisho" wit="【宋】">褐</rdg></app>毳毛，槊纛端弓，駝馬之騎，極
 <lb n="0227b03" ed="T"/>目不知其表。既與相見，可汗歡喜，云：「暫一
 <lb n="0227b04" ed="T"/>處行，二三日當還，師且向衙所。」令達官答
-<lb n="0227b05" ed="T"/><note n="0227b0501" resp="CBETA" type="add">摩【CB】【麗-CB】【磧砂-CB】，靡【大】</note><app n="0227b0501"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】">摩<note type="cf1">K32n1071_p0656b09</note><note type="cf2">Q30_p0448c18</note></lem><rdg wit="【大】">靡</rdg></app>支引送安置。</p><p xml:id="pT50p0227b0507" rend="inline">至衙三日，可汗方歸，引法
+<lb n="0227b05" ed="T"/><note n="0227b0501" resp="CBETA" type="add">摩【CB】【麗-CB】【磧-CB】，靡【大】</note><app n="0227b0501"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】">摩<note type="cf1">K32n1071_p0656b09</note><note type="cf2">Q30_p0448c18</note></lem><rdg wit="【大】">靡</rdg></app>支引送安置。</p><p xml:id="pT50p0227b0507" rend="inline">至衙三日，可汗方歸，引法
 <lb n="0227b06" ed="T"/>師<note n="0227012" resp="Taisho" type="orig" place="foot text">入＋（師）【甲】</note><note n="0227012" resp="CBETA" type="mod">入【大】，入師【甲】</note><app n="0227012"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】">入師</rdg></app>。可汗居一大帳，帳以金花裝之，爛
 <lb n="0227b07" ed="T"/>眩人目。諸達官於前列長筵兩行侍坐，皆錦
 <lb n="0227b08" ed="T"/>服赫然，餘仗衛立於後。觀之，雖穹廬之君
@@ -4005,7 +4005,7 @@ Added comment  for Emacs
 <lb n="0263a01" ed="T"/>於嵩岳，嘗抂步於山門，既筮仕於上京，猶
 <lb n="0263a02" ed="T"/>曲睠於窮巷。自蒙修攝，三十餘年，<note n="0263001" resp="Taisho" type="orig" place="foot text">切思＝切恩【宋】【宮】，忉怛【元】【明】</note><note n="0263001" resp="CBETA" type="mod">切思【大】，切恩【宋】【宮】，忉怛【元】【明】</note><app n="0263001"><lem wit="【大】">切思</lem><rdg resp="Taisho" wit="【宋】【宮】">切恩</rdg><rdg resp="Taisho" wit="【元】【明】">忉怛</rdg></app>之
 <lb n="0263a03" ed="T"/>誠，二難俱盡。然法師節操精潔，戒行氷霜，學
-<lb n="0263a04" ed="T"/>既照達於一乘，身<note n="0263a0401" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧砂-CB】，非【大】</note><app n="0263a0401"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】"><space quantity="0"/><note type="cf1">K32n1071_p0707c22</note><note type="cf2">Q30_p0524a25</note></lem><rdg wit="【大】">非</rdg></app>乃拘局於十誦。才既
+<lb n="0263a04" ed="T"/>既照達於一乘，身<note n="0263a0401" resp="CBETA" type="add">［－］【CB】【麗-CB】【磧-CB】，非【大】</note><app n="0263a0401"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】"><space quantity="0"/><note type="cf1">K32n1071_p0707c22</note><note type="cf2">Q30_p0524a25</note></lem><rdg wit="【大】">非</rdg></app>乃拘局於十誦。才既
 <lb n="0263a05" ed="T"/>覩其清苦，時以開遮<note n="0263002" resp="Taisho" type="orig" place="foot text">拆＝所【宮】，祈【甲】</note><note n="0263002" resp="CBETA" type="mod">拆【大】，所【宮】，祈【甲】</note><app n="0263002"><lem wit="【大】">拆</lem><rdg resp="Taisho" wit="【宮】">所</rdg><rdg resp="Taisho" wit="【甲】">祈</rdg></app>之。但以內外不同，
 <lb n="0263a06" ed="T"/>行已各異，言戲之間，是非鋒起。師乃從容謂
 <lb n="0263a07" ed="T"/>才曰：『檀越復研味<note n="0263003" resp="Taisho" type="orig" place="foot text">〔於〕－【宮】</note><note n="0263003" resp="CBETA" type="mod">於【大】，〔－〕【宮】</note><app n="0263003"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>六經，探<note n="0263004" resp="Taisho" type="orig" place="foot text"><g ref="#CB04435"/>＝<g ref="#CB02823"/>【明】</note><note n="0263004" resp="CBETA" type="mod">賾【大】，<g ref="#CB02823"/>【明】</note><app n="0263004"><lem wit="【大】">賾</lem><rdg resp="Taisho" wit="【明】"><g ref="#CB02823"/></rdg></app>於百氏，
@@ -4671,7 +4671,7 @@ Added comment  for Emacs
 <lb n="0270b10" ed="T"/>法之條，還依舊格。非分之澤忽委緇徒，不
 <lb n="0270b11" ed="T"/>訾之恩復霑玄肆，晞<note n="0270015" resp="Taisho" type="orig" place="foot text">陽＝湯【宋】【元】【宮】</note><note n="0270015" resp="CBETA" type="mod">陽【大】，湯【宋】【元】【宮】</note><app n="0270015"><lem wit="【大】">陽</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">湯</rdg></app>沐道，實用光華，
 <lb n="0270b12" ed="T"/>跼地<app type="star" corresp="#0269035"><lem wit="【大】">循</lem><rdg resp="Taisho" wit="【甲】">修</rdg></app>躬，唯增震惕。竊以法王既沒，像化
-<lb n="0270b13" ed="T"/>空傳，<note n="0270b1301" resp="CBETA" type="add">崇【CB】【麗-CB】【磧砂-CB】，宗【大】</note><app n="0270b1301"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】">崇<note type="cf1">K32n1071_p0718b21</note><note type="cf2">Q30_p0531a22</note></lem><rdg wit="【大】">宗</rdg></app>紹之規，寄諸明后。伏惟
+<lb n="0270b13" ed="T"/>空傳，<note n="0270b1301" resp="CBETA" type="add">崇【CB】【麗-CB】【磧-CB】，宗【大】</note><app n="0270b1301"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】【磧-CB】">崇<note type="cf1">K32n1071_p0718b21</note><note type="cf2">Q30_p0531a22</note></lem><rdg wit="【大】">宗</rdg></app>紹之規，寄諸明后。伏惟
 <lb n="0270b14" ed="T" type="honorific"/>皇帝陛下寶圖御極，金輪乘正，睠茲釋教，
 <lb n="0270b15" ed="T"/><note n="0270016" resp="Taisho" type="orig" place="foot text">載＝戴【甲】</note><note n="0270016" resp="CBETA" type="mod">載【大】，戴【甲】</note><app n="0270016"><lem wit="【大】">載</lem><rdg resp="Taisho" wit="【甲】">戴</rdg></app>懷宣<note n="0270017" resp="Taisho" type="orig" place="foot text">闡＝闕【三】【宮】</note><note n="0270017" resp="CBETA" type="mod">闡【大】，闕【宋】【元】【明】【宮】</note><app n="0270017"><lem wit="【大】">闡</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">闕</rdg></app>，以為落飾玄門，外異流俗，雖
 <lb n="0270b16" ed="T"/>情牽五濁，律行多虧，而體被三衣，福田斯

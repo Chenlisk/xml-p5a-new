@@ -113,7 +113,7 @@ add cvs log
 <lb n="0981a02" ed="T"/>
 <lb n="0981a03" ed="T"/>
 <lb n="0981a04" ed="T"/><cb:docNumber>No. 2130</cb:docNumber>
-<lb n="0981a05" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">翻梵語</cb:mulu><head><note n="0981001" resp="Taisho" place="foot text" type="orig">【原】南條文雄氏加筆寫本，【甲】天明七年寫高楠順次郎氏藏本</note><note n="0981001" resp="CBETA" type="mod">【原】南條文雄氏加筆寫本，【甲】天明七年寫高楠順次郎氏藏本</note>翻梵語
+<lb n="0981a05" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">翻梵語</cb:mulu><head><note n="0981001" resp="Taisho" place="foot text" type="orig">【原】南條文雄氏加筆寫本，【甲】天明七年寫高楠順次郎氏藏本</note>翻梵語
 <lb n="0981a06" ed="T"/></head>
 <lb n="0981a07" ed="T"/><p xml:id="pT54p0981a0701"><note n="0981002" resp="Taisho" place="foot text" type="orig">甲本此序無之</note>今此書也。全部十卷。飛鳥寺信行之撰集。
 <lb n="0981a08" ed="T"/>世所希也。一日余登醍醐山。於光臺院客亭。
@@ -2088,8 +2088,8 @@ add cvs log
 <lb n="1006c15" ed="T"/><p xml:id="pT54p1006c1501">波羅國　舊譯曰勝。</p>
 <lb n="1006c16" ed="T"/><p xml:id="pT54p1006c1601">闡弩比丘　舊譯曰覆。聲論者云。正外國音。
 <lb n="1006c17" ed="T"/>應言闡那。翻為蜜。</p>
-<lb n="1006c18" ed="T"/><p xml:id="pT54p1006c1801">那陀迦旃延經　舊譯曰。應云那<note n="1006c1801" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀迦旃
-<lb n="1006c19" ed="T"/>延。那<note n="1006c1901" resp="CBETA" type="add">剌【CB】【麗-CB】【磧砂-CB】，刺【大】</note><app n="1006c1901"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀言信。迦旃延言性。聲論者云。正外
+<lb n="1006c18" ed="T"/><p xml:id="pT54p1006c1801">那陀迦旃延經　舊譯曰。應云那<note n="1006c1801" resp="CBETA" type="add">剌【CB】【麗-CB】【磧-CB】，刺【大】</note><app n="1006c1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀迦旃
+<lb n="1006c19" ed="T"/>延。那<note n="1006c1901" resp="CBETA" type="add">剌【CB】【麗-CB】【磧-CB】，刺【大】</note><app n="1006c1901"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">剌<note type="cf1">K06n0022_p0943c10</note><note type="cf2">Q06_p0197c25</note></lem><rdg wit="【大】">刺</rdg></app>陀言信。迦旃延言性。聲論者云。正外
 <lb n="1006c20" ed="T"/>國音。應云那陀葛多耶那。那陀翻為長聲。葛
 <lb n="1006c21" ed="T"/>多耶那翻為性。出要律儀卷第十。</p>
 <lb n="1006c22" ed="T"/><p xml:id="pT54p1006c2201">四羯摩法　槃荼比丘　舊譯曰。又云般特

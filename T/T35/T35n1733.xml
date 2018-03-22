@@ -198,7 +198,7 @@ Added comment  for Emacs
 <lb n="0107a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0107a02" ed="T"/><cb:docNumber>No. 1733 [cf. No. 278]</cb:docNumber>
-<lb n="0107a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0107001" resp="Taisho" place="foot text" type="orig">【原】高麗高宗三十二年刊本會藏本，【甲】嘉曆三年元德三年間理覺刊大谷大學藏本，【乙】古版康曆二年性素讀正智院藏本，【聖】，【聖乙】平安時代寫聖語藏本</note><note n="0107001" resp="CBETA" type="mod">【原】高麗高宗三十二年刊本會藏本，【甲】嘉曆三年元德三年間理覺刊大谷大學藏本，【乙】古版康曆二年性素讀正智院藏本，【聖】，【聖乙】平安時代寫聖語藏本</note><cb:jhead>華嚴經探玄記卷第一</cb:jhead></cb:juan>
+<lb n="0107a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0107001" resp="Taisho" place="foot text" type="orig">【原】高麗高宗三十二年刊本會藏本，【甲】嘉曆三年元德三年間理覺刊大谷大學藏本，【乙】古版康曆二年性素讀正智院藏本，【聖】，【聖乙】平安時代寫聖語藏本</note><cb:jhead>華嚴經探玄記卷第一</cb:jhead></cb:juan>
 <lb n="0107a04" ed="T"/>
 <lb n="0107a05" ed="T"/><byline cb:type="author">魏國西寺沙門法藏述</byline>
 <lb n="0107a06" ed="T"/><cb:div type="pin"><lg xml:id="lgT35p0107a0601"><l>歸依大智海</l><l>十身盧舍那</l>

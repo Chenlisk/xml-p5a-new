@@ -188,7 +188,7 @@ Added comment  for Emacs
 <lb n="0451a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0451a02" ed="T"/><cb:docNumber>No. 1721 [cf. No. 262]</cb:docNumber>
-<lb n="0451a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0451001" resp="Taisho" type="orig" place="foot text">【原】永仁元－三年素慶等刊寶壽院藏本，【甲】元祿十二年刊宗教大學藏本，【聖】鐮倉時代寫聖語藏本，【聖乙】鐮倉時代寫聖語藏本</note><note n="0451001" resp="CBETA" type="mod">【原】永仁元－三年素慶等刊寶壽院藏本，【甲】元祿十二年刊宗教大學藏本，【聖】鐮倉時代寫聖語藏本，【聖乙】鐮倉時代寫聖語藏本</note>法華義疏卷第<note n="0451002" resp="Taisho" type="orig" place="foot text">一＋（胡吉藏撰）【甲】</note><note n="0451002" resp="CBETA" type="mod">一【大】，一胡吉藏撰【甲】</note><app n="0451002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一胡吉藏撰</rdg></app></cb:jhead></cb:juan>
+<lb n="0451a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0451001" resp="Taisho" type="orig" place="foot text">【原】永仁元－三年素慶等刊寶壽院藏本，【甲】元祿十二年刊宗教大學藏本，【聖】鐮倉時代寫聖語藏本，【聖乙】鐮倉時代寫聖語藏本</note>法華義疏卷第<note n="0451002" resp="Taisho" type="orig" place="foot text">一＋（胡吉藏撰）【甲】</note><note n="0451002" resp="CBETA" type="mod">一【大】，一胡吉藏撰【甲】</note><app n="0451002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一胡吉藏撰</rdg></app></cb:jhead></cb:juan>
 <lb n="0451a04" ed="T"/>
 <lb n="0451a05" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">1 序品</cb:mulu><cb:mulu level="2">1</cb:mulu><head>序品第<note n="0451003" resp="Taisho" type="orig" place="foot text">一＋（之上）【甲】</note><note n="0451003" resp="CBETA" type="mod">一【大】，一之上【甲】</note><app n="0451003"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一之上</rdg></app></head>
 <lb n="0451a06" ed="T"/><p xml:id="pT34p0451a0601">將欲入文，前明三義：一、部類不同，二、品次差

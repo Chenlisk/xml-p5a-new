@@ -235,7 +235,7 @@ Added comment  for Emacs
 <lb n="0579a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0579a02" ed="T"/><cb:docNumber>No. 1796 [cf. No. 848]</cb:docNumber>
-<lb n="0579a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0579001" resp="Taisho" place="foot text" type="orig">【原】平安末寫本嘉保二年傳受仁和寺藏本，【甲】平安末寫本仁和寺藏本，【乙】縮刷大藏經</note><note n="0579001" resp="CBETA" type="mod">【原】平安末寫本嘉保二年傳受仁和寺藏本，【甲】平安末寫本仁和寺藏本，【乙】縮刷大藏經</note><cb:jhead>大毘盧遮那成佛經疏卷第一</cb:jhead></cb:juan>
+<lb n="0579a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0579001" resp="Taisho" place="foot text" type="orig">【原】平安末寫本嘉保二年傳受仁和寺藏本，【甲】平安末寫本仁和寺藏本，【乙】縮刷大藏經</note><cb:jhead>大毘盧遮那成佛經疏卷第一</cb:jhead></cb:juan>
 <lb n="0579a04" ed="T"/>
 <lb n="0579a05" ed="T"/><byline cb:type="author">沙門一行阿闍梨記</byline>
 <lb n="0579a06" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">1 入真言門住心品(一-三)</cb:mulu><cb:mulu level="2">1</cb:mulu><head>入真言門住心品第一</head>

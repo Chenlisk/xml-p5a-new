@@ -178,7 +178,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0811a02" ed="T"/>
 <lb n="0811a03" ed="T"/><cb:docNumber>No. 1833 [cf. No. 1830]</cb:docNumber>
-<lb n="0811a04" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本</cb:mulu><cb:mulu level="1">1</cb:mulu><cb:jhead><note n="0811001" resp="Taisho" place="foot text" type="orig">【原】寬文十一年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古版本，【丙】大谷大學藏古版本</note><note n="0811001" resp="CBETA" type="mod">【原】寬文十一年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古版本，【丙】大谷大學藏古版本</note>成唯識論演祕卷第一<note n="0811002" resp="Taisho" place="foot text" type="orig">〔本〕－【甲】</note><note n="0811002" resp="CBETA" type="mod">本【大】，〔－〕【甲】</note><app n="0811002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0811a04" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本</cb:mulu><cb:mulu level="1">1</cb:mulu><cb:jhead><note n="0811001" resp="Taisho" place="foot text" type="orig">【原】寬文十一年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古版本，【丙】大谷大學藏古版本</note>成唯識論演祕卷第一<note n="0811002" resp="Taisho" place="foot text" type="orig">〔本〕－【甲】</note><note n="0811002" resp="CBETA" type="mod">本【大】，〔－〕【甲】</note><app n="0811002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0811a05" ed="T"/>
 <lb n="0811a06" ed="T"/><byline cb:type="author">沙門智周撰</byline>
 <lb n="0811a07" ed="T"/><cb:div type="jing"><p xml:id="pT43p0811a0701">疏。機有三品不同者。不定姓人歸於佛法。智

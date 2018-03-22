@@ -172,7 +172,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0108c02" ed="T"/>
 <lb n="0108c03" ed="T"/><cb:docNumber>No. 852</cb:docNumber><cb:div type="jing">
-<lb n="0108c04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0108002" resp="Taisho" place="foot text" type="orig">【原】正德元年刊豐山大學藏本，【甲】永久三年寫高山寺藏本，【乙】永久六年寫高山寺藏本，原本冠註曰別本注撰號曰玄法寺法全阿闍梨撰</note><note n="0108002" resp="CBETA" type="mod">【原】正德元年刊豐山大學藏本，【甲】永久三年寫高山寺藏本，【乙】永久六年寫高山寺藏本，原本冠註曰別本注撰號曰玄法寺法全阿闍梨撰</note>大毘盧遮那成佛神變加持經蓮
+<lb n="0108c04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0108002" resp="Taisho" place="foot text" type="orig">【原】正德元年刊豐山大學藏本，【甲】永久三年寫高山寺藏本，【乙】永久六年寫高山寺藏本，原本冠註曰別本注撰號曰玄法寺法全阿闍梨撰</note>大毘盧遮那成佛神變加持經蓮
 <lb n="0108c05" ed="T"/>華胎藏悲生曼荼羅廣大成就<note n="0108003" resp="Taisho" place="foot text" type="orig">儀軌＝軌儀【乙】</note><note n="0108003" resp="CBETA" type="mod">儀軌【大】，軌儀【乙】</note><app n="0108003"><lem wit="【大】">儀
 <lb n="0108c06" ed="T"/>軌</lem><rdg resp="Taisho" wit="【乙】">軌儀</rdg></app>供養方便會第<note n="0108004" resp="Taisho" place="foot text" type="orig">一＋（或本云玄法寺法全阿闍梨撰）細註【甲】，（玄法寺法全阿闍梨撰）【乙】</note><note n="0108004" resp="CBETA" type="mod">一【大】，一(或本云玄法寺法全阿闍梨撰)【甲】，<!--CBETA todo type: newmod-->一玄法寺法全阿闍梨撰【乙】</note><app n="0108004"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【甲】">一<note place="inline">或本云玄法寺法全阿闍梨撰</note></rdg><rdg resp="Taisho" wit="【乙】">一玄法寺法全阿闍梨撰</rdg></app></cb:jhead></cb:juan>
 <lb n="0108c07" ed="T"/>

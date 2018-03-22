@@ -165,7 +165,7 @@ Added comment  for Emacs
 <lb n="0659a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0659a02" ed="T"/><cb:docNumber>No. 1832 [cf. Nos. 1585, 1830]</cb:docNumber><cb:div type="other">
-<lb n="0659a03" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本(論本第一)</cb:mulu><cb:jhead><note n="0659001" resp="Taisho" place="foot text" type="orig">【原】寬文七年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古寫本，【丙】大谷大學藏古版本</note><note n="0659001" resp="CBETA" type="mod">【原】寬文七年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古寫本，【丙】大谷大學藏古版本</note>成唯識論了義燈卷第一<note n="0659002" resp="Taisho" place="foot text" type="orig">〔本〕－【甲】【乙】</note><note n="0659002" resp="CBETA" type="mod">本【大】，〔－〕【甲】【乙】</note><app n="0659002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0659a03" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本(論本第一)</cb:mulu><cb:jhead><note n="0659001" resp="Taisho" place="foot text" type="orig">【原】寬文七年版本，【甲】東大寺藏古版本，【乙】藥師寺藏古寫本，【丙】大谷大學藏古版本</note>成唯識論了義燈卷第一<note n="0659002" resp="Taisho" place="foot text" type="orig">〔本〕－【甲】【乙】</note><note n="0659002" resp="CBETA" type="mod">本【大】，〔－〕【甲】【乙】</note><app n="0659002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】【乙】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0659a04" ed="T"/>
 <lb n="0659a05" ed="T"/><byline cb:type="author">淄洲大雲寺苾芻惠沼述</byline>
 <lb n="0659a06" ed="T"/><p xml:id="pT43p0659a0601">將釋此論四門分別。一論起所因。二明同

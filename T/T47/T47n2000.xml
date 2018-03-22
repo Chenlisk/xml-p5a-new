@@ -222,7 +222,7 @@ Added comment  for Emacs
 <lb n="0984a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0984a02" ed="T"/><cb:docNumber>No. 2000</cb:docNumber>
-<lb n="0984a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0984001" resp="Taisho" place="foot text" type="orig">【原】德富猪一郎氏藏五山版，【宮】宮內省圖書寮藏五山版，【甲】大日本續藏經，卷題新加</note><note n="0984001" resp="CBETA" type="mod">【原】德富猪一郎氏藏五山版，【宮】宮內省圖書寮藏五山版，【甲】大日本續藏經，卷題新加</note>虛堂和尚語錄卷第一</cb:jhead></cb:juan>
+<lb n="0984a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0984001" resp="Taisho" place="foot text" type="orig">【原】德富猪一郎氏藏五山版，【宮】宮內省圖書寮藏五山版，【甲】大日本續藏經，卷題新加</note>虛堂和尚語錄卷第一</cb:jhead></cb:juan>
 <lb n="0984a04" ed="T"/>
 <lb n="0984a05" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">嘉興府興聖禪寺虛堂和尚語錄</cb:mulu><head>嘉興府興聖禪寺虛堂和尚語錄</head>
 <lb n="0984a06" ed="T"/><byline cb:type="Editor">參學妙源編</byline>

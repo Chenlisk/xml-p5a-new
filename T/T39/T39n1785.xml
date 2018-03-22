@@ -153,7 +153,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0046b22" ed="T"/>
 <lb n="0046b23" ed="T"/><cb:docNumber>No. 1785 [cf. Nos. 663, 1786]</cb:docNumber>
-<lb n="0046b24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0046005" resp="Taisho" place="foot text" type="orig">【原】清康熙二年刊增上寺報恩藏本，【甲】正應五年寫寶菩提院藏本，【乙】德川時代刊大谷大學藏本，【知】唐代寫知恩院藏本</note><note n="0046005" resp="CBETA" type="mod">【原】清康熙二年刊增上寺報恩藏本，【甲】正應五年寫寶菩提院藏本，【乙】德川時代刊大谷大學藏本，【知】唐代寫知恩院藏本</note><cb:jhead>金光明經文句<note n="0046006" resp="Taisho" place="foot text" type="orig">卷第＝之【乙】</note><note n="0046006" resp="CBETA" type="mod">卷第【大】，之【乙】</note><app n="0046006"><lem wit="【大】">卷第</lem><rdg resp="Taisho" wit="【乙】">之</rdg></app>一</cb:jhead></cb:juan>
+<lb n="0046b24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0046005" resp="Taisho" place="foot text" type="orig">【原】清康熙二年刊增上寺報恩藏本，【甲】正應五年寫寶菩提院藏本，【乙】德川時代刊大谷大學藏本，【知】唐代寫知恩院藏本</note><cb:jhead>金光明經文句<note n="0046006" resp="Taisho" place="foot text" type="orig">卷第＝之【乙】</note><note n="0046006" resp="CBETA" type="mod">卷第【大】，之【乙】</note><app n="0046006"><lem wit="【大】">卷第</lem><rdg resp="Taisho" wit="【乙】">之</rdg></app>一</cb:jhead></cb:juan>
 <lb n="0046b25" ed="T"/>
 <lb n="0046b26" ed="T"/><byline cb:type="author">隋天台智者大師說</byline>
 <lb n="0046b27" ed="T"/><byline cb:type="錄">門人灌頂錄</byline>

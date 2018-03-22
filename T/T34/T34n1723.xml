@@ -242,7 +242,7 @@ Added comment  for Emacs
 <lb n="0651a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0651a02" ed="T"/><cb:docNumber>No. 1723 [cf. Nos. 262, 1724]</cb:docNumber>
-<lb n="0651a03" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本</cb:mulu><note n="0651001" resp="Taisho" type="orig" place="foot text">【原】保安三年寫興福寺藏本，【甲】德川時代刊法隆寺藏本，【乙】燉煌本唐時代寫中村不折氏藏本</note><note n="0651001" resp="CBETA" type="mod">【原】保安三年寫興福寺藏本，【甲】德川時代刊法隆寺藏本，【乙】燉煌本唐時代寫中村不折氏藏本</note><cb:jhead>妙法蓮華經玄贊卷第一<note n="0651002" resp="Taisho" type="orig" place="foot text">〔本〕－【甲】</note><note n="0651002" resp="CBETA" type="mod">本【大】，〔－〕【甲】</note><app n="0651002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0651a03" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">第一本</cb:mulu><note n="0651001" resp="Taisho" type="orig" place="foot text">【原】保安三年寫興福寺藏本，【甲】德川時代刊法隆寺藏本，【乙】燉煌本唐時代寫中村不折氏藏本</note><cb:jhead>妙法蓮華經玄贊卷第一<note n="0651002" resp="Taisho" type="orig" place="foot text">〔本〕－【甲】</note><note n="0651002" resp="CBETA" type="mod">本【大】，〔－〕【甲】</note><app n="0651002"><lem wit="【大】"><note place="inline">本</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0651a04" ed="T"/>
 <lb n="0651a05" ed="T"/><byline cb:type="author">大慈恩寺沙門基撰</byline>
 <lb n="0651a06" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">序品</cb:mulu><cb:mulu level="2">1</cb:mulu><p xml:id="pT34p0651a0601">蓋聞至覺權真乘物機而<note n="0651003" resp="Taisho" type="orig" place="foot text">誕＝誫【甲】</note><note n="0651003" resp="CBETA" type="mod">誕【大】，誫【甲】</note><app n="0651003"><lem wit="【大】">誕</lem><rdg resp="Taisho" wit="【甲】">誫</rdg></app>跡，靈樞擅

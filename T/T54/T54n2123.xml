@@ -163,7 +163,7 @@ add cvs log
 <lb n="0001a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0001a02" ed="T"/><cb:docNumber>No. 2123</cb:docNumber>
-<lb n="0001a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">諸經要集序</cb:mulu><head><note n="0001001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0001001" resp="CBETA" type="mod">【原】麗本</note>諸經要集序
+<lb n="0001a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">諸經要集序</cb:mulu><head><note n="0001001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>諸經要集序
 <lb n="0001a04" ed="T"/></head>
 <lb n="0001a05" ed="T"/><byline cb:type="Collector"><note n="0001002" resp="Taisho" place="foot text" type="orig">（大唐）＋西【元】，（唐）＋西【明】＊</note><note n="0001002" resp="CBETA" type="mod">西【大】＊，大唐西【元】，唐西【明】＊</note><app n="0001002"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【元】">大唐西</rdg><rdg resp="Taisho" wit="【明】">唐西</rdg></app>明寺沙門<note n="0001003" resp="Taisho" place="foot text" type="orig">〔釋〕－【三】＊</note><note n="0001003" resp="CBETA" type="mod">釋【大】＊，〔－〕【宋】＊【元】＊【明】＊</note><app n="0001003"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>道<note n="0001004" resp="Taisho" place="foot text" type="orig">世＋（玄惲）【宋】【元】＊，〔世〕－【宮】＊</note><note n="0001004" resp="CBETA" type="mod">世【大】＊，世玄惲【宋】【元】＊，〔－〕【宮】＊</note><app n="0001004"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【宋】【元】">世玄惲</rdg><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app><note n="0001005" resp="Taisho" place="foot text" type="orig">集＝撰【三】＊【宮】</note><note n="0001005" resp="CBETA" type="mod">集【大】＊，撰【宋】＊【元】＊【明】＊【宮】</note><app n="0001005"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">撰</rdg></app></byline>
 <lb n="0001a06" ed="T"/><p xml:id="pT54p0001a0601">原夫法身一相。瞻仰異容。正教無偏。說聽殊
@@ -6719,7 +6719,7 @@ add cvs log
 <lb n="0073c19" ed="T"/>與。我故行求家門共食。卿此<note n="0073018" resp="Taisho" place="foot text" type="orig">少＝小【三】【宮】</note><note n="0073018" resp="CBETA" type="mod">少【大】，小【宋】【元】【明】【宮】</note><app n="0073018"><lem wit="【大】">少</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">小</rdg></app>飯何所足
 <lb n="0073c20" ed="T"/>乎。沙門慇懃曉喻語之。其人觝突不肯隨言。
 <lb n="0073c21" ed="T"/>沙門又言。設不肯者。可以示我。其人即出以
-<lb n="0073c22" ed="T"/>示沙門。沙門舉飯以飼狗子。以手摩<note n="0073019" resp="Taisho" place="foot text" type="orig">抆＝捫，挱【三】【宮】</note><note n="0073019" resp="CBETA" type="mod">抆【大】，捫【【考偽-大】】，挱【宋】【元】【明】【宮】</note><app n="0073019"><lem wit="【大】">抆</lem><rdg resp="Taisho" wit="【？】">捫</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">挱</rdg></app>呪願
+<lb n="0073c22" ed="T"/>示沙門。沙門舉飯以飼狗子。以手摩<note n="0073019" resp="Taisho" place="foot text" type="orig">抆＝捫，挱【三】【宮】</note><note n="0073019" resp="CBETA" type="mod">抆【大】，捫【？】，挱【宋】【元】【明】【宮】</note><app n="0073019"><lem wit="【大】">抆</lem><rdg resp="Taisho" wit="【？】">捫</rdg><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">挱</rdg></app>呪願
 <lb n="0073c23" ed="T"/>淚出。卿罪所致得是犬身。不得自在見殺食
 <lb n="0073c24" ed="T"/>噉。使爾世世罪滅福生。離狗子身得生為人。
 <lb n="0073c25" ed="T"/>所在遇法三寶自然。狗子得食善心生焉。踊

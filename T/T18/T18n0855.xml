@@ -154,7 +154,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0172b08" ed="T"/>
 <lb n="0172b09" ed="T"/><cb:docNumber>No. 855</cb:docNumber>
-<lb n="0172b10" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0172014" resp="Taisho" place="foot text" type="orig">【原】享和元年刊長谷寺藏本</note><note n="0172014" resp="CBETA" type="mod">【原】享和元年刊長谷寺藏本</note><cb:jhead>青龍寺軌記</cb:jhead></cb:juan>
+<lb n="0172b10" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0172014" resp="Taisho" place="foot text" type="orig">【原】享和元年刊長谷寺藏本</note><cb:jhead>青龍寺軌記</cb:jhead></cb:juan>
 <lb n="0172b11" ed="T"/>
 <lb n="0172b12" ed="T"/><cb:div type="jing"><p xml:id="pT18p0172b1201">先瑜伽者。常可住本尊觀。行步觀想踐蓮華
 <lb n="0172b13" ed="T"/>而住。次至精舍門而彈指。三稱<cb:tt rend="inline"><cb:t xml:lang="sa-Sidd"><g ref="#SD-CFC1"/></cb:t><cb:t xml:lang="zh-Hant">吽</cb:t></cb:tt>。右目觀

@@ -142,7 +142,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0015a05" ed="T"/>
 <lb n="0015a06" ed="T"/><cb:docNumber>No. 1853</cb:docNumber>
-<lb n="0015a07" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0015001" resp="Taisho" place="foot text" type="orig">【原】德川時代刊宗教大學藏本</note><note n="0015001" resp="CBETA" type="mod">【原】德川時代刊宗教大學藏本</note>大乘玄論卷第一</cb:jhead></cb:juan>
+<lb n="0015a07" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0015001" resp="Taisho" place="foot text" type="orig">【原】德川時代刊宗教大學藏本</note>大乘玄論卷第一</cb:jhead></cb:juan>
 <lb n="0015a08" ed="T"/>
 <lb n="0015a09" ed="T"/><byline cb:type="author">胡吉藏撰</byline>
 <lb n="0015a10" ed="T"/><cb:div type="jing"><p xml:id="pT45p0015a1001">二諦義有十重。</p>

@@ -141,7 +141,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0105c06" ed="T"/>
 <lb n="0105c07" ed="T"/><cb:docNumber>No. 1060 [cf. Nos. 1056-1058, 1061-1064]</cb:docNumber>
-<lb n="0105c08" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">御製大悲總持經咒序</cb:mulu><head><note n="0105010" resp="Taisho" type="orig" place="foot text">【原】明本</note><note n="0105010" resp="CBETA" type="mod">【原】明本</note>御製《大悲總持經呪》序</head>
+<lb n="0105c08" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">御製大悲總持經咒序</cb:mulu><head><note n="0105010" resp="Taisho" type="orig" place="foot text">【原】明本</note>御製《大悲總持經呪》序</head>
 <lb n="0105c09" ed="T"/>
 <lb n="0105c10" ed="T"/><p xml:id="pT20p0105c1001">朕聞：</p><p xml:id="pT20p0105c1003" rend="inline">觀自在菩薩誓願，入微塵國土，拯拔一
 <lb n="0105c11" ed="T"/>切有情，離諸苦趣，故說是無量功德總持經
@@ -338,7 +338,7 @@ Added comment  for Emacs
 <lb n="0107c22" ed="T"/>㖿<note place="inline">七十二</note>　娑婆訶<note place="inline">七十三</note>　摩婆利勝羯囉夜<note place="inline">七十四</note>　娑婆
 <lb n="0107c23" ed="T"/>訶<note place="inline">七十五</note>　南無喝囉怛那哆囉夜耶<note place="inline">七十六</note>　南無阿唎
 <lb n="0107c24" ed="T"/>㖿<note place="inline">七十七</note>　婆嚧吉帝<note place="inline">七十八</note>　爍皤囉夜<note place="inline">七<note n="0107c2401" resp="CBETA" type="add">十【CB】，［－］【大】</note><app n="0107c2401"><lem wit="【CB】" resp="CBETA">十</lem><rdg wit="【大】">　</rdg></app>九</note>　娑婆訶<note place="inline">八
-<lb n="0107c25" ed="T"/>十</note>　唵悉殿都曼哆囉鉢<note n="0107c2501" resp="CBETA" type="add">馱【CB】【磧砂-CB】，默【大】</note><app n="0107c2501"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">馱<note type="cf1">T20n1064_p0117a08</note><note type="cf2">Q11_p0456a14</note></lem><rdg wit="【大】">默</rdg></app>耶<note place="inline">八十一</note>　娑婆訶<note place="inline">八十二</note>」</p>
+<lb n="0107c25" ed="T"/>十</note>　唵悉殿都曼哆囉鉢<note n="0107c2501" resp="CBETA" type="add">馱【CB】【磧-CB】，默【大】</note><app n="0107c2501"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">馱<note type="cf1">T20n1064_p0117a08</note><note type="cf2">Q11_p0456a14</note></lem><rdg wit="【大】">默</rdg></app>耶<note place="inline">八十一</note>　娑婆訶<note place="inline">八十二</note>」</p>
 <lb n="0107c26" ed="T"/><p xml:id="pT20p0107c2601">觀世音菩薩說此呪已。大地六變震動，天雨
 <lb n="0107c27" ed="T"/>寶華，繽紛而下。十方諸佛悉皆歡喜，天魔外
 <lb n="0107c28" ed="T"/>道恐怖毛竪，一切眾會皆獲果證。或得須陀

@@ -124,7 +124,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0826a08" ed="T"/>
 <lb n="0826a09" ed="T"/><cb:docNumber>No. 1190 [Nos. 1188, 1189]</cb:docNumber>
-<lb n="0826a10" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大明太宗文皇帝御製真實名經序</cb:mulu><head><note n="0826001" resp="Taisho" place="foot text" type="orig">【原】明本</note><note n="0826001" resp="CBETA" type="mod">【原】明本</note>大明太宗文皇帝御製真實名
+<lb n="0826a10" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大明太宗文皇帝御製真實名經序</cb:mulu><head><note n="0826001" resp="Taisho" place="foot text" type="orig">【原】明本</note>大明太宗文皇帝御製真實名
 <lb n="0826a11" ed="T"/>經序</head>
 <lb n="0826a12" ed="T"/>
 <lb n="0826a13" ed="T"/><p xml:id="pT20p0826a1301">蓋聞真實名經者。是諸如來超出有壞智身。
@@ -166,7 +166,7 @@ Added comment  for Emacs
 <lb n="0826b19" ed="T"/>此云誦聖妙吉祥真實名經
 <lb n="0826b20" ed="T"/>聖妙吉祥真實名經</cb:jhead></cb:juan>
 <lb n="0826b21" ed="T"/>
-<lb n="0826b22" ed="T"/><byline cb:type="Translator">元講經律論習<note n="0826b2201" resp="CBETA" type="add">密【CB】【磧砂-CB】，蜜【大】</note><app n="0826b2201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">密<note type="cf1">Q37_p0201b19</note></lem><rdg wit="【大】">蜜</rdg></app>教
+<lb n="0826b22" ed="T"/><byline cb:type="Translator">元講經律論習<note n="0826b2201" resp="CBETA" type="add">密【CB】【磧-CB】，蜜【大】</note><app n="0826b2201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">密<note type="cf1">Q37_p0201b19</note></lem><rdg wit="【大】">蜜</rdg></app>教
 <lb n="0826b23" ed="T"/>土番譯主聶崖沙門釋智譯</byline>
 <lb n="0826b24" ed="T"/><cb:div type="jing"><p xml:id="pT20p0826b2401">敬禮孺童相妙吉祥。</p>
 <lb n="0826b25" ed="T"/><lg xml:id="lgT20p0826b2501"><l>復次吉祥持金剛</l><l>難調伏中勝調伏</l>

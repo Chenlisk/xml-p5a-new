@@ -130,7 +130,7 @@ Added comment  for Emacs
 <lb n="0854c01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0854c02" ed="T"/><cb:docNumber>No. 1896</cb:docNumber>
-<lb n="0854c03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><note n="0854001" resp="Taisho" place="foot text" type="orig">【原】寬永九年刊大谷大學藏本，【甲】大日本續藏經</note><note n="0854001" resp="CBETA" type="mod">【原】寬永九年刊大谷大學藏本，【甲】大日本續藏經</note><cb:jhead>釋門歸敬儀<note place="inline">上卷</note></cb:jhead></cb:juan>
+<lb n="0854c03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><note n="0854001" resp="Taisho" place="foot text" type="orig">【原】寬永九年刊大谷大學藏本，【甲】大日本續藏經</note><cb:jhead>釋門歸敬儀<note place="inline">上卷</note></cb:jhead></cb:juan>
 <lb n="0854c04" ed="T"/>
 <lb n="0854c05" ed="T"/><byline cb:type="author">沙門釋道宣大唐龍朔元年於京師西明寺述</byline>
 <lb n="0854c06" ed="T"/><cb:div type="other"><p xml:id="pT45p0854c0601">　敬本教興一<note place="inline">謂佛化厥初禮儀莫識。聖法乘時行斯謁敬。所以廣引誠教。為信首之

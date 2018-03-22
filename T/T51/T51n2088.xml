@@ -183,7 +183,7 @@ Added comment  for Emacs
 <lb n="0948a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0948a02" ed="T"/><cb:docNumber>No. 2088</cb:docNumber>
-<lb n="0948a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">釋迦方志序</cb:mulu><head><note n="0948001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0948001" resp="CBETA" type="mod">【原】麗本</note>釋迦方<note n="0948002" resp="Taisho" place="foot text" type="orig">志＝誌【三】＊</note><note n="0948002" resp="CBETA" type="mod">志【大】＊，誌【宋】＊【元】＊【明】＊</note><app n="0948002"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【宋】【元】【明】">誌</rdg></app><note n="0948003" resp="Taisho" place="foot text" type="orig">序＋（上）【宋】【元】</note><note n="0948003" resp="CBETA" type="mod">序【大】，序上【宋】【元】</note><app n="0948003"><lem wit="【大】">序</lem><rdg resp="Taisho" wit="【宋】【元】">序上</rdg></app></head>
+<lb n="0948a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">釋迦方志序</cb:mulu><head><note n="0948001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>釋迦方<note n="0948002" resp="Taisho" place="foot text" type="orig">志＝誌【三】＊</note><note n="0948002" resp="CBETA" type="mod">志【大】＊，誌【宋】＊【元】＊【明】＊</note><app n="0948002"><lem wit="【大】">志</lem><rdg resp="Taisho" wit="【宋】【元】【明】">誌</rdg></app><note n="0948003" resp="Taisho" place="foot text" type="orig">序＋（上）【宋】【元】</note><note n="0948003" resp="CBETA" type="mod">序【大】，序上【宋】【元】</note><app n="0948003"><lem wit="【大】">序</lem><rdg resp="Taisho" wit="【宋】【元】">序上</rdg></app></head>
 <lb n="0948a04" ed="T"/>
 <lb n="0948a05" ed="T"/><byline cb:type="author"><note n="0948004" resp="Taisho" place="foot text" type="orig">（唐）＋終【明】</note><note n="0948004" resp="CBETA" type="mod">終【大】，唐終【明】</note><app n="0948004"><lem wit="【大】">終</lem><rdg resp="Taisho" wit="【明】">唐終</rdg></app>南太一山釋<note n="0948005" resp="Taisho" place="foot text" type="orig">氏＋（道宣撰）【宋】【元】＊，氏＝道宣撰【明】</note><note n="0948005" resp="CBETA" type="mod">氏【大】＊，氏道宣撰【宋】【元】＊，道宣撰【明】</note><app n="0948005"><lem wit="【大】">氏</lem><rdg resp="Taisho" wit="【宋】【元】">氏道宣撰</rdg><rdg resp="Taisho" wit="【明】">道宣撰</rdg></app></byline>
 <lb n="0948a06" ed="T"/><p xml:id="pT51p0948a0601">惟夫大唐之有天下也將四十載。淳風洽而
@@ -533,7 +533,7 @@ Added comment  for Emacs
 <lb n="0951c20" ed="T"/><p xml:id="pT51p0951c2001">尸棄尼國。周二千餘里山磧連野。又南越山
 <lb n="0951c21" ed="T"/>河。</p>
 <lb n="0951c22" ed="T"/><p xml:id="pT51p0951c2201">至達摩鐵悉帝國<note place="inline">一名<note n="0951017" resp="Taisho" place="foot text" type="orig">鑊＝鐵【宋】，護【元】【明】</note><note n="0951017" resp="CBETA" type="mod">鑊【大】，鐵【宋】，護【元】【明】</note><app n="0951017"><lem wit="【大】">鑊</lem><rdg resp="Taisho" wit="【宋】">鐵</rdg><rdg resp="Taisho" wit="【元】【明】">護</rdg></app>侃國一名護密國</note>即覩貨羅之故
-<lb n="0951c23" ed="T"/>地也。在兩山間。東西<note n="0951018" resp="Taisho" place="foot text" type="orig">〔一〕－</note><note n="0951018" resp="CBETA" type="mod">一【大】，〔－〕【【考偽-大】】</note><app n="0951018"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【？】"><space quantity="0"/></rdg></app>千五百里。南北減
+<lb n="0951c23" ed="T"/>地也。在兩山間。東西<note n="0951018" resp="Taisho" place="foot text" type="orig">〔一〕－</note><note n="0951018" resp="CBETA" type="mod">一【大】，〔－〕【？】</note><app n="0951018"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【？】"><space quantity="0"/></rdg></app>千五百里。南北減
 <lb n="0951c24" ed="T"/>百里。或狹不踰十里。東臨縛芻河。寺有十餘
 <lb n="0951c25" ed="T"/>僧數蓋少。城寺石像上。懸金銅圓蓋眾寶飾
 <lb n="0951c26" ed="T"/>之。人有旋繞蓋亦隨轉。人止便止。四周石壁

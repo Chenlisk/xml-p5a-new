@@ -122,7 +122,7 @@ Added comment  for Emacs
 <lb n="0290c01" ed="T"/>
 <milestone unit="juan" n="1"/>
 <lb n="0290c02" ed="T"/><cb:docNumber>No. 1262</cb:docNumber><cb:div type="jing">
-<lb ed="T" n="0290c03"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note place="foot text" n="0290028" type="orig" resp="Taisho">【原】麗本</note><note n="0290028" type="mod" resp="CBETA">【原】麗本</note><title>佛說鬼子母經</title></cb:jhead></cb:juan>
+<lb ed="T" n="0290c03"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note place="foot text" n="0290028" type="orig" resp="Taisho">【原】麗本</note><title>佛說鬼子母經</title></cb:jhead></cb:juan>
 <lb ed="T" n="0290c04"/>
 <lb n="0290c05" ed="T"/><byline cb:type="Translator">失譯<note n="0290029" place="foot text" resp="Taisho" type="orig">〔人〕－【宋】【元】，人＋（名）【明】</note><note n="0290029" resp="CBETA" type="mod">人【大】，〔－〕【宋】【元】，人名【明】</note><app n="0290029"><lem wit="【大】">人</lem><rdg wit="【宋】【元】" resp="Taisho"><space quantity="0"/></rdg><rdg resp="Taisho" wit="【明】">人名</rdg></app>今附西晉錄</byline>
 <lb n="0290c06" ed="T"/><p xml:id="pT21p0290c0601">佛遊大兜國。時國中有一母人，多子，性極惡，

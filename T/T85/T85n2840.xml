@@ -114,7 +114,7 @@ Added comment  for Emacs
 <text><body>
 <lb n="1293a03" ed="T"/><milestone n="1" unit="juan"/>
 <lb n="1293a04" ed="T"/><cb:docNumber>No. 2840</cb:docNumber>
-<lb n="1293a05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1293001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2313, 首題新加</note><note n="1293001" resp="CBETA" type="mod">【原】大英博物館藏燉煌本, S. 2313, 首題新加</note>三界圖</cb:jhead></cb:juan>
+<lb n="1293a05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1293001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2313, 首題新加</note>三界圖</cb:jhead></cb:juan>
 <lb n="1293a06" ed="T"/>
 <lb ed="T" n="1293a07"/><cb:div type="other"><table cols="12"><row><cell cols="12">無色界</cell></row>
 <lb ed="T" n="1293a08"/><row><cell>無明</cell><cell>慢</cell><cell/><cell>貪</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell>修</cell></row>

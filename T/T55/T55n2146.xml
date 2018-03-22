@@ -198,7 +198,7 @@ Added comment  for Emacs
 <lb n="0115a01" ed="T"/><milestone n="1" unit="juan"/>
 <lb n="0115a02" ed="T"/>
 <lb n="0115a03" ed="T"/><cb:docNumber>No. 2146</cb:docNumber>
-<lb n="0115a04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0115001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0115001" resp="CBETA" type="mod">【原】麗本</note>眾經目錄卷第一</cb:jhead></cb:juan>
+<lb n="0115a04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0115001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>眾經目錄卷第一</cb:jhead></cb:juan>
 <lb n="0115a05" ed="T"/>
 <lb n="0115a06" ed="T"/><byline cb:type="author"><note n="0115002" resp="Taisho" place="foot text" type="orig">隋＋（翻經）【明】＊</note><note n="0115002" resp="CBETA" type="mod">隋【大】＊，隋翻經【明】＊</note><app n="0115002"><lem wit="【大】">隋</lem><rdg resp="Taisho" wit="【明】">隋翻經</rdg></app>沙門法經<note n="0115003" resp="Taisho" place="foot text" type="orig">等＋（奉勅）【明】＊</note><note n="0115003" resp="CBETA" type="mod">等【大】＊，等奉勅【明】＊</note><app n="0115003"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【明】">等奉勅</rdg></app>撰</byline>
 <lb n="0115a07" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">1 大乘修多羅藏錄</cb:mulu><head>大乘修多羅藏錄第一<note place="inline">六分</note></head><p xml:id="pT55p0115a0712" rend="inline">合六百四十五部

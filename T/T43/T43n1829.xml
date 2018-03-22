@@ -198,7 +198,7 @@ Added comment  for Emacs
 <lb n="0001a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0001a02" ed="T"/><cb:docNumber>No. 1829 [cf. No. 1579]</cb:docNumber><cb:div type="other">
-<lb n="0001a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">第一(論本一-二)</cb:mulu><cb:jhead><note n="0001001" resp="Taisho" place="foot text" type="orig">【原】享保年間校藥師寺藏古版本，【甲】大日本續藏經</note><note n="0001001" resp="CBETA" type="mod">【原】享保年間校藥師寺藏古版本，【甲】大日本續藏經</note>瑜伽師地論略纂卷第一<note place="inline"><ref target="../T30/T30n1579.xml#xpath2(//0279a03)">論本第一第二</ref></note></cb:jhead></cb:juan>
+<lb n="0001a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">第一(論本一-二)</cb:mulu><cb:jhead><note n="0001001" resp="Taisho" place="foot text" type="orig">【原】享保年間校藥師寺藏古版本，【甲】大日本續藏經</note>瑜伽師地論略纂卷第一<note place="inline"><ref target="../T30/T30n1579.xml#xpath2(//0279a03)">論本第一第二</ref></note></cb:jhead></cb:juan>
 <lb n="0001a04" ed="T"/>
 <lb n="0001a05" ed="T"/><byline cb:type="author">基撰</byline>
 <lb n="0001a06" ed="T"/><cb:mulu level="1" type="其他">瑜伽師地論略纂</cb:mulu><lg xml:id="lgT43p0001a0601"><l>敬禮天人大覺尊</l><l>福德智慧皆圓滿</l>
@@ -17000,17 +17000,17 @@ Added comment  for Emacs
 <lb n="0187b20" ed="T"/>第八。有五種。謂生便半月嫉妬灌灑除去。此
 <lb n="0187b21" ed="T"/>中唯無灌灑。以此中開嫉妬為二。謂逼己見
 <lb n="0187b22" ed="T"/>他故。彼令一合灌灑。是嫉妬類。得他精血方
-<lb n="0187b23" ed="T"/>起勢故。扇<note n="0187b2301" resp="CBETA" type="add">搋【CB】【磧砂-CB】，摑【大】</note><app n="0187b2301"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦此云無根勢用。半擇迦此云
+<lb n="0187b23" ed="T"/>起勢故。扇<note n="0187b2301" resp="CBETA" type="add">搋【CB】【磧-CB】，摑【大】</note><app n="0187b2301"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦此云無根勢用。半擇迦此云
 <lb n="0187b24" ed="T"/>樂欲。樂他於己為過故。如生便名全分者。無
 <lb n="0187b25" ed="T"/>根。樂他於己為過故。名半擇迦。以無根勢用
-<lb n="0187b26" ed="T"/>故。名扇<note n="0187b2601" resp="CBETA" type="add">搋【CB】【磧砂-CB】，摑【大】</note><app n="0187b2601"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦。即一生不起男勢故。第二樂於
-<lb n="0187b27" ed="T"/>己為過。名半擇迦。有持<note n="0187001" resp="Taisho" place="foot text" type="orig">執＝勢ィ【甲】＊</note><note n="0187001" resp="CBETA" type="mod">執【大】＊，勢【校異-甲】＊</note><app n="0187001"><lem wit="【大】">執</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">勢</rdg></app>非扇<note n="0187b2701" resp="CBETA" type="add">搋【CB】【磧砂-CB】，摑【大】</note><app n="0187b2701"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>體有根
+<lb n="0187b26" ed="T"/>故。名扇<note n="0187b2601" resp="CBETA" type="add">搋【CB】【磧-CB】，摑【大】</note><app n="0187b2601"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦。即一生不起男勢故。第二樂於
+<lb n="0187b27" ed="T"/>己為過。名半擇迦。有持<note n="0187001" resp="Taisho" place="foot text" type="orig">執＝勢ィ【甲】＊</note><note n="0187001" resp="CBETA" type="mod">執【大】＊，勢【校異-甲】＊</note><app n="0187001"><lem wit="【大】">執</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">勢</rdg></app>非扇<note n="0187b2701" resp="CBETA" type="add">搋【CB】【磧-CB】，摑【大】</note><app n="0187b2701"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>體有根
 <lb n="0187b28" ed="T"/><app type="star" corresp="#0187001"><lem wit="【大】">執</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">勢</rdg></app>。根勢時起故。除去之中有二人。此人不
 <lb n="0187b29" ed="T"/>同生<note n="0187002" resp="Taisho" place="foot text" type="orig">便＋（生便）ィ【甲】</note><note n="0187002" resp="CBETA" type="mod">便【大】，便生便【校異-甲】</note><app n="0187002"><lem wit="【大】">便</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">便生便</rdg></app>。必無男根除去。曾有男根。雖除去
 <pb n="0187c" xml:id="T43.1829.0187c" ed="T"/>
 <lb n="0187c01" ed="T"/>無根。性仍未斷。若不樂他為過故。非半擇迦。
-<lb n="0187c02" ed="T"/>無根勢故名扇<note n="0187c0201" resp="CBETA" type="add">搋【CB】【磧砂-CB】，摑【大】</note><app n="0187c0201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦。若樂已為過名半擇。無
-<lb n="0187c03" ed="T"/>根故。亦扇<note n="0187c0301" resp="CBETA" type="add">搋【CB】【磧砂-CB】，摑【大】</note><app n="0187c0301"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>別異住者。前意樂損故明住。今
+<lb n="0187c02" ed="T"/>無根勢故名扇<note n="0187c0201" resp="CBETA" type="add">搋【CB】【磧-CB】，摑【大】</note><app n="0187c0201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>迦。若樂已為過名半擇。無
+<lb n="0187c03" ed="T"/>根故。亦扇<note n="0187c0301" resp="CBETA" type="add">搋【CB】【磧-CB】，摑【大】</note><app n="0187c0301"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">搋<note type="cf1">Q39_p0473a15-21</note><note type="cf2">T42n1828_p0619c18</note></lem><rdg wit="【大】">摑</rdg></app>別異住者。前意樂損故明住。今
 <lb n="0187c04" ed="T"/>自法損故。異住雖後先意。不損後時別性故。</p>
 <lb n="0187c05" ed="T"/><p xml:id="pT43p0187c0501">論云他所得者。謂小時父母失等。與他得收
 <lb n="0187c06" ed="T"/>養。雖非父母。亦是他得。此等戒有是遮難。受
@@ -18701,7 +18701,7 @@ Added comment  for Emacs
 <lb n="0206b09" ed="T"/>合。彼以自塵為門。故唯不合。無相違也。法界
 <lb n="0206b10" ed="T"/>應言一分。合能取此法界一分。故略不論。大
 <lb n="0206b11" ed="T"/>乘七八非合不合取。</p>
-<lb n="0206b12" ed="T"/><p xml:id="pT43p0206b1201">問幾唯欲<note n="0206b1201" resp="CBETA" type="add">色【CB】【磧砂-CB】，［－］【大】</note><app n="0206b1201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">色<note type="cf1">Q39_p0479a12</note><note type="cf2">T30n1579_p0609c17</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>界繫。答十一者。即五根三識三塵
+<lb n="0206b12" ed="T"/><p xml:id="pT43p0206b1201">問幾唯欲<note n="0206b1201" resp="CBETA" type="add">色【CB】【磧-CB】，［－］【大】</note><app n="0206b1201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">色<note type="cf1">Q39_p0479a12</note><note type="cf2">T30n1579_p0609c17</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app>界繫。答十一者。即五根三識三塵
 <lb n="0206b13" ed="T"/>也。以香味及識唯欲界執受。非受門中。若大
 <lb n="0206b14" ed="T"/>乘真理。唯第八名能執受。若隨順理門通六
 <lb n="0206b15" ed="T"/>識。今看下文勢云。以離於彼餘能執受不可

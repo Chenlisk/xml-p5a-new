@@ -260,7 +260,7 @@ Added comment  for Emacs
 <pb n="0219a" xml:id="T55.2149.0219a" ed="T"/>
 <lb n="0219a01" ed="T"/><milestone n="1" unit="juan"/>
 <lb n="0219a02" ed="T"/><cb:docNumber>No. 2149</cb:docNumber>
-<lb n="0219a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大唐內典錄序</cb:mulu><head><note n="0219001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0219001" resp="CBETA" type="mod">【原】麗本</note>大唐內典錄序
+<lb n="0219a03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大唐內典錄序</cb:mulu><head><note n="0219001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>大唐內典錄序
 <lb n="0219a04" ed="T"/></head>
 <lb n="0219a05" ed="T"/><byline cb:type="author"><note n="0219002" resp="Taisho" place="foot text" type="orig">〔麟德…歲〕七字－【明】</note><note n="0219002" resp="CBETA" type="mod">（麟德…歲）七字【大】，〔－〕【明】</note><app cb:word-count="7" n="0219002"><lem wit="【大】">麟德元年甲子歲</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app><note n="0219003" resp="Taisho" place="foot text" type="orig">京師西明寺＝唐沙門【明】＊</note><note n="0219003" resp="CBETA" type="mod">京師西明寺【大】＊，唐沙門【明】＊</note><app n="0219003"><lem wit="【大】">京
 <lb n="0219a06" ed="T"/>師西明寺</lem><rdg resp="Taisho" wit="【明】">唐沙門</rdg></app>釋<note n="0219004" resp="Taisho" place="foot text" type="orig">氏＝道宣【三】＊</note><note n="0219004" resp="CBETA" type="mod">氏【大】＊，道宣【宋】＊【元】＊【明】＊</note><app n="0219004"><lem wit="【大】">氏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">道宣</rdg></app>　撰</byline>
@@ -3965,7 +3965,7 @@ Added comment  for Emacs
 <lb n="0261c17" ed="T"/><p xml:id="pT55p0261c1701">齊氏宋運交禪因循。統御道俗有聲南服。故
 <lb n="0261c18" ed="T"/>不廣述。其高帝蕭道成者。臨沂人也。因宋餘
 <lb n="0261c19" ed="T"/>業仍都建康。於建元年。安成野火洞澤焚燼。
-<lb n="0261c20" ed="T"/><note n="0261017" resp="Taisho" place="foot text" type="orig">唯＝惟＊</note><note n="0261017" resp="CBETA" type="mod">唯【大】＊，惟【【考偽-大】】＊</note><app n="0261017"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【？】">惟</rdg></app>數丈地草獨不然。往視其中得一金像。既
+<lb n="0261c20" ed="T"/><note n="0261017" resp="Taisho" place="foot text" type="orig">唯＝惟＊</note><note n="0261017" resp="CBETA" type="mod">唯【大】＊，惟【？】＊</note><app n="0261017"><lem wit="【大】">唯</lem><rdg resp="Taisho" wit="【？】">惟</rdg></app>數丈地草獨不然。往視其中得一金像。既
 <lb n="0261c21" ed="T"/>感靈瑞聖化復隆。帝曰。使我治天下十年。必
 <lb n="0261c22" ed="T"/>令黃金與土同價。不幸四載而崩。子蹟字宣
 <lb n="0261c23" ed="T"/>遠嗣。江海晏安。有竟陵文宣王子良帝之次
@@ -4397,7 +4397,7 @@ Added comment  for Emacs
 <lb n="0266c02" ed="T"/><item xml:id="itemT55p0266c0201"><note n="0266013" resp="Taisho" place="foot text" type="orig">（眾經…年）十三字∞（眾經…年）九字【明】</note><note n="0266013" resp="CBETA" type="mod">（眾經飯供聖僧法五卷(亦十五年)）十三字【大】∞（眾經目錄四卷(十五年)）九字【明】</note><app n="0266013"><lem wit="【大】"><cb:jl_title>眾經飯供聖僧法</cb:jl_title><cb:jl_juan n="5">五卷</cb:jl_juan><note place="inline">亦十五年</note></lem><rdg resp="Taisho" wit="【明】">眾經目錄四卷<note place="inline">十五年</note></rdg></app></item>
 <lb n="0266c03" ed="T"/><item xml:id="itemT55p0266c0301"><note n="0266014" resp="Taisho" place="foot text" type="orig">（眾經…年）十三字∞（眾經…年）九字【明】</note><note n="0266014" resp="CBETA" type="mod">（眾經目錄四卷(十五年)）九字【大】∞（眾經飯供聖僧法五卷(亦十五年)）十三字【明】</note><app n="0266014"><lem wit="【大】"><cb:jl_title>眾經目錄</cb:jl_title><cb:jl_juan n="4">四卷</cb:jl_juan><note place="inline">十五年</note></lem><rdg resp="Taisho" wit="【明】">眾經飯供聖僧法五卷<note place="inline">亦十五年</note></rdg></app></item>
 <lb n="0266c04" ed="T"/><item xml:id="itemT55p0266c0401"><cb:jl_title>眾經護國<note n="0266015" resp="Taisho" place="foot text" type="orig">鬼＝高【三】</note><note n="0266015" resp="CBETA" type="mod">鬼【大】，高【宋】【元】【明】</note><app n="0266015"><lem wit="【大】">鬼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">高</rdg></app>神名錄</cb:jl_title><cb:jl_juan n="3">三卷</cb:jl_juan><note place="inline">十五年</note></item>
-<lb n="0266c05" ed="T"/><item xml:id="itemT55p0266c0501"><cb:jl_title>眾經諸佛名</cb:jl_title><cb:jl_juan n="3">三卷</cb:jl_juan><note place="inline">十<note n="0266016" resp="Taisho" place="foot text" type="orig">五＝六</note><note n="0266016" resp="CBETA" type="mod">五【大】，六【【考偽-大】】</note><app n="0266016"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【？】">六</rdg></app>年</note></item>
+<lb n="0266c05" ed="T"/><item xml:id="itemT55p0266c0501"><cb:jl_title>眾經諸佛名</cb:jl_title><cb:jl_juan n="3">三卷</cb:jl_juan><note place="inline">十<note n="0266016" resp="Taisho" place="foot text" type="orig">五＝六</note><note n="0266016" resp="CBETA" type="mod">五【大】，六【？】</note><app n="0266016"><lem wit="【大】">五</lem><rdg resp="Taisho" wit="【？】">六</rdg></app>年</note></item>
 <lb n="0266c06" ed="T"/><item xml:id="itemT55p0266c0601"><cb:jl_title>眾經擁護國土諸龍王名錄</cb:jl_title><cb:jl_juan n="3">三卷</cb:jl_juan><note place="inline">十六年</note></item>
 <lb n="0266c07" ed="T"/><item xml:id="itemT55p0266c0701"><cb:jl_title>眾經懺悔<note n="0266017" resp="Taisho" place="foot text" type="orig">滅罪＝罪方【三】</note><note n="0266017" resp="CBETA" type="mod">滅罪【大】，罪方【宋】【元】【明】</note><app n="0266017"><lem wit="【大】">滅罪</lem><rdg resp="Taisho" wit="【宋】【元】【明】">罪方</rdg></app>法</cb:jl_title><cb:jl_juan n="3">三<note n="0266018" resp="Taisho" place="foot text" type="orig">卷＋（或四卷十六年並見寶唱錄）十一字【三】</note><note n="0266018" resp="CBETA" type="mod">卷【大】，卷或四卷十六年並見寶唱錄【宋】【元】【明】</note><app n="0266018"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】">卷或四卷十六年並見寶唱錄</rdg></app></cb:jl_juan></item>
 <lb n="0266c08" ed="T"/><item xml:id="itemT55p0266c0801"><cb:jl_title>出要律儀</cb:jl_title><cb:jl_juan n="20">二十卷</cb:jl_juan>

@@ -159,7 +159,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0091b05" ed="T"/>
 <lb n="0091b06" ed="T"/><cb:docNumber>No. 1840 [cf. No. 1630]</cb:docNumber>
-<lb n="0091b07" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0091008" resp="Taisho" place="foot text" type="orig">【原】建武二年寫興福寺藏本，校者曰原本中略符（ィ）者示藏俊已下左大臣等之所校正（ぃ）者表明詮僧都點本之所校正，【甲】寬文十一年版校正本，校者曰原本上中下三卷分為九帖上卷初帖題簽曰大疏上卷自序至要籍多言</note><note n="0091008" resp="CBETA" type="mod">【原】建武二年寫興福寺藏本，校者曰原本中略符（ィ）者示藏俊已下左大臣等之所校正（ぃ）者表明詮僧都點本之所校正，【甲】寬文十一年版校正本，校者曰原本上中下三卷分為九帖上卷初帖題簽曰大疏上卷自序至要籍多言</note>因明入正理論疏卷上</cb:jhead></cb:juan>
+<lb n="0091b07" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0091008" resp="Taisho" place="foot text" type="orig">【原】建武二年寫興福寺藏本，校者曰原本中略符（ィ）者示藏俊已下左大臣等之所校正（ぃ）者表明詮僧都點本之所校正，【甲】寬文十一年版校正本，校者曰原本上中下三卷分為九帖上卷初帖題簽曰大疏上卷自序至要籍多言</note>因明入正理論疏卷上</cb:jhead></cb:juan>
 <lb n="0091b08" ed="T"/>
 <lb n="0091b09" ed="T"/><byline cb:type="author">大慈恩寺沙門基撰</byline>
 <lb n="0091b10" ed="T"/><cb:div type="jing"><p xml:id="pT44p0091b1001">詳夫。空桑啟聖。資六位以明玄。苦賴興仙。暢
@@ -696,7 +696,7 @@ Added comment  for Emacs
 <lb n="0097b04" ed="T"/><note n="0097002" resp="Taisho" place="foot text" type="orig">返＝遍ィ【原】</note><note n="0097002" resp="CBETA" type="mod">返【大】，遍【校異Ａ-原】</note><app n="0097002"><lem wit="【大】">返</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">遍</rdg></app>成<note n="0097003" resp="Taisho" place="foot text" type="orig">（異）ィ＋法【原】</note><note n="0097003" resp="CBETA" type="mod">法【大】，異法【校異Ａ-原】</note><app n="0097003"><lem wit="【大】">法</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">異法</rdg></app>。無異止濫。何能建宗。<note n="0097004" resp="Taisho" place="foot text" type="orig">設＝復ィ【原】</note><note n="0097004" resp="CBETA" type="mod">設【大】，復【校異Ａ-原】</note><app n="0097004"><lem wit="【大】">設</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">復</rdg></app>有兩喻
 <lb n="0097b05" ed="T"/>闕遍宗因。宗法既自不成。宗義何由得立。果
 <lb n="0097b06" ed="T"/>宗不<note n="0097005" resp="Taisho" place="foot text" type="orig">決＝立ィ【原】</note><note n="0097005" resp="CBETA" type="mod">決【大】，立【校異Ａ-原】</note><app n="0097005"><lem wit="【大】">決</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">立</rdg></app>。因比徒施。空致紛紜。競何由<note n="0097006" resp="Taisho" place="foot text" type="orig">消＝濟ィ【原】</note><note n="0097006" resp="CBETA" type="mod">消【大】，濟【校異Ａ-原】</note><app n="0097006"><lem wit="【大】">消</lem><rdg resp="【原】" wit="【Ａ】" type="variantRemark">濟</rdg></app>。故
-<lb n="0097b07" ed="T"/>詳今古。能立具足。要藉多言<note n="0097007" resp="Taisho" place="foot text" type="orig">【原】此下原本奧書曰建武二年六月十八日書寫之社頭因明談義小字之本老眼難治之間不顧筆跡以反舊之裏乍臥移之染筆為緣出妄歸真矣一交了一交了權律師尊經七十二同七月八日點了教授或口說為本也</note><note n="0097007" resp="CBETA" type="mod">【原】此下原本奧書曰建武二年六月十八日書寫之社頭因明談義小字之本老眼難治之間不顧筆跡以反舊之裏乍臥移之染筆為緣出妄歸真矣一交了一交了權律師尊經七十二同七月八日點了教授或口說為本也</note>。</p>
+<lb n="0097b07" ed="T"/>詳今古。能立具足。要藉多言<note n="0097007" resp="Taisho" place="foot text" type="orig">【原】此下原本奧書曰建武二年六月十八日書寫之社頭因明談義小字之本老眼難治之間不顧筆跡以反舊之裏乍臥移之染筆為緣出妄歸真矣一交了一交了權律師尊經七十二同七月八日點了教授或口說為本也</note>。</p>
 <lb n="0097b08" ed="T"/><p xml:id="pT44p0097b0801"><note n="0097008" resp="Taisho" place="foot text" type="orig">已下上卷中帖題簽曰大疏上卷自論由宗因喻至故相非體</note>論。由宗因喻多言開示諸有問者未了義故。</p>
 <lb n="0097b09" ed="T"/><p xml:id="pT44p0097b0901">述曰。釋能立義。宗義舊定。因喻先成。何故
 <lb n="0097b10" ed="T"/>今說為能立也。理門亦云。由宗因喻多言。辨

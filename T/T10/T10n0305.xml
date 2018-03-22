@@ -115,7 +115,7 @@ add cvs log
 <lb n="0928c25" ed="T"/>寶王樓閣窓牖莊嚴之處，建立種種寶幢幡
 <lb n="0928c26" ed="T"/>蓋莊嚴之處，曼陀羅華、摩訶曼陀羅華、曼殊
 <lb n="0928c27" ed="T"/>沙華、摩訶曼殊沙華、盧遮華、摩訶盧遮華、斫
-<lb n="0928c28" ed="T"/>迦羅華、摩<note n="0928c2801" resp="CBETA" type="add">訶【CB】【麗-CB】【磧砂-CB】，迦【大】</note><app n="0928c2801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">訶<note type="cf1">K08n0081_p0945b08</note><note type="cf2">Q08_p0276a25</note></lem><rdg wit="【大】">迦</rdg></app>斫迦羅華、須摩那華、婆師迦華、
+<lb n="0928c28" ed="T"/>迦羅華、摩<note n="0928c2801" resp="CBETA" type="add">訶【CB】【麗-CB】【磧-CB】，迦【大】</note><app n="0928c2801"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">訶<note type="cf1">K08n0081_p0945b08</note><note type="cf2">Q08_p0276a25</note></lem><rdg wit="【大】">迦</rdg></app>斫迦羅華、須摩那華、婆師迦華、
 <lb n="0928c29" ed="T"/>多羅尼華、婆羅華、衢多羅尼華、極妙香華、陀
 <pb n="0929a" ed="T" xml:id="T10.0305.0929a"/>
 <lb n="0929a01" ed="T"/>師迦離迦華、天須摩那華、優鉢羅華、波頭
@@ -365,7 +365,7 @@ add cvs log
 <lb n="0931c04" ed="T"/>訶薩得此五法故，能清淨初歡喜地，得大無
 <lb n="0931c05" ed="T"/>畏安隱之處。</p>
 <lb n="0931c06" ed="T"/><p xml:id="pT10p0931c0601">「復次，文殊師利菩薩摩訶薩！有五種法則能
-<lb n="0931c07" ed="T"/>清淨初歡喜地，得大無<note n="0931c0701" resp="CBETA" type="add">畏【CB】【麗-CB】【磧砂-CB】，異【大】</note><app n="0931c0701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">畏<note type="cf1">K08n0081_p0948b02</note><note type="cf2">Q08_p0279a04</note></lem><rdg wit="【大】">異</rdg></app>安隱之處。何等為
+<lb n="0931c07" ed="T"/>清淨初歡喜地，得大無<note n="0931c0701" resp="CBETA" type="add">畏【CB】【麗-CB】【磧-CB】，異【大】</note><app n="0931c0701"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">畏<note type="cf1">K08n0081_p0948b02</note><note type="cf2">Q08_p0279a04</note></lem><rdg wit="【大】">異</rdg></app>安隱之處。何等為
 <lb n="0931c08" ed="T"/>五？一謂菩薩生如是心：『我已得住憍慢無差
 <lb n="0931c09" ed="T"/>別無憍慢智故，生安隱心；為令他住憍慢無
 <lb n="0931c10" ed="T"/>差別無憍慢智故，起安慰心。』有言憍慢無差
@@ -2319,7 +2319,7 @@ add cvs log
 <lb n="0953b07" ed="T"/>別，而自然如是，無分別離分別，自然如是，生
 <lb n="0953b08" ed="T"/>長廣狹，大小成就。何以故？以得不共法相應
 <lb n="0953b09" ed="T"/>故。</p><p xml:id="pT10p0953b0902" rend="inline">「文殊師利！譬如有人到離惡刺諸藥草處，
-<lb n="0953b10" ed="T"/>一切惡刺，皆自墮落，然彼到處，不分<note n="0953b1001" resp="CBETA" type="add">別【CB】【麗-CB】【磧砂-CB】，則【大】</note><app n="0953b1001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">別<note type="cf1">K08n0081_p0983a17</note><note type="cf2">Q08_p0299b02</note></lem><rdg wit="【大】">則</rdg></app>離分
+<lb n="0953b10" ed="T"/>一切惡刺，皆自墮落，然彼到處，不分<note n="0953b1001" resp="CBETA" type="add">別【CB】【麗-CB】【磧-CB】，則【大】</note><app n="0953b1001"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">別<note type="cf1">K08n0081_p0983a17</note><note type="cf2">Q08_p0299b02</note></lem><rdg wit="【大】">則</rdg></app>離分
 <lb n="0953b11" ed="T"/>別，而自然如是，無分別離分別，自然如是，惡
 <lb n="0953b12" ed="T"/>刺藥草，悉皆墮落。何以故？以<note n="0953004" resp="Taisho" type="orig" place="foot text">〔得〕－【三】【宮】</note><note n="0953004" resp="CBETA" type="mod">得【大】，〔－〕【宋】【元】【明】【宮】</note><app n="0953004"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】"><space quantity="0"/></rdg></app>不共法相
 <lb n="0953b13" ed="T"/>應故。</p><p xml:id="pT10p0953b1303" rend="inline">「文殊師利！如是一切諸眾生等，乃至盡
@@ -2631,7 +2631,7 @@ add cvs log
 <lb n="0956c19" ed="T"/>子、善女人，於一須陀洹，攝取彼人，乃至一日，
 <lb n="0956c20" ed="T"/>以一食施。文殊師利！此福勝前，無量阿僧祇。</p>
 <lb n="0956c21" ed="T"/><p xml:id="pT10p0956c2101">「文殊師利！若有善男子、善女人，於一切世界
-<lb n="0956c22" ed="T"/>微塵<note n="0956c2201" resp="CBETA" type="add">數【CB】【麗-CB】【磧砂-CB】，敷【大】</note><app n="0956c2201"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">數<note type="cf1">K08n0081_p0989b16</note><note type="cf2">Q08_p0302b08</note></lem><rdg wit="【大】">敷</rdg></app>諸須陀洹，日日以天甘露百味飲食，
+<lb n="0956c22" ed="T"/>微塵<note n="0956c2201" resp="CBETA" type="add">數【CB】【麗-CB】【磧-CB】，敷【大】</note><app n="0956c2201"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">數<note type="cf1">K08n0081_p0989b16</note><note type="cf2">Q08_p0302b08</note></lem><rdg wit="【大】">敷</rdg></app>諸須陀洹，日日以天甘露百味飲食，
 <lb n="0956c23" ed="T"/>及天衣服臥具湯藥，奉施供養，如是乃至阿
 <lb n="0956c24" ed="T"/>僧祇恒河沙數世界微塵等數劫海而供養
 <lb n="0956c25" ed="T"/>之。文殊師利！若復有善男子、善女人，於一斯

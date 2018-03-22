@@ -183,7 +183,7 @@ Added comment  for Emacs
 <lb n="0175a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0175a02" ed="T"/><cb:docNumber>No. 1788 [cf. No. 665]</cb:docNumber>
-<lb n="0175a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">第一</cb:mulu><note n="0175001" resp="Taisho" place="foot text" type="orig">【原】寶永三年刊宗教大學藏本，【聖】平安末寫聖語藏本，【甲】大日本續藏經</note><note n="0175001" resp="CBETA" type="mod">【原】寶永三年刊宗教大學藏本，【聖】平安末寫聖語藏本，【甲】大日本續藏經</note><cb:jhead>金光明最勝王經疏卷第<note n="0175002" resp="Taisho" place="foot text" type="orig">一＋（盡序品）【原】</note><note n="0175002" resp="CBETA" type="mod">一【大】，一盡序品【原】</note><app n="0175002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【原】">一盡序品</rdg></app></cb:jhead></cb:juan>
+<lb n="0175a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">第一</cb:mulu><note n="0175001" resp="Taisho" place="foot text" type="orig">【原】寶永三年刊宗教大學藏本，【聖】平安末寫聖語藏本，【甲】大日本續藏經</note><cb:jhead>金光明最勝王經疏卷第<note n="0175002" resp="Taisho" place="foot text" type="orig">一＋（盡序品）【原】</note><note n="0175002" resp="CBETA" type="mod">一【大】，一盡序品【原】</note><app n="0175002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【原】">一盡序品</rdg></app></cb:jhead></cb:juan>
 <lb n="0175a04" ed="T"/>
 <lb n="0175a05" ed="T"/><byline cb:type="Translator">唐三藏法師義淨奉　制譯</byline>
 <lb n="0175a06" ed="T"/><byline cb:type="author">翻經沙門慧沼撰</byline>

@@ -439,7 +439,7 @@ Added comment  for Emacs
 <lb n="0361c28" ed="T"/><lg xml:id="lgT16p0361c2801" rend="margin-left:1em;text-indent:-1em"><l>「設河駛流中，</l><l>可生拘物華，</l>
 <lb n="0361c29" ed="T"/><l>世尊身舍利，</l><l>畢竟不可<note n="0361016" resp="Taisho" type="orig" place="foot text">有＝得【三】【宮】</note><note n="0361016" resp="CBETA" type="mod">有【大】，得【宋】【元】【明】【宮】</note><app n="0361016"><lem wit="【大】">有</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">得</rdg></app>；</l>
 <pb n="0362a" ed="T" xml:id="T16.0664.0362a"/>
-<lb n="0362a01" ed="T"/><l>假使烏赤色，</l><l>拘<note n="0362a0101" resp="CBETA" type="add">枳【大】【磧砂-CB】，抧【麗-CB】</note><app n="0362a0101"><lem wit="【大】">枳</lem><rdg resp="CBETA.maha" wit="【磧-CB】">枳<note type="cf1">Q09_p0561a26</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">抧<note type="cf1">K09n0128_p1366c02</note></rdg></app>羅白形，</l>
+<lb n="0362a01" ed="T"/><l>假使烏赤色，</l><l>拘<note n="0362a0101" resp="CBETA" type="add">枳【大】【磧-CB】，抧【麗-CB】</note><app n="0362a0101"><lem wit="【大】">枳</lem><rdg resp="CBETA.maha" wit="【磧-CB】">枳<note type="cf1">Q09_p0561a26</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">抧<note type="cf1">K09n0128_p1366c02</note></rdg></app>羅白形，</l>
 <lb n="0362a02" ed="T"/><l>世尊真實身，</l><l>不可成舍利；</l>
 <lb n="0362a03" ed="T"/><l>設<note n="0362001" resp="Taisho" type="orig" place="foot text">使＝令【三】【宮】</note><note n="0362001" resp="CBETA" type="mod">使【大】，令【宋】【元】【明】【宮】</note><app n="0362001"><lem wit="【大】">使</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">令</rdg></app>閻浮樹，</l><l>能生多羅果、</l>
 <lb n="0362a04" ed="T"/><l>佉受羅樹等，</l><l>轉生菴羅實，</l>
@@ -2051,7 +2051,7 @@ Added comment  for Emacs
 <lb n="0380a01" ed="T"/><l>於生死海，</l><l>永斷三惡，</l><l>無量苦惱。</l>
 <lb n="0380a02" ed="T"/><l>煩惱熾然，</l><l>燒諸眾生，</l><l>無有救護、</l>
 <lb n="0380a03" ed="T"/><l>無所依止。</l><l>我以甘露，</l><l>清涼美味，</l>
-<lb n="0380a04" ed="T"/><l>充足是輩，</l><l>令離<note n="0380a0401" resp="CBETA" type="add">燋【CB】【麗-CB】【磧砂-CB】，焦【大】</note><app n="0380a0401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1391a10</note><note type="cf2">Q09_p0576b22</note></lem><rdg wit="【大】">焦</rdg></app>熱。</l><l>於無量劫，</l>
+<lb n="0380a04" ed="T"/><l>充足是輩，</l><l>令離<note n="0380a0401" resp="CBETA" type="add">燋【CB】【麗-CB】【磧-CB】，焦【大】</note><app n="0380a0401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1391a10</note><note type="cf2">Q09_p0576b22</note></lem><rdg wit="【大】">焦</rdg></app>熱。</l><l>於無量劫，</l>
 <lb n="0380a05" ed="T"/><l>遵修諸行，</l><l>供養恭敬，</l><l>諸佛世尊。</l>
 <lb n="0380a06" ed="T"/><l>堅固修<note n="0380001" resp="Taisho" type="orig" place="foot text">集＝習【三】【宮】</note><note n="0380001" resp="CBETA" type="mod">集【大】，習【宋】【元】【明】【宮】</note><app n="0380001"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">習</rdg></app>，</l><l>菩提之道，</l><l>求於如來，</l>
 <lb n="0380a07" ed="T"/><l>真實法身。</l><l>捨諸所重，</l><l>肢節、手、足、</l>
@@ -2244,7 +2244,7 @@ Added comment  for Emacs
 <lb n="0382a13" ed="T"/>菩薩深妙功德，常為諸天之所恭敬，能令天
 <lb n="0382a14" ed="T"/>王心生歡喜，亦為護世之所讚嘆。此經能照
 <lb n="0382a15" ed="T"/>諸天宮殿、是經能與眾生快樂、是經能令地
-<lb n="0382a16" ed="T"/>獄餓鬼畜生諸河<note n="0382a1601" resp="CBETA" type="add">燋【CB】【麗-CB】【磧砂-CB】，焦【大】</note><app n="0382a1601"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1394b13</note><note type="cf2">Q09_p0578c11</note></lem><rdg wit="【大】">焦</rdg></app>乾枯竭、是經能除一切
+<lb n="0382a16" ed="T"/>獄餓鬼畜生諸河<note n="0382a1601" resp="CBETA" type="add">燋【CB】【麗-CB】【磧-CB】，焦【大】</note><app n="0382a1601"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1394b13</note><note type="cf2">Q09_p0578c11</note></lem><rdg wit="【大】">焦</rdg></app>乾枯竭、是經能除一切
 <lb n="0382a17" ed="T"/>怖畏、是經能却他方怨賊、是經能除穀貴飢
 <lb n="0382a18" ed="T"/>饉、是經能愈一切疫病、是經能滅惡星變異、
 <lb n="0382a19" ed="T"/>是經能去一切憂惱。舉要言之：是經能滅一切
@@ -3034,7 +3034,7 @@ Added comment  for Emacs
 <lb n="0390c21" ed="T"/><l rend="text-indent:2em">若為諸天，</l><l>所護生者，</l><l>如是人王，</l>
 <lb n="0390c22" ed="T"/><l rend="text-indent:2em">終不為是。</l><l>有行善者，</l><l>得生天中；</l>
 <lb n="0390c23" ed="T"/><l rend="text-indent:2em">行不善者，</l><l>墮在三塗。</l><l>三十三天，</l>
-<lb n="0390c24" ed="T"/><l rend="text-indent:2em">皆生<note n="0390c2401" resp="CBETA" type="add">燋【CB】【麗-CB】【磧砂-CB】，焦【大】</note><app n="0390c2401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1407a13</note><note type="cf2">Q09_p0587a06</note></lem><rdg wit="【大】">焦</rdg></app>熱，</l><l>由王縱惡，</l><l>捨而不<note n="0390010" resp="Taisho" type="orig" place="foot text">理＝悔【三】【宮】</note><note n="0390010" resp="CBETA" type="mod">理【大】，悔【宋】【元】【明】【宮】</note><app n="0390010"><lem wit="【大】">理</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">悔</rdg></app>。</l>
+<lb n="0390c24" ed="T"/><l rend="text-indent:2em">皆生<note n="0390c2401" resp="CBETA" type="add">燋【CB】【麗-CB】【磧-CB】，焦【大】</note><app n="0390c2401"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">燋<note type="cf1">K09n0128_p1407a13</note><note type="cf2">Q09_p0587a06</note></lem><rdg wit="【大】">焦</rdg></app>熱，</l><l>由王縱惡，</l><l>捨而不<note n="0390010" resp="Taisho" type="orig" place="foot text">理＝悔【三】【宮】</note><note n="0390010" resp="CBETA" type="mod">理【大】，悔【宋】【元】【明】【宮】</note><app n="0390010"><lem wit="【大】">理</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">悔</rdg></app>。</l>
 <lb n="0390c25" ed="T"/><l rend="text-indent:2em">違逆諸天、</l><l>及父母勅，</l><l>不能正治，</l>
 <lb n="0390c26" ed="T"/><l rend="text-indent:2em">則非孝子。</l><l>起諸奸惡、</l><l>壞國土者，</l>
 <lb n="0390c27" ed="T"/><l rend="text-indent:2em">不應縱捨，</l><l>當正治罪。</l><l>是故諸天，</l>
@@ -3046,7 +3046,7 @@ Added comment  for Emacs
 <lb n="0391a03" ed="T"/><l rend="text-indent:2em">修正治國。</l><l>有壞國者，</l><l>應當正教，</l>
 <lb n="0391a04" ed="T"/><l rend="text-indent:2em">為命及國，</l><l>修行正法。</l><l>不應行惡、</l>
 <lb n="0391a05" ed="T"/><l rend="text-indent:2em">惡不應縱，</l><l>所有餘事，</l><l>不<note n="0391001" resp="Taisho" type="orig" place="foot text">應＝能【元】【明】</note><note n="0391001" resp="CBETA" type="mod">應【大】，能【元】【明】</note><app n="0391001"><lem wit="【大】">應</lem><rdg resp="Taisho" wit="【元】【明】">能</rdg></app>壞國。</l>
-<lb n="0391a06" ed="T"/><l rend="text-indent:2em"><note n="0391a0601" resp="CBETA" type="add">要【CB】【麗-CB】【磧砂-CB】，惡【大】</note><app n="0391a0601"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">要<note type="cf1">K09n0128_p1407a24</note><note type="cf2">Q09_p0587a15</note></lem><rdg wit="【大】">惡</rdg></app>因多奸，</l><l>然後傾敗，</l><l>若起多奸，</l>
+<lb n="0391a06" ed="T"/><l rend="text-indent:2em"><note n="0391a0601" resp="CBETA" type="add">要【CB】【麗-CB】【磧-CB】，惡【大】</note><app n="0391a0601"><lem resp="CBETA.maha" wit="【CB】【麗-CB】【磧-CB】">要<note type="cf1">K09n0128_p1407a24</note><note type="cf2">Q09_p0587a15</note></lem><rdg wit="【大】">惡</rdg></app>因多奸，</l><l>然後傾敗，</l><l>若起多奸，</l>
 <lb n="0391a07" ed="T"/><l rend="text-indent:2em">壞於國土。</l><l>譬如大象，</l><l>壞蓮華池。</l>
 <lb n="0391a08" ed="T"/><l rend="text-indent:2em">怨恨諸天，</l><l>故天生惱，</l><l>起諸惡事，</l>
 <lb n="0391a09" ed="T"/><l rend="text-indent:2em">彌滿其國。</l><l>是故應隨，</l><l>正法治<note n="0391002" resp="Taisho" type="orig" place="foot text">惡＝世【三】</note><note n="0391002" resp="CBETA" type="mod">惡【大】，世【宋】【元】【明】</note><app n="0391002"><lem wit="【大】">惡</lem><rdg resp="Taisho" wit="【宋】【元】【明】">世</rdg></app>，</l>

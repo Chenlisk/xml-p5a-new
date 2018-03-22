@@ -169,7 +169,7 @@ Added comment for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0012b14" ed="T"/>
 <lb n="0012b15" ed="T"/><cb:docNumber>No. 2067</cb:docNumber>
-<lb n="0012b16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0012016" resp="Taisho" place="foot text" type="orig">【原】保安元年寫東大寺藏本，【甲】大日本續藏經</note><note n="0012016" resp="CBETA" type="mod">【原】保安元年寫東大寺藏本，【甲】大日本續藏經</note>弘贊法華傳卷第一</cb:jhead></cb:juan>
+<lb n="0012b16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0012016" resp="Taisho" place="foot text" type="orig">【原】保安元年寫東大寺藏本，【甲】大日本續藏經</note>弘贊法華傳卷第一</cb:jhead></cb:juan>
 <lb n="0012b17" ed="T"/>
 <lb n="0012b18" ed="T"/><byline cb:type="author">藍谷沙門惠詳撰</byline>
 <lb n="0012b19" ed="T"/><cb:div type="other"><list><item xml:id="itemT51p0012b1901">圖像第一　第一卷</item><item xml:id="itemT51p0012b1908">翻譯第二　第二卷</item>

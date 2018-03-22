@@ -126,7 +126,7 @@ Added comment  for Emacs
 <lb n="1413b01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="1413b02" ed="T"/><cb:docNumber>No. 2894</cb:docNumber>
-<lb n="1413b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1413001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2673</note><note n="1413001" resp="CBETA" type="mod">【原】大英博物館藏燉煌本, S. 2673</note>佛說三厨經</cb:jhead></cb:juan>
+<lb n="1413b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1413001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2673</note>佛說三厨經</cb:jhead></cb:juan>
 <lb n="1413b04" ed="T"/>
 <lb n="1413b05" ed="T"/><byline cb:type="Translator">西國婆羅門達多羅及
 <lb n="1413b06" ed="T"/>闍那崛多等奉詔譯</byline>
@@ -238,7 +238,7 @@ Added comment  for Emacs
 <lb n="1414b22" ed="T"/><lg xml:id="lgT85p1414b2201"><l>四戊四己腸堅塞</l><l>四壬四癸不用食</l>
 <lb n="1414b23" ed="T"/><l>六甲六丁太倉盈</l><l>五庚五辛五藏貞<note n="1414001" resp="Taisho" place="foot text" type="orig">以下缺</note></l></lg>
 <lb n="1414b24" ed="T"/>
-<lb n="1414b25" ed="T"/><lg xml:id="lgT85p1414b2501"><l><note n="1414002" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2680, 首缺</note><note n="1414002" resp="CBETA" type="mod">【原】大英博物館藏燉煌本, S. 2680, 首缺</note>仙人玉女事我神</l><l>天官行厨供養身</l>
+<lb n="1414b25" ed="T"/><lg xml:id="lgT85p1414b2501"><l><note n="1414002" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 2680, 首缺</note>仙人玉女事我神</l><l>天官行厨供養身</l>
 <lb n="1414b26" ed="T"/><l>使我顏色常充悅</l><l>延年益壽數萬年</l></lg>
 <lb n="1414b27" ed="T"/><p xml:id="pT85p1414b2701">佛說請厨三食陀羅尼神呪。</p>
 <lb n="1414b28" ed="T"/><p xml:id="pT85p1414b2801" cb:type="dharani">南無曷羅怛那　怛囉夜㖿　豆留　豆留摩

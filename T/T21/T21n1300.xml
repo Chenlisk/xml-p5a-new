@@ -131,7 +131,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0399c22" ed="T"/>
 <lb n="0399c23" ed="T"/><cb:docNumber>No. 1300</cb:docNumber><cb:div type="pin">
-<lb n="0399c24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0399026" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0399026" resp="CBETA" type="mod">【原】麗本</note>摩登伽經卷上</cb:jhead></cb:juan>
+<lb n="0399c24" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0399026" resp="Taisho" place="foot text" type="orig">【原】麗本</note>摩登伽經卷上</cb:jhead></cb:juan>
 <lb n="0399c25" ed="T"/>
 <lb n="0399c26" ed="T"/><byline cb:type="Translator">吳<note n="0399027" resp="Taisho" place="foot text" type="orig">天竺三藏＝沙門【明】</note><note n="0399027" resp="CBETA" type="mod">天竺三藏【大】，沙門【明】</note><app n="0399027"><lem wit="【大】">天竺三藏</lem><rdg resp="Taisho" wit="【明】">沙門</rdg></app>竺律炎共<note n="0399028" resp="Taisho" place="foot text" type="orig">（優婆塞）＋支謙【三】</note><note n="0399028" resp="CBETA" type="mod">支謙【大】，優婆塞支謙【宋】【元】【明】</note><app n="0399028"><lem wit="【大】">支謙</lem><rdg resp="Taisho" wit="【宋】【元】【明】">優婆塞支謙</rdg></app>譯</byline>
 <lb n="0399c27" ed="T"/><cb:mulu level="1" n="1" type="品">1 度性女品</cb:mulu><head>度性女品第一</head>

@@ -123,7 +123,7 @@ Added comment  for Emacs
 <lb n="0361a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0361a02" ed="T"/><cb:docNumber>No. 1720 [cf. No. 262]</cb:docNumber>
-<lb n="0361a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:mulu level="1">1</cb:mulu><note n="0361001" resp="Taisho" place="foot text" type="orig">【原】天和三年刊宗教大學藏本</note><note n="0361001" resp="CBETA" type="mod">【原】天和三年刊宗教大學藏本</note><cb:jhead>法華玄論卷第一</cb:jhead></cb:juan>
+<lb n="0361a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:mulu level="1">1</cb:mulu><note n="0361001" resp="Taisho" place="foot text" type="orig">【原】天和三年刊宗教大學藏本</note><cb:jhead>法華玄論卷第一</cb:jhead></cb:juan>
 <lb n="0361a04" ed="T"/>
 <lb n="0361a05" ed="T"/><byline cb:type="author">胡吉藏撰</byline>
 <lb n="0361a06" ed="T"/><cb:div type="jing"><p xml:id="pT34p0361a0601">玄義有六重。一弘經方法二大意三釋名四

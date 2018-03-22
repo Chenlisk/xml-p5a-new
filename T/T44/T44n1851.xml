@@ -204,7 +204,7 @@ Added comment  for Emacs
 <lb n="0465a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0465a02" ed="T"/><cb:docNumber>No. 1851</cb:docNumber>
-<lb n="0465a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0465001" resp="Taisho" place="foot text" type="orig">【原】延寶二年刊大谷大學藏本，【甲】延寶二年刊村上專精氏藏</note><note n="0465001" resp="CBETA" type="mod">【原】延寶二年刊大谷大學藏本，【甲】延寶二年刊村上專精氏藏</note><cb:jhead>大乘義章卷第一<note place="inline">草書惑人傷失之甚傳者必真慎勿草書</note></cb:jhead></cb:juan>
+<lb n="0465a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0465001" resp="Taisho" place="foot text" type="orig">【原】延寶二年刊大谷大學藏本，【甲】延寶二年刊村上專精氏藏</note><cb:jhead>大乘義章卷第一<note place="inline">草書惑人傷失之甚傳者必真慎勿草書</note></cb:jhead></cb:juan>
 <lb n="0465a04" ed="T"/>
 <lb n="0465a05" ed="T"/><byline cb:type="author">遠法師撰</byline>
 <lb n="0465a06" ed="T"/><cb:div type="other"><p xml:id="pT44p0465a0601">義有五聚<note place="inline">一者教聚　二者義聚　三者染聚　四者淨

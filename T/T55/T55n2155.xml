@@ -230,7 +230,7 @@ Added comment  for Emacs
 <pb n="0724a" xml:id="T55.2155.0724a" ed="T"/>
 <lb n="0724a01" ed="T"/><milestone n="1" unit="juan"/>
 <lb n="0724a02" ed="T"/><cb:docNumber>No. 2155</cb:docNumber><cb:div type="other">
-<lb n="0724a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0724001" resp="Taisho" place="foot text" type="orig">【原】明本</note><note n="0724001" resp="CBETA" type="mod">【原】明本</note>開元釋教錄略出卷第<note n="0724002" resp="Taisho" place="foot text" type="orig">一＋（此號上卷）夾註【元】</note><note n="0724002" resp="CBETA" type="mod">一【大】，一(此號上卷)【元】</note><app n="0724002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【元】">一<note place="inline">此號上卷</note></rdg></app></cb:jhead></cb:juan>
+<lb n="0724a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0724001" resp="Taisho" place="foot text" type="orig">【原】明本</note>開元釋教錄略出卷第<note n="0724002" resp="Taisho" place="foot text" type="orig">一＋（此號上卷）夾註【元】</note><note n="0724002" resp="CBETA" type="mod">一【大】，一(此號上卷)【元】</note><app n="0724002"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【元】">一<note place="inline">此號上卷</note></rdg></app></cb:jhead></cb:juan>
 <lb n="0724a04" ed="T"/>
 <lb n="0724a05" ed="T"/><byline cb:type="author"><note n="0724003" resp="Taisho" place="foot text" type="orig">（南藏…唐）九字＝（庚午歲）三字【宋】【元】</note><note n="0724003" resp="CBETA" type="mod">（南藏…唐）九字【大】，庚午歲【宋】【元】</note><app cb:word-count="9" n="0724003"><lem wit="【大】"><note place="inline">南藏多庚午歲三字</note>唐</lem><rdg resp="Taisho" wit="【宋】【元】">庚午歲</rdg></app>西崇福寺沙門智昇撰</byline>
 <lb n="0724a06" ed="T"/><cb:mulu level="1" type="其他">菩薩藏三藏</cb:mulu>

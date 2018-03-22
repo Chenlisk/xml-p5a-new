@@ -129,7 +129,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0408b19" ed="T"/>
 <lb n="0408b20" ed="T"/><cb:docNumber>No. 1863</cb:docNumber>
-<lb n="0408b21" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0408001" resp="Taisho" place="foot text" type="orig">【原】寶曆十二年寫藥師寺藏本，【甲】大日本續藏經</note><note n="0408001" resp="CBETA" type="mod">【原】寶曆十二年寫藥師寺藏本，【甲】大日本續藏經</note>能顯中邊慧日論第一</cb:jhead></cb:juan>
+<lb n="0408b21" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0408001" resp="Taisho" place="foot text" type="orig">【原】寶曆十二年寫藥師寺藏本，【甲】大日本續藏經</note>能顯中邊慧日論第一</cb:jhead></cb:juan>
 <lb n="0408b22" ed="T"/>
 <lb n="0408b23" ed="T"/><byline cb:type="author">淄州大雲寺苾芻慧沼撰</byline>
 <lb n="0408b24" ed="T"/><cb:div type="jing"><lg xml:id="lgT45p0408b2401"><l>十力五眼大聖雄</l><l>為物求法無邊劫</l>

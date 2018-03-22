@@ -138,7 +138,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0263b23" ed="T"/>
 <lb n="0263b24" ed="T"/><cb:docNumber>No. 952 [Nos. 950, 951]</cb:docNumber>
-<lb n="0263b25" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0263008" resp="Taisho" place="foot text" type="orig">【原】麗本，此經宋元明三本欠，甲三十帖策子第九</note><note n="0263008" resp="CBETA" type="mod">【原】麗本，此經宋元明三本欠，甲三十帖策子第九</note>五佛頂三昧陀羅尼經<note n="0263009" resp="Taisho" place="foot text" type="orig">〔卷第一〕－【甲】</note><note n="0263009" resp="CBETA" type="mod">卷第一【大】，〔－〕【甲】</note><app n="0263009"><lem wit="【大】">卷第一</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="0263b25" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><note n="0263008" resp="Taisho" place="foot text" type="orig">【原】麗本，此經宋元明三本欠，甲三十帖策子第九</note>五佛頂三昧陀羅尼經<note n="0263009" resp="Taisho" place="foot text" type="orig">〔卷第一〕－【甲】</note><note n="0263009" resp="CBETA" type="mod">卷第一【大】，〔－〕【甲】</note><app n="0263009"><lem wit="【大】">卷第一</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0263b26" ed="T"/>
 <lb n="0263b27" ed="T"/><byline cb:type="Translator"><note n="0263010" resp="Taisho" place="foot text" type="orig">〔大唐…譯〕十三字－【甲】＊</note><note n="0263010" resp="CBETA" type="mod">（大唐…譯）十三字【大】＊，〔－〕【甲】＊</note><app cb:word-count="13" n="0263010"><lem wit="【大】">大唐天竺三藏菩提流志奉　詔譯</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></byline>
 <lb n="0263b28" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="1" type="品">1 序品</cb:mulu><head>序品第一</head>

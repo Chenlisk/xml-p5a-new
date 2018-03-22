@@ -379,7 +379,7 @@ Added comment for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0196b08" ed="T"/>
 <lb n="0196b09" ed="T"/><cb:docNumber>No. 2076</cb:docNumber>
-<lb n="0196b10" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">景德傳燈錄序</cb:mulu><head><note n="0196009" resp="Taisho" place="foot text" type="orig">【原】縮刷藏經，此序明本無</note><note n="0196009" resp="CBETA" type="mod">【原】縮刷藏經，此序明本無</note>景德傳燈錄序</head>
+<lb n="0196b10" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">景德傳燈錄序</cb:mulu><head><note n="0196009" resp="Taisho" place="foot text" type="orig">【原】縮刷藏經，此序明本無</note>景德傳燈錄序</head>
 <lb n="0196b11" ed="T"/>
 <lb n="0196b12" ed="T"/><byline cb:type="author">翰林學士朝散大夫行左司諫知制誥同
 <lb n="0196b13" ed="T"/>修國史判史館事柱國南陽郡開國侯食
@@ -1131,7 +1131,7 @@ Added comment for Emacs
 <lb n="0209b18" ed="T"/>鳴豁然<app type="star" corresp="#0208006"><lem wit="【大】">惺</lem><rdg resp="Taisho" wit="【明】">省</rdg></app>悟。稽首歸依遂求剃度。師謂眾
 <lb n="0209b19" ed="T"/>曰。此大士者。昔為毘舍離國王。其國有一類
 <lb n="0209b20" ed="T"/>人如馬裸露。王運神力分身為蠶。彼乃得衣。
-<lb n="0209b21" ed="T"/>王後復生中印度。馬人感戀<note n="0209b2101" resp="CBETA" type="add">悲【CB】【磧砂-CB】，非【大】</note><app n="0209b2101"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">悲<note type="cf1">Q33_p0305a16</note></lem><rdg wit="【大】">非</rdg></app>鳴。因號馬鳴
+<lb n="0209b21" ed="T"/>王後復生中印度。馬人感戀<note n="0209b2101" resp="CBETA" type="add">悲【CB】【磧-CB】，非【大】</note><app n="0209b2101"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">悲<note type="cf1">Q33_p0305a16</note></lem><rdg wit="【大】">非</rdg></app>鳴。因號馬鳴
 <lb n="0209b22" ed="T"/>焉。如來記云。吾滅度後六百年。當有賢者馬
 <lb n="0209b23" ed="T"/>鳴。於波羅柰國摧伏異道。度人無量繼吾傳
 <lb n="0209b24" ed="T"/>化。今正是時。即告之曰。如來大法眼藏今付
@@ -1630,7 +1630,7 @@ Added comment for Emacs
 <lb n="0215a09" ed="T"/>名摩目多。二名都落遮。學諸幻法欲共謀亂。
 <lb n="0215a10" ed="T"/>乃盜為釋子形<note n="0215002" resp="Taisho" place="foot text" type="orig">象＝像【明】</note><note n="0215002" resp="CBETA" type="mod">象【大】，像【明】</note><app n="0215002"><lem wit="【大】">象</lem><rdg resp="Taisho" wit="【明】">像</rdg></app>。潛入王宮。且曰。不成即
 <lb n="0215a11" ed="T"/>罪歸佛子。妖既自作禍亦旋踵。事既敗。王果
-<lb n="0215a12" ed="T"/>怒曰。吾素歸心三寶。何乃搆害<note n="0215a1201" resp="CBETA" type="add">一【CB】【磧砂-CB】，十【大】</note><app n="0215a1201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">一<note type="cf1">Q33_p0309c23</note></lem><rdg wit="【大】">十</rdg></app>至于斯。即
+<lb n="0215a12" ed="T"/>怒曰。吾素歸心三寶。何乃搆害<note n="0215a1201" resp="CBETA" type="add">一【CB】【磧-CB】，十【大】</note><app n="0215a1201"><lem resp="CBETA.maha" wit="【CB】【磧-CB】">一<note type="cf1">Q33_p0309c23</note></lem><rdg wit="【大】">十</rdg></app>至于斯。即
 <lb n="0215a13" ed="T"/>命破毀伽藍祛除釋眾。又自秉劍至尊者所。
 <lb n="0215a14" ed="T"/>問曰。師得蘊空否。尊者曰。已得蘊空。曰離生
 <lb n="0215a15" ed="T"/>死否。尊者曰。已離生死。曰既離生死可施我

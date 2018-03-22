@@ -129,7 +129,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0580b03" ed="T"/>
 <lb n="0580b04" ed="T"/><cb:docNumber>No. 1812 [cf. No. 1484]</cb:docNumber>
-<lb n="0580b05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0580009" resp="Taisho" place="foot text" type="orig">【原】寬文十年刊宗教大學藏本</note><note n="0580009" resp="CBETA" type="mod">【原】寬文十年刊宗教大學藏本</note><cb:jhead>天台菩薩戒疏上</cb:jhead></cb:juan>
+<lb n="0580b05" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><note n="0580009" resp="Taisho" place="foot text" type="orig">【原】寬文十年刊宗教大學藏本</note><cb:jhead>天台菩薩戒疏上</cb:jhead></cb:juan>
 <lb n="0580b06" ed="T"/>
 <lb n="0580b07" ed="T"/><byline cb:type="Other">天台沙門明曠刪補<note place="inline">草書滅法傳者須真</note></byline>
 <lb n="0580b08" ed="T"/><cb:div type="jing"><p xml:id="pT40p0580b0801">佛性常住教起從緣緣宜不同故義有廣略。或

@@ -147,7 +147,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0689b07" ed="T"/>
 <lb n="0689b08" ed="T"/><cb:docNumber>No. 1815 [cf. No. 1484]</cb:docNumber>
-<lb n="0689b09" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><cb:jhead><note n="0689001" resp="Taisho" place="foot text" type="orig">【原】寬文八年刊宗教大學藏本，【甲】元祿二年刊藥師寺藏本</note><note n="0689001" resp="CBETA" type="mod">【原】寬文八年刊宗教大學藏本，【甲】元祿二年刊藥師寺藏本</note>梵網經古迹記卷<note n="0689002" resp="Taisho" place="foot text" type="orig">上＋（乾）【甲】</note><note n="0689002" resp="CBETA" type="mod">上【大】，上乾【甲】</note><app n="0689002"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">上乾</rdg></app></cb:jhead></cb:juan>
+<lb n="0689b09" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><cb:jhead><note n="0689001" resp="Taisho" place="foot text" type="orig">【原】寬文八年刊宗教大學藏本，【甲】元祿二年刊藥師寺藏本</note>梵網經古迹記卷<note n="0689002" resp="Taisho" place="foot text" type="orig">上＋（乾）【甲】</note><note n="0689002" resp="CBETA" type="mod">上【大】，上乾【甲】</note><app n="0689002"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">上乾</rdg></app></cb:jhead></cb:juan>
 <lb n="0689b10" ed="T"/>
 <lb n="0689b11" ed="T"/><byline cb:type="Collector">青丘沙門太賢集</byline>
 <lb n="0689b12" ed="T"/><cb:div type="other"><p xml:id="pT40p0689b1201">將釋此經七門分別。時處故。機根故。藏攝故。
@@ -1118,7 +1118,7 @@ Added comment  for Emacs
 <lb n="0700a17" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>梵網經古迹記卷<note n="0700001" resp="Taisho" place="foot text" type="orig">上＋（坤終）【甲】</note><note n="0700001" resp="CBETA" type="mod">上【大】，上坤終【甲】</note><app n="0700001"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【甲】">上坤終</rdg></app></cb:jhead></cb:juan>
 <lb n="0700a18" ed="T"/><milestone n="2" unit="juan"/>
 <lb n="0700a19" ed="T"/>
-<lb n="0700a20" ed="T"/><cb:juan n="002a" fun="open"><cb:mulu n="2a" type="卷">下(本)</cb:mulu><cb:jhead><note n="0700002" resp="Taisho" place="foot text" type="orig">【原】延寶六年刊宗教大學藏本</note><note n="0700002" resp="CBETA" type="mod">【原】延寶六年刊宗教大學藏本</note>梵網經古迹記卷下<note place="inline">本</note></cb:jhead></cb:juan>
+<lb n="0700a20" ed="T"/><cb:juan n="002a" fun="open"><cb:mulu n="2a" type="卷">下(本)</cb:mulu><cb:jhead><note n="0700002" resp="Taisho" place="foot text" type="orig">【原】延寶六年刊宗教大學藏本</note>梵網經古迹記卷下<note place="inline">本</note></cb:jhead></cb:juan>
 <lb n="0700a21" ed="T"/>
 <lb n="0700a22" ed="T"/><byline cb:type="Collector">青丘太賢集</byline>
 <lb n="0700a23" ed="T"/><p xml:id="pT40p0700a2301">梵網經盧舍那佛說菩薩心地法門品第十</p>

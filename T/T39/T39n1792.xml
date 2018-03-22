@@ -138,7 +138,7 @@ Added comment  for Emacs
 <lb n="0505a01" ed="T"/>
 <milestone n="1" unit="juan"/>
 <lb n="0505a02" ed="T"/><cb:docNumber>No. 1792 [cf. No. 685]</cb:docNumber>
-<lb n="0505a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><note n="0505001" resp="Taisho" place="foot text" type="orig">【原】明崇禎十七年刊增上寺報恩藏本，【甲】德川時代刊宗教大學藏本</note><note n="0505001" resp="CBETA" type="mod">【原】明崇禎十七年刊增上寺報恩藏本，【甲】德川時代刊宗教大學藏本</note><cb:jhead>佛說盂蘭盆經疏上</cb:jhead></cb:juan>
+<lb n="0505a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷">上</cb:mulu><note n="0505001" resp="Taisho" place="foot text" type="orig">【原】明崇禎十七年刊增上寺報恩藏本，【甲】德川時代刊宗教大學藏本</note><cb:jhead>佛說盂蘭盆經疏上</cb:jhead></cb:juan>
 <lb n="0505a04" ed="T"/>
 <lb n="0505a05" ed="T"/><byline cb:type="author">充國沙門宗密述</byline>
 <lb n="0505a06" ed="T"/><cb:div type="jing"><p xml:id="pT39p0505a0601">始於混沌。塞乎天地。通人神。貫貴賤。儒釋皆

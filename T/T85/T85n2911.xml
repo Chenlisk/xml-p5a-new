@@ -110,7 +110,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="1456c12" ed="T"/>
 <lb n="1456c13" ed="T"/><cb:docNumber>No. 2911</cb:docNumber>
-<lb n="1456c14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1456001" resp="Taisho" type="orig" place="foot text">【原】大英博物館藏燉煌本, S. 652</note><note n="1456001" resp="CBETA" type="mod">【原】大英博物館藏燉煌本, S. 652</note>讚僧功德經</cb:jhead></cb:juan>
+<lb n="1456c14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="1456001" resp="Taisho" type="orig" place="foot text">【原】大英博物館藏燉煌本, S. 652</note>讚僧功德經</cb:jhead></cb:juan>
 <lb n="1456c15" ed="T"/>
 <lb n="1456c16" ed="T"/><cb:div type="jing"><lg xml:id="lgT85p1456c1601"><l>阿含經中略集出，</l><l>歎大<note n="1456c1601" resp="CBETA" type="add">福田諸僧寶【CB】，□□□□□【大】</note><app n="1456c1601"><lem wit="【CB】" resp="CBETA.maha">福田諸僧寶</lem><rdg wit="【大】">□□□□□</rdg></app>，</l>
 <lb n="1456c17" ed="T"/><l><note n="1456c1701" resp="CBETA" type="add">大梵天王及帝釋【CB】，□□□□□□□【大】</note><app n="1456c1701"><lem wit="【CB】" resp="CBETA.maha">大梵天王及帝釋</lem><rdg wit="【大】">□□□□□□□</rdg></app>，</l><l>以大梵音讚僧寶。</l>

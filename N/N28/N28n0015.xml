@@ -312,7 +312,7 @@ $Log:$
 <lb ed="N" n="0094a01"/>
 <lb ed="N" n="0094a02"/><cb:div type="other"><cb:mulu type="其他" level="2">第九品</cb:mulu><head>第九品</head>
 <lb ed="N" n="0094a03"/><p xml:id="pN28p0094a0301">八一</p><lg xml:id="lgN28p0094a0301" type="abnormal" rend="margin-left:3em;text-indent:-1em"><l>「昔我往世所作惡，今於此生感應果，然我已無他生因，不再感受他生果。」</l></lg>
-<lb ed="N" n="0094a04"/><p xml:id="pN28p0094a0401" rend="margin-left:0em;text-indent:2em"><note n="0094a0401" resp="CBETA" type="add">右【CB】，［－］【南傳】</note><app n="0094a0401"><lem wit="【CB】" resp="CBETA.maha">（右）</lem><rdg wit="【南傳】"><space quantity="0"/></rdg></app>薩美提具陀長老。</p>
+<lb ed="N" n="0094a04"/><p xml:id="pN28p0094a0401" rend="margin-left:0em;text-indent:2em"><note n="0094a0401" resp="CBETA" type="add"><!-- check:檢查括號是否保留 -->（右）【CB】，［－］【南傳】</note><app n="0094a0401"><lem wit="【CB】" resp="CBETA.maha">（右）</lem><rdg wit="【南傳】"><space quantity="0"/></rdg></app>薩美提具陀長老。</p>
 <lb ed="N" n="0094a05"/><p xml:id="pN28p0094a0501">八二</p><lg xml:id="lgN28p0094a0501" type="abnormal" rend="margin-left:3em"><l><note n="0094026" resp="NanChuan" place="foot text" type="orig">長老母為告誡長老之偈。</note>「徒兒！汝今乞食易，而向於安穩，無有怖畏行，勿為悲憂累。」</l></lg>
 <lb ed="N" n="0094a06"/><p xml:id="pN28p0094a0601" rend="margin-left:0em;text-indent:2em">（右）迦葉長老。</p>
 <lb ed="N" n="0094a07"/><p xml:id="pN28p0094a0701">八三</p><lg xml:id="lgN28p0094a0701" type="abnormal" rend="margin-left:3em"><l><note n="0094027" resp="NanChuan" place="foot text" type="orig">為佛告誡師子長老之偈。長老為師子尼之兄，原為毘舍離之將軍，為尼乾子外道之保護者。見中阿四卷師子經（大正藏一，四四四）。</note>「師子！晝夜善勿怠，精勤而安住，修習諸善法，速棄合成身。」</l></lg>
@@ -541,7 +541,7 @@ $Log:$
 <lb ed="N" n="0109a05"/><p xml:id="pN28p0109a0501" rend="margin-left:0em;text-indent:2em">（右）樹提陀娑長老。</p>
 <lb ed="N" n="0109a06"/><p xml:id="pN28p0109a0601">一四五</p><lg xml:id="lgN28p0109a0601" type="abnormal" rend="margin-left:3em;text-indent:-1em"><l>「晝夜已過，生命隨減，生者命滅，如小河水。</l></lg>
 <lb ed="N" n="0109a07"/><p xml:id="pN28p0109a0701">一四六</p><lg xml:id="lgN28p0109a0701" type="abnormal" rend="margin-left:3em"><l>造罪惡業，愚者不覺，彼後辛苦，惡業果故。」</l></lg>
-<lb ed="N" n="0109a08"/><p xml:id="pN28p0109a0801" rend="margin-left:0em;text-indent:2em"><note n="0109a0801" resp="CBETA" type="add">右【CB】，［－］【南傳】</note><app n="0109a0801"><lem wit="【CB】" resp="CBETA.maha">（右）</lem><rdg wit="【南傳】"><space quantity="0"/></rdg></app>黑蘭遮伽尼長老。</p>
+<lb ed="N" n="0109a08"/><p xml:id="pN28p0109a0801" rend="margin-left:0em;text-indent:2em"><note n="0109a0801" resp="CBETA" type="add"><!-- check:檢查括號是否保留 -->（右）【CB】，［－］【南傳】</note><app n="0109a0801"><lem wit="【CB】" resp="CBETA.maha">（右）</lem><rdg wit="【南傳】"><space quantity="0"/></rdg></app>黑蘭遮伽尼長老。</p>
 <lb ed="N" n="0109a09"/><p xml:id="pN28p0109a0901">一四七</p><lg xml:id="lgN28p0109a0901" type="abnormal" rend="margin-left:3em;text-indent:-1em"><l>「如於大海上，乘小木筏沉，若依懈怠人，生活善亦沉，懈怠乏精進，此行
 <lb ed="N" n="0109a10"/>應避免。</l></lg>
 <lb ed="N" n="0109a11"/><p xml:id="pN28p0109a1101">一四八</p><lg xml:id="lgN28p0109a1101" type="abnormal" rend="margin-left:3em"><l>聖者遠世間，專心禪思者，常精進發奮，與賢者共住。」</l></lg>

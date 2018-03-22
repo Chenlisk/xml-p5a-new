@@ -158,7 +158,7 @@ Added comment  for Emacs
 <lb n="0747b19" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">大唐新翻密嚴經序</cb:mulu><head><note n="0747002" resp="Taisho" type="orig" place="foot text">〔大唐新翻〕－【明】</note><note n="0747002" resp="CBETA" type="mod">大唐新翻【大】，〔－〕【明】</note><app n="0747002"><lem wit="【大】">大唐新翻</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>密嚴經<note n="0747003" resp="Taisho" type="orig" place="foot text">序＋次行（御製）【宋】【元】，（唐代宗皇帝製）【明】</note><note n="0747003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->序＋次行（御製）【宋】【元】，（唐代宗皇帝製）【明】</note>序</head>
 <lb n="0747b20" ed="T"/>
 <lb n="0747b21" ed="T"/><p xml:id="pT16p0747b2101">朕聞西方有<note n="0747004" resp="Taisho" type="orig" place="foot text">（大）＋聖人【三】</note><note n="0747004" resp="CBETA" type="mod">聖人【大】，大聖人【宋】【元】【明】</note><app n="0747004"><lem wit="【大】">聖人</lem><rdg resp="Taisho" wit="【宋】【元】【明】">大聖人</rdg></app>焉，演不言之言、垂無教之
-<lb n="0747b22" ed="T"/>教，啟迪權實、發<note n="0747b2201" resp="CBETA" type="add">披【大】【磧砂-CB】，柀【麗-CB】</note><app n="0747b2201"><lem wit="【大】">披</lem><rdg resp="CBETA.maha" wit="【磧-CB】">披<note type="cf1">Q34_p0552a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">柀<note type="cf1">K37n1344_p0112b03</note></rdg></app>聾瞽，遷其善者不疾而速，
+<lb n="0747b22" ed="T"/>教，啟迪權實、發<note n="0747b2201" resp="CBETA" type="add">披【大】【磧-CB】，柀【麗-CB】</note><app n="0747b2201"><lem wit="【大】">披</lem><rdg resp="CBETA.maha" wit="【磧-CB】">披<note type="cf1">Q34_p0552a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">柀<note type="cf1">K37n1344_p0112b03</note></rdg></app>聾瞽，遷其善者不疾而速，
 <lb n="0747b23" ed="T"/>階其益者即聖自凡，擊蒙求<note n="0747005" resp="Taisho" type="orig" place="foot text">以＝於【宋】【元】，于【明】</note><note n="0747005" resp="CBETA" type="mod">以【大】，於【宋】【元】，于【明】</note><app n="0747005"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】">於</rdg><rdg resp="Taisho" wit="【明】">于</rdg></app>娑婆丘陵，示
 <lb n="0747b24" ed="T"/>達觀以密嚴世界。匪染淨在我，實是非<note n="0747006" resp="Taisho" type="orig" place="foot text">遊＝游【明】下同</note><note n="0747006" resp="CBETA" type="mod">遊【大】下同，游【明】下同</note><app n="0747006"><lem wit="【大】">遊</lem><rdg resp="Taisho" wit="【明】">游</rdg></app>，而
 <lb n="0747b25" ed="T"/>楚越生<note n="0747007" resp="Taisho" type="orig" place="foot text">於＝于【明】下同</note><note n="0747007" resp="CBETA" type="mod">於【大】下同，于【明】下同</note><app n="0747007"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【明】">于</rdg></app>念中，及缺頓於目下，彼魚藏鳥
@@ -170,11 +170,11 @@ Added comment  for Emacs
 <lb n="0747c01" ed="T"/>之境，深詣心極其唯是經。夫翻譯之來抑有
 <lb n="0747c02" ed="T"/>由矣。雖方言有異而本質須存，此經梵書並
 <lb n="0747c03" ed="T"/>是偈頌，先之譯者多作散文，蛇化為龍何必
-<lb n="0747c04" ed="T"/>變於鱗介？家成於國寧即改乎姓氏？矧訛<note n="0747c0401" resp="CBETA" type="add">略【CB】【麗-CB】【磧砂-CB】，異【大】</note><app n="0747c0401"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">略<note type="cf1">K37n1344_p0112b17</note><note type="cf2">Q34_p0552a15</note></lem><rdg wit="【大】">異</rdg></app>
+<lb n="0747c04" ed="T"/>變於鱗介？家成於國寧即改乎姓氏？矧訛<note n="0747c0401" resp="CBETA" type="add">略【CB】【麗-CB】【磧-CB】，異【大】</note><app n="0747c0401"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">略<note type="cf1">K37n1344_p0112b17</note><note type="cf2">Q34_p0552a15</note></lem><rdg wit="【大】">異</rdg></app>
 <lb n="0747c05" ed="T"/>輕重或有異同，再而詳悉可為盡善。大興善
 <lb n="0747c06" ed="T"/>寺三藏沙門不空，像教棟梁愛河舟楫，戒珠
 <lb n="0747c07" ed="T"/>在握明鏡入懷，雪涉雲征窮鹿野之真諦，帆
-<lb n="0747c08" ed="T"/>飛海宿究馬鳴之奧<note n="0747011" resp="Taisho" type="orig" place="foot text">音＝旨【三】</note><note n="0747011" resp="CBETA" type="mod">音【大】，旨【宋】【元】【明】</note><app n="0747011"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】">旨</rdg></app>，聲<note n="0747c0801" resp="CBETA" type="add">該【CB】【麗-CB】【磧砂-CB】，詠【大】</note><app n="0747c0801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">該<note type="cf1">K37n1344_p0112b21</note><note type="cf2">Q34_p0552a19</note></lem><rdg wit="【大】">詠</rdg></app>八轉言善兩方，
+<lb n="0747c08" ed="T"/>飛海宿究馬鳴之奧<note n="0747011" resp="Taisho" type="orig" place="foot text">音＝旨【三】</note><note n="0747011" resp="CBETA" type="mod">音【大】，旨【宋】【元】【明】</note><app n="0747011"><lem wit="【大】">音</lem><rdg resp="Taisho" wit="【宋】【元】【明】">旨</rdg></app>，聲<note n="0747c0801" resp="CBETA" type="add">該【CB】【麗-CB】【磧-CB】，詠【大】</note><app n="0747c0801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">該<note type="cf1">K37n1344_p0112b21</note><note type="cf2">Q34_p0552a19</note></lem><rdg wit="【大】">詠</rdg></app>八轉言善兩方，
 <lb n="0747c09" ed="T"/><note n="0747012" resp="Taisho" type="orig" place="foot text">之＝足【三】</note><note n="0747012" resp="CBETA" type="mod">之【大】，足【宋】【元】【明】</note><app n="0747012"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【宋】【元】【明】">足</rdg></app>可窺鑑闕如、抑揚了義。詔令集京城義學
 <lb n="0747c10" ed="T"/>沙門飛錫<note n="0747013" resp="Taisho" type="orig" place="foot text">〔等〕－【三】</note><note n="0747013" resp="CBETA" type="mod">等【大】，〔－〕【宋】【元】【明】</note><app n="0747013"><lem wit="【大】">等</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>、翰林學士柳抗等，詳譯斯文及
 <lb n="0747c11" ed="T"/>護國經等，對執貝多翻諸簡<note n="0747014" resp="Taisho" type="orig" place="foot text">牘＝櫝【明】</note><note n="0747014" resp="CBETA" type="mod">牘【大】，櫝【明】</note><app n="0747014"><lem wit="【大】">牘</lem><rdg resp="Taisho" wit="【明】">櫝</rdg></app>，憑其本夾依
@@ -214,7 +214,7 @@ Added comment  for Emacs
 <lb n="0748a15" ed="T"/>照之時，一切佛剎莊嚴之相分明顯現，如一
 <lb n="0748a16" ed="T"/>佛剎，餘諸佛土嚴飾細妙同於微塵。密嚴世
 <lb n="0748a17" ed="T"/>界超諸佛國，遠離星宿<note n="0748006" resp="Taisho" type="orig" place="foot text">及＋（以）【三】</note><note n="0748006" resp="CBETA" type="mod">及【大】，及以【宋】【元】【明】</note><app n="0748006"><lem wit="【大】">及</lem><rdg resp="Taisho" wit="【宋】【元】【明】">及以</rdg></app>日月，如無為性不
-<lb n="0748a18" ed="T"/>同微塵。此密嚴中佛及<note n="0748a1801" resp="CBETA" type="add">佛【CB】【麗-CB】【磧砂-CB】，弟【大】</note><app n="0748a1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">佛<note type="cf1">K37n1344_p0113a14</note><note type="cf2">Q34_p0552b21</note></lem><rdg wit="【大】">弟</rdg></app>子，并餘世界來此
+<lb n="0748a18" ed="T"/>同微塵。此密嚴中佛及<note n="0748a1801" resp="CBETA" type="add">佛【CB】【麗-CB】【磧-CB】，弟【大】</note><app n="0748a1801"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">佛<note type="cf1">K37n1344_p0113a14</note><note type="cf2">Q34_p0552b21</note></lem><rdg wit="【大】">弟</rdg></app>子，并餘世界來此
 <lb n="0748a19" ed="T"/>會者，<note n="0748a1901" resp="CBETA" type="add">皆【CB】【麗-CB】，當【大】</note><app n="0748a1901"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">皆<note type="cf1">K37n1344_p0113a15</note><note type="cf2">T16n0681_p0723c13</note></lem><rdg wit="【大】">當</rdg></app>如涅槃及以虛空非擇滅性。</p>
 <lb n="0748a20" ed="T"/><p xml:id="pT16p0748a2001">爾時世尊現彼世界佛及菩薩威神功德勝
 <lb n="0748a21" ed="T"/>妙事已，復以佛眼遍視十方諸菩薩眾，告一
@@ -403,7 +403,7 @@ Added comment  for Emacs
 <lb n="0750a24" ed="T"/><l>佛於方便智，</l><l>自在而知見，</l>
 <lb n="0750a25" ed="T"/><l>譬如工巧匠，</l><l>善守於機發，</l>
 <lb n="0750a26" ed="T"/><l>亦如海船師，</l><l>執柁而搖動。</l>
-<lb n="0750a27" ed="T"/><l>無邊最寂妙，</l><l>具<note n="0750a2701" resp="CBETA" type="add">足【大】【磧砂-CB】，定【麗-CB】</note><app n="0750a2701"><lem wit="【大】">足</lem><rdg resp="CBETA.maha" wit="【磧-CB】">足<note type="cf1">Q34_p0564a30</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">定<note type="cf1">K37n1344_p0115c17</note></rdg></app>勝丈夫，</l>
+<lb n="0750a27" ed="T"/><l>無邊最寂妙，</l><l>具<note n="0750a2701" resp="CBETA" type="add">足【大】【磧-CB】，定【麗-CB】</note><app n="0750a2701"><lem wit="【大】">足</lem><rdg resp="CBETA.maha" wit="【磧-CB】">足<note type="cf1">Q34_p0564a30</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">定<note type="cf1">K37n1344_p0115c17</note></rdg></app>勝丈夫，</l>
 <lb n="0750a28" ed="T"/><l>利根者能證，</l><l>鈍根者遠離。</l>
 <lb n="0750a29" ed="T"/><l>是修行定者，</l><l>妙定之所依，</l>
 <pb n="0750b" ed="T" xml:id="T16.0682.0750b"/>
@@ -1248,7 +1248,7 @@ Added comment  for Emacs
 <lb n="0759b28" ed="T"/><l>或於瑜祇中，</l><l>退失三摩地，</l>
 <pb n="0759c" ed="T" xml:id="T16.0682.0759c"/>
 <lb n="0759c01" ed="T"/><l>輪王之貴族，</l><l>而來生此中。</l>
-<lb n="0759c02" ed="T"/><l>如是既生已，</l><l>諸根<note n="0759c0201" resp="CBETA" type="add">遂【大】【磧砂-CB】，逐【麗-CB】</note><app n="0759c0201"><lem wit="【大】">遂</lem><rdg resp="CBETA.maha" wit="【磧-CB】">遂<note type="cf1">Q34_p0560b18</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">逐<note type="cf1">K37n1344_p0124b03</note></rdg></app>增長，</l>
+<lb n="0759c02" ed="T"/><l>如是既生已，</l><l>諸根<note n="0759c0201" resp="CBETA" type="add">遂【大】【磧-CB】，逐【麗-CB】</note><app n="0759c0201"><lem wit="【大】">遂</lem><rdg resp="CBETA.maha" wit="【磧-CB】">遂<note type="cf1">Q34_p0560b18</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">逐<note type="cf1">K37n1344_p0124b03</note></rdg></app>增長，</l>
 <lb n="0759c03" ed="T"/><l>隨親近宿習，</l><l>復造于諸業，</l>
 <lb n="0759c04" ed="T"/><l>由斯業<note n="0759010" resp="Taisho" type="orig" place="foot text">大＝力【三】</note><note n="0759010" resp="CBETA" type="mod">大【大】，力【宋】【元】【明】</note><app n="0759010"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【宋】【元】【明】">力</rdg></app>故，</l><l>輪迴諸趣中。</l>
 <lb n="0759c05" ed="T"/><l>若有諸智者，</l><l>聞法得覺悟，</l>
@@ -1349,7 +1349,7 @@ Added comment  for Emacs
 <lb n="0760c10" ed="T"/><l rend="text-indent:1em">時寶髻菩薩，</l><l>坐殊妙之座，</l>
 <lb n="0760c11" ed="T"/><l rend="text-indent:1em">向於金剛藏，</l><l>而作如是言：</l>
 <lb n="0760c12" ed="T"/><l rend="text-indent:0em">「遍諸俱胝剎，</l><l>尊者為上首，</l>
-<lb n="0760c13" ed="T"/><l rend="text-indent:1em">成就最妙<note n="0760c1301" resp="CBETA" type="add">智【大】【磧砂-CB】，音【麗-CB】</note><app n="0760c1301"><lem wit="【大】">智</lem><rdg resp="CBETA.maha" wit="【磧-CB】">智<note type="cf1">Q34_p0561a24</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">音<note type="cf1">K37n1344_p0125a23</note></rdg></app>，</l><l>了達所知法，</l>
+<lb n="0760c13" ed="T"/><l rend="text-indent:1em">成就最妙<note n="0760c1301" resp="CBETA" type="add">智【大】【磧-CB】，音【麗-CB】</note><app n="0760c1301"><lem wit="【大】">智</lem><rdg resp="CBETA.maha" wit="【磧-CB】">智<note type="cf1">Q34_p0561a24</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">音<note type="cf1">K37n1344_p0125a23</note></rdg></app>，</l><l>了達所知法，</l>
 <lb n="0760c14" ed="T"/><l rend="text-indent:1em">於無量悉檀，</l><l>皆已得明見。</l>
 <lb n="0760c15" ed="T"/><l rend="text-indent:1em">今在修行眾，</l><l>能淨於彼疑，</l>
 <lb n="0760c16" ed="T"/><l rend="text-indent:1em">覺察有情身，</l><l>一切之本起，</l>
@@ -1457,7 +1457,7 @@ Added comment  for Emacs
 <lb n="0761c28" ed="T"/><l rend="text-indent:1em">摩羅耶乳海，</l><l>頻陀<note n="0761013" resp="Taisho" type="orig" place="foot text">婆＝媻【明】＊</note><note n="0761013" resp="CBETA" type="mod">婆【大】＊，媻【明】＊</note><app n="0761013"><lem wit="【大】">婆</lem><rdg resp="Taisho" wit="【明】">媻</rdg></app>利師，</l>
 <lb n="0761c29" ed="T"/><l rend="text-indent:1em">摩醯因陀羅，</l><l>雞羅雪山等，</l>
 <pb n="0762a" ed="T" xml:id="T16.0682.0762a"/>
-<lb n="0762a01" ed="T"/><l rend="text-indent:1em">或止圓生樹，</l><l>或住<note n="0762a0101" resp="CBETA" type="add">嬌【大】【磧砂-CB】，憍【麗-CB】</note><app n="0762a0101"><lem wit="【大】">嬌</lem><rdg resp="CBETA.maha" wit="【磧-CB】">嬌<note type="cf1">Q34_p0562a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">憍<note type="cf1">K37n1344_p0126b01</note></rdg></app>微那，</l>
+<lb n="0762a01" ed="T"/><l rend="text-indent:1em">或止圓生樹，</l><l>或住<note n="0762a0101" resp="CBETA" type="add">嬌【大】【磧-CB】，憍【麗-CB】</note><app n="0762a0101"><lem wit="【大】">嬌</lem><rdg resp="CBETA.maha" wit="【磧-CB】">嬌<note type="cf1">Q34_p0562a04</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">憍<note type="cf1">K37n1344_p0126b01</note></rdg></app>微那，</l>
 <lb n="0762a02" ed="T"/><l rend="text-indent:1em">處須彌半腹，</l><l>或憩如意樹，</l>
 <lb n="0762a03" ed="T"/><l rend="text-indent:1em">絆住劍摩羅，</l><l>於中而宴默，</l>
 <lb n="0762a04" ed="T"/><l rend="text-indent:1em">或食贍部果，</l><l>及飲甘露味，</l>
@@ -2021,7 +2021,7 @@ Added comment  for Emacs
 <lb n="0768a29" ed="T"/><l rend="text-indent:1em">世間種種物，</l><l>應知亦復然。</l>
 <pb n="0768b" ed="T" xml:id="T16.0682.0768b"/>
 <lb n="0768b01" ed="T"/><l rend="text-indent:1em">日月等宮殿，</l><l>諸山及寶山，</l>
-<lb n="0768b02" ed="T"/><l rend="text-indent:1em">煙雲<note n="0768b0201" resp="CBETA" type="add">相【大】【磧砂-CB】，於【麗-CB】</note><app n="0768b0201"><lem wit="【大】">相</lem><rdg resp="CBETA.maha" wit="【磧-CB】">相<note type="cf1">Q34_p0566b06</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">於<note type="cf1">K37n1344_p0131c17</note></rdg></app>擊觸，</l><l>未嘗有雜亂，</l>
+<lb n="0768b02" ed="T"/><l rend="text-indent:1em">煙雲<note n="0768b0201" resp="CBETA" type="add">相【大】【磧-CB】，於【麗-CB】</note><app n="0768b0201"><lem wit="【大】">相</lem><rdg resp="CBETA.maha" wit="【磧-CB】">相<note type="cf1">Q34_p0566b06</note></rdg><rdg resp="CBETA.maha" wit="【麗-CB】">於<note type="cf1">K37n1344_p0131c17</note></rdg></app>擊觸，</l><l>未嘗有雜亂，</l>
 <lb n="0768b03" ed="T"/><l rend="text-indent:1em">無共無自<note n="0768008" resp="Taisho" type="orig" place="foot text">性＝他【三】</note><note n="0768008" resp="CBETA" type="mod">性【大】，他【宋】【元】【明】</note><app n="0768008"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【宋】【元】【明】">他</rdg></app>，</l><l>體性皆非有，</l>
 <lb n="0768b04" ed="T"/><l rend="text-indent:1em">但是所分別，</l><l>遍計之自性。</l>
 <lb n="0768b05" ed="T"/><l rend="text-indent:1em">諸物非因生，</l><l>亦非無有因，</l>
@@ -2106,7 +2106,7 @@ Added comment  for Emacs
 <lb n="0769a24" ed="T"/><l rend="text-indent:1em">而生似色識，</l><l>如幻住眼中，</l>
 <lb n="0769a25" ed="T"/><l rend="text-indent:1em">飄動猶熱焰，</l><l>色皆是藏識，</l>
 <lb n="0769a26" ed="T"/><l rend="text-indent:1em">與色習相應，</l><l>變似體非有。</l>
-<lb n="0769a27" ed="T"/><l rend="text-indent:1em">愚夫妄分別，</l><l>諸<note n="0769a2701" resp="CBETA" type="add">惛【CB】【麗-CB】【磧砂-CB】，昏【大】</note><app n="0769a2701"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">惛<note type="cf1">K37n1344_p0132c04</note><note type="cf2">Q34_p0567a02</note></lem><rdg wit="【大】">昏</rdg></app>醉放逸，</l>
+<lb n="0769a27" ed="T"/><l rend="text-indent:1em">愚夫妄分別，</l><l>諸<note n="0769a2701" resp="CBETA" type="add">惛【CB】【麗-CB】【磧-CB】，昏【大】</note><app n="0769a2701"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">惛<note type="cf1">K37n1344_p0132c04</note><note type="cf2">Q34_p0567a02</note></lem><rdg wit="【大】">昏</rdg></app>醉放逸，</l>
 <lb n="0769a28" ed="T"/><l rend="text-indent:1em">坐臥及狂走，</l><l>頓起諸事業，</l>
 <lb n="0769a29" ed="T"/><l rend="text-indent:1em">皆是賴耶識。</l><l>猶如盛赫日，</l>
 <pb n="0769b" ed="T" xml:id="T16.0682.0769b"/>
@@ -2222,7 +2222,7 @@ Added comment  for Emacs
 <lb n="0770b20" ed="T"/><l rend="text-indent:1em">藏識以為因，</l><l>從是生餘識。</l>
 <lb n="0770b21" ed="T"/><l rend="text-indent:1em">意意識所緣，</l><l>無間而流轉，</l>
 <lb n="0770b22" ed="T"/><l rend="text-indent:1em">五識復更待，</l><l>增上緣而生，</l>
-<lb n="0770b23" ed="T"/><l rend="text-indent:1em">同<note n="0770b2301" resp="CBETA" type="add">時【CB】【麗-CB】【磧砂-CB】，事【大】</note><app n="0770b2301"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">時<note type="cf1">K37n1344_p0133c10</note><note type="cf2">Q34_p0567c16</note></lem><rdg wit="【大】">事</rdg></app>自根事，</l><l>是為增上故。</l>
+<lb n="0770b23" ed="T"/><l rend="text-indent:1em">同<note n="0770b2301" resp="CBETA" type="add">時【CB】【麗-CB】【磧-CB】，事【大】</note><app n="0770b2301"><lem wit="【CB】【麗-CB】【磧-CB】" resp="CBETA.maha">時<note type="cf1">K37n1344_p0133c10</note><note type="cf2">Q34_p0567c16</note></lem><rdg wit="【大】">事</rdg></app>自根事，</l><l>是為增上故。</l>
 <lb n="0770b24" ed="T"/><l rend="text-indent:1em">是身如起屍，</l><l>亦如熱時焰，</l>
 <lb n="0770b25" ed="T"/><l rend="text-indent:1em">隨行因緣轉，</l><l>非妄亦非實，</l>
 <lb n="0770b26" ed="T"/><l rend="text-indent:1em">為<note n="0770003" resp="Taisho" type="orig" place="foot text">受＝愛【三】</note><note n="0770003" resp="CBETA" type="mod">受【大】，愛【宋】【元】【明】</note><app n="0770003"><lem wit="【大】">受</lem><rdg resp="Taisho" wit="【宋】【元】【明】">愛</rdg></app>之所牽，</l><l>性空無有我。</l>

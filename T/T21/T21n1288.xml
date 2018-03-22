@@ -129,7 +129,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0358a08" ed="T"/>
 <lb n="0358a09" ed="T"/><cb:docNumber>No. 1288</cb:docNumber>
-<lb n="0358a10" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0358001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><note n="0358001" resp="CBETA" type="mod">【原】麗本</note><cb:jhead>佛說最上祕密那拏天經卷上</cb:jhead></cb:juan>
+<lb n="0358a10" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><note n="0358001" resp="Taisho" place="foot text" type="orig">【原】麗本</note><cb:jhead>佛說最上祕密那拏天經卷上</cb:jhead></cb:juan>
 <lb n="0358a11" ed="T"/>
 <lb n="0358a12" ed="T"/><byline cb:type="Translator">西天譯經三藏朝<note n="0358002" resp="Taisho" place="foot text" type="orig">奉＝散【三】</note><note n="0358002" resp="CBETA" type="mod">奉【大】，散【宋】【元】【明】</note><app n="0358002"><lem wit="【大】">奉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">散</rdg></app>大夫試光祿卿
 <lb n="0358a13" ed="T"/>明教大師臣法賢奉　詔譯</byline>

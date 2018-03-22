@@ -199,7 +199,7 @@ Added comment  for Emacs
 <lb n="0975a19" ed="T"/><item xml:id="itemT51p0975a1901">九　唐常愍歷遊天竺記逸文</item></list>
 <lb n="0975a20" ed="T"/>
 <lb n="0975a21" ed="T"/>
-<lb n="0975a22" ed="T"/><cb:mulu level="1" type="其他">1 徃五天竺國傳</cb:mulu><head><note n="0975003" resp="Taisho" place="foot text" type="orig">【原】燉煌遺書第一卷</note><note n="0975003" resp="CBETA" type="mod">【原】燉煌遺書第一卷</note>徃五天竺國傳</head>
+<lb n="0975a22" ed="T"/><cb:mulu level="1" type="其他">1 徃五天竺國傳</cb:mulu><head><note n="0975003" resp="Taisho" place="foot text" type="orig">【原】燉煌遺書第一卷</note>徃五天竺國傳</head>
 <lb n="0975a23" ed="T"/>
 <lb n="0975a24" ed="T"/><p xml:id="pT51p0975a2401"><note place="inline">上缺</note>寶赤足裸形外道不著<note place="inline">下缺</note>。</p>
 <lb n="0975a25" ed="T"/><p xml:id="pT51p0975a2501"><note n="0975004" resp="Taisho" place="foot text" type="orig">辶＝遇？</note><note n="0975004" resp="CBETA" type="mod">辶【大】，遇【考偽-大】</note><app n="0975004"><lem resp="Taisho" wit="【大】">辶</lem><rdg resp="Taisho" wit="【大】" type="correctionRemark">遇</rdg></app>食即喫亦不齋也。地皆平<note place="inline">下缺</note>。</p>
@@ -591,7 +591,7 @@ Added comment  for Emacs
 <lb n="0979b21" ed="T"/><p xml:id="pT51p0979b2101">慧超往五天竺國傳</p></cb:div>
 <lb n="0979b22" ed="T"/>
 <lb n="0979b23" ed="T"/>
-<lb n="0979b24" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">2 悟空入竺記</cb:mulu><head><note n="0979010" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】東寺觀智院金剛藏本</note><note n="0979010" resp="CBETA" type="mod">【原】麗本，【甲】東寺觀智院金剛藏本</note>悟空入竺記<note place="inline">大唐貞元新譯十地等經記圓照撰（十力經序）</note></head>
+<lb n="0979b24" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">2 悟空入竺記</cb:mulu><head><note n="0979010" resp="Taisho" place="foot text" type="orig">【原】麗本，【甲】東寺觀智院金剛藏本</note>悟空入竺記<note place="inline">大唐貞元新譯十地等經記圓照撰（十力經序）</note></head>
 <lb n="0979b25" ed="T"/>
 <lb n="0979b26" ed="T"/><p xml:id="pT51p0979b2601">新譯十地經及迴向輪經十力經等者。即上
 <lb n="0979b27" ed="T"/>都章敬寺沙門悟空本名法界。因使罽賓。於
@@ -773,7 +773,7 @@ Added comment  for Emacs
 <lb n="0981b23" ed="T"/>才願詳其志也。</p></cb:div>
 <lb n="0981b24" ed="T"/>
 <lb n="0981b25" ed="T"/>
-<lb n="0981b26" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">3 繼業西域行程</cb:mulu><head><note n="0981009" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note><note n="0981009" resp="CBETA" type="mod">【原】大日本佛教全書</note>繼業西域行程<note place="inline">宋范成大撰吳船錄卷上峨眉山牛心寺記</note></head>
+<lb n="0981b26" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">3 繼業西域行程</cb:mulu><head><note n="0981009" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note>繼業西域行程<note place="inline">宋范成大撰吳船錄卷上峨眉山牛心寺記</note></head>
 <lb n="0981b27" ed="T"/>
 <lb n="0981b28" ed="T"/><p xml:id="pT51p0981b2801">秋七月戊戌朔。離黑水。復過白水寺前。渡雙
 <lb n="0981b29" ed="T"/>溪橋。入牛心寺。雨後斷路。白雲峽水方漲。碧
@@ -875,7 +875,7 @@ Added comment  for Emacs
 <lb n="0982c05" ed="T"/>縣中。</p></cb:div>
 <lb n="0982c06" ed="T"/>
 <lb n="0982c07" ed="T"/>
-<lb n="0982c08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">4 梵僧指空禪師傳考</cb:mulu><head><note n="0982005" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note><note n="0982005" resp="CBETA" type="mod">【原】大日本佛教全書</note>梵僧指空禪師傳考</head>
+<lb n="0982c08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">4 梵僧指空禪師傳考</cb:mulu><head><note n="0982005" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note>梵僧指空禪師傳考</head>
 <lb n="0982c09" ed="T"/>
 <lb n="0982c10" ed="T"/><list>
 <item xml:id="itemT51p0982c1001">（一）指空浮圖銘并序</item><item xml:id="itemT51p0982c1009">李穡撰</item>
@@ -1157,7 +1157,7 @@ Added comment  for Emacs
 <lb n="0985c16" ed="T"/>
 <lb n="0985c17" ed="T"/>
 <lb n="0985c18" ed="T"/>
-<lb n="0985c19" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">5 西域僧鎖喃嚷結傳</cb:mulu><head><note n="0985001" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note><note n="0985001" resp="CBETA" type="mod">【原】大日本佛教全書</note>西域僧鎖喃嚷結傳<note place="inline">古秀竹籟李日華著六研齋筆記卷二</note></head>
+<lb n="0985c19" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">5 西域僧鎖喃嚷結傳</cb:mulu><head><note n="0985001" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note>西域僧鎖喃嚷結傳<note place="inline">古秀竹籟李日華著六研齋筆記卷二</note></head>
 <lb n="0985c20" ed="T"/>
 <lb n="0985c21" ed="T"/><p xml:id="pT51p0985c2101">天啟甲子九月九日。同曹愚公侍御。登真如
 <lb n="0985c22" ed="T"/>塔。下禮長水師墓。浴雪井水。遇梵僧鎖喃嚷
@@ -1275,7 +1275,7 @@ Added comment  for Emacs
 <lb n="0987a14" ed="T"/>述大都如此。</p></cb:div>
 <lb n="0987a15" ed="T"/>
 <lb n="0987a16" ed="T"/>
-<lb n="0987a17" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">6 南天竺婆羅門僧正碑</cb:mulu><head><note n="0987002" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note><note n="0987002" resp="CBETA" type="mod">【原】大日本佛教全書</note>南天竺婆羅門僧正碑</head>
+<lb n="0987a17" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">6 南天竺婆羅門僧正碑</cb:mulu><head><note n="0987002" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書</note>南天竺婆羅門僧正碑</head>
 <lb n="0987a18" ed="T"/>
 <lb n="0987a19" ed="T"/><p xml:id="pT51p0987a1901">南天竺婆羅門僧正碑<note place="inline">竝序</note></p>
 <lb n="0987a20" ed="T"/><p xml:id="pT51p0987a2001">夫佛日西沈。遺風東扇。十地開士。住菩提而
@@ -1360,7 +1360,7 @@ Added comment  for Emacs
 <lb n="0988a09" ed="T"/><p xml:id="pT51p0988a0901">故婆羅門僧正入室弟子傳燈住位僧修榮</p></cb:div>
 <lb n="0988a10" ed="T"/>
 <lb n="0988a11" ed="T"/>
-<lb n="0988a12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">7 唐大和上東征傳</cb:mulu><head><note n="0988001" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書，【甲】南北朝時代寫，和田維四郎藏本，【乙】高貴寺本，【丙】唐招提寺本，【丁】群書類從本，【戊】戒壇院本，【己】北川智海氏藏本</note><note n="0988001" resp="CBETA" type="mod">【原】大日本佛教全書，【甲】南北朝時代寫，和田維四郎藏本，【乙】高貴寺本，【丙】唐招提寺本，【丁】群書類從本，【戊】戒壇院本，【己】北川智海氏藏本</note>唐大和上東征傳</head>
+<lb n="0988a12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">7 唐大和上東征傳</cb:mulu><head><note n="0988001" resp="Taisho" place="foot text" type="orig">【原】大日本佛教全書，【甲】南北朝時代寫，和田維四郎藏本，【乙】高貴寺本，【丙】唐招提寺本，【丁】群書類從本，【戊】戒壇院本，【己】北川智海氏藏本</note>唐大和上東征傳</head>
 <lb n="0988a13" ed="T"/>
 <lb n="0988a14" ed="T"/><byline cb:type="author">真人元開撰</byline>
 <lb n="0988a15" ed="T"/><p xml:id="pT51p0988a1501">大和尚諱鑑真。揚州江陽縣人也。俗姓淳于。

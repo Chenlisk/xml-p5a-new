@@ -162,7 +162,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0359a17" ed="T"/>
 <lb n="0359a18" ed="T"/><cb:docNumber>No. 1708 [cf. No. 245]</cb:docNumber>
-<lb n="0359a19" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">上本</cb:mulu><cb:jhead><note n="0359001" resp="Taisho" place="foot text" type="orig">【原】大谷大學藏本，【甲】平安時代寫寶壽院藏本</note><note n="0359001" resp="CBETA" type="mod">【原】大谷大學藏本，【甲】平安時代寫寶壽院藏本</note>仁王經疏上卷<note place="inline">本</note></cb:jhead></cb:juan>
+<lb n="0359a19" ed="T"/><cb:juan n="001a" fun="open"><cb:mulu n="1a" type="卷">上本</cb:mulu><cb:jhead><note n="0359001" resp="Taisho" place="foot text" type="orig">【原】大谷大學藏本，【甲】平安時代寫寶壽院藏本</note>仁王經疏上卷<note place="inline">本</note></cb:jhead></cb:juan>
 <lb n="0359a20" ed="T"/>
 <lb n="0359a21" ed="T"/><byline cb:type="author">西明寺圓測法師撰</byline>
 <lb n="0359a22" ed="T"/><cb:div type="pin"><cb:mulu level="1" type="品">1 序品</cb:mulu><head><title>佛說仁王護國般若波羅蜜經</title>序品第一</head>

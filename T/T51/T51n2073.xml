@@ -202,7 +202,7 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="0153a07" ed="T"/>
 <lb n="0153a08" ed="T"/><cb:docNumber>No. 2073</cb:docNumber>
-<lb n="0153a09" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0153001" resp="Taisho" place="foot text" type="orig">【原】建治元年寫東大寺藏本，【甲】正德元年刊大谷大學藏本</note><note n="0153001" resp="CBETA" type="mod">【原】建治元年寫東大寺藏本，【甲】正德元年刊大谷大學藏本</note>華嚴經傳記卷第一</cb:jhead></cb:juan>
+<lb n="0153a09" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"/><cb:jhead><note n="0153001" resp="Taisho" place="foot text" type="orig">【原】建治元年寫東大寺藏本，【甲】正德元年刊大谷大學藏本</note>華嚴經傳記卷第一</cb:jhead></cb:juan>
 <lb n="0153a10" ed="T"/>
 <lb n="0153a11" ed="T"/><byline cb:type="Collector">京兆崇福寺僧沙門法藏<note n="0153002" resp="Taisho" place="foot text" type="orig">集＝述【甲】</note><note n="0153002" resp="CBETA" type="mod">集【大】，述【甲】</note><app n="0153002"><lem wit="【大】">集</lem><rdg resp="Taisho" wit="【甲】">述</rdg></app></byline>
 <lb n="0153a12" ed="T"/><cb:div type="other">
