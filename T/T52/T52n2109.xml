@@ -923,7 +923,7 @@ Added comment  for Emacs
 <lb n="0483a16" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="2" type="卷"/><cb:jhead>破邪論卷下</cb:jhead></cb:juan>
 <lb n="0483a17" ed="T"/>
 <lb n="0483a18" ed="T"/><byline cb:type="author">唐濟法寺沙門釋法琳撰</byline>
-<lb n="0483a19" ed="T"/><p xml:id="pT52p0483a1901"><anchor type="circle"/><note n="0483004" resp="Taisho" place="foot text" type="orig">不分卷【三】【宮】，（一）＋答【三】【宮】＊</note><note n="0483004" resp="CBETA" type="mod"><!--CBETA todo type: i--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，（一）＋答【宋】【元】【明】【宮】＊</note><app n="0483004"><lem wit="【大】">答</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一答</rdg></app>秦仲已下三十五世六百餘年者。對曰。
+<lb n="0483a19" ed="T"/><p xml:id="pT52p0483a1901"><anchor type="circle"/><note n="0483004" resp="Taisho" place="foot text" type="orig">不分卷【三】【宮】，（一）＋答【三】【宮】＊</note><note n="0483004" resp="CBETA" type="mod"><!--CBETA todo type: i-->答【大】＊，一答【宋】【元】【明】【宮】＊，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><app n="0483004"><lem wit="【大】">答</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一答</rdg></app>秦仲已下三十五世六百餘年者。對曰。
 <lb n="0483a20" ed="T"/>史記云。自殷已前。諸侯不可得而譜。為多失
 <lb n="0483a21" ed="T"/>次等年代難知。故尚書但以甲子為次第而
 <lb n="0483a22" ed="T"/>無年月者。良<note n="0483005" resp="Taisho" place="foot text" type="orig">以＝為【三】【宮】</note><note n="0483005" resp="CBETA" type="mod">以【大】，為【宋】【元】【明】【宮】</note><app n="0483005"><lem wit="【大】">以</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">為</rdg></app>史闕不記也。邪見。乃<note n="0483006" resp="Taisho" place="foot text" type="orig">云＝始【三】【宮】</note><note n="0483006" resp="CBETA" type="mod">云【大】，始【宋】【元】【明】【宮】</note><app n="0483006"><lem wit="【大】">云</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">始</rdg></app>於

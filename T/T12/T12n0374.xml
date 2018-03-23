@@ -1984,7 +1984,7 @@ add cvs log
 <lb n="0384c23" ed="T"/>是金剛、不可壞身，菩薩應當如是善學，正見
 <lb n="0384c24" ed="T"/>正知。若能如是了了知見，即是見佛金剛之
 <lb n="0384c25" ed="T"/>身、不可壞身，如於鏡中見諸色像。」<note n="0384009" resp="Taisho" type="orig" place="foot text">卷第三終【宋】</note><note n="0384009" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第三終【宋】</note></p></cb:div>
-<lb n="0384c26" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="3" type="品">3 名字功德品</cb:mulu><head><anchor type="circle"/><note n="0384010" resp="Taisho" type="orig" place="foot text">卷第四首【宋】，〔大…經〕－【明】</note><note n="0384010" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第四首【宋】，〔大…經〕－【明】</note><title>大般涅槃經</title>名字功德品第三</head>
+<lb n="0384c26" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="3" type="品">3 名字功德品</cb:mulu><head><anchor type="circle"/><note n="0384010" resp="Taisho" type="orig" place="foot text">卷第四首【宋】，〔大…經〕－【明】</note><note n="0384010" resp="CBETA" type="mod"><!--CBETA todo type: a-->大…經【大】，〔－〕【明】，<!--CBETA todo type: newmod-->卷第四首【宋】</note><title>大般涅槃經</title>名字功德品第三</head>
 <lb n="0384c27" ed="T"/><p xml:id="pT12p0384c2701">爾時如來復告迦葉：「善男子！汝今應當善持
 <lb n="0384c28" ed="T"/>是經文字、章句、所有功德。若有善男子、善女
 <lb n="0384c29" ed="T"/>人，聞是經名，生四趣者，無有是處。何以故？
@@ -2023,7 +2023,7 @@ add cvs log
 <lb n="0385b02" ed="T"/>佛言：「甚奇，世尊！如來功德不可思議，法僧
 <lb n="0385b03" ed="T"/>亦爾不可思議，是大涅槃亦不可思議。若有
 <lb n="0385b04" ed="T"/>修學是經典者，得正法門，能為良醫。若未學
-<lb n="0385b05" ed="T"/>者，當知是人，盲無慧眼，無明所覆。」<note n="0385003" resp="Taisho" type="orig" place="foot text">不分卷【宋】，（大般涅槃經）＋如【宋】【元】</note><note n="0385003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】，（大般涅槃經）＋如【宋】【元】</note><anchor type="circle"/></p></cb:div>
+<lb n="0385b05" ed="T"/>者，當知是人，盲無慧眼，無明所覆。」<note n="0385003" resp="Taisho" type="orig" place="foot text">不分卷【宋】，（大般涅槃經）＋如【宋】【元】</note><note n="0385003" resp="CBETA" type="mod"><!--CBETA todo type: a-->如【大】，大般涅槃經如【宋】【元】，<!--CBETA todo type: newmod-->不分卷【宋】</note><anchor type="circle"/></p></cb:div>
 <lb n="0385b06" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title>大般涅槃經</title>卷第三</cb:jhead></cb:juan>
 <lb n="0385b07" ed="T"/>
 <milestone n="4" unit="juan"/>
@@ -17729,7 +17729,7 @@ add cvs log
 <lb n="0560b06" ed="T"/><cb:juan n="033" fun="open"><cb:mulu n="033" type="卷"/><cb:jhead><title>大般涅槃經</title>卷第三十三</cb:jhead></cb:juan>
 <lb n="0560b07" ed="T"/>
 <lb n="0560b08" ed="T"/><byline cb:type="Translator">北涼天竺三藏曇無讖<anchor xml:id="fxT12p0560b01"/>譯</byline>
-<lb n="0560b09" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="12" type="品">12 迦葉菩薩品</cb:mulu><cb:mulu level="2">1</cb:mulu><head><anchor type="circle"/><note n="0560007" resp="Taisho" type="orig" place="foot text">不分卷【三】，（大般涅槃經）＋迦葉【宮】</note><note n="0560007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】，（大般涅槃經）＋迦葉【宮】</note>迦葉菩薩品第十二之一</head>
+<lb n="0560b09" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="12" type="品">12 迦葉菩薩品</cb:mulu><cb:mulu level="2">1</cb:mulu><head><anchor type="circle"/><note n="0560007" resp="Taisho" type="orig" place="foot text">不分卷【三】，（大般涅槃經）＋迦葉【宮】</note><note n="0560007" resp="CBETA" type="mod"><!--CBETA todo type: a-->迦葉【大】，大般涅槃經迦葉【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】</note>迦葉菩薩品第十二之一</head>
 <lb n="0560b10" ed="T"/><p xml:id="pT12p0560b1001">迦葉菩薩白佛言：「世尊！如來憐愍一切眾生，
 <lb n="0560b11" ed="T"/>不調能調，不淨能淨，無歸依者能作歸依，未
 <lb n="0560b12" ed="T"/>解脫者能令解脫，得八自在，為大醫師，作大
@@ -18463,7 +18463,7 @@ add cvs log
 <lb n="0568b19" ed="T"/>之人，成齋不耶？』我言：『比丘！是人得善，不名得
 <lb n="0568b20" ed="T"/>齋。』我諸弟子聞是說已，不解我意，唱言如來
 <lb n="0568b21" ed="T"/>說八戒齋具受乃得。<note n="0568004" resp="Taisho" type="orig" place="foot text">卷第三十四終【宮】</note><note n="0568004" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第三十四終【宮】</note><anchor type="circle"/></p>
-<lb n="0568b22" ed="T"/><p xml:id="pT12p0568b2201">「<anchor type="circle"/><note n="0568005" resp="Taisho" type="orig" place="foot text">卷第三十五首【宮】，（迦葉菩薩品第十二之三）＋善【宮】</note><note n="0568005" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第三十五首【宮】，（迦葉菩薩品第十二之三）＋善【宮】</note>善男子！我於經中作如是說：『若有比丘犯
+<lb n="0568b22" ed="T"/><p xml:id="pT12p0568b2201">「<anchor type="circle"/><note n="0568005" resp="Taisho" type="orig" place="foot text">卷第三十五首【宮】，（迦葉菩薩品第十二之三）＋善【宮】</note><note n="0568005" resp="CBETA" type="mod"><!--CBETA todo type: a-->善【大】，迦葉菩薩品第十二之三善【宮】，<!--CBETA todo type: newmod-->卷第三十五首【宮】</note>善男子！我於經中作如是說：『若有比丘犯
 <lb n="0568b23" ed="T"/>四重已，不名比丘，名破比丘、亡失比丘，不復
 <lb n="0568b24" ed="T"/>能生善<note n="0568006" resp="Taisho" type="orig" place="foot text">牙＝芽【元】【明】</note><note n="0568006" resp="CBETA" type="mod">牙【大】，芽【元】【明】</note><app n="0568006"><lem wit="【大】">牙</lem><rdg resp="Taisho" wit="【元】【明】">芽</rdg></app>種子。譬如焦種不生果實，如多羅
 <lb n="0568b25" ed="T"/>樹，頭若斷壞，則不生果。犯重比丘亦復如是。』
@@ -20450,7 +20450,7 @@ add cvs log
 <lb n="0590b22" ed="T"/><l>唯有諸佛能讚佛，</l><l>除佛無能讚歎者，</l>
 <lb n="0590b23" ed="T"/><l>我今唯以一法讚，</l><l>所謂慈心遊世間。</l>
 <lb n="0590b24" ed="T"/><l>如來慈是大法聚，</l><l>是慈亦能度眾生，</l>
-<lb n="0590b25" ed="T"/><l>即是無上真解脫，</l><l>解脫即是大涅槃。」<note n="0590010" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，（大般涅槃經）＋憍【宋】【元】【宮】</note><note n="0590010" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，（大般涅槃經）＋憍【宋】【元】【宮】</note><anchor type="circle"/></l></lg></cb:div>
+<lb n="0590b25" ed="T"/><l>即是無上真解脫，</l><l>解脫即是大涅槃。」<note n="0590010" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，（大般涅槃經）＋憍【宋】【元】【宮】</note><note n="0590010" resp="CBETA" type="mod"><!--CBETA todo type: a-->憍【大】，大般涅槃經憍【宋】【元】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></l></lg></cb:div>
 <lb n="0590b26" ed="T"/><cb:juan n="038" fun="close"><cb:jhead><title>大般涅槃經</title>卷第三十八</cb:jhead></cb:juan>
 <pb n="0590c" xml:id="T12.0374.0590c" ed="T"/>
 <lb n="0590c01" ed="T"/>

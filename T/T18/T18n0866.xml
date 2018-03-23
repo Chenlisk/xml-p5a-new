@@ -860,7 +860,7 @@ Added comment  for Emacs
 <lb n="0231b06" ed="T"/>二</cb:jhead></cb:juan>
 <lb n="0231b07" ed="T"/>
 <lb n="0231b08" ed="T"/><byline cb:type="Translator">大唐南印度三藏金剛智譯</byline>
-<lb n="0231b09" ed="T"/><p xml:id="pT18p0231b0901"><anchor type="circle"/><note n="0231006" resp="Taisho" place="foot text" type="orig">不分卷【元】【明】【丙】【丁】，（此是蓮華部金剛眼大菩薩三摩耶一切如來觀察智第一）＋爾【宋】【宮】【甲】【乙】</note><note n="0231006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】【丙】【丁】，（此是蓮華部金剛眼大菩薩三摩耶一切如來觀察智第一）＋爾【宋】【宮】【甲】【乙】</note>爾時世尊。復入文殊師利摩訶菩提薩埵
+<lb n="0231b09" ed="T"/><p xml:id="pT18p0231b0901"><anchor type="circle"/><note n="0231006" resp="Taisho" place="foot text" type="orig">不分卷【元】【明】【丙】【丁】，（此是蓮華部金剛眼大菩薩三摩耶一切如來觀察智第一）＋爾【宋】【宮】【甲】【乙】</note><note n="0231006" resp="CBETA" type="mod"><!--CBETA todo type: a-->爾【大】，此是蓮華部金剛眼大菩薩三摩耶一切如來觀察智第一爾【宋】【宮】【甲】【乙】，<!--CBETA todo type: newmod-->不分卷【元】【明】【丙】【丁】</note>爾時世尊。復入文殊師利摩訶菩提薩埵
 <lb n="0231b10" ed="T"/>三摩<note n="0231007" resp="Taisho" place="foot text" type="orig">耶＝地【甲】</note><note n="0231007" resp="CBETA" type="mod">耶【大】，地【甲】</note><app n="0231007"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">地</rdg></app>。所生法加持金剛三摩地已。從自心
 <lb n="0231b11" ed="T"/>出此一切如來大智慧三摩耶。名一切如來
 <lb n="0231b12" ed="T"/>心。即說密語。</p>

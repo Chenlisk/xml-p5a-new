@@ -2401,7 +2401,7 @@ Added comment  for Emacs
 <lb n="0514b07" ed="T"/>夜徹清梵朝楊。韻合魚山響符龍木。靈異之
 <lb n="0514b08" ed="T"/>所栖託。定慧之所依憑。了義息心於是乎在。</p>
 <lb n="0514b09" ed="T"/><note n="0514017" resp="Taisho" place="foot text" type="orig">卷第四終【明】</note><note n="0514017" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第四終【明】</note><anchor type="circle"/>
-<lb n="0514b10" ed="T"/><p xml:id="pT52p0514b1001"><anchor type="circle"/><note n="0514018" resp="Taisho" place="foot text" type="orig">卷第五十代奉佛篇第二下首【明】，魏＋（光氏）【宋】，（元氏）【元】【明】</note><note n="0514018" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第五十代奉佛篇第二下首【明】，魏＋（光氏）【宋】，（元氏）【元】【明】</note>魏大丞相渤海王</p>
+<lb n="0514b10" ed="T"/><p xml:id="pT52p0514b1001"><anchor type="circle"/><note n="0514018" resp="Taisho" place="foot text" type="orig">卷第五十代奉佛篇第二下首【明】，魏＋（光氏）【宋】，（元氏）【元】【明】</note><note n="0514018" resp="CBETA" type="mod"><!--CBETA todo type: a-->魏【大】，魏光氏【宋】，<!--CBETA todo type: newmod-->魏元氏【元】【明】，<!--CBETA todo type: newmod-->卷第五十代奉佛篇第二下首【明】</note>魏大丞相渤海王</p>
 <lb n="0514b11" ed="T"/><p xml:id="pT52p0514b1101">神氣精靈。天姿秀異。德備文武。藝兼禮樂。
 <lb n="0514b12" ed="T"/>珪璋社稷之器。廊廟柱石之才。實有王佐之
 <lb n="0514b13" ed="T"/>風。咸稱靜亂之託。至於歸心服道。獨超名輩。
@@ -3484,7 +3484,7 @@ Added comment  for Emacs
 <lb n="0526c05" ed="T"/>於天女。禽獸猶有母。子而知親。況聃喜行道
 <lb n="0526c06" ed="T"/>於天下。斬其父母何名孝<note n="0526019" resp="Taisho" place="foot text" type="orig">乎＝也【三】</note><note n="0526019" resp="CBETA" type="mod">乎【大】，也【宋】【元】【明】</note><app n="0526019"><lem wit="【大】">乎</lem><rdg resp="Taisho" wit="【宋】【元】【明】">也</rdg></app>。戮其妻子豈謂
 <lb n="0526c07" ed="T"/>慈乎<anchor type="circle"/><note n="0526020" resp="Taisho" place="foot text" type="orig">卷第五終【宋】【元】，第六終【明】，撰號同異如前卷</note><note n="0526020" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第五終【宋】【元】，第六終【明】，撰號同異如前卷</note>。</p>
-<lb n="0526c08" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">內十喻　答外十異</cb:mulu><head><note n="0526021" resp="Taisho" place="foot text" type="orig">卷第六首【宋】【元】，卷第七首【明】，（十喻篇第五之餘）＋內【三】，餘字次宋本有內九箴篇第六六字</note><note n="0526021" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第六首【宋】【元】，卷第七首【明】，（十喻篇第五之餘）＋內【宋】【元】【明】，餘字次宋本有內九箴篇第六六字</note><anchor type="circle"/>內十喻　答外十異</head>
+<lb n="0526c08" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">內十喻　答外十異</cb:mulu><head><note n="0526021" resp="Taisho" place="foot text" type="orig">卷第六首【宋】【元】，卷第七首【明】，（十喻篇第五之餘）＋內【三】，餘字次宋本有內九箴篇第六六字</note><note n="0526021" resp="CBETA" type="mod"><!--CBETA todo type: a-->內【大】，十喻篇第五之餘內【宋】【元】【明】，<!--CBETA todo type: newmod-->卷第六首【宋】【元】，卷第七首【明】，餘字次宋本有內九箴篇第六六字</note><anchor type="circle"/>內十喻　答外十異</head>
 <lb n="0526c09" ed="T"/><list><item xml:id="itemT52p0526c0901"><note n="0526022" resp="Taisho" place="foot text" type="orig">〔內〕－【明】</note><note n="0526022" resp="CBETA" type="mod">內【大】，〔－〕【明】</note><app n="0526022"><lem wit="【大】">內</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>從生有勝劣<note n="0526023" resp="Taisho" place="foot text" type="orig">記數明本在目錄頭下准之</note><note n="0526023" resp="CBETA" type="mod"><!--CBETA todo type: a-->記數明本在目錄頭下准之</note>一</item><item xml:id="itemT52p0526c0908">立教有淺深二</item>
 <lb n="0526c10" ed="T"/><item xml:id="itemT52p0526c1001">德位有高卑三</item><item xml:id="itemT52p0526c1007">化緣有廣狹四</item>
 <lb n="0526c11" ed="T"/><item xml:id="itemT52p0526c1101">壽夭有延促五</item><item xml:id="itemT52p0526c1107">化迹有先後六</item>

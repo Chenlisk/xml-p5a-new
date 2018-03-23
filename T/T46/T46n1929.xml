@@ -875,7 +875,7 @@ Added comment  for Emacs
 <pb n="0729a" xml:id="T46.1929.0729a" ed="T"/>
 <lb n="0729a01" ed="T"/>實諦者。即是不生不生。不生不生不可說故。
 <lb n="0729a02" ed="T"/>是故淨名<note n="0729001" resp="Taisho" place="foot text" type="orig">〔居士〕－【甲】</note><note n="0729001" resp="CBETA" type="mod">居士【大】，〔－〕【甲】</note><app n="0729001"><lem wit="【大】">居士</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>默然杜口。文殊稱歎意在於
-<lb n="0729a03" ed="T"/>此也。<note n="0729002" resp="Taisho" place="foot text" type="orig">不分卷【甲】，也＋（第一卷竟）【甲】</note><note n="0729002" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【甲】，也＋（第一卷竟）【甲】</note><anchor type="circle"/></p>
+<lb n="0729a03" ed="T"/>此也。<note n="0729002" resp="Taisho" place="foot text" type="orig">不分卷【甲】，也＋（第一卷竟）【甲】</note><note n="0729002" resp="CBETA" type="mod"><!--CBETA todo type: a-->也【大】，也第一卷竟【甲】，<!--CBETA todo type: newmod-->不分卷【甲】</note><anchor type="circle"/></p>
 <lb n="0729a04" ed="T"/><cb:juan n="002" fun="close"><cb:jhead>四教義卷第二</cb:jhead></cb:juan>
 <lb n="0729a05" ed="T"/>
 <milestone n="3" unit="juan"/>
@@ -883,7 +883,7 @@ Added comment  for Emacs
 <lb n="0729a07" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="3" type="卷"/><cb:jhead>四教義卷第三</cb:jhead></cb:juan>
 <lb n="0729a08" ed="T"/>
 <lb n="0729a09" ed="T"/><byline cb:type="author"><anchor xml:id="fxT46p0729a01"/>天台山修禪寺<anchor xml:id="fxT46p0729a02"/>智顗禪師撰</byline>
-<lb n="0729a10" ed="T"/><p xml:id="pT46p0729a1001"><note n="0729003" resp="Taisho" place="foot text" type="orig">〔大門〕－【甲】</note><note n="0729003" resp="CBETA" type="mod">大門【大】，〔－〕【甲】</note><app n="0729003"><lem wit="【大】">大門</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><anchor type="circle"/><note n="0729004" resp="Taisho" place="foot text" type="orig">不分卷【甲】，也＋（第一卷竟）【甲】</note><note n="0729004" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【甲】，也＋（第一卷竟）【甲】</note>第三明四門入理者。尋真性實相之
+<lb n="0729a10" ed="T"/><p xml:id="pT46p0729a1001"><note n="0729003" resp="Taisho" place="foot text" type="orig">〔大門〕－【甲】</note><note n="0729003" resp="CBETA" type="mod">大門【大】，〔－〕【甲】</note><app n="0729003"><lem wit="【大】">大門</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app><anchor type="circle"/><note n="0729004" resp="Taisho" place="foot text" type="orig">不分卷【甲】，也＋（第一卷竟）【甲】</note><note n="0729004" resp="CBETA" type="mod"><!--CBETA todo type: a-->也【大】，也第一卷竟【甲】，<!--CBETA todo type: newmod-->不分卷【甲】</note>第三明四門入理者。尋真性實相之
 <lb n="0729a11" ed="T"/>理。幽微<note n="0729005" resp="Taisho" place="foot text" type="orig">妙絕＝絕妙【乙】</note><note n="0729005" resp="CBETA" type="mod">妙絕【大】，絕妙【乙】</note><app n="0729005"><lem wit="【大】">妙絕</lem><rdg resp="Taisho" wit="【乙】">絕妙</rdg></app>。一切世間。莫<note n="0729006" resp="Taisho" place="foot text" type="orig">不＝之【甲】【乙】</note><note n="0729006" resp="CBETA" type="mod">不【大】，之【甲】【乙】</note><app n="0729006"><lem wit="【大】">不</lem><rdg resp="Taisho" wit="【甲】【乙】">之</rdg></app>能契。但以大
 <lb n="0729a12" ed="T"/>聖明鑒通理之門。乃於無言之理赴<note n="0729007" resp="Taisho" place="foot text" type="orig">緣＋（起教）【甲】【乙】</note><note n="0729007" resp="CBETA" type="mod">緣【大】，緣起教【甲】【乙】</note><app n="0729007"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【甲】【乙】">緣起教</rdg></app>以教
 <lb n="0729a13" ed="T"/>為門。是以稟教之徒因門契理。故法華<anchor xml:id="fxT46p0729a03"/>經

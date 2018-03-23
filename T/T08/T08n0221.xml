@@ -710,7 +710,7 @@ add cvs log
 <lb n="0007b04" ed="T"/>中住。菩薩如是住者，為處大慈大悲，無嫉
 <lb n="0007b05" ed="T"/>慢意、無亂怠意、無恚恨意、無起惡意，不起惡
 <lb n="0007b06" ed="T"/>智意也。」</p></cb:div>
-<lb n="0007b07" ed="T"/><note n="0007006" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0007006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><cb:juan n="001" fun="close"><cb:jhead><title>放光般若經</title>卷第一</cb:jhead></cb:juan>
+<lb n="0007b07" ed="T"/><note n="0007006" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0007006" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><cb:juan n="001" fun="close"><cb:jhead><title>放光般若經</title>卷第一</cb:jhead></cb:juan>
 <lb n="0007b08" ed="T"/>
 <milestone n="2" unit="juan"/>
 <lb n="0007b09" ed="T"/>
@@ -2080,7 +2080,7 @@ add cvs log
 <lb n="0022b24" ed="T"/>是，邠耨！菩薩摩訶薩於無縛無脫六波羅蜜，
 <lb n="0022b25" ed="T"/>於諸法得逮覺，無際寂靜無所生故。邠耨！當
 <lb n="0022b26" ed="T"/>知是為菩薩摩訶薩無縛無脫之僧那僧涅。」</p></cb:div>
-<lb n="0022b27" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0022003" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0022003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note>放光般若波羅蜜經</title>卷第三</cb:jhead></cb:juan>
+<lb n="0022b27" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0022003" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0022003" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note>放光般若波羅蜜經</title>卷第三</cb:jhead></cb:juan>
 <pb n="0022c" ed="T" xml:id="T08.0221.0022c"/>
 <lb n="0022c01" ed="T"/>
 <milestone n="4" unit="juan"/>
@@ -2904,7 +2904,7 @@ add cvs log
 <lb n="0031c07" ed="T"/>眾生於無餘泥洹界而般泥洹；以眾生非物，
 <lb n="0031c08" ed="T"/>無所有故，是以如來<note n="0031006" resp="Taisho" type="orig" place="foot text">為＝而【三】</note><note n="0031006" resp="CBETA" type="mod">為【大】，而【宋】【元】【明】</note><app n="0031006"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【宋】【元】【明】">而</rdg></app>轉法輪令得泥洹，當
 <lb n="0031c09" ed="T"/>來者亦當復般泥洹。」<note n="0031007" resp="Taisho" type="orig" place="foot text">卷第六終【三】【宮】</note><note n="0031007" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第六終【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
-<lb n="0031c10" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="24" type="品">24 衍與空等品</cb:mulu><head><title><anchor type="circle"/><note n="0031008" resp="Taisho" type="orig" place="foot text">卷第七首【三】【宮】，〔摩訶…蜜〕－【三】【宮】</note><note n="0031008" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第七首【宋】【元】【明】【宮】，〔摩訶…蜜〕－【宋】【元】【明】【宮】</note>摩訶般若波羅蜜</title>衍與空等品第二十四</head>
+<lb n="0031c10" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="24" type="品">24 衍與空等品</cb:mulu><head><title><anchor type="circle"/><note n="0031008" resp="Taisho" type="orig" place="foot text">卷第七首【三】【宮】，〔摩訶…蜜〕－【三】【宮】</note><note n="0031008" resp="CBETA" type="mod"><!--CBETA todo type: a-->摩訶…蜜【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->卷第七首【宋】【元】【明】【宮】</note>摩訶般若波羅蜜</title>衍與空等品第二十四</head>
 <lb n="0031c11" ed="T"/><p xml:id="pT08p0031c1101">佛告須菩提：「如汝所言，衍與空等。如是，如
 <lb n="0031c12" ed="T"/>是！實與空等。譬如虛空，亦不可知東、亦不知
 <lb n="0031c13" ed="T"/>西、亦不知南、亦不知北、亦不知四維上下。須
@@ -3278,7 +3278,7 @@ add cvs log
 <lb n="0035c21" ed="T"/>識。內空外空至有無空，及三十七品佛十八
 <lb n="0035c22" ed="T"/>法，亦如是。世尊！是為滅，非若干也。從識至
 <lb n="0035c23" ed="T"/>薩云若亦如是，是為行般若波羅蜜。」<note n="0035004" resp="Taisho" type="orig" place="foot text">卷第七終【三】【宮】</note><note n="0035004" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第七終【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
-<lb n="0035c24" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="27" type="品">27 問觀品</cb:mulu><head><title><anchor type="circle"/><note n="0035005" resp="Taisho" type="orig" place="foot text">卷第八首【三】【宮】【聖】，〔摩訶…蜜〕－【三】【宮】</note><note n="0035005" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第八首【宋】【元】【明】【宮】【聖】，〔摩訶…蜜〕－【宋】【元】【明】【宮】</note>摩訶般若波羅<note n="0035006" resp="Taisho" type="orig" place="foot text">蜜＋（放光經）【聖】</note><note n="0035006" resp="CBETA" type="mod">蜜【大】，蜜放光經【聖】</note><app n="0035006"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【聖】">蜜放光經</rdg></app></title>問觀品第二十七</head>
+<lb n="0035c24" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="27" type="品">27 問觀品</cb:mulu><head><title><anchor type="circle"/><note n="0035005" resp="Taisho" type="orig" place="foot text">卷第八首【三】【宮】【聖】，〔摩訶…蜜〕－【三】【宮】</note><note n="0035005" resp="CBETA" type="mod"><!--CBETA todo type: a-->摩訶…蜜【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->卷第八首【宋】【元】【明】【宮】【聖】</note>摩訶般若波羅<note n="0035006" resp="Taisho" type="orig" place="foot text">蜜＋（放光經）【聖】</note><note n="0035006" resp="CBETA" type="mod">蜜【大】，蜜放光經【聖】</note><app n="0035006"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【聖】">蜜放光經</rdg></app></title>問觀品第二十七</head>
 <lb n="0035c25" ed="T"/><p xml:id="pT08p0035c2501">舍利弗問須菩提言：「菩薩摩訶薩云何行般
 <lb n="0035c26" ed="T"/>若波羅蜜而觀諸法？何等為菩薩？何等為般
 <lb n="0035c27" ed="T"/>若波羅蜜？何等為觀？」</p><p xml:id="pT08p0035c2709" rend="inline">尊者須菩提語舍利弗
@@ -3476,7 +3476,7 @@ add cvs log
 <lb n="0038a10" ed="T"/>復如是。」</p><p xml:id="pT08p0038a1004" rend="inline">須菩提說是般若波羅蜜時，十二
 <lb n="0038a11" ed="T"/>那術億天及人、阿須倫，皆得<note n="0038002" resp="Taisho" type="orig" place="foot text">無所＝所無【宮】</note><note n="0038002" resp="CBETA" type="mod">無所【大】，所無【宮】</note><app n="0038002"><lem wit="【大】">無所</lem><rdg resp="Taisho" wit="【宮】">所無</rdg></app>從生法忍。
 <lb n="0038a12" ed="T"/>十方諸佛說般若波羅蜜時，不可計阿僧祇
-<lb n="0038a13" ed="T"/>眾生皆發無上正真道意。<note n="0038003" resp="Taisho" type="orig" place="foot text">不分卷於此品【三】【宮】【聖】，〔放光…詔譯〕－【宋】【元】【宮】【聖】，〔放光…蜜〕二十九字－【明】</note><note n="0038003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷於此品【宋】【元】【明】【宮】【聖】，〔放光…詔譯〕－【宋】【元】【宮】【聖】，〔放光…蜜〕二十九字－【明】</note><anchor type="circle"/></p></cb:div>
+<lb n="0038a13" ed="T"/>眾生皆發無上正真道意。<note n="0038003" resp="Taisho" type="orig" place="foot text">不分卷於此品【三】【宮】【聖】，〔放光…詔譯〕－【宋】【元】【宮】【聖】，〔放光…蜜〕二十九字－【明】</note><note n="0038003" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…詔譯【大】，〔－〕【宋】【元】【宮】【聖】，<!--CBETA todo type: newmod-->不分卷於此品【宋】【元】【明】【宮】【聖】，〔放光…蜜〕二十九字－【明】</note><anchor type="circle"/></p></cb:div>
 <lb n="0038a14" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title>放光般若波羅蜜經</title>卷第五</cb:jhead></cb:juan>
 <lb n="0038a15" ed="T"/>
 <milestone n="6" unit="juan"/>
@@ -3737,7 +3737,7 @@ add cvs log
 <lb n="0041a01" ed="T"/>說一切世間最妙之辯亦無所倚。從有無空
 <lb n="0041a02" ed="T"/>至菩薩，<note n="0041001" resp="Taisho" type="orig" place="foot text">護＝獲【三】</note><note n="0041001" resp="CBETA" type="mod">護【大】，獲【宋】【元】【明】</note><app n="0041001"><lem wit="【大】">護</lem><rdg resp="Taisho" wit="【宋】【元】【明】">獲</rdg></app>一切世間最第一之辯而無所倚
 <lb n="0041a03" ed="T"/>也。」<note n="0041002" resp="Taisho" type="orig" place="foot text">卷第八終【三】【宮】＋（光明皇后願文）【聖】</note><note n="0041002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第八終【宋】【元】【明】【宮】【大】，卷第八終【宋】【元】【明】【宮】光明皇后願文【聖】</note><anchor type="circle"/></p></cb:div>
-<lb n="0041a04" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="30" type="品">30 雨法雨品</cb:mulu><head><title><anchor type="circle"/><note n="0041003" resp="Taisho" type="orig" place="foot text">卷第九首【三】【宮】，〔摩訶…蜜〕－【三】【宮】</note><note n="0041003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第九首【宋】【元】【明】【宮】，〔摩訶…蜜〕－【宋】【元】【明】【宮】</note>摩訶般若波羅蜜</title>雨法雨品第三十</head>
+<lb n="0041a04" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="30" type="品">30 雨法雨品</cb:mulu><head><title><anchor type="circle"/><note n="0041003" resp="Taisho" type="orig" place="foot text">卷第九首【三】【宮】，〔摩訶…蜜〕－【三】【宮】</note><note n="0041003" resp="CBETA" type="mod"><!--CBETA todo type: a-->摩訶…蜜【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->卷第九首【宋】【元】【明】【宮】</note>摩訶般若波羅蜜</title>雨法雨品第三十</head>
 <lb n="0041a05" ed="T"/><p xml:id="pT08p0041a0501">於是釋提桓因意念言：「尊者須菩提所說法，
 <lb n="0041a06" ed="T"/>為雨法雨。」</p><p xml:id="pT08p0041a0605" rend="inline">三千大千剎土，從四天王上至阿
 <lb n="0041a07" ed="T"/>迦膩吒天，各各念言：「今須菩提所說法雨，我
@@ -6181,7 +6181,7 @@ add cvs log
 <lb n="0068a14" ed="T"/>羅蜜有是教者，如是為大清淨教。般若波羅
 <lb n="0068a15" ed="T"/>蜜教，亦無說者、亦無受者、亦無取證者。若無
 <lb n="0068a16" ed="T"/>說、無受、無證，如是為無般泥洹者。若無般泥
-<lb n="0068a17" ed="T"/>洹者，於是教法中亦為無有尊祐福田。」<note n="0068001" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0068001" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
+<lb n="0068a17" ed="T"/>洹者，於是教法中亦為無有尊祐福田。」<note n="0068001" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0068001" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0068a18" ed="T"/><cb:juan n="009" fun="close"><cb:jhead><title>放光般若波羅蜜經</title>卷第九</cb:jhead></cb:juan>
 <lb n="0068a19" ed="T"/>
 <milestone n="10" unit="juan"/>
@@ -7372,7 +7372,7 @@ add cvs log
 <lb n="0081b04" ed="T"/>羅蜜所持，為漚惒拘舍羅所持，出生薩云若，
 <lb n="0081b05" ed="T"/>不墮羅漢、辟支佛道。須菩提！菩薩作如是行
 <lb n="0081b06" ed="T"/>者，為不墮羅漢、辟支佛道，為六波羅蜜所持，
-<lb n="0081b07" ed="T"/>為漚惒拘舍羅所持，為薩云若之所護。」<note n="0081002" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0081002" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
+<lb n="0081b07" ed="T"/>為漚惒拘舍羅所持，為薩云若之所護。」<note n="0081002" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0081002" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0081b08" ed="T"/><cb:juan n="011" fun="close"><cb:jhead><title>放光般若經</title>卷第十一</cb:jhead></cb:juan>
 <lb n="0081b09" ed="T"/>
 <milestone n="12" unit="juan"/>
@@ -8530,7 +8530,7 @@ add cvs log
 <lb n="0094a20" ed="T"/>竭羅初始發意。」</p><p xml:id="pT08p0094a2007" rend="inline">阿難白佛言：「世尊！是女人
 <lb n="0094a21" ed="T"/>以辦阿耨多羅三耶三菩。」</p><p xml:id="pT08p0094a2111" rend="inline">佛告阿難：「如是，如
 <lb n="0094a22" ed="T"/>是！是弟以為成辦阿耨多羅三耶三菩阿惟
-<lb n="0094a23" ed="T"/>三佛。」<note n="0094003" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0094003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
+<lb n="0094a23" ed="T"/>三佛。」<note n="0094003" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0094003" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0094a24" ed="T"/><cb:juan n="013" fun="close"><cb:jhead><note n="0094a2401" resp="CBETA" type="add">［－］【CB】，[＊]【大】</note><app n="0094a2401"><lem wit="【CB】" resp="CBETA"><space quantity="0"/></lem><rdg wit="【大】">[＊]</rdg></app><title>放光般若經</title>卷第十三</cb:jhead></cb:juan>
 <pb n="0094b" ed="T" xml:id="T08.0221.0094b"/>
 <lb n="0094b01" ed="T"/>
@@ -9843,7 +9843,7 @@ add cvs log
 <lb n="0108c23" ed="T"/>九次第禪，悉能逆順入諸三昧。於師子奮迅
 <lb n="0108c24" ed="T"/>三昧起，便入<note n="0108019" resp="Taisho" type="orig" place="foot text">滿法＝蒲佉【元】【明】，滿佉【聖】</note><note n="0108019" resp="CBETA" type="mod">滿法【大】，蒲佉【元】【明】，滿佉【聖】</note><app n="0108019"><lem wit="【大】">滿法</lem><rdg resp="Taisho" wit="【元】【明】">蒲佉</rdg><rdg resp="Taisho" wit="【聖】">滿佉</rdg></app>闍<note n="0108020" resp="Taisho" type="orig" place="foot text">〔丹本佉闇〕－【三】【宮】【聖】</note><note n="0108020" resp="CBETA" type="mod">丹本佉闇【大】，〔－〕【宋】【元】【明】【宮】【聖】</note><app n="0108020"><lem wit="【大】"><note place="inline">丹本佉闇</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】"><space quantity="0"/></rdg></app>三昧，逮諸法等。須
 <lb n="0108c25" ed="T"/>菩提！是為菩薩摩訶薩<note n="0108021" resp="Taisho" type="orig" place="foot text">〔住〕－【宮】</note><note n="0108021" resp="CBETA" type="mod">住【大】，〔－〕【宮】</note><app n="0108021"><lem wit="【大】">住</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app>於般若波羅蜜攝
-<lb n="0108c26" ed="T"/>取禪波羅蜜。」<note n="0108022" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】【聖】，〔放光…譯〕－【三】【宮】【聖】</note><note n="0108022" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】【聖】，〔放光…譯〕－【宋】【元】【明】【宮】【聖】</note><anchor type="circle"/></p></cb:div>
+<lb n="0108c26" ed="T"/>取禪波羅蜜。」<note n="0108022" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】【聖】，〔放光…譯〕－【三】【宮】【聖】</note><note n="0108022" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】【聖】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】【聖】</note><anchor type="circle"/></p></cb:div>
 <lb n="0108c27" ed="T"/><cb:juan n="015" fun="close"><cb:jhead><title>放光般若經</title>卷第十五</cb:jhead></cb:juan>
 <pb n="0109a" ed="T" xml:id="T08.0221.0109a"/>
 <lb n="0109a01" ed="T"/>
@@ -10136,7 +10136,7 @@ add cvs log
 <lb n="0112a17" ed="T"/>義，亦善於解，善斷於三惡處。」</p><p xml:id="pT08p0112a1712" rend="inline">佛告須菩提：「是
 <lb n="0112a18" ed="T"/>為菩薩摩訶薩行般若波羅蜜，念般若波羅
 <lb n="0112a19" ed="T"/>蜜，入般若波羅蜜之德。」<anchor type="circle"/><note n="0112005" resp="Taisho" type="orig" place="foot text">卷第二十三終【三】【宮】【聖】</note><note n="0112005" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第二十三終【宋】【元】【明】【宮】【聖】</note></p>
-<lb n="0112a20" ed="T"/><p xml:id="pT08p0112a2001"><anchor type="circle"/><note n="0112006" resp="Taisho" type="orig" place="foot text">卷第二十四首【三】【宮】【聖】，（漚惒品第七十之餘）＋須【三】【宮】，（漚惒品之二）【聖】</note><note n="0112006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第二十四首【宋】【元】【明】【宮】【聖】，（漚惒品第七十之餘）＋須【宋】【元】【明】【宮】，（漚惒品之二）【聖】</note>須菩提白佛言：「世尊！云何為行般若波羅
+<lb n="0112a20" ed="T"/><p xml:id="pT08p0112a2001"><anchor type="circle"/><note n="0112006" resp="Taisho" type="orig" place="foot text">卷第二十四首【三】【宮】【聖】，（漚惒品第七十之餘）＋須【三】【宮】，（漚惒品之二）【聖】</note><note n="0112006" resp="CBETA" type="mod"><!--CBETA todo type: a-->須【大】，漚惒品第七十之餘須【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->漚惒品之二須【聖】，<!--CBETA todo type: newmod-->卷第二十四首【宋】【元】【明】【宮】【聖】</note>須菩提白佛言：「世尊！云何為行般若波羅
 <lb n="0112a21" ed="T"/>蜜？云何念？云何入？」</p><p xml:id="pT08p0112a2108" rend="inline">佛言：「當知五陰有常無
 <lb n="0112a22" ed="T"/>常、有堅固無堅固、有真無真，當作是知，是為
 <lb n="0112a23" ed="T"/>行般若波羅蜜。入般若波羅蜜，當如入空觀。
@@ -11343,7 +11343,7 @@ add cvs log
 <lb n="0125b21" ed="T"/>薩善於無所有者，則能具足道慧，教授眾生、
 <lb n="0125b22" ed="T"/>攝取佛國，成阿耨多羅三耶三菩，降諸眾生，
 <lb n="0125b23" ed="T"/>不見於三界。須菩提！菩薩摩訶薩當作是行
-<lb n="0125b24" ed="T"/>般若波羅蜜，應無所有。」<note n="0125005" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0125005" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
+<lb n="0125b24" ed="T"/>般若波羅蜜，應無所有。」<note n="0125005" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0125005" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0125b25" ed="T"/><cb:juan n="017" fun="close"><note n="0125b2501" resp="CBETA" type="add">［－］【CB】，[＊]【大】</note><app n="0125b2501"><lem wit="【CB】" resp="CBETA.Li-Juan"><space quantity="0"/></lem><rdg wit="【大】">[＊]</rdg></app><cb:jhead><title>放光般若經</title>卷第十七</cb:jhead></cb:juan>
 <pb n="0125c" ed="T" xml:id="T08.0221.0125c"/>
 <lb n="0125c01" ed="T"/>
@@ -11538,7 +11538,7 @@ add cvs log
 <lb n="0127c09" ed="T"/>眾生說法？」</p><p xml:id="pT08p0127c0905" rend="inline">須菩提言：「世尊！將無菩薩以無
 <lb n="0127c10" ed="T"/>端緒之事，勸助眾生，令離四顛倒，住於四諦
 <lb n="0127c11" ed="T"/>耶？行般若波羅蜜菩薩尚不可得見，何況
-<lb n="0127c12" ed="T"/>行三十七品事！」<note n="0127002" resp="Taisho" type="orig" place="foot text">卷第二十六終【三】【宮】【聖】</note><note n="0127002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第二十六終【宋】【元】【明】【宮】【聖】</note></p><p xml:id="pT08p0127c1207" rend="inline"><anchor type="circle"/><note n="0127003" resp="Taisho" type="orig" place="foot text">卷第二十七首【三】【宮】【聖】，（住二空品七十八之餘）＋佛【三】【宮】</note><note n="0127003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第二十七首【宋】【元】【明】【宮】【聖】，（住二空品七十八之餘）＋佛【宋】【元】【明】【宮】</note>佛告須菩提：「如是，如是！如
+<lb n="0127c12" ed="T"/>行三十七品事！」<note n="0127002" resp="Taisho" type="orig" place="foot text">卷第二十六終【三】【宮】【聖】</note><note n="0127002" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷第二十六終【宋】【元】【明】【宮】【聖】</note></p><p xml:id="pT08p0127c1207" rend="inline"><anchor type="circle"/><note n="0127003" resp="Taisho" type="orig" place="foot text">卷第二十七首【三】【宮】【聖】，（住二空品七十八之餘）＋佛【三】【宮】</note><note n="0127003" resp="CBETA" type="mod"><!--CBETA todo type: a-->佛【大】，住二空品七十八之餘佛【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->卷第二十七首【宋】【元】【明】【宮】【聖】</note>佛告須菩提：「如是，如是！如
 <lb n="0127c13" ed="T"/>汝所言，眾生不可得，當知內外空及有無空，
 <lb n="0127c14" ed="T"/>當知五陰空、性空、衰空，當知四諦、十二因緣
 <lb n="0127c15" ed="T"/>空，當知吾我空及知見空，當知四禪空、四等
@@ -12448,7 +12448,7 @@ add cvs log
 <lb n="0137c18" ed="T"/>為亂意者說禪定事，為惡智者說智慧法，婬
 <lb n="0137c19" ed="T"/>者為說欲之不淨，有邪見者指示正道令住
 <lb n="0137c20" ed="T"/>三乘，為說法言：『諸仁者所入者，皆無所有
-<lb n="0137c21" ed="T"/>空無之法，亦不可入，空無所入。』<note n="0137007" resp="Taisho" type="orig" place="foot text">卷第二十八終【宮】【聖】，＋（光明皇后願文）【聖】</note><note n="0137007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第二十八終【宮】【聖】，＋（光明皇后願文）【聖】</note><anchor type="circle"/></p><p xml:id="pT08p0137c2113" rend="inline">「<anchor type="circle"/><note n="0137008" resp="Taisho" type="orig" place="foot text">卷第二十九首，（畢竟品第八十三之餘）＋須【宮】【聖】</note><note n="0137008" resp="CBETA" type="mod"><!--CBETA todo type: a-->須【大】，畢竟品第八十三之餘須【宮】【聖】，卷第二十九首</note>須菩提！菩
+<lb n="0137c21" ed="T"/>空無之法，亦不可入，空無所入。』<note n="0137007" resp="Taisho" type="orig" place="foot text">卷第二十八終【宮】【聖】，＋（光明皇后願文）【聖】</note><note n="0137007" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔－〕【大】，光明皇后願文【聖】，<!--CBETA todo type: newmod-->卷第二十八終【宮】【聖】</note><anchor type="circle"/></p><p xml:id="pT08p0137c2113" rend="inline">「<anchor type="circle"/><note n="0137008" resp="Taisho" type="orig" place="foot text">卷第二十九首，（畢竟品第八十三之餘）＋須【宮】【聖】</note><note n="0137008" resp="CBETA" type="mod"><!--CBETA todo type: a-->須【大】，畢竟品第八十三之餘須【宮】【聖】，卷第二十九首</note>須菩提！菩
 <lb n="0137c22" ed="T"/>薩行般若波羅蜜住於神通，為眾生作善本。
 <lb n="0137c23" ed="T"/>菩薩不住神通，不能為眾生說法。譬如眾鳥，
 <lb n="0137c24" ed="T"/>無有翅者，不能高翔。菩薩如是，不住神通者，
@@ -12627,7 +12627,7 @@ add cvs log
 <lb n="0139c17" ed="T"/>「不也，無有著斷。」</p><p xml:id="pT08p0139c1707" rend="inline">佛言：「假令無著斷者是為
 <lb n="0139c18" ed="T"/>無有著斷。何以故？眾生但住於吾我便有著
 <lb n="0139c19" ed="T"/>斷。審見諦者不著不斷，眾生所見不審諦故
-<lb n="0139c20" ed="T"/>便有著斷。」<note n="0139007" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0139007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】，〔放光…譯〕－【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
+<lb n="0139c20" ed="T"/>便有著斷。」<note n="0139007" resp="Taisho" type="orig" place="foot text">不分卷【三】【宮】，〔放光…譯〕－【三】【宮】</note><note n="0139007" resp="CBETA" type="mod"><!--CBETA todo type: a-->放光…譯【大】，〔－〕【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->不分卷【宋】【元】【明】【宮】</note><anchor type="circle"/></p></cb:div>
 <lb n="0139c21" ed="T"/><cb:juan n="019" fun="close"><cb:jhead><title>放光般若經</title>卷第十九</cb:jhead></cb:juan>
 <lb n="0139c22" ed="T"/>
 <milestone n="20" unit="juan"/>
@@ -12890,8 +12890,8 @@ add cvs log
 <lb n="0142c09" ed="T"/>般若波羅蜜時亦如汝。今<note n="0142023" resp="Taisho" type="orig" place="foot text">往＝住【宋】【元】【宮】</note><note n="0142023" resp="CBETA" type="mod">往【大】，住【宋】【元】【宮】</note><app n="0142023"><lem wit="【大】">往</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">住</rdg></app>，善男子！晝夜莫
 <lb n="0142c10" ed="T"/>斷於念，得聞般若波羅蜜不久。』</p><p xml:id="pT08p0142c1013" rend="inline">「爾時，薩陀波
 <lb n="0142c11" ed="T"/><note n="0142024" resp="Taisho" type="orig" place="foot text">倫＝崘【明】</note><note n="0142024" resp="CBETA" type="mod">倫【大】，崘【明】</note><app n="0142024"><lem wit="【大】">倫</lem><rdg resp="Taisho" wit="【明】">崘</rdg></app>聞是語已，踊躍歡喜言：『我何時當得見法
-<lb n="0142c12" ed="T"/>師，從受聞般若波羅蜜！』」<note n="0142025" resp="Taisho" type="orig" place="foot text">卷第二十九終【三】【宮】【聖】，＋（光明皇后願文）【聖】</note><note n="0142025" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第二十九終【宋】【元】【明】【宮】【聖】，＋（光明皇后願文）【聖】</note><anchor type="circle"/></p>
-<lb n="0142c13" ed="T"/><p xml:id="pT08p0142c1301"><anchor type="circle"/><note n="0142026" resp="Taisho" type="orig" place="foot text">卷第三十首【三】【宮】，（薩陀波倫品第八十八之餘）＋佛【三】【宮】</note><note n="0142026" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第三十首【宋】【元】【明】【宮】，（薩陀波倫品第八十八之餘）＋佛【宋】【元】【明】【宮】</note>佛告須菩提：「譬如有人被重毒箭無有餘
+<lb n="0142c12" ed="T"/>師，從受聞般若波羅蜜！』」<note n="0142025" resp="Taisho" type="orig" place="foot text">卷第二十九終【三】【宮】【聖】，＋（光明皇后願文）【聖】</note><note n="0142025" resp="CBETA" type="mod"><!--CBETA todo type: a-->〔－〕【大】，光明皇后願文【聖】，<!--CBETA todo type: newmod-->卷第二十九終【宋】【元】【明】【宮】【聖】</note><anchor type="circle"/></p>
+<lb n="0142c13" ed="T"/><p xml:id="pT08p0142c1301"><anchor type="circle"/><note n="0142026" resp="Taisho" type="orig" place="foot text">卷第三十首【三】【宮】，（薩陀波倫品第八十八之餘）＋佛【三】【宮】</note><note n="0142026" resp="CBETA" type="mod"><!--CBETA todo type: a-->佛【大】，薩陀波倫品第八十八之餘佛【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->卷第三十首【宋】【元】【明】【宮】</note>佛告須菩提：「譬如有人被重毒箭無有餘
 <lb n="0142c14" ed="T"/>念，但念言：『我何時當得良師，拔我<note n="0142027" resp="Taisho" type="orig" place="foot text">毒＝見【宮】</note><note n="0142027" resp="CBETA" type="mod">毒【大】，見【宮】</note><app n="0142027"><lem wit="【大】">毒</lem><rdg resp="Taisho" wit="【宮】">見</rdg></app>箭，令其
 <lb n="0142c15" ed="T"/><note n="0142028" resp="Taisho" type="orig" place="foot text">處＝疾【明】</note><note n="0142028" resp="CBETA" type="mod">處【大】，疾【明】</note><app n="0142028"><lem wit="【大】">處</lem><rdg resp="Taisho" wit="【明】">疾</rdg></app>愈！』薩陀波<note n="0142029" resp="Taisho" type="orig" place="foot text">倫＝崘【元】【明】下同</note><note n="0142029" resp="CBETA" type="mod">倫【大】下同，崘【元】【明】下同</note><app n="0142029"><lem wit="【大】">倫</lem><rdg resp="Taisho" wit="【元】【明】">崘</rdg></app>無復餘念，但欲得見法師
 <lb n="0142c16" ed="T"/>從聞般若波羅蜜，聞般若波羅蜜已滅諸倚

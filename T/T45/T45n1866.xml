@@ -511,7 +511,7 @@ Added comment  for Emacs
 <lb n="0481b02" ed="T"/>軫。不得<note n="0481024" resp="Taisho" place="foot text" type="orig">已＝止【甲】</note><note n="0481024" resp="CBETA" type="mod">已【大】，止【甲】</note><app n="0481024"><lem wit="【大】">已</lem><rdg resp="Taisho" wit="【甲】">止</rdg></app>而分之。遂各依教開宗務存
 <lb n="0481b03" ed="T"/>通會。使堅疑碩滯氷釋朗然。聖說差異其宜
 <lb n="0481b04" ed="T"/>各契耳。<note n="0481025" resp="Taisho" place="foot text" type="orig">卷上之二終【甲】</note><note n="0481025" resp="CBETA" type="mod"><!--CBETA todo type: a-->卷上之二終【甲】</note><anchor type="circle"/></p>
-<lb n="0481b05" ed="T"/><p xml:id="pT45p0481b0501"><anchor type="circle"/><note n="0481026" resp="Taisho" place="foot text" type="orig">卷上之三首【甲】，（（第四…者））七字＝（（分教開宗第四））六字【甲】【乙】</note><note n="0481026" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷上之三首【甲】，（（第四…者））七字＝（（分教開宗第四））六字【甲】【乙】</note>第四分教開宗者。於中有二。初就法分
+<lb n="0481b05" ed="T"/><p xml:id="pT45p0481b0501"><anchor type="circle"/><note n="0481026" resp="Taisho" place="foot text" type="orig">卷上之三首【甲】，（（第四…者））七字＝（（分教開宗第四））六字【甲】【乙】</note><note n="0481026" resp="CBETA" type="mod"><!--CBETA todo type: a-->（第四…者）七字【大】，分教開宗第四【甲】【乙】，<!--CBETA todo type: newmod-->卷上之三首【甲】</note>第四分教開宗者。於中有二。初就法分
 <lb n="0481b06" ed="T"/>教。教類有五。後以理開宗。宗乃有十。初門
 <lb n="0481b07" ed="T"/>者。聖教萬差要唯有五。一小乘教。二大乘始
 <lb n="0481b08" ed="T"/>教。三終教。四頓教。五圓教。初一即愚法二乘
