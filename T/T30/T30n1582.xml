@@ -780,7 +780,7 @@ Added comment  for Emacs
 <lb n="0966c17" ed="T"/>病瘦醫藥施於眾生，是故獲得具足之身。菩
 <lb n="0966c18" ed="T"/>薩摩訶薩破憍慢心，供養恭敬父母師長有
 <lb n="0966c19" ed="T"/>德之人，是故獲得上族種姓。菩薩摩訶薩隨
-<lb n="0966c20" ed="T"/>法<note resp="Taisho" n="0966010" place="foot text" type="orig">而＝如【三】【三】</note><note resp="CBETA" n="0966010" type="mod"><!--CBETA todo type: newmod-->而＝如【宋】【元】【明】<space quantity="0"/></note><app n="0966010"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】">如</rdg></app>行破於非法，是故獲得自在無礙。菩薩
+<lb n="0966c20" ed="T"/>法<note resp="Taisho" n="0966010" place="foot text" type="orig">而＝如【三】【三】</note><note resp="CBETA" n="0966010" type="mod">而【大】，如【宋】【元】【明】</note><app n="0966010"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【宋】【元】【明】">如</rdg></app>行破於非法，是故獲得自在無礙。菩薩
 <lb n="0966c21" ed="T"/>真實不欺眾生，是故獲得言語微妙。菩薩摩
 <lb n="0966c22" ed="T"/>訶薩常呵五欲，是故獲得男子之身。菩薩摩
 <lb n="0966c23" ed="T"/>訶薩常樂供養佛法僧寶，是故其身獲得大
@@ -1665,7 +1665,7 @@ Added comment  for Emacs
 <pb n="0976c" ed="T" xml:id="T30.1582.0976c"/>
 <lb n="0976c01" ed="T"/>羅三藐三菩提。<note resp="Taisho" n="0976003" place="foot text" type="orig">〔菩提〕－【三】</note><note resp="CBETA" n="0976003" type="mod">菩提【大】，〔－〕【宋】【元】【明】</note><app n="0976003"><lem wit="【大】">菩提</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>者不可思議。何以故？
 <lb n="0976c02" ed="T"/>一切聲聞辟支佛等所不得故。是故無上菩
-<lb n="0976c03" ed="T"/>提，無量功德之所成就<note resp="Taisho" n="0976004" place="foot text" type="orig">二指乃至也十字三本作本文</note><note resp="CBETA" n="0976004" type="mod">（二指者謂女人和合智也）十字夾註【CB】，（　指者謂女人和合智也）十字夾註【大】，（二指者謂女人和合智也）十字本文【宋】【元】【明】</note><app n="0976004"><lem wit="【CB】" resp="CBETA.maha"><note place="inline">二指者謂女人和合智也</note></lem><rdg wit="【大】"><note place="inline">　指者謂女人和合智也</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】">二指者謂女人和合智也</rdg></app>。</p></cb:div>
+<lb n="0976c03" ed="T"/>提，無量功德之所成就<note resp="Taisho" n="0976004" place="foot text" type="orig">二指乃至也十字三本作本文</note><note resp="CBETA" n="0976004" type="mod">（二指者謂女人和合智也）十字夾註【CB】，(　指者謂女人和合智也)【大】，二指者謂女人和合智也【宋】【元】【明】</note><app n="0976004"><lem wit="【CB】" resp="CBETA.maha"><note place="inline">二指者謂女人和合智也</note></lem><rdg wit="【大】"><note place="inline">　指者謂女人和合智也</note></rdg><rdg resp="Taisho" wit="【宋】【元】【明】">二指者謂女人和合智也</rdg></app>。</p></cb:div>
 <lb n="0976c04" ed="T"/><cb:div type="pin"><cb:mulu n="9" level="2" type="品">9 菩提力性品</cb:mulu><head><anchor type="circle"/><note resp="Taisho" n="0976005" place="foot text" type="orig">卷第四首【聖】</note><note resp="CBETA" n="0976005" type="mod"><!--CBETA todo type: a-->卷第四首【聖】</note>菩薩地菩提力性品第九</head>
 <lb n="0976c05" ed="T"/><p xml:id="pT30p0976c0501">「菩薩摩訶薩欲學菩薩戒者，當修信解，常樂
 <lb n="0976c06" ed="T"/>求法、常樂說法，見持法者深生供養，如法而

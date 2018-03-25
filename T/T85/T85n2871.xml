@@ -739,8 +739,8 @@ Added comment  for Emacs
 <lb n="1345a27" ed="T"/>悟阿那含果。九十四億諸天得斯陀含果。七
 <lb n="1345a28" ed="T"/><note n="1345a2801" resp="CBETA" type="add">十【CB】，千【大】</note><app n="1345a2801"><lem wit="【CB】" resp="CBETA.maha">十<note type="cf1">敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】">千</rdg></app>八億失心比丘還得本心。悟阿羅漢果。十
 <lb n="1345a29" ed="T"/>億菩薩得大陀羅尼。來世成佛道。</p>
-<lb n="1345a30" ed="T"/><cb:juan n="1" fun="close"><cb:jhead><choice cb:type="shift" cb:resp="CBETA.maha"><corr>大通方廣經卷上<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></corr><sic><space quantity="0"/></sic></choice></cb:jhead></cb:juan>
-<lb n="1345a31" ed="T"/><milestone n="2" unit="juan"/><cb:mulu n="2" type="卷"/><cb:juan n="2" fun="open"><cb:jhead><note n="1345001" resp="Taisho" place="foot" type="orig">【原】大谷大學藏燉煌本，首題新加</note><note n="1345001" resp="CBETA" type="mod">【原】大谷大學藏燉煌本，首題新加</note><choice cb:type="shift" cb:resp="CBETA.maha"><corr>大通方廣經卷中<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></corr><sic><space quantity="0"/></sic></choice></cb:jhead></cb:juan>
+<lb n="1345a30" ed="T"/><cb:juan n="1" fun="close"><cb:jhead><note n="1345a3001" resp="CBETA" type="add" subtype="shift">大通方廣經卷上【CB】，［－］【大】</note><app n="1345a3001"><lem wit="【CB】" resp="CBETA.maha">大通方廣經卷上<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
+<lb n="1345a31" ed="T"/><milestone n="2" unit="juan"/><cb:mulu n="2" type="卷"/><cb:juan n="2" fun="open"><cb:jhead><note n="1345001" resp="Taisho" place="text foot" type="orig">【原】大谷大學藏燉煌本，首題新加（CBETA 按：此校註原書位置在 p1345b05，今移至此。）</note><note n="1345a3101" resp="CBETA" type="add" subtype="shift">大通方廣經卷中【CB】，［－］【大】</note><app n="1345a3101"><lem wit="【CB】" resp="CBETA.maha">大通方廣經卷中<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="1345a32" ed="T"/><p xml:id="pT85p1345a3201">爾時。佛告信相菩薩摩訶薩言。善男子。汝向自說。過去有佛名寶勝。苦惱眾生。一聞名字。命終生天。今復請我。說諸佛名。使諸眾生。離苦出世。是故我今。為汝及眾。具說三寶。理是一寶。隨順說三。若人聞者。至心憶念。欲壽終時。值善知識。教令三稱。三寶名字。作如是言。</p>
 <lb n="1345a33" ed="T"/><p xml:id="pT85p1345a3301">南無佛陀。南無達摩。南無僧伽。</p>
 <lb n="1345a34" ed="T"/><p xml:id="pT85p1345a3401">如是唱已。其人命終。不到三塗。隨意所樂。十方世界。皆得往生。應奉諸佛。見諸菩薩。文殊普賢。宣說大乘大通方廣。即聞法已。應時獲得。無生法忍。善男子。若人曠劫。廣修諸行。深種善根。今得聞此。三寶名字。</p>
@@ -768,11 +768,11 @@ Added comment  for Emacs
 <lb n="1345a56" ed="T"/><p xml:id="pT85p1345a5601">善男子。復有四法。善障煩惱。何等為四。一者四憶念。二者障諸根。三者能得善法力故。四者獨處遠離故。是名為四。</p>
 <lb n="1345a57" ed="T"/><p xml:id="pT85p1345a5701">善男子。復有四法。善能隨順。入諸大眾。何等為四。一者求法不求勝故。二者常生恭敬。心
 <pb n="1345b" ed="T" xml:id="T85.2871.1345b"/>
-<lb n="1345b01" ed="T"/><choice cb:type="shift" cb:resp="CBETA.maha"><corr><space quantity="0"/><note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></corr><sic>大通方廣經卷上</sic></choice>
+<lb n="1345b01" ed="T"/><note n="1345b0101" resp="CBETA" type="add" subtype="shift">［－］【CB】，大通方廣經卷上【大】</note><app n="1345b0101"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/><note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】">大通方廣經卷上</rdg></app>
 <lb n="1345b02" ed="T"/>
 <lb n="1345b03" ed="T"/>
 <lb n="1345b04" ed="T"/>
-<lb n="1345b05" ed="T"/><choice cb:type="shift" cb:resp="CBETA.maha"><corr><space quantity="0"/><note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></corr><sic><note n="1345001" resp="Taisho" type="orig" place="foot text">【原】大谷大學藏燉煌本，首題新加</note>大通方廣經卷中</sic></choice>
+<lb n="1345b05" ed="T"/><note n="1345b0501" resp="CBETA.maha" type="add">原書此處有校註[01]，今移至 p1345a31。</note><note n="1345b0502" resp="CBETA" type="add" subtype="shift">［－］【CB】，大通方廣經卷中【大】</note><app n="1345b0502"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/><note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】">大通方廣經卷中</rdg></app>
 <lb n="1345b06" ed="T"/>
 <lb n="1345b07" ed="T"/><note n="1345002" resp="Taisho" type="orig" place="foot text">首缺</note><note n="1345002" resp="CBETA" type="mod">首缺（CBETA 按：今參考「《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004」已補足闕漏文字。）</note>無憍慢。三<note n="1345b0701" resp="CBETA" type="add">者唯求【CB】，<unclear/><unclear/><unclear/>【大】</note><app n="1345b0701"><lem wit="【CB】" resp="CBETA.maha">者唯求<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】"><unclear/><unclear/><unclear/></rdg></app>法利。<note n="1345b0702" resp="CBETA" type="add">不【CB】，<unclear/>【大】</note><app n="1345b0702"><lem wit="【CB】" resp="CBETA.maha">不<note type="cf1">《大通方廣懺悔滅罪莊嚴成佛經》敦煌寶藏校勘版．法護編校增補．大藏文化出版社, 2004</note></lem><rdg wit="【大】"><unclear/></rdg></app>自顯現。四者教人
 <lb n="1345b08" ed="T"/>善法。不求名利。是名為四。</p><p xml:id="pT85p1345b0811" rend="inline">善男子。復有四法。

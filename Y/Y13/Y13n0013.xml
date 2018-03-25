@@ -2653,7 +2653,7 @@
 <lb n="0185a08" ed="Y"/><lb n="0187a05" ed="Y" type="old"/>無等廣事弘揚，並乘此氣運而來。然西方文明破產而並未毀滅，迨五四運動
 <lb n="0185a09" ed="Y"/><lb n="0187a06" ed="Y" type="old"/>起，西方文明又日見抬頭。去年，以張君勱之人生觀演辭，引起丁文江之駁
 <lb n="0185a10" ed="Y"/><lb n="0187a07" ed="Y" type="old"/>斥，有科學與玄學之戰。是年，以印哲泰戈爾來華，更轉為精神文明與物質
-<lb n="0185a11" ed="Y"/><lb n="0187a08" ed="Y" type="old"/>文明之爭。<choice cb:type="規範字詞"><orig>爭辨</orig><reg>爭辯</reg></choice>續續未已，唐鉞與張東蓀均有意見發表。大師靜居巖洞，尋
+<lb n="0185a11" ed="Y"/><lb n="0187a08" ed="Y" type="old"/>文明之爭。<note n="0185a1101" resp="CBETA" type="add" subtype="規範字詞">爭辯【CB】，爭辨【印順】</note><app n="0185a1101"><lem wit="【CB】" resp="CBETA">爭辯</lem><rdg wit="【印順】">爭辨</rdg></app>續續未已，唐鉞與張東蓀均有意見發表。大師靜居巖洞，尋
 <lb n="0185a12" ed="Y"/><lb n="0187a09" ed="Y" type="old"/>其諍論所在，乃發前「唯物科學與唯識宗學」之義，撰<title level="a">〈人生觀的科學〉</title>（
 <lb n="0185a13" ed="Y"/><lb n="0187a10" ed="Y" type="old"/><title level="m">自傳</title>十八）。大師尊重科學之經驗，且以一切學術根源於經驗：</p>
 <pb n="0186a" ed="Y" xml:id="Y13.0013.0186a"/>
@@ -7431,7 +7431,7 @@
 <lb n="0526a07" ed="Y"/><lb n="0532a04" ed="Y" type="old"/><p rend="text-indent:2em">九日，大師返滬（<bibl><title level="j">海</title><biblScope n="28.1" type="issue">廿八、一</biblScope></bibl>「教聞摘要」）。</p>
 <lb n="0526a08" ed="Y"/><lb n="0532a05" ed="Y" type="old"/><p rend="text-indent:2em">二十五日，應寧屬緇素邀請，至寧波，駐錫觀宗寺（<title level="j">覺群</title>廿五）。</p>
 <lb n="0526a09" ed="Y"/><lb n="0532a06" ed="Y" type="old"/><p rend="text-indent:2em">三十日，「臘八」，寧屬六邑佛教會，於觀宗寺開會歡迎。大師講「世出世
-<lb n="0526a10" ed="Y"/><lb n="0532a07" ed="Y" type="old"/>間善法<choice cb:type="規範字詞"><orig>嗢柁南</orig><reg>嗢拕南</reg></choice>頌」，無言（芝峰）記（集施頌）。頌曰：</p>
+<lb n="0526a10" ed="Y"/><lb n="0532a07" ed="Y" type="old"/>間善法<note n="0526a1001" resp="CBETA" type="add" subtype="規範字詞">嗢拕南【CB】，嗢柁南【印順】</note><app n="0526a1001"><lem wit="【CB】" resp="CBETA">嗢拕南</lem><rdg wit="【印順】">嗢柁南</rdg></app>頌」，無言（芝峰）記（集施頌）。頌曰：</p>
 <lb n="0526a11" ed="Y"/><lb n="0532a08" ed="Y" type="old"/><quote><lg rend="margin-left:3em" type="abnormal"><l>『緣起無實，相續互關，如理行事，濟眾勤勇』。</l></lg></quote>
 <lb n="0526a12" ed="Y"/><lb n="0532a09" ed="Y" type="old"/><p rend="text-indent:2em">大師移錫延慶寺，大醒、亦幻、芝峰，隨侍左右<bibl>（<note n="0526a1201" resp="CBETA" type="add">无【CB】，旡【印順】</note><app n="0526a1201"><lem wit="【CB】" resp="正聞出版社">无</lem><rdg wit="【印順】">旡</rdg></app>言<title level="a">〈菩薩學處講錄記述
 <lb n="0526a13" ed="Y"/><lb n="0532a10" ed="Y" type="old"/>序〉</title>）</bibl>。</p></cb:div>

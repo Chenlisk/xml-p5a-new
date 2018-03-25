@@ -177,7 +177,7 @@
 <pb n="b007a" ed="Y" xml:id="Y30.0030.b007a"/>
 <lb n="b007a01" ed="Y"/>羅，不只是相應，又有相次相間雜的意義，所以古人多數譯為<title level="m">《雜阿含經》</title>。</p>
 <lb n="b007a02" ed="Y"/><p rend="text-indent:2em">四阿含經，一向以為是同時集成的，但在近代研究中，雖意見不完全一致，而同認為成立是
-<lb n="b007a03" ed="Y"/>有先後的。關於四阿含經集成的先後，<bibl>《<title level="m">瑜伽論</title>．<title level="a">攝事分</title>》</bibl>中，意外的保存了古代的結集傳說，<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>
+<lb n="b007a03" ed="Y"/>有先後的。關於四阿含經集成的先後，<bibl>《<title level="m">瑜伽論</title>．<title level="a">攝事分</title>》</bibl>中，意外的保存了古代的結集傳說，<note n="b007a0301" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="b007a0301"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>
 <lb n="b007a04" ed="Y"/>示了一項重要的意義，那就是四阿含是以<title level="m">《雜阿含經》</title>為根本的，如<bibl><title level="m">《論》</title>（<title level="a">〈攝事分〉</title>）<biblScope n="85" type="卷">卷八五</biblScope></bibl>
 <lb n="b007a05" ed="Y"/><note place="inline">大正<ref type="taisho" target="vol:30;page:p772c">三〇．七七二下</ref></note>說：</p>
 <lb n="b007a06" ed="Y"/><quote type="嚴謹引文"><p rend="margin-left:3em">「雜阿笈摩者，謂於是中，世尊觀待彼彼所化，宣說如來及諸弟子所說相應，蘊、界、處
@@ -260,7 +260,7 @@
 <lb n="b012a02" ed="Y"/>座部的古義。由此可見，<title level="m">《雜事》</title>以「處、界」為一類，<title level="a">〈攝事分〉</title>以「蘊、處、界」為一類，
 <lb n="b012a03" ed="Y"/>都是依據後代論師的通說而改定的。</p>
 <lb n="b012a04" ed="Y"/><p rend="text-indent:2em">抉擇<title level="m">《雜阿含經》</title>義的摩呾理迦，曾於<title level="m">《原始佛教聖典之集成》</title>，詳為比對<note n="b012001" resp="釋印順" type="orig">拙作<title level="m">《原始佛教聖典之集成》</title>（<ref type="yinshun" target="vol:35;page:p636">六三六</ref>——六六四）。</note>，偶有些疏失
-<lb n="b012a05" ed="Y"/>，將在<title level="m">《經論會編》</title>中改正，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>不再詳列。依論文，這部分是分為四分的；經與論的卷數，總
+<lb n="b012a05" ed="Y"/>，將在<title level="m">《經論會編》</title>中改正，這<note n="b012a0501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b012a0501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>不再詳列。依論文，這部分是分為四分的；經與論的卷數，總
 <lb n="b012a06" ed="Y"/>列如下：</p>
 <lb n="b012a07" ed="Y"/><list rendition="simple"><item><p rend="margin-left:1em">〈行（五蘊）擇攝第一〉……論卷八五──八八</p>
 <lb n="b012a08" ed="Y"/><list rendition="simple"><item><p rend="margin-left:1em">經：卷一、卷一〇、卷三、卷二、卷五</p></item></list></item>
@@ -460,7 +460,7 @@
 <lb n="b024a12" ed="Y"/>
 <lb n="b024a13" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">五　記說——如來所說、弟子所說（三）</cb:mulu><head>五　記說——如來所說、弟子所說（三）</head>
 <lb n="b024a14" ed="Y"/><p rend="text-indent:2em">「記說」，為九分（或十二分）教的第三分，我在<title level="m">《原始佛教聖典之集成》</title>，已有過廣泛的
-<lb n="b024a15" ed="Y"/>論列<note n="b024001" resp="釋印順" type="orig">拙作<title level="m">《原始佛教聖典之集成》</title>（<ref type="yinshun" target="vol:35;page:p519">五一九</ref>——五三九）。</note>，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>擇要（與<title level="m">《雜阿含經》</title>有關）的加以敘述。<foreign xml:lang="x-sa-pi"><note n="b024a1501" resp="CBETA" type="add">vyākaraṇa【CB】，Vyākaraṇa【印順】</note><app n="b024a1501"><lem wit="【CB】" resp="正聞出版社">vyākaraṇa</lem><rdg wit="【印順】">Vyākaraṇa</rdg></app></foreign>, <foreign xml:lang="sa"><note n="b024a1502" resp="CBETA" type="add">veyyākaraṇa【CB】，Veyyākaraṇa【印順】</note><app n="b024a1502"><lem wit="【CB】" resp="正聞出版社">veyyākaraṇa</lem><rdg wit="【印順】">Veyyākaraṇa</rdg></app></foreign>，義譯為分
+<lb n="b024a15" ed="Y"/>論列<note n="b024001" resp="釋印順" type="orig">拙作<title level="m">《原始佛教聖典之集成》</title>（<ref type="yinshun" target="vol:35;page:p519">五一九</ref>——五三九）。</note>，這<note n="b024a1501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b024a1501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>擇要（與<title level="m">《雜阿含經》</title>有關）的加以敘述。<foreign xml:lang="x-sa-pi"><note n="b024a1502" resp="CBETA" type="add">vyākaraṇa【CB】，Vyākaraṇa【印順】</note><app n="b024a1502"><lem wit="【CB】" resp="正聞出版社">vyākaraṇa</lem><rdg wit="【印順】">Vyākaraṇa</rdg></app></foreign>, <foreign xml:lang="sa"><note n="b024a1503" resp="CBETA" type="add">veyyākaraṇa【CB】，Veyyākaraṇa【印順】</note><app n="b024a1503"><lem wit="【CB】" resp="正聞出版社">veyyākaraṇa</lem><rdg wit="【印順】">Veyyākaraṇa</rdg></app></foreign>，義譯為分
 <pb n="b025a" ed="Y" xml:id="Y30.0030.b025a"/>
 <lb n="b025a01" ed="Y"/>別，記別、記說等；大乘佛教著重於授記，所以被譯為授記。在十二分教中，記說的解說，如<bibl><title level="m">《
 <lb n="b025a02" ed="Y"/>阿毘達磨大毘婆沙論》</title><biblScope type="卷" n="126">卷一二六</biblScope></bibl><note place="inline">大正<ref target="vol:27;page:p659c" type="taisho">二七．六五九下</ref>——<ref target="vol:27;page:p660a" type="taisho">六六〇上</ref></note>說：</p>
@@ -481,7 +481,7 @@
 <lb n="b026a01" ed="Y"/>來所說」部分。<title level="m">《相應修多羅》</title>末——<title level="a">〈不壞淨相應〉</title>中，廣記比丘等四眾弟子，及那梨迦聚落
 <lb n="b026a02" ed="Y"/>在家弟子的所證與所生，也是「記說」<note n="b026005" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="30" type="卷">卷三〇</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p217a">二．二一七上</ref>——下）。<bibl>《<title level="m">相應部</title>．<title level="a">預流相應</title>》</bibl>（南傳一六下．二四〇——二四五）。</note>。除佛弟子的「記說」以外，<title level="m">《相應部》</title>中更多見「記
 <lb n="b026a03" ed="Y"/>說」的實存部類。如<title level="a">〈勒叉那相應〉</title>，目犍連記說夜叉鬼的形狀，由佛記說其前生的惡業<note n="b026006" resp="釋印順" type="orig"><bibl>《<title level="m">相應部</title>．<title level="a">勒叉那相應</title>》</bibl>（南傳一三．三七七——三八七）。<bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="19">卷一九</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p135a">二．一三五上</ref>——一三九上）。</note>，這
-<lb n="b026a04" ed="Y"/>是「弟子所說」。如<title level="a">〈龍相應〉</title>共「四十記別」，說四生龍的業報<note n="b026007" resp="釋印順" type="orig"><bibl>《<title level="m">相應部</title>．<title level="a">龍相應</title>》</bibl>（南傳一四．三九七）。</note>。據此體例，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice><title level="a">〈乾闥婆
+<lb n="b026a04" ed="Y"/>是「弟子所說」。如<title level="a">〈龍相應〉</title>共「四十記別」，說四生龍的業報<note n="b026007" resp="釋印順" type="orig"><bibl>《<title level="m">相應部</title>．<title level="a">龍相應</title>》</bibl>（南傳一四．三九七）。</note>。據此體例，<note n="b026a0401" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="b026a0401"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app><title level="a">〈乾闥婆
 <lb n="b026a05" ed="Y"/>相應〉</title>、<title level="a">〈金翅鳥相應〉</title>、<title level="a">〈雲（天）相應〉</title>，也應該是「記說」（乾闥婆、金翅鳥、龍相應，
 <lb n="b026a06" ed="Y"/><title level="m">《雜阿含經》</title>缺）。<title level="a">〈禪定相應〉</title>，末結為「五十五記別」<note n="b026008" resp="釋印順" type="orig"><bibl>《<title level="m">相應部</title>．<title level="a">禪定相應</title>》</bibl>（南傳一四．四五六）。<bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="31">卷三一</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p222c">二．二二二下</ref>——<ref type="taisho" target="vol:2;page:p223b">二二三中</ref>）。</note>。<title level="a">〈見相應〉</title>初章，為「預流品十
 <lb n="b026a07" ed="Y"/>八記別」<note n="b026009" resp="釋印順" type="orig"><bibl>《<title level="m">相應部</title>．<title level="a">見相應</title>》</bibl>（南傳一四．三四六）。</note>。這些，在<title level="m">《雜阿含經》</title>中，都是屬於「如來所說」的。依此可見，<title level="m">《雜阿含經》</title>的
@@ -605,9 +605,9 @@
 <lb n="b033a12" ed="Y"/>，純是眾生聚集處也」。</p></quote>
 <lb n="b033a13" ed="Y"/><p rend="text-indent:2em">畜生阿含，就是畜生趣，趣是容受聚集的意義。晉道安解阿含為<quote source="T25n1505_p0001a05" type="嚴謹引文">「秦言趣無」<note n="b033002" resp="葛賢敏" type="add">《四阿鋡暮抄解》卷1(CBETA, T25, no. 1505, p. 1, a5)</note></quote>；僧肇說：<quote type="嚴謹引文">「
 <lb n="b033a14" ed="Y"/>秦言法歸，……譬彼巨海，百川所歸，故以法歸為名」</quote><note n="b033005" resp="釋印順" type="orig"><bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="9">卷九</biblScope></bibl>（大正<ref type="taisho" target="vol:55;page:p64c">五五．六四下</ref>）。又卷九（大正<ref type="taisho" target="vol:55;page:p63b">五五．六三中</ref>）。</note>，與覺音所說有相同的意趣。集出而會
-<lb n="b033a15" ed="Y"/>歸於一處，形成一切經法的總<choice cb:type="規範字詞"><orig>滙</orig><reg>匯</reg></choice>，名為阿含（那時還沒有用文字記錄，所以還不會稱為篋藏——
+<lb n="b033a15" ed="Y"/>歸於一處，形成一切經法的總<note n="b033a1501" resp="CBETA" type="add" subtype="規範字詞">匯【CB】，滙【印順】</note><app n="b033a1501"><lem wit="【CB】" resp="CBETA">匯</lem><rdg wit="【印順】">滙</rdg></app>，名為阿含（那時還沒有用文字記錄，所以還不會稱為篋藏——
 <pb n="b034a" ed="Y" xml:id="Y30.0030.b034a"/>
-<lb n="b034a01" ed="Y"/>容器的藏）。這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，要肯定的指出：原始結集「相應修多羅」，以後集出的是「祇夜」、「記說
+<lb n="b034a01" ed="Y"/>容器的藏）。這<note n="b034a0101" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b034a0101"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，要肯定的指出：原始結集「相應修多羅」，以後集出的是「祇夜」、「記說
 <lb n="b034a02" ed="Y"/>」，也泛稱「修多羅」，「相應教」（為根本的相應阿含）。不斷的傳出、集出，到別編為四阿
 <lb n="b034a03" ed="Y"/>含時，以「修多羅」為根本而成經說總集的「相應阿含」，部類已非常眾多；更有未結集的要結
 <lb n="b034a04" ed="Y"/>集，內容太廣大，於是有第二結集，分經為四部——四阿含。<cit><bibl>《<title level="m">瑜伽師地論</title>．<title level="a">攝事分</title>》說：</bibl><quote type="嚴謹引文">「即彼
@@ -740,7 +740,7 @@
 <lb n="b042a02" ed="Y"/>相應；<title level="a">〈六入誦〉</title>第二，一相應；<title level="a">〈因緣誦〉</title>第三，四相應；<title level="a">〈弟子所說誦〉</title>第四，六相應；<title level="a">〈道誦〉</title>第五，九相
 <lb n="b042a03" ed="Y"/>應；<title level="a">〈八眾誦〉</title>第六，四相應；<title level="a">〈偈誦〉</title>第七，一二相應；<title level="a">〈如來誦〉</title>第八，七相應<note n="b042002" resp="釋印順" type="orig">見<title level="s">《國譯一切經》</title>目錄。</note>。八誦四六相應的分判
 <lb n="b042a04" ed="Y"/>，大體是依照姉崎正治的分部次第。不過<title level="a">〈五蘊誦〉</title>中，「大師部」以下六部，椎尾與<title level="a">〈見相應
-<lb n="b042a05" ed="Y"/>〉</title>合為一相應。姉崎分卷三一為一三部，而椎尾綜合為一——<title level="a">〈諸相應〉</title>，<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>面包含了一三種相
+<lb n="b042a05" ed="Y"/>〉</title>合為一相應。姉崎分卷三一為一三部，而椎尾綜合為一——<title level="a">〈諸相應〉</title>，<note n="b042a0501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b042a0501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>面包含了一三種相
 <lb n="b042a06" ed="Y"/>應<note n="b042003" resp="釋印順" type="orig"><bibl><title level="s">《國譯一切經》</title><title level="m">《雜阿含經》</title><biblScope type="pp" n="647下">（六四七下注）</biblScope></bibl>。</note>。部類、相應分判的不同，只是這一些而已；這一些，都屬於「如來所說」。然從說一切有
 <lb n="b042a07" ed="Y"/>部的<title level="m">《雜阿含經》</title>來說，這樣的分判，是不適合的！如以卷三一為<title level="a">〈道誦〉</title>所攝，與<bibl>《<title level="m">瑜伽論</title>．<title level="a">攝
 <lb n="b042a08" ed="Y"/>事分</title>》</bibl>不合。<title level="a">〈八眾〉</title>與<title level="a">〈偈〉</title>，在<title level="m">《瑜伽論》</title>中，顯然是同一內容，不應該作為二誦的不同名
@@ -965,7 +965,7 @@
 <lb n="b056a04" ed="Y"/><title level="a">〈雜因誦〉</title>，是作為因果事理去理解了！如<title level="a">〈受〉</title>，說一切有部的古說，沒有說到<title level="a">〈受相應〉</title>。
 <lb n="b056a05" ed="Y"/>但<title level="m">《雜阿含經》</title>與<bibl>《<title level="m">瑜伽論</title>．<title level="a">攝事分</title>》</bibl>，都在<title level="a">〈界〉</title>以下說<title level="a">〈受〉</title>。<title level="m">《相應部》</title>是屬於<title level="a">〈六處篇〉</title>
 <lb n="b056a06" ed="Y"/>的。六受依六觸而起，六觸依於「六處」，「受」是可以攝屬「六處」的。但「受」依於六觸，
-<lb n="b056a07" ed="Y"/>而六觸於六內處（根）、六外處（境）、六識（即十八界）——三和合而有，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>屬於<title level="a">〈雜因誦
+<lb n="b056a07" ed="Y"/>而六觸於六內處（根）、六外處（境）、六識（即十八界）——三和合而有，<note n="b056a0701" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="b056a0701"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>屬於<title level="a">〈雜因誦
 <lb n="b056a08" ed="Y"/>〉</title>的<title level="a">〈界相應〉</title>，也是很合理的。</p>
 <lb n="b056a09" ed="Y"/><p rend="text-indent:2em">「祇夜」部分，<title level="m">《雜阿含經》</title>與<title level="m">《相應部》</title>，可說是非常相近的；唯一不同的，是<title level="a">〈比丘相
 <lb n="b056a10" ed="Y"/>應〉</title>。<title level="m">《雜阿含經》</title>，<title level="a">〈比丘相應〉</title>在<title level="a">〈八眾誦〉</title>（「祇夜」）初，這與化地部，法藏部，<title level="m">《毘
@@ -1121,7 +1121,7 @@
 <lb n="b065a15" ed="Y"/>八眾誦〉</title>的偈頌，「記說」原是比「祇夜」遲一些的。這樣的敘述，不致於誤會為，修多羅的成
 <pb n="b066a" ed="Y" xml:id="Y30.0030.b066a"/>
 <lb n="b066a01" ed="Y"/>立，比「祇夜」為遲。<title level="m">《雜阿含經論會編》</title>，就依此內容與次第，分為七誦（七品），再分為五
-<lb n="b066a02" ed="Y"/>一「相應」。相應的分立，上面已經說到，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>總列如下：</p>
+<lb n="b066a02" ed="Y"/>一「相應」。相應的分立，上面已經說到，這<note n="b066a0201" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b066a0201"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>總列如下：</p>
 <lb n="b066a03" ed="Y"/><p cb:type="pre">　　　　　　┌一、〈五陰誦〉────一相應
 <lb n="b066a04" ed="Y"/>　　　　　　├二、〈六入處誦〉───二相應
 <lb n="b066a05" ed="Y"/>　　　修多羅┤
@@ -1163,7 +1163,7 @@
 <lb n="b068a07" ed="Y"/><item><p rend="margin-left:1em">日輪廣說────遠離依止<note place="inline">七經</note>、貪欲調伏<note place="inline">七經</note></p></item>
 <lb n="b068a08" ed="Y"/><item><p rend="margin-left:1em">一法廣說<note place="inline">一</note>───遠離依止<note place="inline">七經</note>、貪欲調伏<note place="inline">七經</note></p></item>
 <lb n="b068a09" ed="Y"/><item><p rend="margin-left:1em">一法廣說<note place="inline">二</note>───遠離依止<note place="inline">七經</note>、貪欲調伏<note place="inline">七經</note></p></item>
-<lb n="b068a10" ed="Y"/><item><p rend="margin-left:1em"><choice cb:type="規範字詞"><orig>恆</orig><reg>恒</reg></choice>河廣說────遠離依止<note place="inline">一二經</note>、貪欲調伏<note place="inline">一二經</note></p>
+<lb n="b068a10" ed="Y"/><item><p rend="margin-left:1em"><note n="b068a1001" resp="CBETA" type="add" subtype="規範字詞">恒【CB】，恆【印順】</note><app n="b068a1001"><lem wit="【CB】" resp="CBETA">恒</lem><rdg wit="【印順】">恆</rdg></app>河廣說────遠離依止<note place="inline">一二經</note>、貪欲調伏<note place="inline">一二經</note></p>
 <lb n="b068a11" ed="Y"/><p rend="margin-left:9em">不死究竟<note place="inline">一二經</note>、趣向涅槃<note place="inline">一二經</note></p></item>
 <lb n="b068a12" ed="Y"/><item><p rend="margin-left:1em">不放逸品<note place="inline">一〇經</note>（一一經有四，實為四〇經）</p></item>
 <lb n="b068a13" ed="Y"/><item><p rend="margin-left:1em">力所作品<note place="inline">一二經</note>（例上應為四八經）</p></item>
@@ -1172,7 +1172,7 @@
 <pb n="b069a" ed="Y" xml:id="Y30.0030.b069a"/>
 <lb n="b069a01" ed="Y"/><p rend="text-indent:2em"><title level="a">〈道相應〉</title>這一部分，<title level="s">《南傳大藏》</title>計算為一四〇經，實際上應有二六六經。這樣的組合，
 <lb n="b069a02" ed="Y"/>如（四六）<title level="a">〈覺支相應〉</title>，（四八）<title level="a">〈根相應〉</title>，（五〇）<title level="a">〈力相應〉</title>，都以<title level="a">〈道相應〉</title>為例而
-<lb n="b069a03" ed="Y"/>簡略些。從<title level="a">〈<choice cb:type="規範字詞"><orig>恆</orig><reg>恒</reg></choice>河相應〉</title>起，到<title level="a">〈瀑流品〉</title>，共五品，約「遠離依止」與「貪欲調伏」來分別，
+<lb n="b069a03" ed="Y"/>簡略些。從<title level="a">〈<note n="b069a0301" resp="CBETA" type="add" subtype="規範字詞">恒【CB】，恆【印順】</note><app n="b069a0301"><lem wit="【CB】" resp="CBETA">恒</lem><rdg wit="【印順】">恆</rdg></app>河相應〉</title>起，到<title level="a">〈瀑流品〉</title>，共五品，約「遠離依止」與「貪欲調伏」來分別，
 <lb n="b069a04" ed="Y"/>每一相應約一一〇經左右。（四七）<title level="a">〈念處相應〉</title>，（四九）<title level="a">〈正勤相應〉</title>，（五一）<title level="a">〈神足相
 <lb n="b069a05" ed="Y"/>應〉</title>，（五二）<title level="a">〈靜慮相應〉</title>，這四種相應，大大的簡化了，雖也分五品，卻不分「遠離」與「
 <lb n="b069a06" ed="Y"/>調伏」，每一相應為五四經。其實，都應該如<title level="a">〈道相應〉</title>那樣廣說的，都是<title level="m">《雜阿含經》</title>所沒有
@@ -1180,7 +1180,7 @@
 <lb n="b069a08" ed="Y"/>的五陰，應斷，應知，……應沒（共八類），當求大師（六〇類），應修四念處，……止觀（十
 <lb n="b069a09" ed="Y"/>類，實為五五法）等：這樣的分別組成，可得一萬餘經；這正是<title level="m">《相應部》</title>所沒有的。這是類集
 <lb n="b069a10" ed="Y"/>纂組，決非早期集成的形態。因部派而所說不同，方法卻是一致的，富有初期阿毘達磨論者，分
-<lb n="b069a11" ed="Y"/>別，類集，組合的特色。<title level="m">《雜阿含經》</title>與<title level="m">《相應部》</title>經數的眾多，原因就在這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>。<title level="m">《雜阿含經》</title>
+<lb n="b069a11" ed="Y"/>別，類集，組合的特色。<title level="m">《雜阿含經》</title>與<title level="m">《相應部》</title>經數的眾多，原因就在這<note n="b069a1101" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="b069a1101"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>。<title level="m">《雜阿含經》</title>
 <lb n="b069a12" ed="Y"/>到底有多少經？<title>《大正藏》</title>所編列的，據可見（<title level="a">〈五陰誦〉</title>）的攝頌，顯然每與經不合。如初頌
 <lb n="b069a13" ed="Y"/>十經，<title>《大正藏》</title>計為六經。如頌說：<quote type="嚴謹引文">「受與生及樂，亦說六入處，一一十二種，禪定三昧經」</quote>
 <lb n="b069a14" ed="Y"/><note n="b069006" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="3" type="卷">卷三</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p18a">二．一八上</ref>）。</note>。受，生，樂，六入處——四經，一一都有「十二種」，就共有四八經了，但<title>《大正藏》</title>只計

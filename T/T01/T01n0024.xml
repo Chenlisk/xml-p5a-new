@@ -267,7 +267,7 @@ Added comment  for Emacs
 <lb n="0310b22" ed="T"/>『我能作能化能幻。』云：『我如父。』於諸事中，自
 <lb n="0310b23" ed="T"/>作如是憍大語已，即生我慢。如來不爾。所
 <lb n="0310b24" ed="T"/>以者何？一切世間，各隨業力，現起成立。諸
-<lb n="0310b25" ed="T"/>比丘！此千世界，猶如周羅<note n="0310003" resp="Taisho" type="orig" place="foot text">（周羅…髻）＝（此言髻）【明】</note><note n="0310003" resp="CBETA" type="mod">（周羅…髻）【大】，（此言髻）【明】</note><app n="0310003" cb:word-count="6"><lem wit="【大】"><note place="inline">周羅者隋言髻</note></lem><rdg resp="Taisho" wit="【明】"><note place="inline">此言髻</note></rdg></app>，名小千
+<lb n="0310b25" ed="T"/>比丘！此千世界，猶如周羅<note n="0310003" resp="Taisho" type="orig" place="foot text">（周羅…髻）＝（此言髻）【明】</note><note n="0310003" resp="CBETA" type="mod">周羅…髻【大】，此言髻【明】</note><app n="0310003" cb:word-count="6"><lem wit="【大】"><note place="inline">周羅者隋言髻</note></lem><rdg resp="Taisho" wit="【明】"><note place="inline">此言髻</note></rdg></app>，名小千
 <lb n="0310b26" ed="T"/>世界。諸比丘！爾所周羅一千世界，是名第
 <lb n="0310b27" ed="T"/>二中千世界。諸比丘！如此第二中千世界
 <lb n="0310b28" ed="T"/>以為一數，復滿千界，是名三千大千世界。
@@ -4527,7 +4527,7 @@ Added comment  for Emacs
 <lb n="0357c17" ed="T"/>梵世、光音，遍淨諸天等，皆修行成就四禪，
 <lb n="0357c18" ed="T"/>廣說如上。諸比丘！是名世轉。云何轉壞？諸
 <lb n="0357c19" ed="T"/>比丘！經於無量久遠三摩耶時，有大風起，其
-<lb n="0357c20" ed="T"/>風名曰僧伽<note n="0357008" resp="Taisho" type="orig" place="foot text">多＋夾註（隋言和合）【三】，其中（隋）＝（此）【明】</note><note n="0357008" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->多＋夾註（隋言和合）【宋】【元】，多＋夾註（此言和合）【明】</note><app n="0357008"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【宋】【元】">多<note place="inline">隋言和合</note></rdg><rdg resp="Taisho" wit="【明】">多<note place="inline">此言和合</note></rdg></app>。諸比丘！彼風先吹遍淨諸
+<lb n="0357c20" ed="T"/>風名曰僧伽<note n="0357008" resp="Taisho" type="orig" place="foot text">多＋夾註（隋言和合）【三】，其中（隋）＝（此）【明】</note><note n="0357008" resp="CBETA" type="mod">多【大】，多(隋言和合)【宋】【元】，多(此言和合)【明】</note><app n="0357008"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【宋】【元】">多<note place="inline">隋言和合</note></rdg><rdg resp="Taisho" wit="【明】">多<note place="inline">此言和合</note></rdg></app>。諸比丘！彼風先吹遍淨諸
 <lb n="0357c21" ed="T"/>天一切宮殿，令相揩磨，遂至壞滅，無有餘
 <lb n="0357c22" ed="T"/>殘而可記識。譬如壯士取二銅器，兩手執
 <lb n="0357c23" ed="T"/>之，相揩不已，破壞消滅，無有形相，餘殘可

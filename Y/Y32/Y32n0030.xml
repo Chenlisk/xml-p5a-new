@@ -54,7 +54,7 @@
 <pb n="0001a" ed="Y" xml:id="Y32.0030.0001a"/>
 <lb n="0001a01" ed="Y"/><milestone n="1" unit="juan"/><cb:juan fun="open" n="1"><cb:jhead>雜阿含經論會編</cb:jhead></cb:juan>
 <lb n="0001a02" ed="Y"/><cb:div type="other"><cb:mulu level="1" type="其他">八眾誦第五</cb:mulu><head>八眾誦第五<note n="0001001" resp="釋印順" type="orig"><title level="a">〈八眾誦第五〉</title>，原本自卷三八起，卷五〇止，共一三卷，與<title level="m">《相應部》</title>第一<title level="a">〈有偈篇〉</title>相當。本誦分一一相應，次第為：<title level="a">〈比丘〉</title>，<title level="a">〈魔〉</title>，<title level="a">〈帝釋〉</title>，<title level="a">〈剎利〉</title>，<title level="a">〈婆羅門〉</title>，<title level="a">〈梵天〉</title>，<title level="a">〈比丘尼〉</title>，<title level="a">〈婆耆舍〉</title>，<title level="a">〈諸天〉</title>，<title level="a">〈夜叉〉</title>，<title level="a">〈林〉</title>。以下均無<title level="m">《論》</title>。</note></head>
-<lb n="0001a03" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十七　比丘相應（二二經）</cb:mulu><head><choice cb:type="規範字詞"><orig>一七</orig><reg>十七</reg></choice>　比丘相應<note n="0001002" resp="釋印順" type="orig"><title level="a">〈比丘相應〉</title>，共二二經。與<bibl><title level="m">《相應部》</title>（二一）<title level="a">〈比丘相應〉</title></bibl>相當。</note></head>
+<lb n="0001a03" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十七　比丘相應（二二經）</cb:mulu><head><note n="0001a0301" resp="CBETA" type="add" subtype="規範字詞">十七【CB】，一七【印順】</note><app n="0001a0301"><lem wit="【CB】" resp="CBETA">十七</lem><rdg wit="【印順】">一七</rdg></app>　比丘相應<note n="0001002" resp="釋印順" type="orig"><title level="a">〈比丘相應〉</title>，共二二經。與<bibl><title level="m">《相應部》</title>（二一）<title level="a">〈比丘相應〉</title></bibl>相當。</note></head>
 <lb n="0001a04" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">17-1;1165(1062)</cb:mulu><head><num n="17-1" type="各相應之經號">一</num><note n="0001003" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（二一）<title level="a">〈比丘相應〉</title>五經</bibl>。<bibl><title level="m">《別譯雜阿含經》</title>（以下簡稱<title level="m">《別譯》</title>）<ref type="taisho" target="no:100.1">一經</ref></bibl>。</note>；<num type="雜含會編經號" n="1165">一一六五</num><num n="1062" type="大正藏雜含經號">（一〇六二）</num></head>
 <lb n="0001a05" ed="Y"/><p rend="text-indent:2em"><note n="0001004" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="38">卷三八</biblScope></bibl>。</note>如是我聞：一時，佛住舍衛國祇樹給孤獨園。時有尊者善生，新剃鬚髮，著袈裟衣，正信
 <lb n="0001a06" ed="Y"/>非家，出家學道，來詣佛所，稽首佛足，退坐一面。爾時，世尊告諸比丘：「諸比丘！當知此善
@@ -529,7 +529,7 @@
 <lb n="0030a15" ed="Y"/>
 <lb n="0030a16" ed="Y"/></cb:div></cb:div>
 <pb n="0031a" ed="Y" xml:id="Y32.0030.0031a"/>
-<lb n="0031a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十八　魔相應（二〇經）</cb:mulu><head><choice cb:type="規範字詞"><orig>一八</orig><reg>十八</reg></choice>　魔相應<note n="0031001" resp="釋印順" type="orig"><title level="a">〈魔相應〉</title>共二〇經。與<bibl><title level="m">《相應部》</title>（四）<title level="a">〈惡魔相應〉</title></bibl>相當。</note></head>
+<lb n="0031a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十八　魔相應（二〇經）</cb:mulu><head><note n="0031a0101" resp="CBETA" type="add" subtype="規範字詞">十八【CB】，一八【印順】</note><app n="0031a0101"><lem wit="【CB】" resp="CBETA">十八</lem><rdg wit="【印順】">一八</rdg></app>　魔相應<note n="0031001" resp="釋印順" type="orig"><title level="a">〈魔相應〉</title>共二〇經。與<bibl><title level="m">《相應部》</title>（四）<title level="a">〈惡魔相應〉</title></bibl>相當。</note></head>
 <lb n="0031a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">18-1;1187(1084)</cb:mulu><head><num type="各相應之經號" n="18-1">一</num><note n="0031002" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（四）<title level="a">〈惡魔相應〉</title>九經</bibl>。<bibl><title level="m">《別譯》</title><ref target="no:100.23" type="taisho">二三經</ref></bibl>。</note>；<num n="1187" type="雜含會編經號">一一八七</num><num type="大正藏雜含經號" n="1084">（一〇八四）</num></head>
 <lb n="0031a03" ed="Y"/><p rend="text-indent:2em">如是我聞：一時，佛住王舍城寒林中丘塚間。爾時，世尊告諸比丘：「壽命甚促，轉就後世
 <lb n="0031a04" ed="Y"/>，應勤習善法，修諸梵行，無有生而不死者，而世間人不勤方便，專修善法，修賢修義」。時魔
@@ -873,7 +873,7 @@
 <lb n="0052a07" ed="Y"/>
 <lb n="0052a08" ed="Y"/></cb:div></cb:div>
 <pb n="0053a" ed="Y" xml:id="Y32.0030.0053a"/>
-<lb n="0053a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十九　帝釋相應（二二經）</cb:mulu><head><choice cb:type="規範字詞"><orig>一九</orig><reg>十九</reg></choice>　帝釋相應<note n="0053001" resp="釋印順" type="orig"><title level="a">〈帝釋相應〉</title>，共二二經。與<bibl><title level="m">《相應部》</title>（一一）<title level="a">〈帝釋相應〉</title></bibl>相當。</note></head>
+<lb n="0053a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">十九　帝釋相應（二二經）</cb:mulu><head><note n="0053a0101" resp="CBETA" type="add" subtype="規範字詞">十九【CB】，一九【印順】</note><app n="0053a0101"><lem wit="【CB】" resp="CBETA">十九</lem><rdg wit="【印順】">一九</rdg></app>　帝釋相應<note n="0053001" resp="釋印順" type="orig"><title level="a">〈帝釋相應〉</title>，共二二經。與<bibl><title level="m">《相應部》</title>（一一）<title level="a">〈帝釋相應〉</title></bibl>相當。</note></head>
 <lb n="0053a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">19-1;1207(1104)</cb:mulu><head><num type="各相應之經號" n="19-1">一</num><note n="0053002" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（一一）<title level="a">〈帝釋相應〉</title>一一經</bibl>。<bibl><title level="m">《別譯》</title><ref target="no:100.33" type="taisho">三三經</ref></bibl>。</note>；<num n="1207" type="雜含會編經號">一二〇七</num><num type="大正藏雜含經號" n="1104">（一一〇四）</num></head>
 <lb n="0053a03" ed="Y"/><p rend="text-indent:2em"><note n="0053003" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="40" type="卷">卷四〇</biblScope></bibl>。</note>如是我聞：一時，佛住王舍城迦蘭陀竹園。爾時，世尊告諸比丘：「若能受持七種受者，
 <lb n="0053a04" ed="Y"/>以是因緣得生天帝釋處。謂天帝釋本為人時，供養父母；及家諸尊長；和顏軟語；不惡口；不兩
@@ -1346,7 +1346,7 @@
 <lb n="0082a05" ed="Y"/>
 <lb n="0082a06" ed="Y"/></cb:div></cb:div>
 <pb n="0083a" ed="Y" xml:id="Y32.0030.0083a"/>
-<lb n="0083a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">二十　剎利相應（二一經）</cb:mulu><head><choice cb:type="規範字詞"><orig>二〇</orig><reg>二十</reg></choice>　剎利相應<note n="0083001" resp="釋印順" type="orig"><title level="a">〈剎利相應〉</title>，共二一經。與<bibl><title level="m">《相應部》</title>（三）<title level="a">〈拘薩羅相應〉</title></bibl>相當。</note></head>
+<lb n="0083a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">二十　剎利相應（二一經）</cb:mulu><head><note n="0083a0101" resp="CBETA" type="add" subtype="規範字詞">二十【CB】，二〇【印順】</note><app n="0083a0101"><lem wit="【CB】" resp="CBETA">二十</lem><rdg wit="【印順】">二〇</rdg></app>　剎利相應<note n="0083001" resp="釋印順" type="orig"><title level="a">〈剎利相應〉</title>，共二一經。與<bibl><title level="m">《相應部》</title>（三）<title level="a">〈拘薩羅相應〉</title></bibl>相當。</note></head>
 <lb n="0083a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">20-1;1229(1226)</cb:mulu><head><num n="20-1" type="各相應之經號">一</num><note n="0083002" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（三）<title level="a">〈拘薩羅相應〉</title>一經</bibl>。<bibl><title level="m">《別譯》</title><ref type="taisho" target="no:100.53">五三經</ref></bibl>。</note>；<num n="1229" type="雜含會編經號">一二二九</num><num type="大正藏雜含經號" n="1226">（一二二六）</num></head>
 <lb n="0083a03" ed="Y"/><p rend="text-indent:2em"><note n="0083003" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="41">卷四一</biblScope></bibl>（舊誤編為卷四六）中。</note>如是我聞：一時，佛在拘薩羅人間遊行，至舍衛國祇樹給孤獨園。時波斯匿王，聞世尊拘
 <lb n="0083a04" ed="Y"/>薩羅人間遊行，至舍衛國祇樹給孤獨園。聞已，往詣佛所，稽首佛足，退坐一面。白佛言：「世
@@ -5096,8 +5096,8 @@
 <lb n="0321a14" ed="Y"/><lg type="abnormal"><l rend="text-indent:3em">「難住正受住，諸根心決定，能斷死魔縻，聖者隨欲進」。</l></lg>
 <lb n="0321a15" ed="Y"/><p rend="text-indent:2em">迦摩天子復白佛言：「世尊嶮道甚難行」。爾時，世尊說偈答言：</p>
 <pb n="0322a" ed="Y" xml:id="Y32.0030.0322a"/>
-<lb n="0322a01" ed="Y"/><lg type="abnormal"><l rend="text-indent:3em">「難涉之嶮道，當行安樂進。非聖墮於彼，足上頭向下；<choice cb:type="shift" cb:resp="CBETA.maha"><corr><space quantity="0"/></corr><sic>賢聖乘正直，</sic></choice></l>
-<lb n="0322a02" ed="Y"/><l rend="text-indent:3em"><choice cb:type="shift" cb:resp="CBETA.maha"><corr>賢聖乘正直，</corr><sic><space quantity="0"/></sic></choice>嶮路自然平」。</l></lg>
+<lb n="0322a01" ed="Y"/><lg type="abnormal"><l rend="text-indent:3em">「難涉之嶮道，當行安樂進。非聖墮於彼，足上頭向下；<note n="0322a0101" resp="CBETA" type="add" subtype="shift">［－］【CB】，賢聖乘正直【印順】</note><app n="0322a0101"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【印順】">賢聖乘正直，</rdg></app></l>
+<lb n="0322a02" ed="Y"/><l rend="text-indent:3em"><note n="0322a0201" resp="CBETA" type="add" subtype="shift">賢聖乘正直【CB】，［－］【印順】</note><app n="0322a0201"><lem wit="【CB】" resp="CBETA.maha">賢聖乘正直，</lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>嶮路自然平」。</l></lg>
 <lb n="0322a03" ed="Y"/><p rend="text-indent:2em">佛說此經已，迦摩天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。</p></cb:div>
 <lb n="0322a04" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">25-104;1427(1314)</cb:mulu><head><num n="25-104" type="各相應之經號">一〇四</num><note n="0322008" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（一〇）<title level="a">〈夜叉相應〉</title>三經</bibl>。<bibl><title level="m">《別譯》</title><ref target="no:100.313" type="taisho">三一三經</ref></bibl>。</note>；<num n="1427" type="雜含會編經號">一四二七</num><num type="大正藏雜含經號" n="1314">（一三一四）</num></head>
 <lb n="0322a05" ed="Y"/><p rend="text-indent:2em">如是我聞：一時，佛住舍衛國祇樹給孤獨園。時有迦摩天子，容色絕妙，於後夜時，來詣佛
@@ -6655,7 +6655,7 @@
 <lb n="0421a10" ed="Y"/></cb:div></cb:div>
 <pb n="0422a" ed="Y" xml:id="Y32.0030.0422a"/>
 <pb n="0423a" ed="Y" xml:id="Y32.0030.0423a"/>
-<lb n="0423a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">三十　阿那律相應（一一經）</cb:mulu><head><choice cb:type="規範字詞"><orig>三〇</orig><reg>三十</reg></choice>　阿那律相應<note n="0423001" resp="釋印順" type="orig"><title level="a">〈阿那律相應〉</title>，共一一經。與<bibl><title level="m">《相應部》</title>（五二）<title level="a">〈阿那律相應〉</title></bibl>相當。</note></head>
+<lb n="0423a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">三十　阿那律相應（一一經）</cb:mulu><head><note n="0423a0101" resp="CBETA" type="add" subtype="規範字詞">三十【CB】，三〇【印順】</note><app n="0423a0101"><lem wit="【CB】" resp="CBETA">三十</lem><rdg wit="【印順】">三〇</rdg></app>　阿那律相應<note n="0423001" resp="釋印順" type="orig"><title level="a">〈阿那律相應〉</title>，共一一經。與<bibl><title level="m">《相應部》</title>（五二）<title level="a">〈阿那律相應〉</title></bibl>相當。</note></head>
 <lb n="0423a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">30-1;1610(535)</cb:mulu><head><num type="各相應之經號" n="30-1">一</num><note n="0423002" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（五二）<title level="a">〈阿那律相應〉</title>二經</bibl>。</note>；<num type="雜含會編經號" n="1610">一六一〇</num><num type="大正藏雜含經號" n="535">（五三五）</num></head>
 <lb n="0423a03" ed="Y"/><p rend="text-indent:2em"><note n="0423003" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="19中" type="卷">卷一九中</biblScope></bibl>。</note>如是我聞：一時，佛住舍衛國祇樹給孤獨園。爾時，尊者阿那律，住松林精舍。時尊者大
 <lb n="0423a04" ed="Y"/>目揵連，住跋祇聚落失收摩羅山恐怖稠林禽獸之處。時尊者阿那律，獨一靜處，禪思思惟，作是
@@ -8680,7 +8680,7 @@
 <lb n="0559a06" ed="Y"/></cb:div></cb:div>
 <pb n="0560a" ed="Y" xml:id="Y32.0030.0560a"/>
 <pb n="0561a" ed="Y" xml:id="Y32.0030.0561a"/>
-<lb n="0561a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">四十　不壞淨相應（六二經）</cb:mulu><head><choice cb:type="規範字詞"><orig>四〇</orig><reg>四十</reg></choice>　不壞淨相應<note n="0561001" resp="釋印順" type="orig"><title level="a">〈不壞淨相應〉</title>，共六二經。多出<bibl><title level="m">《相應部》</title>（五五）<title level="a">〈預流相應〉</title></bibl>。</note></head>
+<lb n="0561a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">四十　不壞淨相應（六二經）</cb:mulu><head><note n="0561a0101" resp="CBETA" type="add" subtype="規範字詞">四十【CB】，四〇【印順】</note><app n="0561a0101"><lem wit="【CB】" resp="CBETA">四十</lem><rdg wit="【印順】">四〇</rdg></app>　不壞淨相應<note n="0561001" resp="釋印順" type="orig"><title level="a">〈不壞淨相應〉</title>，共六二經。多出<bibl><title level="m">《相應部》</title>（五五）<title level="a">〈預流相應〉</title></bibl>。</note></head>
 <lb n="0561a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">40-1;13174(902)</cb:mulu><head><num type="各相應之經號" n="40-1">一</num><note n="0561002" resp="釋印順" type="orig">一——三經，別讚三寶，與<bibl>《<title level="m">增支部</title>．四集》三四經</bibl>，及<bibl><title level="m">《增壹阿含經》</title>（二一）<title level="a">〈三寶品〉</title><ref type="taisho" target="no:125.21.1">一經</ref>前分</bibl>相當。</note>；<num n="13174" type="雜含會編經號">一三一七四</num><num type="大正藏雜含經號" n="902">（九〇二）</num></head>
 <lb n="0561a03" ed="Y"/><p rend="text-indent:2em"><note n="0561003" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="23">卷二三</biblScope></bibl>（舊誤編為卷三一）末。</note>如是我聞：一時，佛住王舍城迦蘭陀竹園。爾時，世尊告諸比丘：「若有眾生，無足、二
 <lb n="0561a04" ed="Y"/>足、四足、多足，色、無色，想、無想、非想非非想，於一切如來最第一，乃至聖戒亦如是說」
@@ -11187,7 +11187,7 @@
 <lb n="0723a07" ed="Y"/></cb:div></cb:div>
 <pb n="0724a" ed="Y" xml:id="Y32.0030.0724a"/>
 <pb n="0725a" ed="Y" xml:id="Y32.0030.0725a"/>
-<lb n="0725a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">五十　病相應（二〇經）</cb:mulu><head><choice cb:type="規範字詞"><orig>五〇</orig><reg>五十</reg></choice>　病相應<note n="0725001" resp="釋印順" type="orig"><title level="a">〈病相應〉</title>，共二〇經。</note></head>
+<lb n="0725a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">五十　病相應（二〇經）</cb:mulu><head><note n="0725a0101" resp="CBETA" type="add" subtype="規範字詞">五十【CB】，五〇【印順】</note><app n="0725a0101"><lem wit="【CB】" resp="CBETA">五十</lem><rdg wit="【印順】">五〇</rdg></app>　病相應<note n="0725001" resp="釋印順" type="orig"><title level="a">〈病相應〉</title>，共二〇經。</note></head>
 <lb n="0725a02" ed="Y"/><cb:div type="other"><cb:mulu level="3" type="其他">50-1;13358(1265)</cb:mulu><head><num type="各相應之經號" n="50-1">一</num><note n="0725002" resp="釋印順" type="orig"><bibl><title level="m">《相應部》</title>（二二）<title level="a">〈蘊相應〉</title>八七經</bibl>。</note>；<num n="13358" type="雜含會編經號">一三三五八</num><num n="1265" type="大正藏雜含經號">（一二六五）</num></head>
 <lb n="0725a03" ed="Y"/><p rend="text-indent:2em"><note n="0725003" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="36">卷三六</biblScope></bibl>（舊誤編為卷四七）中。</note>如是我聞：一時，佛住王舍城迦蘭陀竹園。爾時，有尊者跋迦梨，住王舍城金師精舍，疾
 <lb n="0725a04" ed="Y"/>病困苦，尊者富隣尼瞻視供養。時跋迦梨語富隣尼：「汝可詣世尊所，為我稽首禮世尊足，問訊

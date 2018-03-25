@@ -478,7 +478,7 @@ Added comment  for Emacs
 <lb n="1082a28" ed="T"/><item xml:id="itemT55p1082a2801"><title>梵字八大<note n="1082002" resp="Taisho" place="foot text" type="orig">〔菩薩〕－【甲】</note><note n="1082002" resp="CBETA" type="mod">菩薩【大】，〔－〕【甲】</note><app n="1082002"><lem wit="【大】">菩薩</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>真言一本</title></item>
 <lb n="1082a29" ed="T"/><item xml:id="itemT55p1082a2901"><title>梵字不動尊心真言一本</title></item>
 <pb n="1082b" xml:id="T55.2167.1082b" ed="T"/>
-<lb n="1082b01" ed="T"/><item xml:id="itemT55p1082b0101"><title>梵字七俱<note n="1082003" resp="Taisho" place="foot text" type="orig">智＝知ィ胝ィ【甲】</note><note n="1082003" resp="CBETA" type="mod">智【大】，知ィ胝【校異-甲】</note><app n="1082003"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">知胝</rdg></app>真言一本</title></item>
+<lb n="1082b01" ed="T"/><item xml:id="itemT55p1082b0101"><title>梵字七俱<note n="1082003" resp="Taisho" place="foot text" type="orig">智＝知ィ胝ィ【甲】</note><note n="1082003" resp="CBETA" type="mod">智【大】，知胝<!--CBETA todo type: newmod-->ィィ【甲】</note><app n="1082003"><lem wit="【大】">智</lem><rdg resp="Taisho" wit="【甲】" type="variantRemark">知胝</rdg></app>真言一本</title></item>
 <lb n="1082b02" ed="T"/><item xml:id="itemT55p1082b0201"><title>梵字多羅真言一本</title></item>
 <lb n="1082b03" ed="T"/><item xml:id="itemT55p1082b0301"><title>梵字馬頭明王真言一本</title></item>
 <lb n="1082b04" ed="T"/><item xml:id="itemT55p1082b0401"><title>梵字金剛童子真言一本</title></item>

@@ -290,8 +290,8 @@ add cvs log
 <lb n="1056b07" ed="T"/>調和雅。與天音同。氣韻清亮。為<note n="1056008" resp="Taisho" place="foot text" type="orig">人＝入【明】</note><note n="1056008" resp="CBETA" type="mod">人【大】，入【明】</note><app n="1056008"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【明】">入</rdg></app>軌則。</p>
 <lb n="1056b08" ed="T"/><p xml:id="pT54p1056b0801">或問。玄奘三藏義淨法師。西游梵國。東譯華
 <lb n="1056b09" ed="T"/>言。指其古翻。證曰舊訛。豈可初地龍樹論梵
-<lb n="1056b10" ed="T"/>音而不親<note n="1056009" resp="Taisho" place="foot text" type="orig">如以乃至吒二十字明本作本文</note><note n="1056009" resp="CBETA" type="mod">（如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒）二十字夾註【大】，（如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒）二十字本文【明】</note><app n="1056009"><lem wit="【大】"><note place="inline">如以耆闍名鷲。掘名頭。奘云訛也。<note n="1056010" resp="Taisho" place="foot text" type="orig">今＝合【明】</note><note n="1056010" resp="CBETA" type="mod">今【大】，合【明】</note><app n="1056010"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【明】">合</rdg></app>云姞栗羅矩吒</note></lem><rdg resp="Taisho" wit="【明】">如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒</rdg></app>。三賢羅什譯
-<lb n="1056b11" ed="T"/>秦言而未正<note n="1056011" resp="Taisho" place="foot text" type="orig">什譯乃至日明本作本文</note><note n="1056011" resp="CBETA" type="mod">(什譯羅睺羅為覆障奘譯羅怙羅為執日)【大】，（什譯羅睺羅為覆障奘譯羅怙羅為執日）本文【明】</note><app n="1056011"><lem wit="【大】"><note place="inline">什譯羅睺羅為覆障。奘譯羅怙羅為執日</note></lem><rdg resp="Taisho" wit="【明】">什譯羅睺羅為覆障奘譯羅怙羅為執日</rdg></app>。既皆紕繆。安
+<lb n="1056b10" ed="T"/>音而不親<note n="1056009" resp="Taisho" place="foot text" type="orig">如以乃至吒二十字明本作本文</note><note n="1056009" resp="CBETA" type="mod">(如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒)【大】，如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒【明】</note><app n="1056009"><lem wit="【大】"><note place="inline">如以耆闍名鷲。掘名頭。奘云訛也。<note n="1056010" resp="Taisho" place="foot text" type="orig">今＝合【明】</note><note n="1056010" resp="CBETA" type="mod">今【大】，合【明】</note><app n="1056010"><lem wit="【大】">今</lem><rdg resp="Taisho" wit="【明】">合</rdg></app>云姞栗羅矩吒</note></lem><rdg resp="Taisho" wit="【明】">如以耆闍名鷲掘名頭奘云訛也今云姞栗羅矩吒</rdg></app>。三賢羅什譯
+<lb n="1056b11" ed="T"/>秦言而未正<note n="1056011" resp="Taisho" place="foot text" type="orig">什譯乃至日明本作本文</note><note n="1056011" resp="CBETA" type="mod">(什譯羅睺羅為覆障奘譯羅怙羅為執日)【大】，什譯羅睺羅為覆障奘譯羅怙羅為執日【明】</note><app n="1056011"><lem wit="【大】"><note place="inline">什譯羅睺羅為覆障。奘譯羅怙羅為執日</note></lem><rdg resp="Taisho" wit="【明】">什譯羅睺羅為覆障奘譯羅怙羅為執日</rdg></app>。既皆紕繆。安
 <lb n="1056b12" ed="T"/>得感通。澤及古今福資幽顯。今試釋曰。秦楚
 <lb n="1056b13" ed="T"/>之國。筆<note n="1056012" resp="Taisho" place="foot text" type="orig">聿＝韋【甲】</note><note n="1056012" resp="CBETA" type="mod">聿【大】，韋【甲】</note><app n="1056012"><lem wit="【大】">聿</lem><rdg resp="Taisho" wit="【甲】">韋</rdg></app>名殊。殷夏之時。文質體別。況其
 <lb n="1056b14" ed="T"/>五印度別千載日遙。時移俗化。言變名遷。遂
@@ -1903,7 +1903,7 @@ add cvs log
 <lb n="1074b01" ed="T"/>妙法。蓋師之力。生長法身。出功德財。養智慧
 <lb n="1074b02" ed="T"/>命。功莫大焉。又和尚亦翻近誦。以弟子年少
 <lb n="1074b03" ed="T"/>不離於師。常逐常近。受經而誦。善見云。和尚
-<lb n="1074b04" ed="T"/>外國語。漢言知有罪知無罪也<note n="1074003" resp="Taisho" place="foot text" type="orig">明了乃至也二十五字明本作本文</note><note n="1074003" resp="CBETA" type="mod">（明了論本云優波陀訶翻為依學依此人學戒定惠故即和尚也）二十五字夾註【大】，（明了論本云優波陀訶翻為依學依此人學戒定惠故即和尚也）二十五字本文【明】</note><app n="1074003"><lem wit="【大】"><note place="inline">明了論本云。優波陀訶翻為依學。依
+<lb n="1074b04" ed="T"/>外國語。漢言知有罪知無罪也<note n="1074003" resp="Taisho" place="foot text" type="orig">明了乃至也二十五字明本作本文</note><note n="1074003" resp="CBETA" type="mod">(明了論本云優波陀訶翻為依學依此人學戒定惠故即和尚也)【大】，明了論本云優波陀訶翻為依學依此人學戒定惠故即和尚也【明】</note><app n="1074003"><lem wit="【大】"><note place="inline">明了論本云。優波陀訶翻為依學。依
 <lb n="1074b05" ed="T"/>此人學戒定惠故。即和尚也</note></lem><rdg resp="Taisho" wit="【明】">明了論本云優波陀訶翻為依學依此人學戒定惠故即和尚也</rdg></app>。義淨云。鄔波陀耶。此云親教師。
 <lb n="1074b06" ed="T"/>由能教離出世業故。故和尚有二種。一親教
 <lb n="1074b07" ed="T"/>即受業也。二依止即稟學也。毘奈耶云。弟子
@@ -2998,7 +2998,7 @@ add cvs log
 <lb n="1086b18" ed="T"/><p xml:id="pT54p1086b1801">鉢健提。此云堅固。</p>
 <lb n="1086b19" ed="T"/><p xml:id="pT54p1086b1901"><note n="1086018" resp="Taisho" place="foot text" type="orig">Malla.</note><foreign n="1086018" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Malla.</foreign>婆里旱。梁云力士。又梵云末羅。此云力。言
 <lb n="1086b20" ed="T"/>力士者。梵本無文。譯人義立。</p>
-<lb n="1086b21" ed="T"/><p xml:id="pT54p1086b2101"><note n="1086019" resp="Taisho" place="foot text" type="orig">Nārāyaṇa.</note><foreign n="1086019" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Nārāyaṇa.</foreign>那羅延。翻鉤鎖力士<note n="1086020" resp="Taisho" place="foot text" type="orig">或翻堅固四字明本作本文</note><note n="1086020" resp="CBETA" type="mod">（或翻堅固）四字夾註【大】，（或翻堅固）四字本文【明】</note><app n="1086020"><lem wit="【大】"><note place="inline">或翻堅固</note></lem><rdg resp="Taisho" wit="【明】">或翻堅固</rdg></app>。</p>
+<lb n="1086b21" ed="T"/><p xml:id="pT54p1086b2101"><note n="1086019" resp="Taisho" place="foot text" type="orig">Nārāyaṇa.</note><foreign n="1086019" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Nārāyaṇa.</foreign>那羅延。翻鉤鎖力士<note n="1086020" resp="Taisho" place="foot text" type="orig">或翻堅固四字明本作本文</note><note n="1086020" resp="CBETA" type="mod">(或翻堅固)【大】，或翻堅固【明】</note><app n="1086020"><lem wit="【大】"><note place="inline">或翻堅固</note></lem><rdg resp="Taisho" wit="【明】">或翻堅固</rdg></app>。</p>
 <lb n="1086b22" ed="T"/><p xml:id="pT54p1086b2201">摩尼跋陀。翻威伏行。</p>
 <lb n="1086b23" ed="T"/><p xml:id="pT54p1086b2301">富那跋陀。翻集至成。</p>
 <lb n="1086b24" ed="T"/><p xml:id="pT54p1086b2401">金毘羅翻威如王。</p>
@@ -3183,7 +3183,7 @@ add cvs log
 <lb n="1088b23" ed="T"/>不成熟。令牛群不增不得安隱。佛答。牧牛有
 <lb n="1088b24" ed="T"/>十一事。頌曰。解色與相應<note place="inline">二</note>摩刷覆瘡痍<note place="inline">二</note>放
 <lb n="1088b25" ed="T"/>煙<note n="1088018" resp="Taisho" place="foot text" type="orig">並＝并【明】＊</note><note n="1088018" resp="CBETA" type="mod">並【大】＊，并【明】＊</note><app n="1088018"><lem wit="【大】">並</lem><rdg resp="Taisho" wit="【明】">并</rdg></app>茂草<note place="inline">二</note>安隱及度處<note place="inline">二</note>時宜留取餘<note place="inline">二</note>將
-<lb n="1088b26" ed="T"/>護於大牛<note place="inline">一</note>比丘亦如是。知四大造色<note n="1088019" resp="Taisho" place="foot text" type="orig">一明本作夾註次下同</note><note n="1088019" resp="CBETA" type="mod">（一）本文【大】下同，（一）夾註【明】下同</note><app n="1088019"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】"><note place="inline">一</note></rdg></app>。善
+<lb n="1088b26" ed="T"/>護於大牛<note place="inline">一</note>比丘亦如是。知四大造色<note n="1088019" resp="Taisho" place="foot text" type="orig">一明本作夾註次下同</note><note n="1088019" resp="CBETA" type="mod">一【大】下同，(一)【明】下同</note><app n="1088019"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【明】"><note place="inline">一</note></rdg></app>。善
 <lb n="1088b27" ed="T"/>別愚智相一。摩刷六情根一。善覆十善相一。
 <lb n="1088b28" ed="T"/>傳所誦為烟一。四意止茂草一。十二部安處
 <lb n="1088b29" ed="T"/>一。八聖道度處一。莫受輕賤請。名曰知時宜
@@ -4235,7 +4235,7 @@ add cvs log
 <lb n="1100a25" ed="T"/>須菩提若江河大海。四邊水斷。是為洲。須菩
 <lb n="1100a26" ed="T"/>提。色亦如是。前後際斷。大論云。世間洲者。如
 <lb n="1100a27" ed="T"/>洲四邊無地。色等法亦如是。前後皆不可得。
-<lb n="1100a28" ed="T"/>中間亦如。或言洲潬<note n="1100004" resp="Taisho" place="foot text" type="orig">〔徒亶〕－【明】</note><note n="1100004" resp="CBETA" type="mod">徒亶【大】，〔－〕【明】</note><app n="1100004"><lem wit="【大】"><note place="inline">徒亶</note></lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>者<note n="1100005" resp="Taisho" place="foot text" type="orig">爾雅乃至洲十四字明本作本文</note><note n="1100005" resp="CBETA" type="mod">（爾雅謂水內沙堆也渚者爾雅小洲）十四字夾註【大】，（爾雅謂水內沙堆也渚者爾雅小洲）十四字本文【明】</note><app n="1100005"><lem wit="【大】"><note place="inline">爾雅謂水內沙堆也。渚者。爾雅小
+<lb n="1100a28" ed="T"/>中間亦如。或言洲潬<note n="1100004" resp="Taisho" place="foot text" type="orig">〔徒亶〕－【明】</note><note n="1100004" resp="CBETA" type="mod">徒亶【大】，〔－〕【明】</note><app n="1100004"><lem wit="【大】"><note place="inline">徒亶</note></lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>者<note n="1100005" resp="Taisho" place="foot text" type="orig">爾雅乃至洲十四字明本作本文</note><note n="1100005" resp="CBETA" type="mod">(爾雅謂水內沙堆也渚者爾雅小洲)【大】，爾雅謂水內沙堆也渚者爾雅小洲【明】</note><app n="1100005"><lem wit="【大】"><note place="inline">爾雅謂水內沙堆也。渚者。爾雅小
 <lb n="1100a29" ed="T"/>洲</note></lem><rdg resp="Taisho" wit="【明】">爾雅謂水內沙堆也渚者爾雅小洲</rdg></app>曰渚。大涅槃云。譬如商人。欲至寶渚。不知
 <pb n="1100b" xml:id="T54.2131.1100b" ed="T"/>
 <lb n="1100b01" ed="T"/>道路有人示之。即至寶渚。乃獲諸珍。大般涅
@@ -5012,8 +5012,8 @@ add cvs log
 <lb n="1108c22" ed="T"/>有王。名師子蘇陀婆。食種種肉。遂至食人。
 <lb n="1108c23" ed="T"/>臣民不堪。即便謀反。斷其俸祿。以食肉者。有
 <lb n="1108c24" ed="T"/>如是過故。不應食肉。一切肉與葱及諸韮蒜
-<lb n="1108c25" ed="T"/>等。種種放逸酒。修行常遠離<note n="1108017" resp="Taisho" place="foot text" type="orig">善見論云四字明本作本文</note><note n="1108017" resp="CBETA" type="mod">（善見論云）四字夾註【大】，（善見論云）四字本文【明】</note><app n="1108017"><lem wit="【大】"><note place="inline">善見論云</note></lem><rdg resp="Taisho" wit="【明】">善見論云</rdg></app>食大蒜。咽
-<lb n="1108c26" ed="T"/>咽得提餘細薤葱不犯<note n="1108018" resp="Taisho" place="foot text" type="orig">西域記云四字明本作本文</note><note n="1108018" resp="CBETA" type="mod">（西域記云）四字夾註【大】，（西域記云）四字本文【明】</note><app n="1108018"><lem wit="【大】"><note place="inline">西域記云</note></lem><rdg resp="Taisho" wit="【明】">西域記云</rdg></app>。菜則有薑芥苽瓠
+<lb n="1108c25" ed="T"/>等。種種放逸酒。修行常遠離<note n="1108017" resp="Taisho" place="foot text" type="orig">善見論云四字明本作本文</note><note n="1108017" resp="CBETA" type="mod">(善見論云)【大】，善見論云【明】</note><app n="1108017"><lem wit="【大】"><note place="inline">善見論云</note></lem><rdg resp="Taisho" wit="【明】">善見論云</rdg></app>食大蒜。咽
+<lb n="1108c26" ed="T"/>咽得提餘細薤葱不犯<note n="1108018" resp="Taisho" place="foot text" type="orig">西域記云四字明本作本文</note><note n="1108018" resp="CBETA" type="mod">(西域記云)【大】，西域記云【明】</note><app n="1108018"><lem wit="【大】"><note place="inline">西域記云</note></lem><rdg resp="Taisho" wit="【明】">西域記云</rdg></app>。菜則有薑芥苽瓠
 <lb n="1108c27" ed="T"/>葷陀菜等。葱蒜雖少噉食亦希。家有食者。驅
 <lb n="1108c28" ed="T"/>令出郭<note n="1108019" resp="Taisho" place="foot text" type="orig">佛設乃至制四十四字明本作本文</note><note n="1108019" resp="CBETA" type="mod"><!--CBETA todo type: a-->佛設乃至制四十四字明本作本文</note><note place="inline">佛設漸化通。食三種淨肉。所謂一不見殺。二不聞殺。三不疑殺。或言五淨。加自死肉及鳥
 <lb n="1108c29" ed="T"/>殘肉。楞伽梵網並皆斷制</note>。</p>
@@ -6887,7 +6887,7 @@ add cvs log
 <lb n="1129c06" ed="T"/>有教有行無證名像法。像者似也。但有於教。
 <lb n="1129c07" ed="T"/>而無行證。名為末法。行事鈔云。顯理之教。大
 <lb n="1129c08" ed="T"/>分為二。一謂化教。此則通於道俗。二謂行教。
-<lb n="1129c09" ed="T"/><note n="1129008" resp="Taisho" place="foot text" type="orig">亦名制教四字明本作本文</note><note n="1129008" resp="CBETA" type="mod">（亦名制教）四字夾註【大】，（亦名制教）四字本文【明】</note><app n="1129008"><lem wit="【大】"><note place="inline">亦名制教</note></lem><rdg resp="Taisho" wit="【明】">亦名制教</rdg></app>雖局於內眾。大乘入楞伽云。教由理故
+<lb n="1129c09" ed="T"/><note n="1129008" resp="Taisho" place="foot text" type="orig">亦名制教四字明本作本文</note><note n="1129008" resp="CBETA" type="mod">(亦名制教)【大】，亦名制教【明】</note><app n="1129008"><lem wit="【大】"><note place="inline">亦名制教</note></lem><rdg resp="Taisho" wit="【明】">亦名制教</rdg></app>雖局於內眾。大乘入楞伽云。教由理故
 <lb n="1129c10" ed="T"/>成。理由教故顯。當依此教理。勿更餘分別。</p>
 <lb n="1129c11" ed="T"/><p xml:id="pT54p1129c1101"><note n="1129009" resp="Taisho" place="foot text" type="orig">Dharmadhātu.</note><foreign n="1129009" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Dharmadhātu.</foreign>達磨馱都。此云法界。妙樂云。所詮無外。故
 <lb n="1129c12" ed="T"/>名法界。賢首云。依生聖法。故云法界。清涼
@@ -7489,7 +7489,7 @@ add cvs log
 <lb n="1136b10" ed="T"/>論曰。即知一切五眾不可得。華嚴唱娑<note place="inline">同前</note>
 <lb n="1136b11" ed="T"/>迦<app type="star" corresp="#1136014"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【明】">字時</rdg></app>。名廣大藏無礙辯。光明輪遍照。疏云。
 <lb n="1136b12" ed="T"/>即積聚蘊性。</p>
-<lb n="1136b13" ed="T"/><p xml:id="pT54p1136b1301">醝<note n="1136015" resp="Taisho" place="foot text" type="orig">倉我切明本作夾註</note><note n="1136015" resp="CBETA" type="mod">（倉我切）本文【大】，（倉我切）夾註【明】</note><app n="1136015"><lem wit="【大】">倉我切</lem><rdg resp="Taisho" wit="【明】"><note place="inline">倉我切</note></rdg></app>。大品醝字門。入諸法醝字不可得
+<lb n="1136b13" ed="T"/><p xml:id="pT54p1136b1301">醝<note n="1136015" resp="Taisho" place="foot text" type="orig">倉我切明本作夾註</note><note n="1136015" resp="CBETA" type="mod">倉我切【大】，(倉我切)【明】</note><app n="1136015"><lem wit="【大】">倉我切</lem><rdg resp="Taisho" wit="【明】"><note place="inline">倉我切</note></rdg></app>。大品醝字門。入諸法醝字不可得
 <lb n="1136b14" ed="T"/>故。論曰。即知醝字空。諸法亦爾。華嚴唱也
 <lb n="1136b15" ed="T"/><note place="inline">夷舸切</note>娑<note place="inline">蘇舸切</note><app type="star" corresp="#1136014"><lem wit="【大】">字</lem><rdg resp="Taisho" wit="【明】">字時</rdg></app>。名宣說一切佛法境界。疏云。
 <lb n="1136b16" ed="T"/>即衰老性相。</p>
@@ -8444,7 +8444,7 @@ add cvs log
 <lb n="1147a05" ed="T"/>大周長壽二年。主上權制此文。著於天樞音
 <lb n="1147a06" ed="T"/>之為萬。謂吉祥萬德之所集也。經中上下據
 <lb n="1147a07" ed="T"/>漢本總一十七字。同呼為萬。依梵文有二十
-<lb n="1147a08" ed="T"/>八相<note n="1147002" resp="Taisho" place="foot text" type="orig">云云二字明本作本文</note><note n="1147002" resp="CBETA" type="mod">（云云）二字夾註【大】，（云云）二字本文【明】</note><app n="1147002"><lem wit="【大】"><note place="inline">云云</note></lem><rdg resp="Taisho" wit="【明】">云云</rdg></app>。</p>
+<lb n="1147a08" ed="T"/>八相<note n="1147002" resp="Taisho" place="foot text" type="orig">云云二字明本作本文</note><note n="1147002" resp="CBETA" type="mod">(云云)【大】，云云【明】</note><app n="1147002"><lem wit="【大】"><note place="inline">云云</note></lem><rdg resp="Taisho" wit="【明】">云云</rdg></app>。</p>
 <lb n="1147a09" ed="T"/><p xml:id="pT54p1147a0901"><g ref="#CB07734"/>。苑師云。此是西域萬字。佛胸前吉祥相也
 <lb n="1147a10" ed="T"/><note n="1147003" resp="Taisho" place="foot text" type="orig"><g ref="#CB14566"/>＝<g ref="#CB14567"/>【明】＊</note><note n="1147003" resp="CBETA" type="mod"><g ref="#CB07817"/>【大】＊，<g ref="#CB14567"/>【明】＊</note><app n="1147003"><lem wit="【大】"><g ref="#CB07817"/></lem><rdg resp="Taisho" wit="【明】"><g ref="#CB14567"/></rdg></app>。音萬。是吉祥勝德之相。由髮右旋而生。
 <lb n="1147a11" ed="T"/>似<app type="star" corresp="#1147003"><lem wit="【大】"><g ref="#CB07817"/></lem><rdg resp="Taisho" wit="【明】"><g ref="#CB14567"/></rdg></app>字。梵云塞縛悉底迦。此云有樂。有此
@@ -9804,7 +9804,7 @@ add cvs log
 <lb n="1162a25" ed="T"/>明異。梵王天眼是通非明。羅漢天眼是通是
 <lb n="1162a26" ed="T"/>明。又淨名疏問。梵王天眼見大千界與法華
 <lb n="1162a27" ed="T"/>肉眼何異。答大論明。報生天眼在肉眼中。天
-<lb n="1162a28" ed="T"/>眼開闢<note n="1162002" resp="Taisho" place="foot text" type="orig">見廣由天四字明本作本文</note><note n="1162002" resp="CBETA" type="mod">（見廣由天）四字夾註【大】，（見廣由天）四字本文【明】</note><app n="1162002"><lem wit="【大】"><note place="inline">見廣由天</note></lem><rdg resp="Taisho" wit="【明】">見廣由天</rdg></app>肉眼見色。故見大千。大品明。菩
+<lb n="1162a28" ed="T"/>眼開闢<note n="1162002" resp="Taisho" place="foot text" type="orig">見廣由天四字明本作本文</note><note n="1162002" resp="CBETA" type="mod">(見廣由天)【大】，見廣由天【明】</note><app n="1162002"><lem wit="【大】"><note place="inline">見廣由天</note></lem><rdg resp="Taisho" wit="【明】">見廣由天</rdg></app>肉眼見色。故見大千。大品明。菩
 <lb n="1162a29" ed="T"/>薩肉眼見百由旬乃至大千。過此則用天眼。
 <pb n="1162b" xml:id="T54.2131.1162b" ed="T"/>
 <lb n="1162b01" ed="T"/>以肉眼與風相違故不說見他土。若法華經
@@ -10082,7 +10082,7 @@ add cvs log
 <lb n="1165b03" ed="T"/>火。驟隙之迅駒。風裏之微燈。草頭之朝露。臨
 <lb n="1165b04" ed="T"/>崖之朽樹。爍目之電光。若不遇於正法。必永
 <lb n="1165b05" ed="T"/>墜於幽途。</p>
-<lb n="1165b06" ed="T"/><p xml:id="pT54p1165b0601"><note n="1165002" resp="Taisho" place="foot text" type="orig">Jātimṛtyu(?)</note><foreign cb:cert="?" n="1165002" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Jātimṛtyu</foreign>闍提闍。<note n="1165003" resp="Taisho" place="foot text" type="orig">音社＝社音（夾註）【明】</note><note n="1165003" resp="CBETA" type="mod">音社【大】，（社音）夾註【明】</note><app n="1165003"><lem wit="【大】">音社</lem><rdg resp="Taisho" wit="【明】"><note place="inline">社音</note></rdg></app><note n="1165004" resp="Taisho" place="foot text" type="orig">此＋（翻）【明】</note><note n="1165004" resp="CBETA" type="mod">此【大】，此翻【明】</note><app n="1165004"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【明】">此翻</rdg></app>云生死。</p>
+<lb n="1165b06" ed="T"/><p xml:id="pT54p1165b0601"><note n="1165002" resp="Taisho" place="foot text" type="orig">Jātimṛtyu(?)</note><foreign cb:cert="?" n="1165002" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Jātimṛtyu</foreign>闍提闍。<note n="1165003" resp="Taisho" place="foot text" type="orig">音社＝社音（夾註）【明】</note><note n="1165003" resp="CBETA" type="mod">音社【大】，(社音)【明】</note><app n="1165003"><lem wit="【大】">音社</lem><rdg resp="Taisho" wit="【明】"><note place="inline">社音</note></rdg></app><note n="1165004" resp="Taisho" place="foot text" type="orig">此＋（翻）【明】</note><note n="1165004" resp="CBETA" type="mod">此【大】，此翻【明】</note><app n="1165004"><lem wit="【大】">此</lem><rdg resp="Taisho" wit="【明】">此翻</rdg></app>云生死。</p>
 <lb n="1165b07" ed="T"/><p xml:id="pT54p1165b0701">仡<note n="1165005" resp="Taisho" place="foot text" type="orig">〔語乞〕－【明】</note><note n="1165005" resp="CBETA" type="mod">語乞【大】，〔－〕【明】</note><app n="1165005"><lem wit="【大】"><note place="inline">語乞</note></lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app>那。或<note n="1165006" resp="Taisho" place="foot text" type="orig">Janman.</note><foreign n="1165006" cb:resp="Taisho" xml:lang="sa" cb:place="foot">Janman.</foreign>繕摩。此翻生。瑜伽云。五蘊初
 <lb n="1165b08" ed="T"/>起。名之為生。依殼而起曰卵生。含藏而出號
 <lb n="1165b09" ed="T"/>胎生。假潤而興曰濕生。無而忽現名化生。如

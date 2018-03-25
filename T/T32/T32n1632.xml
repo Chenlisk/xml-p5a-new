@@ -115,7 +115,7 @@ Added comment  for Emacs
 <lb n="0023b02" ed="T"/><cb:docNumber>No. 1632</cb:docNumber><cb:div type="pin">
 <lb n="0023b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead>方便心論<note resp="Taisho" n="0023002" place="foot text" type="orig">一卷＝龍樹菩薩造【三】【宮】</note><note resp="CBETA" n="0023002" type="mod">一卷【大】，龍樹菩薩造【宋】【元】【明】【宮】</note><app n="0023002"><lem wit="【大】">一卷</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">龍樹菩薩造</rdg></app></cb:jhead></cb:juan>
 <lb n="0023b04" ed="T"/>
-<lb n="0023b05" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0023003" place="foot text" type="orig">（（後魏…譯））十字＝（（後魏建興年吉迦夜與曇曜譯））十二字【宋】【元】【宮】，（（後魏吉迦夜與曇曜譯））九字【明】</note><note resp="CBETA" n="0023003" type="mod">（後魏…譯）十字【大】，後魏建興年吉迦夜與曇曜譯【宋】【元】【宮】，<!--CBETA todo type: newmod-->（（後魏吉迦夜與曇曜譯））九字【明】</note><app n="0023003" cb:word-count="10"><lem wit="【大】">後魏西域三藏吉迦夜譯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">後魏建興年吉迦夜與曇曜譯</rdg><rdg resp="Taisho" wit="【明】">後魏吉迦夜與曇曜譯</rdg></app></byline>
+<lb n="0023b05" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0023003" place="foot text" type="orig">（（後魏…譯））十字＝（（後魏建興年吉迦夜與曇曜譯））十二字【宋】【元】【宮】，（（後魏吉迦夜與曇曜譯））九字【明】</note><note resp="CBETA" n="0023003" type="mod">（後魏…譯）十字【大】，後魏建興年吉迦夜與曇曜譯【宋】【元】【宮】，後魏吉迦夜與曇曜譯【明】</note><app n="0023003" cb:word-count="10"><lem wit="【大】">後魏西域三藏吉迦夜譯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">後魏建興年吉迦夜與曇曜譯</rdg><rdg resp="Taisho" wit="【明】">後魏吉迦夜與曇曜譯</rdg></app></byline>
 <lb n="0023b06" ed="T"/><cb:mulu n="1" level="1" type="品">1 明造論品</cb:mulu><head>明造論品第一</head>
 <lb n="0023b07" ed="T"/><lg xml:id="lgT32p0023b0701"><l>若能解此論，</l><l>則達諸論法，</l>
 <lb n="0023b08" ed="T"/><l>如是深遠義，</l><l>今當廣宣說。</l></lg>

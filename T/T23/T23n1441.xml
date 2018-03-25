@@ -2760,7 +2760,7 @@ Added comment  for Emacs
 <lb n="0593b21" ed="T"/><p xml:id="pT23p0593b2101">受具戒：應與受具戒、不應與受具戒，得具戒、
 <lb n="0593b22" ed="T"/>不得具戒。羯磨、羯磨事、羯磨處、非羯磨處，擯
 <lb n="0593b23" ed="T"/>羯磨、捨羯磨、苦切羯磨、出罪羯磨事。非<note n="0593005" resp="Taisho" type="orig" place="foot text">給＝奢【三】＊</note><note n="0593005" resp="CBETA" type="mod">給【大】＊，奢【宋】＊【元】＊【明】＊</note><app n="0593005"><lem wit="【大】">給</lem><rdg resp="Taisho" wit="【宋】【元】【明】">奢</rdg></app>
-<lb n="0593b24" ed="T"/>摩他事、<app type="star" corresp="#0593005"><lem wit="【大】">給</lem><rdg resp="Taisho" wit="【宋】【元】【明】">奢</rdg></app>摩他事。所作事、學、<note n="0593006" resp="Taisho" type="orig" place="foot text">（（非拾…戒））五字＝（（捨戒非捨戒捨））六字【三】，（捨戒）＋非【聖】</note><note n="0593006" resp="CBETA" type="mod">非捨戒捨戒【大】，捨戒非捨戒捨【宋】【元】【明】，捨戒非捨戒捨戒【聖】</note><app n="0593006"><lem wit="【大】">非捨戒、捨戒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">捨戒非捨戒捨</rdg><rdg resp="Taisho" wit="【聖】">捨戒非捨戒捨戒</rdg></app>，
+<lb n="0593b24" ed="T"/>摩他事、<app type="star" corresp="#0593005"><lem wit="【大】">給</lem><rdg resp="Taisho" wit="【宋】【元】【明】">奢</rdg></app>摩他事。所作事、學、<note n="0593006" resp="Taisho" type="orig" place="foot text">（（非拾…戒））五字＝（（捨戒非捨戒捨））六字【三】，（捨戒）＋非【聖】</note><note n="0593006" resp="CBETA" type="mod">非捨戒捨戒【大】，捨戒非捨戒捨【宋】【元】【明】，<!--CBETA todo type: newmod-->（捨戒）＋非【聖】</note><app n="0593006"><lem wit="【大】">非捨戒、捨戒</lem><rdg resp="Taisho" wit="【宋】【元】【明】">捨戒非捨戒捨</rdg><rdg resp="Taisho" wit="【聖】">捨戒非捨戒捨戒</rdg></app>，
 <lb n="0593b25" ed="T"/>戒羸、戒<note n="0593b2501" resp="CBETA" type="add">［－］【CB】，非【大】</note><app n="0593b2501"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【大】">非</rdg></app>羸<note n="0593007" resp="Taisho" type="orig" place="foot text">〔非〕－【三】【聖】</note><note n="0593007" resp="CBETA" type="mod">非【大】，〔－〕【宋】【元】【明】【聖】</note><app n="0593007"><lem wit="【大】">非</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】"><space quantity="0"/></rdg></app>捨戒。諍、攝諍事，諍<note n="0593008" resp="Taisho" type="orig" place="foot text">事不滅＝不滅事【三】【聖】</note><note n="0593008" resp="CBETA" type="mod">事不滅【大】，不滅事【宋】【元】【明】【聖】</note><app n="0593008"><lem wit="【大】">事不滅</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">不滅事</rdg></app>、
 <lb n="0593b26" ed="T"/>諍已滅事。說、不說。受。為狂人羯磨、為非狂
 <lb n="0593b27" ed="T"/>人羯磨。墮信施。不現前羯磨。羯磨、懺罪。白、<note n="0593009" resp="Taisho" type="orig" place="foot text">〔白〕－【三】【聖】</note><note n="0593009" resp="CBETA" type="mod">白【大】，〔－〕【宋】【元】【明】【聖】</note><app n="0593009"><lem wit="【大】">白</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】"><space quantity="0"/></rdg></app>
@@ -4726,7 +4726,7 @@ Added comment  for Emacs
 <lb n="0615b05" ed="T"/>答：「有。謂學戒人。」</p>
 <lb n="0615b06" ed="T"/><p xml:id="pT23p0615b0601">問：「若比丘獨入房，得四波羅夷耶？」答：「有。先作
 <lb n="0615b07" ed="T"/>偷盜方便、殺生方便，知我入房時阿羅漢，自
-<lb n="0615b08" ed="T"/>根長。」</p><p xml:id="pT23p0615b0803" rend="inline"><note n="0615005" resp="Taisho" type="orig" place="foot text">問四波羅夷竟明本作夾註</note><note n="0615005" resp="CBETA" type="mod">（問四波羅夷竟）本文【大】，（問四波羅夷竟）夾註【明】</note><app n="0615005"><lem wit="【大】">問四波羅夷竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問四波羅夷竟</note></rdg></app>。</p></cb:div>
+<lb n="0615b08" ed="T"/>根長。」</p><p xml:id="pT23p0615b0803" rend="inline"><note n="0615005" resp="Taisho" type="orig" place="foot text">問四波羅夷竟明本作夾註</note><note n="0615005" resp="CBETA" type="mod">問四波羅夷竟【大】，(問四波羅夷竟)【明】</note><app n="0615005"><lem wit="【大】">問四波羅夷竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問四波羅夷竟</note></rdg></app>。</p></cb:div>
 <lb n="0615b09" ed="T"/><cb:div type="other"><cb:mulu level="1" n="27" type="其他">27 問十三僧伽婆尸沙</cb:mulu><cb:mulu level="2">1</cb:mulu><head>問十三僧伽婆尸沙</head>
 <lb n="0615b10" ed="T"/><p xml:id="pT23p0615b1001">問：「若比丘行時精出，得何罪？」答：「不犯。覺時
 <lb n="0615b11" ed="T"/>方便、眠時精出，偷羅遮。覺時方便、覺時出，於
@@ -5146,7 +5146,7 @@ Added comment  for Emacs
 <lb n="0620a04" ed="T"/>七日服。時藥時服，非<note n="0620002" resp="Taisho" type="orig" place="foot text">時藥非＝非時服時藥【三】</note><note n="0620002" resp="CBETA" type="mod">時藥非【大】，非時服時藥【宋】【元】【明】</note><app n="0620002"><lem wit="【大】">時藥非</lem><rdg resp="Taisho" wit="【宋】【元】【明】">非時服時藥</rdg></app>時藥服。七日
 <lb n="0620a05" ed="T"/>藥七日藥服，終身藥終身藥服，施合施應分
 <lb n="0620a06" ed="T"/>別。」</p>
-<lb n="0620a07" ed="T"/><p xml:id="pT23p0620a0701"><note n="0620003" resp="Taisho" type="orig" place="foot text">三十事竟明本作夾註</note><note n="0620003" resp="CBETA" type="mod">（三十事竟）本文【大】，（三十事竟）夾註【明】</note><app n="0620003"><lem wit="【大】">三十事竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">三十事竟</note></rdg></app>。</p></cb:div>
+<lb n="0620a07" ed="T"/><p xml:id="pT23p0620a0701"><note n="0620003" resp="Taisho" type="orig" place="foot text">三十事竟明本作夾註</note><note n="0620003" resp="CBETA" type="mod">三十事竟【大】，(三十事竟)【明】</note><app n="0620003"><lem wit="【大】">三十事竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">三十事竟</note></rdg></app>。</p></cb:div>
 <lb n="0620a08" ed="T"/><cb:div type="other"><cb:mulu level="1" n="29" type="其他">29 問波夜提</cb:mulu><cb:mulu level="2">1</cb:mulu><p xml:id="pT23p0620a0801"><note n="0620004" resp="Taisho" type="orig" place="foot text">（問波夜提）＋問【明】</note><note n="0620004" resp="CBETA" type="mod">問【大】，問波夜提問【明】</note><app n="0620004"><lem wit="【大】">問</lem><rdg resp="Taisho" wit="【明】">問波夜提問</rdg></app>：「若比丘作外道服<note n="0620005" resp="Taisho" type="orig" place="foot text">式＝成【三】</note><note n="0620005" resp="CBETA" type="mod">式【大】，成【宋】【元】【明】</note><app n="0620005"><lem wit="【大】">式</lem><rdg resp="Taisho" wit="【宋】【元】【明】">成</rdg></app>，捨戒不？」答：「不捨戒，
 <lb n="0620a09" ed="T"/>犯偷羅遮。若人問：『汝是誰？』答：『是外道。』故妄語，
 <lb n="0620a10" ed="T"/>波夜提。」</p>
@@ -5702,7 +5702,7 @@ Added comment  for Emacs
 <lb n="0626a19" ed="T"/>縫著床解去，波夜提<note n="0626002" resp="Taisho" type="orig" place="foot text">〔悔〕－【三】</note><note n="0626002" resp="CBETA" type="mod">悔【大】，〔－〕【宋】【元】【明】</note><app n="0626002"><lem wit="【大】">悔</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>。頗有不解去不犯
 <lb n="0626a20" ed="T"/>耶？」答：「有。若以餘物作，突吉羅。雨衣戒、覆瘡衣
 <lb n="0626a21" ed="T"/>戒、尼師<note n="0626003" resp="Taisho" type="orig" place="foot text">檀＝壇【三】</note><note n="0626003" resp="CBETA" type="mod">檀【大】，壇【宋】【元】【明】</note><app n="0626003"><lem wit="【大】">檀</lem><rdg resp="Taisho" wit="【宋】【元】【明】">壇</rdg></app>戒、佛衣等量戒，不淨亦如是。」</p>
-<lb n="0626a22" ed="T"/><p xml:id="pT23p0626a2201"><note n="0626004" resp="Taisho" type="orig" place="foot text">問波夜提竟明本作夾註</note><note n="0626004" resp="CBETA" type="mod">（問波夜提竟）本文【大】，（問波夜提竟）夾註【明】</note><app n="0626004"><lem wit="【大】">問波夜提竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問波夜提竟</note></rdg></app>。</p></cb:div>
+<lb n="0626a22" ed="T"/><p xml:id="pT23p0626a2201"><note n="0626004" resp="Taisho" type="orig" place="foot text">問波夜提竟明本作夾註</note><note n="0626004" resp="CBETA" type="mod">問波夜提竟【大】，(問波夜提竟)【明】</note><app n="0626004"><lem wit="【大】">問波夜提竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問波夜提竟</note></rdg></app>。</p></cb:div>
 <lb n="0626a23" ed="T"/><cb:div type="other"><cb:mulu level="1" n="30" type="其他">30 問波羅提提舍尼事</cb:mulu><head>問波羅提提舍尼事</head>
 <lb n="0626a24" ed="T"/><p xml:id="pT23p0626a2401">白衣舍，從三種人邊受食，突吉羅，謂賊住人、
 <lb n="0626a25" ed="T"/>本犯戒人、本不和合人。比丘在空中受食，比
@@ -5719,7 +5719,7 @@ Added comment  for Emacs
 <lb n="0626b06" ed="T"/>「無。」界外受，不犯。若道中食，不犯。比丘遮居
 <lb n="0626b07" ed="T"/>士言：「莫入。」自入不犯。比丘若狂，不犯。</p>
 <lb n="0626b08" ed="T"/><p xml:id="pT23p0626b0801">問：「頗有比丘學家中受食不犯耶？」答：「有。若先
-<lb n="0626b09" ed="T"/>請、若病，不犯。」</p><p xml:id="pT23p0626b0906" rend="inline"><note n="0626005" resp="Taisho" type="orig" place="foot text">（波羅…竟）七字＝（（問波羅提提舍尼事竟））九字夾註【明】</note><note n="0626005" resp="CBETA" type="mod">（波羅…竟）七字【大】，（（問波羅提提舍尼事竟））九字夾註【明】</note><app n="0626005" cb:word-count="7"><lem wit="【大】">波羅提提舍尼竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問波羅提提舍尼事竟</note></rdg></app>。</p>
+<lb n="0626b09" ed="T"/>請、若病，不犯。」</p><p xml:id="pT23p0626b0906" rend="inline"><note n="0626005" resp="Taisho" type="orig" place="foot text">（波羅…竟）七字＝（（問波羅提提舍尼事竟））九字夾註【明】</note><note n="0626005" resp="CBETA" type="mod">（波羅…竟）七字【大】，(問波羅提提舍尼事竟)【明】</note><app n="0626005" cb:word-count="7"><lem wit="【大】">波羅提提舍尼竟</lem><rdg resp="Taisho" wit="【明】"><note place="inline">問波羅提提舍尼事竟</note></rdg></app>。</p>
 <lb n="0626b10" ed="T"/><p xml:id="pT23p0626b1001">毘尼摩得勒伽略說七千偈，一偈有三十二
 <lb n="0626b11" ed="T"/>字，七千偈便有二十二萬四千言，十卷成。</p></cb:div>
 <lb n="0626b12" ed="T"/><cb:juan n="010" fun="close"><cb:jhead><title><anchor xml:id="fxT23p0626b01"/>薩婆多部毘尼摩得勒伽</title>卷第十</cb:jhead></cb:juan>

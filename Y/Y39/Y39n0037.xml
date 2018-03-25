@@ -178,7 +178,7 @@
 <lb n="0007a05" ed="Y"/><title level="m">《甚希有經》</title>，是同本異譯。</p>
 <lb n="0007a06" ed="Y"/><p rend="text-indent:2em">15<title level="m">《勝天王般若波羅蜜經》</title>，七卷，陳天嘉六年（西元五六五），月婆首那（<foreign xml:lang="sa">Upaśūnya</foreign>）
 <lb n="0007a07" ed="Y"/>譯。唐顯慶五年、龍朔二年間（西元六六〇——六六三），唐玄奘所譯<bibl>《<title level="m">大般若波羅蜜多經</title>．
-<lb n="0007a08" ed="Y"/>第六分》</bibl>，八卷（當<bibl><choice cb:type="規範字詞"><orig>大經</orig><reg><title level="m">《大般若波羅蜜多經》</title></reg></choice><biblScope type="卷" from="566" to="573">五六六——五七三卷</biblScope></bibl>），就是<title level="m">《勝天王般若經》</title>的再譯。本經是<title level="m">《寶雲
+<lb n="0007a08" ed="Y"/>第六分》</bibl>，八卷（當<bibl><note n="0007a0801" resp="CBETA" type="add" subtype="規範字詞"><title level="m">大般若波羅蜜多經</title>【CB】，大經【印順】</note><app n="0007a0801"><lem wit="【CB】" resp="CBETA"><title level="m">《大般若波羅蜜多經》</title></lem><rdg wit="【印順】">大經</rdg></app><biblScope type="卷" from="566" to="573">五六六——五七三卷</biblScope></bibl>），就是<title level="m">《勝天王般若經》</title>的再譯。本經是<title level="m">《寶雲
 <lb n="0007a09" ed="Y"/>經》</title>、<title level="m">《無上依經》</title>等纂集所成的<note n="0007008" resp="釋印順" type="orig">拙作<title level="m">《初期大乘佛教之起源與開展》</title>（<ref type="yinshun" target="vol:37;page:p610">六一〇</ref>——六一二）。</note>。</p>
 <lb n="0007a10" ed="Y"/><p rend="text-indent:2em">16<title level="m">《大乘密嚴經》</title>，三卷，唐永隆、垂拱元年間（西元六八〇——六八五），地婆訶羅
 <lb n="0007a11" ed="Y"/>（<foreign xml:lang="sa">Divākara</foreign>）譯。唐永泰元年（西元七六五），不空（<foreign xml:lang="sa">Amoghavajra</foreign>）再譯，也名為<title level="m">《大乘密嚴經》</title>
@@ -219,7 +219,7 @@
 <lb n="0009a14" ed="Y"/>佛功德——如來光明智慧莊嚴與淨土莊嚴，菩薩的自利行與利他行，都在這一願求下開展出來。
 <pb n="0010a" ed="Y" xml:id="Y39.0037.0010a"/>
 <lb n="0010a01" ed="Y"/>十方一切佛的功德莊嚴——理想中的佛陀，從菩薩行的實踐中實現出來，就是成佛。「初期大乘
-<lb n="0010a02" ed="Y"/>」中，廣說十方佛與十方淨土，一切法本來不生，無量數大劫修菩薩行，向普<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>、廣大、悠久、
+<lb n="0010a02" ed="Y"/>」中，廣說十方佛與十方淨土，一切法本來不生，無量數大劫修菩薩行，向普<note n="0010a0201" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0010a0201"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>、廣大、悠久、
 <lb n="0010a03" ed="Y"/>甚深而無限的展延。這樣的佛陀，窮深極廣，成佛是不太容易的吧！這應該是佛弟子所迫切關懷
 <lb n="0010a04" ed="Y"/>的。「佛法」，原本是直從眾生身心，引導修行而證入的。「從博返約」，「後期大乘」的如來
 <lb n="0010a05" ed="Y"/>藏說，也就以「初期大乘」所闡明的，窮深極廣的如來光明智慧莊嚴，直從眾生身心中點出。一
@@ -235,12 +235,12 @@
 <lb n="0010a15" ed="Y"/>」經中，多用法性（<foreign xml:lang="sa">dharmatā</foreign>）、（真）如（<foreign xml:lang="x-sa-pi">tathā</foreign>）、法界（<foreign xml:lang="sa">dharma-dhātu</foreign>）、實際（<foreign xml:lang="sa">bhūtakoṭi</foreign>）
 <pb n="0011a" ed="Y" xml:id="Y39.0037.0011a"/>
 <lb n="0011a01" ed="Y"/>等。這都是固有的名詞，到表示眾生本來有之的如來藏說興起，「胎藏」、「界藏」、「
-<lb n="0011a02" ed="Y"/>攝藏」的意義重要起來，成立新的名詞。如 <foreign xml:lang="sa">garbha</foreign> 是胎藏的藏：如來藏（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>tathāgata-g.</orig><reg>tathāgata-garbha</reg></choice></foreign>），佛藏
-<lb n="0011a03" ed="Y"/>（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>buddha-g.</orig><reg>buddha-garbha</reg></choice></foreign>），正覺藏（<foreign xml:lang="x-sa-pi">saṃbodhi-garbha</foreign>），勝者藏（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>jina-g.</orig><reg>jina-garbha</reg></choice></foreign>），法界藏（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>dharma-dhātu-g.</orig><reg>dharma-dhātu-garbha</reg></choice></foreign>）
-<lb n="0011a04" ed="Y"/>，出世間藏（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>lokôttara-g.</orig><reg>lokôttara-garbha</reg></choice></foreign>），性清淨藏（<foreign xml:lang="sa"><note n="0011a0401" resp="CBETA" type="add">prakṛti-pariśuddha-garbha【CB】，prakṛiti-pariśuddhi-g.【印順】</note><app n="0011a0401"><lem wit="【CB】" resp="正聞出版社">prakṛti-pariśuddha-garbha</lem><rdg wit="【印順】">prakṛiti-pariśuddhi-g.</rdg></app></foreign>）等，都是胎藏的藏。如來藏九
-<lb n="0011a05" ed="Y"/>種譬喻中，有貧女懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>輪王喻，是胎藏的根本意義：與種姓（<foreign xml:lang="sa">gotra</foreign>）說有關。如 <foreign xml:lang="x-sa-pi">dhātu</foreign> 是界藏
-<lb n="0011a06" ed="Y"/>的藏：佛界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>buddha-d.</orig><reg>buddha-dhātu</reg></choice></foreign>），如來界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>tathāgata-d.</orig><reg>tathāgata-dhātu</reg></choice></foreign>），法界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>dharma-d.</orig><reg>dharma-dhātu</reg></choice></foreign>），涅槃界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>nirvāṇa-d.</orig><reg>nirvāṇa-dhātu</reg></choice></foreign>）
-<lb n="0011a07" ed="Y"/>，眾生界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>sattva-d.</orig><reg>sattva-dhātu</reg></choice></foreign>），都依界藏得名。<foreign xml:lang="x-sa-pi">dhātu</foreign>，一般譯為界，如六界、十八界等，是最常
+<lb n="0011a02" ed="Y"/>攝藏」的意義重要起來，成立新的名詞。如 <foreign xml:lang="sa">garbha</foreign> 是胎藏的藏：如來藏（<foreign xml:lang="sa"><note n="0011a0201" resp="CBETA" type="add" subtype="規範字詞">tathāgata-garbha【CB】，tathāgata-g.【印順】</note><app n="0011a0201"><lem wit="【CB】" resp="CBETA">tathāgata-garbha</lem><rdg wit="【印順】">tathāgata-g.</rdg></app></foreign>），佛藏
+<lb n="0011a03" ed="Y"/>（<foreign xml:lang="sa"><note n="0011a0301" resp="CBETA" type="add" subtype="規範字詞">buddha-garbha【CB】，buddha-g.【印順】</note><app n="0011a0301"><lem wit="【CB】" resp="CBETA">buddha-garbha</lem><rdg wit="【印順】">buddha-g.</rdg></app></foreign>），正覺藏（<foreign xml:lang="x-sa-pi">saṃbodhi-garbha</foreign>），勝者藏（<foreign xml:lang="sa"><note n="0011a0302" resp="CBETA" type="add" subtype="規範字詞">jina-garbha【CB】，jina-g.【印順】</note><app n="0011a0302"><lem wit="【CB】" resp="CBETA">jina-garbha</lem><rdg wit="【印順】">jina-g.</rdg></app></foreign>），法界藏（<foreign xml:lang="sa"><note n="0011a0303" resp="CBETA" type="add" subtype="規範字詞">dharma-dhātu-garbha【CB】，dharma-dhātu-g.【印順】</note><app n="0011a0303"><lem wit="【CB】" resp="CBETA">dharma-dhātu-garbha</lem><rdg wit="【印順】">dharma-dhātu-g.</rdg></app></foreign>）
+<lb n="0011a04" ed="Y"/>，出世間藏（<foreign xml:lang="sa"><note n="0011a0401" resp="CBETA" type="add" subtype="規範字詞">lokôttara-garbha【CB】，lokôttara-g.【印順】</note><app n="0011a0401"><lem wit="【CB】" resp="CBETA">lokôttara-garbha</lem><rdg wit="【印順】">lokôttara-g.</rdg></app></foreign>），性清淨藏（<foreign xml:lang="sa"><note n="0011a0402" resp="CBETA" type="add">prakṛti-pariśuddha-garbha【CB】，prakṛiti-pariśuddhi-g.【印順】</note><app n="0011a0402"><lem wit="【CB】" resp="正聞出版社">prakṛti-pariśuddha-garbha</lem><rdg wit="【印順】">prakṛiti-pariśuddhi-g.</rdg></app></foreign>）等，都是胎藏的藏。如來藏九
+<lb n="0011a05" ed="Y"/>種譬喻中，有貧女懷<note n="0011a0501" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0011a0501"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>輪王喻，是胎藏的根本意義：與種姓（<foreign xml:lang="sa">gotra</foreign>）說有關。如 <foreign xml:lang="x-sa-pi">dhātu</foreign> 是界藏
+<lb n="0011a06" ed="Y"/>的藏：佛界（<foreign xml:lang="sa"><note n="0011a0601" resp="CBETA" type="add" subtype="規範字詞">buddha-dhātu【CB】，buddha-d.【印順】</note><app n="0011a0601"><lem wit="【CB】" resp="CBETA">buddha-dhātu</lem><rdg wit="【印順】">buddha-d.</rdg></app></foreign>），如來界（<foreign xml:lang="sa"><note n="0011a0602" resp="CBETA" type="add" subtype="規範字詞">tathāgata-dhātu【CB】，tathāgata-d.【印順】</note><app n="0011a0602"><lem wit="【CB】" resp="CBETA">tathāgata-dhātu</lem><rdg wit="【印順】">tathāgata-d.</rdg></app></foreign>），法界（<foreign xml:lang="sa"><note n="0011a0603" resp="CBETA" type="add" subtype="規範字詞">dharma-dhātu【CB】，dharma-d.【印順】</note><app n="0011a0603"><lem wit="【CB】" resp="CBETA">dharma-dhātu</lem><rdg wit="【印順】">dharma-d.</rdg></app></foreign>），涅槃界（<foreign xml:lang="sa"><note n="0011a0604" resp="CBETA" type="add" subtype="規範字詞">nirvāṇa-dhātu【CB】，nirvāṇa-d.【印順】</note><app n="0011a0604"><lem wit="【CB】" resp="CBETA">nirvāṇa-dhātu</lem><rdg wit="【印順】">nirvāṇa-d.</rdg></app></foreign>）
+<lb n="0011a07" ed="Y"/>，眾生界（<foreign xml:lang="sa"><note n="0011a0701" resp="CBETA" type="add" subtype="規範字詞">sattva-dhātu【CB】，sattva-d.【印順】</note><app n="0011a0701"><lem wit="【CB】" resp="CBETA">sattva-dhātu</lem><rdg wit="【印順】">sattva-d.</rdg></app></foreign>），都依界藏得名。<foreign xml:lang="x-sa-pi">dhātu</foreign>，一般譯為界，如六界、十八界等，是最常
 <lb n="0011a08" ed="Y"/>見的名詞。<bibl><title level="m">《阿毘達磨俱舍論》</title><biblScope type="卷" n="1">卷一</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:29;page:p5a">二九．五上</ref></note>說：</p>
 <lb n="0011a09" ed="Y"/><quote><p rend="margin-left:3em">「法種族義，是界義，如一山中，有多銅鐵金銀等族，說名多界」。</p></quote>
 <lb n="0011a10" ed="Y"/><p rend="text-indent:2em">界有多種意義，如山中的銅鐵金銀等族，是其中的一義，就是地下的礦藏。如來藏的九種譬
@@ -248,7 +248,7 @@
 <lb n="0011a12" ed="Y"/>見，經冶鍊而才顯現出來的<note n="0011003" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論本》</title><biblScope type="卷" n="中">卷中</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p140c">三一．一四〇下</ref>）。</note>。界，或譯為性，如法界或譯為法性，如來界或譯為如來性。胎藏
 <lb n="0011a13" ed="Y"/>與界藏，是不同的，但在已經有了而還沒有顯現的意義上，胎藏與界藏相通，古代的譯者，每互
 <lb n="0011a14" ed="Y"/>相通譯。如<cit><bibl><title level="m">《寶性論》</title>的</bibl><quote>「僧次無礙性」</quote></cit>，<quote>「皆實有佛性」</quote>，「性」在梵文中，都是胎藏
-<lb n="0011a15" ed="Y"/>（<foreign xml:lang="sa">garbha</foreign>）。反之，如來界也有譯作如來藏的。這可見胎藏與界藏，在如來藏說的經論<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，意義相通
+<lb n="0011a15" ed="Y"/>（<foreign xml:lang="sa">garbha</foreign>）。反之，如來界也有譯作如來藏的。這可見胎藏與界藏，在如來藏說的經論<note n="0011a1501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0011a1501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，意義相通
 <pb n="0012a" ed="Y" xml:id="Y39.0037.0012a"/>
 <lb n="0012a01" ed="Y"/>。又如佛性一詞，是中國佛教最熟悉的。從<title level="m">《寶性論》</title>的梵語看來，漢譯為佛性，或是佛藏
 <lb n="0012a02" ed="Y"/>（<foreign xml:lang="sa">buddha-garbha</foreign>），或是佛界（<foreign xml:lang="sa">buddha-dhātu</foreign>），所以佛性也不外乎胎藏與界藏。<foreign xml:lang="sa">kośa</foreign>，是攝藏，
@@ -258,7 +258,7 @@
 <lb n="0012a06" ed="Y"/>藏思想中，通俗的胎藏說，是更重要的！</p>
 <lb n="0012a07" ed="Y"/><p rend="text-indent:2em">如來藏是「後期大乘」的術語，而如來與藏，卻是印度世俗固有的文字，在如來藏說成立以
 <lb n="0012a08" ed="Y"/>前，如來與藏又是什麼意義呢？如來，音譯為多陀阿伽陀（<foreign xml:lang="x-sa-pi">tathāgata</foreign>），在佛教中，是佛的德號
-<lb n="0012a09" ed="Y"/>。在佛經中，世尊的德號，廣說有十號：如來，應供，正<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>知，明行足，善逝，世間解，無上士
+<lb n="0012a09" ed="Y"/>。在佛經中，世尊的德號，廣說有十號：如來，應供，正<note n="0012a0901" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0012a0901"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>知，明行足，善逝，世間解，無上士
 <lb n="0012a10" ed="Y"/>，調御丈夫，天人師，佛。適中的有三號：如來，應供，正遍知。簡要的，就稱為如來。如來的
 <lb n="0012a11" ed="Y"/>意義，經論中解說極多，如<bibl><title level="m">《大智度論》</title><biblScope n="2" type="卷">卷二</biblScope></bibl><note place="inline">大正<ref target="vol:25;page:p71b" type="taisho">二五．七一中</ref></note>說：</p>
 <lb n="0012a12" ed="Y"/><quote><p rend="margin-left:3em">「云何名多陀阿伽陀？如法相解；如法相說；如諸佛安隱道來，佛如是來，更不去後有中
@@ -344,10 +344,10 @@
 <lb n="0019a02" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第一節　如來與法身</cb:mulu><head>第一節　如來與法身</head>
 <lb n="0019a03" ed="Y"/><p rend="text-indent:2em">如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）是 <foreign xml:lang="x-sa-pi">tathāgata</foreign> 與 <foreign xml:lang="sa">garbha</foreign> 的結合語，淵源於印度神教的神學，
 <lb n="0019a04" ed="Y"/>是不容懷疑的！然如來藏說的流行，是在大乘佛教後期（西元三世紀中），與部派佛教及初期大
-<lb n="0019a05" ed="Y"/>乘佛教，不能說是沒有關係的。應該是：正由於部派佛教及初期大乘的某些思想，<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發了如來藏
+<lb n="0019a05" ed="Y"/>乘佛教，不能說是沒有關係的。應該是：正由於部派佛教及初期大乘的某些思想，<note n="0019a0501" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0019a0501"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發了如來藏
 <lb n="0019a06" ed="Y"/>說，使如來與藏相結合而流傳起來。所以如來藏的研究，從部派佛教及初期大乘經中，探索可能
 <lb n="0019a07" ed="Y"/>引發如來藏說的思想因素，是非常必要的！不過自釋尊入滅以來，佛法在長期的發展中，有意無
-<lb n="0019a08" ed="Y"/>意的，足以<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發如來藏思想的，真可說頭緒紛繁，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>只能就重要的幾點，分別的加以探究。</p>
+<lb n="0019a08" ed="Y"/>意的，足以<note n="0019a0801" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0019a0801"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發如來藏思想的，真可說頭緒紛繁，這<note n="0019a0802" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0019a0802"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>只能就重要的幾點，分別的加以探究。</p>
 <lb n="0019a09" ed="Y"/><p rend="text-indent:2em">如來藏說，是以如來（佛）為重要主題的。在佛教界，如來是釋迦（<foreign xml:lang="sa">Śākya</foreign>）等一切佛的德
 <lb n="0019a10" ed="Y"/>號。釋尊在世時，弟子們與如來共住，聽佛說法。佛與弟子們一起往來，一起飲食，談論，如來
 <lb n="0019a11" ed="Y"/>是那麼親切！什麼是如來？這問題簡直是不成問題。不過對如來的崇敬、了解，由於弟子們根機
@@ -373,7 +373,7 @@
 <lb n="0021a02" ed="Y"/>師矩摩邏多（<foreign xml:lang="sa">Kumāralāta</foreign>），<quote>「佛有漏無漏法，皆是佛體」</quote>的主張<note n="0021005" resp="釋印順" type="orig"><bibl><title level="m">《阿毘達磨順正理論》</title><biblScope type="卷" n="38">卷三八</biblScope></bibl>（大正<ref type="taisho" target="vol:29;page:p557a">二九．五五七上</ref>）。</note>。但佛涅槃後，色身已滅盡
 <lb n="0021a03" ed="Y"/>了，還能成為歸依處嗎？能成佛菩提的無學無漏法，就是如來所有的無漏五聚（或寫作蘊）——
 <lb n="0021a04" ed="Y"/>戒身、定身、慧身、解脫身、解脫知見身。五無漏聚雖通於阿羅漢（<foreign xml:lang="sa">arhat</foreign>），佛是究竟圓滿的。
-<lb n="0021a05" ed="Y"/>經上說：舍利弗（<foreign xml:lang="sa">Śāriputra</foreign>）阿羅漢的無漏五聚，並不因涅槃而消滅<note n="0021006" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="24">卷二四</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p176c">二．一七六下</ref>）。<bibl>《<title level="m">相應部</title>．<title level="a">念處相應</title>》</bibl>（南傳一六上．三八五）。</note>，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>佛的五無漏聚——
+<lb n="0021a05" ed="Y"/>經上說：舍利弗（<foreign xml:lang="sa">Śāriputra</foreign>）阿羅漢的無漏五聚，並不因涅槃而消滅<note n="0021006" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="24">卷二四</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p176c">二．一七六下</ref>）。<bibl>《<title level="m">相應部</title>．<title level="a">念處相應</title>》</bibl>（南傳一六上．三八五）。</note>，<note n="0021a0501" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0021a0501"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>佛的五無漏聚——
 <lb n="0021a06" ed="Y"/>「五分法身」，當然也「法身不滅」了。「白法所成身」，名為法身，約無學無漏的功德法說。</p>
 <lb n="0021a07" ed="Y"/><p rend="text-indent:2em">三、如來已經涅槃了，儘管信仰歸依，而不能見佛，這是多麼令人失望的事！要求見佛的宗
 <lb n="0021a08" ed="Y"/>教情操，是可以理解出來的。如<bibl><title level="m">《中論》</title><biblScope n="4" type="卷">卷四</biblScope></bibl><note place="inline">大正<ref target="vol:30;page:p34c" type="taisho">三〇．三四下</ref></note>說：</p>
@@ -381,7 +381,7 @@
 <lb n="0021a10" ed="Y"/><p rend="text-indent:2em"><cit><bibl><title level="m">《佛藏經》</title>引經說：</bibl><quote>「若人見法，是為見我（佛）」</quote><note n="0021008" resp="釋印順" type="orig"><bibl><title level="m">《佛藏經》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:15;page:p786c">一五．七八六下</ref>）。</note></cit>。見緣起就能見法，見法就是見佛，
 <lb n="0021a11" ed="Y"/>是引經的。現存的<cit><bibl><title level="m">《中阿含經》</title>說：</bibl><quote>「見緣起便見法，若見法便見緣起」</quote><note n="0021009" resp="釋印順" type="orig"><bibl><title level="m">《中阿含經》</title><biblScope type="卷" n="7">卷七</biblScope><title level="m">《象跡喻經》</title></bibl>（大正<ref target="vol:1;page:p467a" type="taisho">一．四六七上</ref>）。<bibl><title level="m">《中部》</title>（二八）<title level="m">《象跡喻大經》</title></bibl>（南傳九．三四〇）。</note></cit>；<title level="m">《中論》</title>所引的，
 <lb n="0021a12" ed="Y"/>可能是別部所誦的<title level="m">《中阿含經》</title>說。釋迦佛，七佛，都是觀緣起（<foreign xml:lang="sa">pratītya-samutpāda</foreign>）而成佛
-<lb n="0021a13" ed="Y"/>的<note n="0021010" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="12">卷一二</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p80b">二．八〇中</ref>——下）。又卷一五（大正<ref type="taisho" target="vol:2;page:p101a">二．一〇一上</ref>——下）。</note>，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>佛弟子如能觀緣起而證入，不是與佛同證，而見佛之所以為佛嗎？<title level="m">《義足經》</title>說：佛
+<lb n="0021a13" ed="Y"/>的<note n="0021010" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="12">卷一二</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p80b">二．八〇中</ref>——下）。又卷一五（大正<ref type="taisho" target="vol:2;page:p101a">二．一〇一上</ref>——下）。</note>，<note n="0021a1301" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0021a1301"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>佛弟子如能觀緣起而證入，不是與佛同證，而見佛之所以為佛嗎？<title level="m">《義足經》</title>說：佛
 <lb n="0021a14" ed="Y"/>從三道寶階，從天來到人間，弟子們都來見佛。<quote>「一比丘」</quote>想起了佛的教說，觀緣起無常、苦、
 <lb n="0021a15" ed="Y"/>空、無我，悟入了初果。那時，蓮華色（<foreign xml:lang="sa">Utpalavarṇā</foreign>）比丘尼，搶著在前禮佛<note n="0021011" resp="釋印順" type="orig"><bibl><title level="m">《義足經》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref target="vol:4;page:p185c" type="taisho">四．一八五下</ref>）。</note>。<bibl><title level="m">《大智度論》</title>
 <pb n="0022a" ed="Y" xml:id="Y39.0037.0022a"/>
@@ -393,7 +393,7 @@
 <lb n="0022a06" ed="Y"/>的理念相契合的。如<title level="m">《佛垂般涅槃略說教誡經》</title><note place="inline">大正<ref target="vol:12;page:p1112b" type="taisho">一二．一一一二中</ref></note>說：</p>
 <lb n="0022a07" ed="Y"/><quote><p rend="margin-left:3em">「諸弟子展轉行之，則是如來法身常在而不滅也」。</p></quote>
 <lb n="0022a08" ed="Y"/><p rend="text-indent:2em">佛將入涅槃，弟子們懊惱悵惘，覺得失去了依止的大師，所以佛這樣的開示大眾。只要佛弟
-<lb n="0022a09" ed="Y"/>子能如法修行，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>佛的法身，就常在人間而不滅。因為有如法的修行者，就有如法的證見者，
+<lb n="0022a09" ed="Y"/>子能如法修行，<note n="0022a0901" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0022a0901"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>佛的法身，就常在人間而不滅。因為有如法的修行者，就有如法的證見者，
 <lb n="0022a10" ed="Y"/>就有<quote>「見法即見佛」</quote>的。法身呈現於弟子的智證中，即是<quote>「法身常在而不滅」</quote>（如沒有修證的，
 <lb n="0022a11" ed="Y"/>法身就不在人間了）。這一充滿策勵與希望的教授，勉大眾如法修行，比後代的法身常住說，似
 <lb n="0022a12" ed="Y"/>乎有意義得多！</p>
@@ -409,7 +409,7 @@
 <lb n="0023a06" ed="Y"/>眾部的信念是<note n="0023014" resp="釋印順" type="orig">1.<title level="m">《異部宗輪論》</title>（大正<ref target="vol:49;page:p15b" type="taisho">四九．一五中</ref>）。2.<bibl><title level="m">《阿毘達磨大毘婆沙論》</title><biblScope n="44" type="卷">卷四四</biblScope></bibl>（大正<ref target="vol:27;page:p229a" type="taisho">二七．二二九上</ref>）。3.<bibl><title level="m">《阿毘達磨大毘婆沙論》</title><biblScope n="173" type="卷">卷一七三</biblScope></bibl>（大正<ref type="taisho" target="vol:27;page:p871c">二七．八七一下</ref>）。</note>：</p>
 <lb n="0023a07" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「大眾部……諸佛世尊皆是出世，一切如來無有漏法」</quote>。</p></item>
 <lb n="0023a08" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">2.<quote>「如大眾部，彼作是說：經言：如來生在世間，長在世間，若行若住，不為世法之所染
-<lb n="0023a09" ed="Y"/><choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>。由此故知如來生身亦是無漏」</quote>。</p></item>
+<lb n="0023a09" ed="Y"/><note n="0023a0901" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0023a0901"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>。由此故知如來生身亦是無漏」</quote>。</p></item>
 <lb n="0023a10" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">3.<quote>「分別論者及大眾部師，執佛生身是無漏法」</quote>。</p></item></list>
 <lb n="0023a11" ed="Y"/><p rend="text-indent:2em">說一切有部等，立父母所生的色身與法身，以為如來的色身是有漏的。大眾部以為：如來的
 <lb n="0023a12" ed="Y"/>色身，身中的一切，都是出世的，無漏的，大眾部的如來觀，顯然是超越常情的！如<bibl><title level="m">《摩訶僧祇
@@ -462,7 +462,7 @@
 <lb n="0026a11" ed="Y"/>乘化。</p>
 <lb n="0026a12" ed="Y"/><p rend="text-indent:2em"><title level="m">《般舟三昧經》</title>的念佛、見佛，佛是具足色相莊嚴的。見佛而了解為「唯心所現」，然後悟
 <lb n="0026a13" ed="Y"/>入空性<note n="0026026" resp="釋印順" type="orig"><bibl><title level="m">《般舟三昧經》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:13;page:p905a">一三．九〇五上</ref>——<ref target="vol:13;page:p906a" type="taisho">九〇六上</ref>）。</note>。這一思想，充分發達而表顯於<title level="m">《華嚴經》</title>。色相莊嚴與法界不二，佛超越一切，惟有
-<lb n="0026a14" ed="Y"/>虛空勉<choice cb:type="規範字詞"><orig>强</orig><reg>強</reg></choice>的可以作為譬喻，然到底著重於從色相莊嚴的無盡無礙，去表現如來的究竟圓滿。這是
+<lb n="0026a14" ed="Y"/>虛空勉<note n="0026a1401" resp="CBETA" type="add" subtype="規範字詞">強【CB】，强【印順】</note><app n="0026a1401"><lem wit="【CB】" resp="CBETA">強</lem><rdg wit="【印順】">强</rdg></app>的可以作為譬喻，然到底著重於從色相莊嚴的無盡無礙，去表現如來的究竟圓滿。這是
 <lb n="0026a15" ed="Y"/>「法身有相」說，從「假相（勝解）觀」來，更近於大眾部「色身無邊際」的佛身。在如來藏說
 <pb n="0027a" ed="Y" xml:id="Y39.0037.0027a"/>
 <lb n="0027a01" ed="Y"/>中，法身為如來藏的同義詞，色相莊嚴，是與<title level="m">《華嚴經》</title>的如來相近的。</p>
@@ -510,12 +510,12 @@
 <lb n="0029a12" ed="Y"/>思，欲，願，士夫，所作，施設，建立，部分，顯示，受生，這都是緣（根、境、識）界而生起
 <lb n="0029a13" ed="Y"/>的<note n="0029005" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope from="16" type="卷" to="17">卷一六、一七</biblScope></bibl>（大正<ref target="vol:2;page:p116a" type="taisho">二．一一六上</ref>——中、<ref target="vol:2;page:p117a" type="taisho">一一七上</ref>）。</note>。三、眾生生死流轉，都緣界而起；出離方面，解脫界——<quote>「斷界、無欲界、滅界」</quote>，是修
 <lb n="0029a14" ed="Y"/>止觀而得的<note n="0029006" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="17" type="卷">卷一七</biblScope></bibl>（大正<ref target="vol:2;page:p118b" type="taisho">二．一一八中</ref>）。</note>。光界……滅界——七界，是正受（三摩跋提）所得的<note n="0029007" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="17" type="卷">卷一七</biblScope></bibl>（大正<ref target="vol:2;page:p116c" type="taisho">二．一一六下</ref>）。</note>。從上來所說，界的含義
-<lb n="0029a15" ed="Y"/>，是相當複雜的！<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>說：</bibl><quote>「因義、……本性義，……是界義」</quote><note n="0029008" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="56" type="卷">卷五六</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p610a">三〇．六一〇上</ref>）。</note></cit>。界（<foreign xml:lang="x-sa-pi">dhātu</foreign>），從 <foreign xml:lang="sa"><note n="0029a1501" resp="CBETA" type="add">dha【CB】，dhā【印順】</note><app n="0029a1501"><lem wit="【CB】" resp="正聞出版社">dha</lem><rdg wit="【印順】">dhā</rdg></app></foreign>
+<lb n="0029a15" ed="Y"/>，是相當複雜的！<cit><bibl><title level="m"><note n="0029a1501" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0029a1501"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>說：</bibl><quote>「因義、……本性義，……是界義」</quote><note n="0029008" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="56" type="卷">卷五六</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p610a">三〇．六一〇上</ref>）。</note></cit>。界（<foreign xml:lang="x-sa-pi">dhātu</foreign>），從 <foreign xml:lang="sa"><note n="0029a1502" resp="CBETA" type="add">dha【CB】，dhā【印順】</note><app n="0029a1502"><lem wit="【CB】" resp="正聞出版社">dha</lem><rdg wit="【印順】">dhā</rdg></app></foreign>
 <pb n="0030a" ed="Y" xml:id="Y39.0037.0030a"/>
 <lb n="0030a01" ed="Y"/> 而來，有「根基」、「成素」的意義<note n="0030009" resp="釋印順" type="orig"><bibl><title level="m">《望月佛教大辭典》</title><biblScope n="375" type="pp">（三七五）</biblScope></bibl>。</note>。構成事物的元素，對成果說，是「因義」；約自體說，
 <lb n="0030a02" ed="Y"/>是「不失自性」的本質、質素（性）。界是種種不同的，所以<cit><bibl><title level="m">《俱舍論》</title>說：</bibl><quote>「有說：界聲表種
 <lb n="0030a03" ed="Y"/>類義」</quote><note n="0030010" resp="釋印順" type="orig"><bibl><title level="m">《阿毘達磨俱舍論》</title><biblScope n="1" type="卷">卷一</biblScope></bibl>（大正<ref target="vol:29;page:p5a" type="taisho">二九．五上</ref>）。</note></cit>。如地是堅性，水是溼性，立為「地界」、「水界」。對他，是不同的別類（別性）；
-<lb n="0030a04" ed="Y"/>對同一性的，是共同的通類（通性）。不過<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>通一切的大通性（界），在原始的教典中，似乎還
+<lb n="0030a04" ed="Y"/>對同一性的，是共同的通類（通性）。不過<note n="0030a0401" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0030a0401"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>通一切的大通性（界），在原始的教典中，似乎還
 <lb n="0030a05" ed="Y"/>沒有說到。界有「性」義，「類」義，「因」義，但因是依止因，如「無明緣行」，「根境識緣
 <lb n="0030a06" ed="Y"/>觸」，與後代的種子因不合。</p>
 <lb n="0030a07" ed="Y"/><p rend="text-indent:2em">法界（<foreign xml:lang="sa">dharma-dhātu</foreign>），<title level="m">《雜阿含經》</title>已經說到了。在十八界中，與意根界、意識界相關的
@@ -555,7 +555,7 @@
 <lb n="0032a09" ed="Y"/>，可斷定為「法定」的誤寫。三、<title level="m">《阿含經》</title>說緣起法，法性、法住、法定、法界，是表示緣起
 <lb n="0032a10" ed="Y"/>法的意義。緣起「法」是佛出世也如此，不出世也如此，有常住（<foreign xml:lang="sa">nitya-sthita</foreign>），恒住
 <lb n="0032a11" ed="Y"/>（<foreign xml:lang="sa"><note n="0032a1101" resp="CBETA" type="add">dhruva-sthitā【CB】，dhru-va-sthita【印順】</note><app n="0032a1101"><lem wit="【CB】" resp="正聞出版社">dhruva-sthitā</lem><rdg wit="【印順】">dhru-va-sthita</rdg></app></foreign>）的意義，所以分別論者（<foreign xml:lang="sa"><note n="0032a1102" resp="CBETA" type="add">Vibhajyavādin【CB】，Vibhājyavādin【印順】</note><app n="0032a1102"><lem wit="【CB】" resp="正聞出版社">Vibhajyavādin</lem><rdg wit="【印順】">Vibhājyavādin</rdg></app></foreign>）立緣起無為<note n="0032014" resp="釋印順" type="orig"><bibl><title level="m">《阿毘達磨大毘婆沙論》</title><biblScope n="23" type="卷">卷二三</biblScope></bibl>（大正<ref target="vol:27;page:p116c" type="taisho">二七．一一六下</ref>）。</note>。四、<title level="m">《相應部》</title>但說「界
-<lb n="0032a12" ed="Y"/>」，說緣起法是相依性（<foreign xml:lang="pi">idappaccayatā</foreign>）；<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>沒有「法界」，而說<quote>「緣起順次第性」</quote>。
+<lb n="0032a12" ed="Y"/>」，說緣起法是相依性（<foreign xml:lang="pi">idappaccayatā</foreign>）；<title level="m"><note n="0032a1201" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0032a1201"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>沒有「法界」，而說<quote>「緣起順次第性」</quote>。
 <lb n="0032a13" ed="Y"/>依因而果的次第決定性；<quote>「此有故彼有，此生故彼生，此無故彼無，此滅故彼滅」</quote>的相依性，就
 <lb n="0032a14" ed="Y"/>是緣起法的「界」性，界是相依因。五、佛依中道說法，就是緣起。依緣起而向兩方面展開：<quote>「
 <lb n="0032a15" ed="Y"/>此有故彼有，此生故彼生」</quote>，相依而起的因果次第，開示了世間生死。又從<quote>「此無故彼無，此滅
@@ -585,9 +585,9 @@
 <lb n="0034a07" ed="Y"/>經》</title>，都是「界」的異譯。梁僧伽婆羅（<foreign xml:lang="sa">Saṃghavarman</foreign>）的<title level="m">《文殊師利所說般若波羅蜜經》</title>，
 <lb n="0034a08" ed="Y"/>說到：眾生界，如來界，佛界，涅槃界；法界，無相，般若波羅蜜界，無生無滅界，不思議界，
 <lb n="0034a09" ed="Y"/>如來界，我界——平等不二<note n="0034020" resp="釋印順" type="orig"><title level="m">《文殊師利所說般若波羅蜜經》</title>（大正<ref target="vol:8;page:p737a" type="taisho">八．七三七上</ref>）。</note>。<title level="m">《文殊般若經》</title>的傳出遲一些，如來藏說習見的名詞，如如來界
-<lb n="0034a10" ed="Y"/>（<foreign xml:lang="sa">tathāgata-dhātu</foreign>），佛界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>buddha-d.</orig><reg>buddha-dhātu</reg></choice></foreign>），我界（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>ātma-d.</orig><reg>ātma-dhātu</reg></choice></foreign>），都出現了。然<title level="m">《文殊師利現寶
+<lb n="0034a10" ed="Y"/>（<foreign xml:lang="sa">tathāgata-dhātu</foreign>），佛界（<foreign xml:lang="sa"><note n="0034a1001" resp="CBETA" type="add" subtype="規範字詞">buddha-dhātu【CB】，buddha-d.【印順】</note><app n="0034a1001"><lem wit="【CB】" resp="CBETA">buddha-dhātu</lem><rdg wit="【印順】">buddha-d.</rdg></app></foreign>），我界（<foreign xml:lang="sa"><note n="0034a1002" resp="CBETA" type="add" subtype="規範字詞">ātma-dhātu【CB】，ātma-d.【印順】</note><app n="0034a1002"><lem wit="【CB】" resp="CBETA">ātma-dhātu</lem><rdg wit="【印順】">ātma-d.</rdg></app></foreign>），都出現了。然<title level="m">《文殊師利現寶
 <lb n="0034a11" ed="Y"/>藏經》</title>，已說到了我界，這是竺法護在泰始六年（西元二七〇）譯出的。與文殊有關的經典，所
-<lb n="0034a12" ed="Y"/>說的法界，也有「我」的意義，這留在下一節去說。這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>所要說的，文殊經典所說的法界，著重
+<lb n="0034a12" ed="Y"/>說的法界，也有「我」的意義，這留在下一節去說。這<note n="0034a1201" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0034a1201"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>所要說的，文殊經典所說的法界，著重
 <lb n="0034a13" ed="Y"/>在<quote>「一切法入於法界，一切法不出於法界」</quote>，如<title level="m">《入法界體性經》</title><note place="inline">大正<ref target="vol:12;page:p234c" type="taisho">一二．二三四下</ref></note>說：</p>
 <lb n="0034a14" ed="Y"/><quote><p rend="margin-left:3em">「文殊師利！我不見法界有其分數。我於法界中，不見此是凡夫法，此是阿羅漢法、辟支
 <lb n="0034a15" ed="Y"/>佛法，及諸佛法。其法界無有勝<note place="inline">特殊</note>異<note place="inline">差別</note>，亦無壞<note place="inline">變異</note>亂。文殊師利！譬如恒河，若閻摩
@@ -699,7 +699,7 @@
 <lb n="0041a08" ed="Y"/>與如來有關，而如來與神我有關，所以討論有神我色彩的如來藏說，應注意佛教界對於
 <lb n="0041a09" ed="Y"/>「我」的意見！</p>
 <lb n="0041a10" ed="Y"/><p rend="text-indent:2em">釋尊的一代教法，以緣起（<foreign xml:lang="sa">pratītya-samutpāda</foreign>）、無我（<foreign xml:lang="sa"><note n="0041a1001" resp="CBETA" type="add">nirātman【CB】，nir-ātman【印順】</note><app n="0041a1001"><lem wit="【CB】" resp="正聞出版社">nirātman</lem><rdg wit="【印順】">nir-ātman</rdg></app></foreign>）為宗要，雖然在某
-<lb n="0041a11" ed="Y"/>些大乘經中，「無我」已被巧妙的譬喻，而判為方便說了！如尊重史實，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>釋尊的無我說，正
+<lb n="0041a11" ed="Y"/>些大乘經中，「無我」已被巧妙的譬喻，而判為方便說了！如尊重史實，<note n="0041a1101" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0041a1101"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>釋尊的無我說，正
 <lb n="0041a12" ed="Y"/>是針對當時印度宗教的「我」，否定神我而樹立源本於正覺的正法（<foreign xml:lang="sa"><note n="0041a1201" resp="CBETA" type="add">saddharma【CB】，sad-dharma【印順】</note><app n="0041a1201"><lem wit="【CB】" resp="正聞出版社">saddharma</lem><rdg wit="【印順】">sad-dharma</rdg></app></foreign>）。印度古代
 <lb n="0041a13" ed="Y"/>的宗教文化，經<title level="m">《吠陀》</title>（<foreign xml:lang="sa"><note n="0041a1301" resp="CBETA" type="add">Veda【CB】，veda【印順】</note><app n="0041a1301"><lem wit="【CB】" resp="正聞出版社">Veda</lem><rdg wit="【印順】">veda</rdg></app></foreign>）、<title level="m">《梵書》</title>（<foreign xml:lang="x-sa-pi"><note n="0041a1302" resp="CBETA" type="add">Brāhmaṇa【CB】，brahmī【印順】</note><app n="0041a1302"><lem wit="【CB】" resp="正聞出版社">Brāhmaṇa</lem><rdg wit="【印順】">brahmī</rdg></app></foreign>）而大成。到了<title level="m">《奧義書》</title>（<foreign xml:lang="sa"><note n="0041a1303" resp="CBETA" type="add">Upaniṣad【CB】，upaniṣad【印順】</note><app n="0041a1303"><lem wit="【CB】" resp="正聞出版社">Upaniṣad</lem><rdg wit="【印順】">upaniṣad</rdg></app></foreign>）時期，梵
 <lb n="0041a14" ed="Y"/>（<foreign xml:lang="en">brahman</foreign>）為最高原理，為萬有的本體，一切由梵而化出。梵的神格化，就是梵天；梵天自稱是
@@ -748,7 +748,7 @@
 <lb n="0044a10" ed="Y"/>，如耆那教（<foreign xml:lang="pi"><note n="0044a1001" resp="CBETA" type="add">Nigaṇṭha【CB】，nigaṇṭha【印順】</note><app n="0044a1001"><lem wit="【CB】" resp="正聞出版社">Nigaṇṭha</lem><rdg wit="【印順】">nigaṇṭha</rdg></app></foreign>）等。傳統的、新起的宗教，都是主張有神我的。他們所計著的我，雖多
 <lb n="0044a11" ed="Y"/>少不同，而都是依於現實身心——五受陰（新譯作「五取蘊」）而起執著的。如離去五取蘊，那
 <lb n="0044a12" ed="Y"/>怎麼會知道有我呢！如<title level="m">《奧義書》</title>所說，我是常的，樂的，知的。喜樂是受蘊，知是識蘊，依於
-<lb n="0044a13" ed="Y"/>現實的受與識，而推論想像為微妙的，神秘的「樂」與「知」。如離開現實的五蘊，那<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>會有樂
+<lb n="0044a13" ed="Y"/>現實的受與識，而推論想像為微妙的，神秘的「樂」與「知」。如離開現實的五蘊，那<note n="0044a1301" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0044a1301"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>會有樂
 <lb n="0044a14" ed="Y"/>與知的概念？所以，不可以為五蘊不是我，而想像為並非沒有我，可能還有「我」的存在！觀五
 <lb n="0044a15" ed="Y"/>蘊非我，也不能離五蘊立我，「不是、不異、不相在」，說明了一切我不可得的「無我」。還有
 <pb n="0045a" ed="Y" xml:id="Y39.0037.0045a"/>
@@ -792,7 +792,7 @@
 <lb n="0047a06" ed="Y"/>常」論者，所以雖採取有我說，而多少說得善巧一些。「常我」，在部派佛教內，還不敢違反傳
 <lb n="0047a07" ed="Y"/>統而公然提出來。部派佛教而立「我」的，有犢子部及其流派，說轉部（<foreign xml:lang="sa"><note n="0047a0701" resp="CBETA" type="add">Saṃkrāntivādin【CB】，Saṃkrāntivādāḥ【印順】</note><app n="0047a0701"><lem wit="【CB】" resp="正聞出版社">Saṃkrāntivādin</lem><rdg wit="【印順】">Saṃkrāntivādāḥ</rdg></app></foreign>），
 <lb n="0047a08" ed="Y"/>而這都是從說一切有部（<foreign xml:lang="sa"><note n="0047a0801" resp="CBETA" type="add">Sarvāstivāda【CB】，Sarvāstivādāḥ【印順】</note><app n="0047a0801"><lem wit="【CB】" resp="正聞出版社">Sarvāstivāda</lem><rdg wit="【印順】">Sarvāstivādāḥ</rdg></app></foreign>）分化出來的。我在<title level="m">《唯識學探源》</title>、<title level="m">《性空學探源》</title>
-<lb n="0047a09" ed="Y"/>，已一再的加以論述<note n="0047004" resp="釋印順" type="orig">拙作<title level="m">《唯識學探源》</title>（編入<bibl><title level="s">《妙雲集》</title><biblScope n="中" type="編">中編</biblScope><biblScope type="vol" n="3">三</biblScope></bibl>．<ref type="yinshun" target="vol:10;page:p52">五二</ref>——六八）。<title level="m">《性空學探源》</title>（編入<bibl><title level="s">《妙雲集》</title><biblScope type="編" n="中">中編</biblScope><biblScope n="4" type="vol">四</biblScope></bibl>．<ref target="vol:11;page:p170" type="yinshun">一七〇</ref>——一八二）。</note>，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>再作簡要的說明。<title level="m">《異部宗輪論》</title><note place="inline">大正<ref target="vol:49;page:p16c" type="taisho">四九．一六下</ref></note>說：</p>
+<lb n="0047a09" ed="Y"/>，已一再的加以論述<note n="0047004" resp="釋印順" type="orig">拙作<title level="m">《唯識學探源》</title>（編入<bibl><title level="s">《妙雲集》</title><biblScope n="中" type="編">中編</biblScope><biblScope type="vol" n="3">三</biblScope></bibl>．<ref type="yinshun" target="vol:10;page:p52">五二</ref>——六八）。<title level="m">《性空學探源》</title>（編入<bibl><title level="s">《妙雲集》</title><biblScope type="編" n="中">中編</biblScope><biblScope n="4" type="vol">四</biblScope></bibl>．<ref target="vol:11;page:p170" type="yinshun">一七〇</ref>——一八二）。</note>，這<note n="0047a0901" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0047a0901"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>再作簡要的說明。<title level="m">《異部宗輪論》</title><note place="inline">大正<ref target="vol:49;page:p16c" type="taisho">四九．一六下</ref></note>說：</p>
 <lb n="0047a10" ed="Y"/><quote><p rend="margin-left:3em">「說一切有部：……有情但依現有執受相續假立。說一切行皆剎那滅，定無少法能從前世
 <lb n="0047a11" ed="Y"/>轉至後世，但有世俗補特伽羅說有移轉」。</p></quote>
 <lb n="0047a12" ed="Y"/><p rend="text-indent:2em">說一切有部立「假名我」——世俗補特伽羅（<foreign xml:lang="sa">saṃvṛti-pudgala</foreign>）。有部以為：在世俗法中，
@@ -907,7 +907,7 @@
 <lb n="0054a09" ed="Y"/><quote><p rend="margin-left:3em">「舍利子！菩薩摩訶薩修行般若波羅蜜多時，應如是觀！實有菩薩；不見有菩薩，不見菩
 <lb n="0054a10" ed="Y"/>薩名；不見般若波羅蜜多，不見般若波羅蜜多名；不見行，不見不行；……」。</p></quote>
 <lb n="0054a11" ed="Y"/><p rend="text-indent:2em">玄奘所譯<title level="m">《大般若經》</title>的〈第二分〉、〈第三分〉，經文相同<note n="0054013" resp="釋印順" type="orig"><bibl><title level="m">《大般若波羅蜜多經》</title>（〈第二分〉）<biblScope n="402" type="卷">卷四〇二</biblScope></bibl>（大正<ref target="vol:7;page:p11b" type="taisho">七．一一中</ref>——下）。又（〈第三分〉）卷四八〇（大正<ref type="taisho" target="vol:7;page:p433b">七．四三三中</ref>）。</note>。從「原始般若」以來，菩
-<lb n="0054a12" ed="Y"/>薩但有名字，<title level="m"><choice cb:type="規範字詞"><orig>《大品般若》</orig><reg>《大品般若經》</reg></choice></title>更廣說一切我、法皆空，而與<title level="m">《十萬頌般若經》</title>相當的<title level="a">〈初分〉</title>，卻
+<lb n="0054a12" ed="Y"/>薩但有名字，<title level="m"><note n="0054a1201" resp="CBETA" type="add" subtype="規範字詞">大品般若經【CB】，大品般若【印順】</note><app n="0054a1201"><lem wit="【CB】" resp="CBETA">《大品般若經》</lem><rdg wit="【印順】">《大品般若》</rdg></app></title>更廣說一切我、法皆空，而與<title level="m">《十萬頌般若經》</title>相當的<title level="a">〈初分〉</title>，卻
 <lb n="0054a13" ed="Y"/>說「實有菩薩」，不能不感到意外！考晉竺叔蘭於元康元年（西元二九一）所譯<title level="m">《放光般若經》</title>
 <lb n="0054a14" ed="Y"/>，竺法護於太康七年（西元二八六）譯出的<title level="m">《光讚般若經》</title>，姚秦鳩摩羅什於弘始五年（西元四
 <lb n="0054a15" ed="Y"/>〇三）所譯的<title level="m">《摩訶般若經》</title>，與玄奘所譯的〈第二分〉、〈第三分〉相當，都沒有<quote>「實有菩薩
@@ -921,7 +921,7 @@
 <lb n="0055a07" ed="Y"/>譯的世親（<foreign xml:lang="sa">Vasubandhu</foreign>）<bibl><title level="m">《攝大乘論釋》</title><biblScope n="4" type="卷">卷四</biblScope></bibl><note place="inline">大正<ref target="vol:31;page:p342c" type="taisho">三一．三四二下</ref></note>說：</p>
 <lb n="0055a08" ed="Y"/><quote><p rend="margin-left:3em">「此中無相散動（亂）者，謂此散動，即以其無為所緣相。為對治此散動故，般若波羅蜜
 <lb n="0055a09" ed="Y"/>多經言：實有菩薩。言實有者，顯示菩薩實有空體，空即是體，故名空體」。</p></quote>
-<lb n="0055a10" ed="Y"/><p rend="text-indent:2em">依玄奘所譯來說：沒有<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>計所執性（<foreign xml:lang="sa">parikalpita-svabhāva</foreign>）、依他起性（<foreign xml:lang="sa"><note n="0055a1001" resp="CBETA" type="add">paratantrasvabhāva【CB】，para-tantra-sva-bhāva【印順】</note><app n="0055a1001"><lem wit="【CB】" resp="正聞出版社">paratantrasvabhāva</lem><rdg wit="【印順】">para-tantra-sva-bhāva</rdg></app></foreign>）
+<lb n="0055a10" ed="Y"/><p rend="text-indent:2em">依玄奘所譯來說：沒有<note n="0055a1001" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0055a1001"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>計所執性（<foreign xml:lang="sa">parikalpita-svabhāva</foreign>）、依他起性（<foreign xml:lang="sa"><note n="0055a1002" resp="CBETA" type="add">paratantrasvabhāva【CB】，para-tantra-sva-bhāva【印順】</note><app n="0055a1002"><lem wit="【CB】" resp="正聞出版社">paratantrasvabhāva</lem><rdg wit="【印順】">para-tantra-sva-bhāva</rdg></app></foreign>）
 <lb n="0055a11" ed="Y"/>為體的菩薩，但不是什麼都沒有，菩薩空性（<foreign xml:lang="sa">śūnyatā</foreign>）是實有的，這不過圓成實性
 <lb n="0055a12" ed="Y"/>（<foreign xml:lang="sa">pariniṣpanna-svabhāva</foreign>）空是實有而已。然真諦所譯本說：<quote>「由說實有，顯有菩薩以真如空為體」</quote>
 <lb n="0055a13" ed="Y"/><note n="0055015" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論釋》</title><biblScope n="5" type="卷">卷五</biblScope></bibl>（大正<ref target="vol:31;page:p189c" type="taisho">三一．一八九下</ref>）。</note>。無性（<foreign xml:lang="sa"><note n="0055a1301" resp="CBETA" type="add">Asvabhāva【CB】，asvabhāva【印順】</note><app n="0055a1301"><lem wit="【CB】" resp="正聞出版社">Asvabhāva</lem><rdg wit="【印順】">asvabhāva</rdg></app></foreign>）的<cit><bibl><title level="m">《釋論》</title>也說：</bibl><quote>「謂實有空為菩薩體」</quote><note n="0055016" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論釋》</title><biblScope type="卷" n="4">卷四</biblScope></bibl>（大正<ref target="vol:31;page:p405b" type="taisho">三一．四〇五中</ref>）。</note></cit>。這都是說：菩薩是實有的，
@@ -936,10 +936,10 @@
 <lb n="0056a06" ed="Y"/>初分〉</title>）<biblScope n="54" type="卷">卷五四</biblScope></bibl><note place="inline">大正<ref target="vol:5;page:p306b" type="taisho">五．三〇六中</ref></note>又說：</p>
 <lb n="0056a07" ed="Y"/><quote><p rend="margin-left:3em">「住此六波羅蜜多，佛及二乘能度五種所知海岸。何等為五？一者過去，二者未來，三者
 <lb n="0056a08" ed="Y"/>現在，四者無為，五者不可說」。</p></quote>
-<lb n="0056a09" ed="Y"/><p rend="text-indent:2em"><cit><bibl><title level="m">《般若經》</title>在說明第六地菩薩時，說到了</bibl><quote>「佛及二乘能度五種所知海岸」</quote></cit>。<title level="m"><choice cb:type="規範字詞"><orig>《般若》</orig><reg>《般若經》</reg></choice></title>〈第二
+<lb n="0056a09" ed="Y"/><p rend="text-indent:2em"><cit><bibl><title level="m">《般若經》</title>在說明第六地菩薩時，說到了</bibl><quote>「佛及二乘能度五種所知海岸」</quote></cit>。<title level="m"><note n="0056a0901" resp="CBETA" type="add" subtype="規範字詞">般若經【CB】，般若【印順】</note><app n="0056a0901"><lem wit="【CB】" resp="CBETA">《般若經》</lem><rdg wit="【印順】">《般若》</rdg></app></title>〈第二
 <lb n="0056a10" ed="Y"/>分〉、〈第三分〉，也是這樣說<note n="0056017" resp="釋印順" type="orig"><bibl><title level="m">《大般若波羅蜜多經》</title>（〈第二分〉）<biblScope type="卷" n="416">卷四一六</biblScope></bibl>（大正<ref target="vol:7;page:p86a" type="taisho">七．八六上</ref>）。又（〈第三分〉）卷四九〇（大正<ref target="vol:7;page:p494a" type="taisho">七．四九四上</ref>）。</note>。<quote>「五種所知海岸」</quote>，顯然是引用了犢子部的「五法藏」。<title level="m">《
 <lb n="0056a11" ed="Y"/>俱舍論》</title>也稱「五法藏」為「五種爾燄」<note n="0056018" resp="釋印順" type="orig"><bibl><title level="m">《阿毘達磨俱舍論》</title><biblScope n="29" type="卷">卷二九</biblScope></bibl>（大正<ref type="taisho" target="vol:29;page:p153b">二九．一五三中</ref>）。</note>，爾燄（<foreign xml:lang="sa">jñeya</foreign>）是「所知」的音譯。然中國的古譯本
-<lb n="0056a12" ed="Y"/>——<title level="m"><choice cb:type="規範字詞"><orig>《光讚般若》</orig><reg>《光讚般若經》</reg></choice></title>、<title level="m"><choice cb:type="規範字詞"><orig>《放光般若》</orig><reg>《放光般若經》</reg></choice></title>、<title level="m"><choice cb:type="規範字詞"><orig>《摩訶般若》</orig><reg>《摩訶般若經》</reg></choice></title>、<title level="m">《大智度論》</title>所解釋的<title level="m">《二萬二千頌般若經
+<lb n="0056a12" ed="Y"/>——<title level="m"><note n="0056a1201" resp="CBETA" type="add" subtype="規範字詞">光讚般若經【CB】，光讚般若【印順】</note><app n="0056a1201"><lem wit="【CB】" resp="CBETA">《光讚般若經》</lem><rdg wit="【印順】">《光讚般若》</rdg></app></title>、<title level="m"><note n="0056a1202" resp="CBETA" type="add" subtype="規範字詞">放光般若經【CB】，放光般若【印順】</note><app n="0056a1202"><lem wit="【CB】" resp="CBETA">《放光般若經》</lem><rdg wit="【印順】">《放光般若》</rdg></app></title>、<title level="m"><note n="0056a1203" resp="CBETA" type="add" subtype="規範字詞">摩訶般若經【CB】，摩訶般若【印順】</note><app n="0056a1203"><lem wit="【CB】" resp="CBETA">《摩訶般若經》</lem><rdg wit="【印順】">《摩訶般若》</rdg></app></title>、<title level="m">《大智度論》</title>所解釋的<title level="m">《二萬二千頌般若經
 <lb n="0056a13" ed="Y"/>》</title>，都沒有說到「五種所知」，依「實有菩薩」為例來推論，這也是<title level="a">〈初分〉</title>——<title level="m">《十萬頌般若
 <lb n="0056a14" ed="Y"/>經》</title>所有，後來才補入〈第二分〉、〈第三分〉的。<bibl>《<title level="m">大般若經</title>．<title level="a">初分</title>》</bibl>，引用犢子部的「五
 <lb n="0056a15" ed="Y"/>法藏」。其中「不可說」，雖可解說為如、法界的別名，然在佛教界，對<title level="m">《大般若經》</title>的「不可
@@ -955,7 +955,7 @@
 <lb n="0057a09" ed="Y"/>如、一實際，然諸眾生種種形相各取生處，彼自體變百千億種形色別異，謂地獄色，……
 <lb n="0057a10" ed="Y"/>佛色，以平等故色等（如），如等故色等，空等故色等。善男子！文殊師利以是事故，說
 <lb n="0057a11" ed="Y"/>一切世界等，乃至一切眾生等」。</p></quote>
-<lb n="0057a12" ed="Y"/><p rend="text-indent:2em">這一段經文，主要在說明眾生與佛等平等。舉虛空界（<foreign xml:lang="sa">ākāśa-dhātu</foreign>）為譬喻說：如空界<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>
+<lb n="0057a12" ed="Y"/><p rend="text-indent:2em">這一段經文，主要在說明眾生與佛等平等。舉虛空界（<foreign xml:lang="sa">ākāśa-dhātu</foreign>）為譬喻說：如空界<note n="0057a1201" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0057a1201"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>
 <lb n="0057a13" ed="Y"/>在一切處，隨器具而不同，金器空，瓦器空，隨器雖有種種，而虛空是平等不二的。這比喻法性
 <lb n="0057a14" ed="Y"/>（<foreign xml:lang="sa">dharma-dhātu</foreign>），如（<foreign xml:lang="x-sa-pi">tathatā</foreign>），實際（<foreign xml:lang="sa"><note n="0057a1401" resp="CBETA" type="add">bhūtakoṭi【CB】，bhūta-koṭi【印順】</note><app n="0057a1401"><lem wit="【CB】" resp="正聞出版社">bhūtakoṭi</lem><rdg wit="【印順】">bhūta-koṭi</rdg></app></foreign>）是平等不二的，而眾生現起種種，地獄
 <lb n="0057a15" ed="Y"/>色相，……佛色相，這都是「自體」所變作的。特出的經句是：<quote>「自體變百千億種形色別異」</quote>。
@@ -994,8 +994,8 @@
 <lb n="0059a16" ed="Y"/></cb:div>
 <pb n="0060a" ed="Y" xml:id="Y39.0037.0060a"/>
 <lb n="0060a01" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第四節　佛子與佛種性</cb:mulu><head>第四節　佛子與佛種性</head>
-<lb n="0060a02" ed="Y"/><p rend="text-indent:2em">如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）是胎藏的藏，與懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>、誕生，也與種性（<foreign xml:lang="sa">gotra</foreign>）——血統有關
-<lb n="0060a03" ed="Y"/>。從譬喻而發展起來的「佛子」與「佛種性」，對如來藏說，是有<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發作用的。</p>
+<lb n="0060a02" ed="Y"/><p rend="text-indent:2em">如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）是胎藏的藏，與懷<note n="0060a0201" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0060a0201"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>、誕生，也與種性（<foreign xml:lang="sa">gotra</foreign>）——血統有關
+<lb n="0060a03" ed="Y"/>。從譬喻而發展起來的「佛子」與「佛種性」，對如來藏說，是有<note n="0060a0301" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0060a0301"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發作用的。</p>
 <lb n="0060a04" ed="Y"/><p rend="text-indent:2em">佛子，是阿羅漢（<foreign xml:lang="sa">arhat</foreign>）的通稱。佛讚五百阿羅漢說：<quote>「汝等為子，從我口生，從法化生
 <lb n="0060a05" ed="Y"/>，得法餘財」</quote><note n="0060001" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope n="45" type="卷">卷四五</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p330a">二．三三〇上</ref>）。<bibl><title level="m">《中阿含經》</title><biblScope n="29" type="卷">卷二九</biblScope><title level="m">《請請經》</title></bibl>（大正<ref target="vol:1;page:p610a" type="taisho">一．六一〇上</ref>）。</note>。印度的婆羅門（<foreign xml:lang="x-sa-pi"><note n="0060a0501" resp="CBETA" type="add">Brahmā【CB】，brahmā【印順】</note><app n="0060a0501"><lem wit="【CB】" resp="正聞出版社">Brahmā</lem><rdg wit="【印順】">brahmā</rdg></app></foreign>），自以為從梵天口生，從梵天化生，所以佛說：阿羅
 <lb n="0060a06" ed="Y"/>漢們是從聽聞佛口說法聲（所以名為聲聞）而生，從法——法性寂滅的證入而成的。佛子，表示
@@ -1013,29 +1013,29 @@
 <lb n="0061a03" ed="Y"/>，表示自己是如來長子了<note n="0061004" resp="釋印順" type="orig"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="41">卷四一</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p303c">二．三〇三下</ref>）。<bibl>《<title level="m">相應部</title>．<title level="a">迦葉相應</title>》</bibl>（南傳一三．三二三——三二四）。</note>！等到菩薩思想興盛起來，菩薩將來要繼位作佛，當然也是佛子。進
 <lb n="0061a04" ed="Y"/>一步，要簡別佛子，推尊菩薩為<quote>「如來真實佛子」</quote>，如<bibl><title level="m">《大寶積經》</title><biblScope n="112" type="卷">卷一一二</biblScope><title level="a">〈普明菩薩會〉</title></bibl><note place="inline">
 <lb n="0061a05" ed="Y"/>大正<ref type="taisho" target="vol:11;page:p634b">一一．六三四中</ref>——下</note>說：</p>
-<lb n="0061a06" ed="Y"/><quote><p rend="margin-left:3em">「迦葉！譬如剎利大王，有大夫人，與貧賤通，懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>生子。於意云何？是王子不？不也！
+<lb n="0061a06" ed="Y"/><quote><p rend="margin-left:3em">「迦葉！譬如剎利大王，有大夫人，與貧賤通，懷<note n="0061a0601" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0061a0601"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>生子。於意云何？是王子不？不也！
 <lb n="0061a07" ed="Y"/>世尊！如是迦葉！我聲聞眾亦復如是，雖為同證，以法性生，不名如來真實佛子。迦葉！
-<lb n="0061a08" ed="Y"/>譬如剎利大王與使人通，懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>生子，雖出下姓，得名王子。初發心菩薩亦復如是，雖未具
+<lb n="0061a08" ed="Y"/>譬如剎利大王與使人通，懷<note n="0061a0801" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0061a0801"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>生子，雖出下姓，得名王子。初發心菩薩亦復如是，雖未具
 <lb n="0061a09" ed="Y"/>足福德智慧，往來生死，隨其力勢利益眾生，是名如來真實佛子」。</p></quote>
 <lb n="0061a10" ed="Y"/><quote><p rend="margin-left:3em">「迦葉！譬如轉輪聖王而有千子，未有一人有聖王相，聖王於中不生子想。如來亦爾，雖
 <lb n="0061a11" ed="Y"/>有百千萬億聲聞眷屬圍遶，而無菩薩，如來於中不生子想。迦葉！譬如轉輪聖王有大夫人
-<lb n="0061a12" ed="Y"/>，懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>七日，是子具有轉輪王相，諸天尊重，過餘諸子具身力者。所以者何？是胎王子，
+<lb n="0061a12" ed="Y"/>，懷<note n="0061a1201" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0061a1201"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>七日，是子具有轉輪王相，諸天尊重，過餘諸子具身力者。所以者何？是胎王子，
 <lb n="0061a13" ed="Y"/>必紹尊位，繼聖王種。如是迦葉！初發心菩薩亦復如是，雖未具足諸菩薩根，如胎王子，
 <lb n="0061a14" ed="Y"/>諸天神王深心尊重，過於八解大阿羅漢。所以者何？如是菩薩名紹尊位，不斷佛種」。</p></quote>
-<lb n="0061a15" ed="Y"/><p rend="text-indent:2em"><title level="m"><choice cb:type="規範字詞"><orig>《寶積經》</orig><reg>《大寶積經》</reg></choice></title>的王子譬喻，說明了菩薩才是真實佛子。第一則喻，<quote>「王大夫人與貧賤通」</quote>，生
+<lb n="0061a15" ed="Y"/><p rend="text-indent:2em"><title level="m"><note n="0061a1501" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0061a1501"><lem wit="【CB】" resp="CBETA">《大寶積經》</lem><rdg wit="【印順】">《寶積經》</rdg></app></title>的王子譬喻，說明了菩薩才是真實佛子。第一則喻，<quote>「王大夫人與貧賤通」</quote>，生
 <pb n="0062a" ed="Y" xml:id="Y39.0037.0062a"/>
 <lb n="0062a01" ed="Y"/>下來的並不是王子，因為不是聖位的血統——種性（<foreign xml:lang="sa">gotra</foreign>）。聲聞聖者雖然與佛一樣的證入法性
 <lb n="0062a02" ed="Y"/>，但由於雜有貧賤（沒有悲願，獨善）的因素，不能說是真實的佛子。父家長時代，種性是依父
 <lb n="0062a03" ed="Y"/>親而定的，所以聖王與使女生子，反而是王子。這如還在凡夫位的菩薩，但有了如來——悲願的
 <lb n="0062a04" ed="Y"/>特性，也就是佛的真子了。第二喻，說到了胎（藏）有轉輪王相，與<title level="m">《如來藏經》</title>九喻中的「貧
-<lb n="0062a05" ed="Y"/>賤醜陋女，懷轉輪聖王」喻，非常近似。但<title level="m"><choice cb:type="規範字詞"><orig>《寶積經》</orig><reg>《大寶積經》</reg></choice></title>重在初發心菩薩，能<quote>「紹尊位，不斷佛種
+<lb n="0062a05" ed="Y"/>賤醜陋女，懷轉輪聖王」喻，非常近似。但<title level="m"><note n="0062a0501" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0062a0501"><lem wit="【CB】" resp="CBETA">《大寶積經》</lem><rdg wit="【印順】">《寶積經》</rdg></app></title>重在初發心菩薩，能<quote>「紹尊位，不斷佛種
 <lb n="0062a06" ed="Y"/>」</quote>。</p>
 <lb n="0062a07" ed="Y"/><p rend="text-indent:2em">依<bibl>《<title level="m">中阿含經</title>．<title level="a">王<note n="0062a0701" resp="CBETA" type="add">相應【CB】，［－］【印順】</note><app n="0062a0701"><lem wit="【CB】" resp="正聞出版社">相應<note type="cf1">《中阿含經》卷14〈1 王相應品〉(CBETA, T01, no. 26, p. 514, a13-24)</note></lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>品</title>》</bibl>所說，輪王種性是代代相承的。輪王到了頭生白髮（老了），就退
 <lb n="0062a08" ed="Y"/>位而由王長子來繼承。王子遵循王家的舊法，修行仁政，於是七寶出現，成為轉輪王。如不修仁
 <lb n="0062a09" ed="Y"/>政，輪王種性就斷絕了。輪王的世世相承，與如來出世，前佛後佛的佛佛相承一樣。輪王是父子
 <lb n="0062a10" ed="Y"/>相承，前佛與後佛間，也是父子那樣的，所以菩薩發心（求成佛道），稱為佛子。如修行圓滿，
 <lb n="0062a11" ed="Y"/>就「位登補處」，如立為太子；再進一步，就成佛了。在佛佛相承出世中，「佛種性」與「佛子
-<lb n="0062a12" ed="Y"/>」，聲聞聖者怎麼也是沒有分的，所以<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《寶積經》</orig><reg>《大寶積經》</reg></choice></title>說：菩薩才是</bibl><quote>「如來真實佛子」</quote></cit>。輪王的種性
+<lb n="0062a12" ed="Y"/>」，聲聞聖者怎麼也是沒有分的，所以<cit><bibl><title level="m"><note n="0062a1201" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0062a1201"><lem wit="【CB】" resp="CBETA">《大寶積經》</lem><rdg wit="【印順】">《寶積經》</rdg></app></title>說：菩薩才是</bibl><quote>「如來真實佛子」</quote></cit>。輪王的種性
 <lb n="0062a13" ed="Y"/>相承，從胎兒的確定是輪王種性，經王子而登上輪王大位，是王子的一生經歷。而比喻中的佛種
 <lb n="0062a14" ed="Y"/>不斷，是從菩薩發心，修行到成佛，要經歷長時間的修證過程。說明菩薩從發心到成佛的過程，
 <lb n="0062a15" ed="Y"/>就有以王子的一生經歷為喻，成立菩薩行位的先後歷程。如說出世部（<foreign xml:lang="sa"><note n="0062a1501" resp="CBETA" type="add">Lokottaravādin【CB】，Lokottaravādināḥ【印順】</note><app n="0062a1501"><lem wit="【CB】" resp="正聞出版社">Lokottaravādin</lem><rdg wit="【印順】">Lokottaravādināḥ</rdg></app></foreign>）的<title level="m">《
@@ -1101,7 +1101,7 @@
 <lb n="0067a08" ed="Y"/>可以滿足了！</p>
 <lb n="0067a09" ed="Y"/><p rend="text-indent:2em">「心性本淨」，是與定（<foreign xml:lang="x-sa-pi">samādhi</foreign>）有關的，定學也稱為心（<foreign xml:lang="sa">citta</foreign>）學。修定的要遠離五蓋
 <lb n="0067a10" ed="Y"/>，蓋（<foreign xml:lang="x-sa-pi"><note n="0067a1001" resp="CBETA" type="add">āvaraṇa【CB】，āvaraṇāni【印順】</note><app n="0067a1001"><lem wit="【CB】" resp="正聞出版社">āvaraṇa</lem><rdg wit="【印順】">āvaraṇāni</rdg></app></foreign>）是覆蔽的意思。貪、瞋等五蓋，有覆蔽的作用，使心不得澄靜、明淨。與定
-<lb n="0067a11" ed="Y"/>有關的五蓋說，<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發了心清淨的思想。<bibl><title level="m">《雜阿含經》</title><biblScope n="47" type="卷">卷四七</biblScope></bibl><note place="inline">大正<ref target="vol:2;page:p341c" type="taisho">二．三四一下</ref></note>說：</p>
+<lb n="0067a11" ed="Y"/>有關的五蓋說，<note n="0067a1101" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0067a1101"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發了心清淨的思想。<bibl><title level="m">《雜阿含經》</title><biblScope n="47" type="卷">卷四七</biblScope></bibl><note place="inline">大正<ref target="vol:2;page:p341c" type="taisho">二．三四一下</ref></note>說：</p>
 <lb n="0067a12" ed="Y"/><quote><p rend="margin-left:3em">「淨心進向比丘，麁煩惱纏，惡不善業，諸惡邪見，漸斷令滅；如彼生金，淘去剛石堅塊
 <pb n="0068a" ed="Y" xml:id="Y39.0037.0068a"/>
 <lb n="0068a01" ed="Y"/>。復次，淨心進向比丘，除次麁垢，欲覺、恚覺、害覺；如彼生金，除麁沙礫。復次，淨
@@ -1133,7 +1133,7 @@
 <lb n="0069a11" ed="Y"/>二大系所繼承宏揚的。<title level="m">《異部宗輪論》</title><note place="inline">大正<ref type="taisho" target="vol:50;page:p15b">五〇．一五中</ref>——下</note>說：</p>
 <lb n="0069a12" ed="Y"/><quote><p rend="margin-left:3em">「大眾部、一說部、說出世部、雞胤部本宗同義者、……心性本淨，客隨煩惱之所雜染，
 <lb n="0069a13" ed="Y"/>說為不淨」。</p></quote>
-<lb n="0069a14" ed="Y"/><p rend="text-indent:2em">大眾部的心淨說，<cit><bibl><title level="m">《隨相論》</title>曾有所解說：</bibl><quote>「如僧祇等部說：眾生心性本淨，客塵所<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>。淨
+<lb n="0069a14" ed="Y"/><p rend="text-indent:2em">大眾部的心淨說，<cit><bibl><title level="m">《隨相論》</title>曾有所解說：</bibl><quote>「如僧祇等部說：眾生心性本淨，客塵所<note n="0069a1401" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0069a1401"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>。淨
 <lb n="0069a15" ed="Y"/>即是三善根；眾生無始生死<note n="0069a1501" resp="CBETA" type="add">已【CB】，以【印順】</note><app n="0069a1501"><lem wit="【CB】" resp="正聞出版社">已<note type="cf1">《隨相論(解十六諦義)》卷1(CBETA, T32, no. 1641, p. 163, b7-11)</note></lem><rdg wit="【印順】">以</rdg></app>來有客塵，即是煩惱，煩惱即是隨眠等煩惱，隨眠煩惱即是三不善
 <pb n="0070a" ed="Y" xml:id="Y39.0037.0070a"/>
 <lb n="0070a01" ed="Y"/>根」</quote><note n="0070006" resp="釋印順" type="orig"><title level="m">《隨相論》</title>（大正<ref target="vol:32;page:p163b" type="taisho">三二．一六三中</ref>）。</note></cit>。依<title level="m">《隨相論》</title>說：大眾部等以為心是本淨的。三善根，與三不善根——隨眠一樣，是與
@@ -1142,8 +1142,8 @@
 <lb n="0070a04" ed="Y"/>以與善根（及善心所）相契應，而被稱為「心性本淨」的。</p>
 <lb n="0070a05" ed="Y"/><p rend="text-indent:2em">印度本土的分別說部，如化地部（<foreign xml:lang="sa"><note n="0070a0501" resp="CBETA" type="add">Mahīśāsaka【CB】，Mahīśāsakāḥ【印順】</note><app n="0070a0501"><lem wit="【CB】" resp="正聞出版社">Mahīśāsaka</lem><rdg wit="【印順】">Mahīśāsakāḥ</rdg></app></foreign>）等，說一切有部（<foreign xml:lang="sa"><note n="0070a0502" resp="CBETA" type="add">Sarvāstivāda【CB】，Sarvāstivādin【印順】</note><app n="0070a0502"><lem wit="【CB】" resp="正聞出版社">Sarvāstivāda</lem><rdg wit="【印順】">Sarvāstivādin</rdg></app></foreign>）論師，
 <lb n="0070a06" ed="Y"/>是稱之為「分別論者」的。如<bibl><title level="m">《阿毘達磨大毘婆沙論》</title><biblScope n="27" type="卷">卷二七</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:27;page:p140b">二七．一四〇中</ref>——下</note>說：</p>
-<lb n="0070a07" ed="Y"/><quote><p rend="margin-left:3em">「有執心性本淨，如分別論者。彼說心本性清淨，客塵煩惱所染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>故，相不清淨。……彼
-<lb n="0070a08" ed="Y"/>說染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>不染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>心，其體無異。謂若相應煩惱未斷，名染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>心，若時相應煩惱已斷，名不染
+<lb n="0070a07" ed="Y"/><quote><p rend="margin-left:3em">「有執心性本淨，如分別論者。彼說心本性清淨，客塵煩惱所染<note n="0070a0701" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0070a0701"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>故，相不清淨。……彼
+<lb n="0070a08" ed="Y"/>說染<note n="0070a0801" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0070a0801"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>不染<note n="0070a0802" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0070a0802"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>心，其體無異。謂若相應煩惱未斷，名染<note n="0070a0803" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0070a0803"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>心，若時相應煩惱已斷，名不染
 <lb n="0070a09" ed="Y"/>心。如銅器等未除垢時，名有垢器等；若除垢已，名無垢器等：心亦如是」。</p></quote>
 <lb n="0070a10" ed="Y"/><p rend="text-indent:2em">分別論者的心淨說，<bibl><title level="m">《阿毘達磨順正理論》</title><biblScope n="72" type="卷">卷七二</biblScope></bibl><note place="inline">大正<ref target="vol:29;page:p733a" type="taisho">二九．七三三上</ref></note>也說：</p>
 <lb n="0070a11" ed="Y"/><quote><p rend="margin-left:3em">「分別論者作如是言：唯有貪心今得解脫，如有垢器，後除其垢；如頗胝迦由所依處顯色
@@ -1192,8 +1192,8 @@
 <lb n="0073a06" ed="Y"/>悉檀<note n="0073011" resp="釋印順" type="orig">拙作<title level="m">《原始佛教聖典之集成》</title>（<ref type="yinshun" target="vol:35;page:p676">六七六</ref>——六八三）。</note>。在原始聖典的考論中，知道<title level="m">《增壹阿含》</title>——<title level="m">《增支部》</title>，主要是依「如來記說」（如
 <lb n="0073a07" ed="Y"/>說三念、四念、六念，四不壞信，慈心，十善等），經<title level="m">《如是語》</title>（<foreign xml:lang="sa">itivuttaka</foreign>）而擴編所成的<note n="0073012" resp="釋印順" type="orig">拙作<title level="m">《原始佛教聖典之集成》</title>（<ref type="yinshun" target="vol:35;page:p764">七六四</ref>——七八七）。</note>
 <lb n="0073a08" ed="Y"/>。「心性本淨」與鍊金等譬喻，<title level="m">《巴利藏》</title>都在<title level="m">《增支部》</title>中；漢譯<title level="m">《雜阿含經》</title>，鍊金譬喻屬
-<lb n="0073a09" ed="Y"/>於「如來記說」部分。如考論沒有錯誤，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>「如來記說」與<title level="m">《增支部》</title>所說，「心性本淨」與
-<lb n="0073a10" ed="Y"/>鍊金等譬喻，都是「各各為人」——<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發人為善的意趣；不是第一義悉檀（顯揚真義），當然是
+<lb n="0073a09" ed="Y"/>於「如來記說」部分。如考論沒有錯誤，<note n="0073a0901" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0073a0901"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>「如來記說」與<title level="m">《增支部》</title>所說，「心性本淨」與
+<lb n="0073a10" ed="Y"/>鍊金等譬喻，都是「各各為人」——<note n="0073a1001" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0073a1001"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發人為善的意趣；不是第一義悉檀（顯揚真義），當然是
 <lb n="0073a11" ed="Y"/>「非了義說」了。<bibl><title level="m">《成實論》</title><biblScope n="3" type="卷">卷三</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:32;page:p258b">三二．二五八中</ref></note>說：</p>
 <lb n="0073a12" ed="Y"/><quote><p rend="margin-left:3em">「心性非是本淨，客塵故不淨，但佛為眾生謂心常在，故說客塵所染則心不淨。又佛為懈
 <lb n="0073a13" ed="Y"/>怠眾生，若聞心本不淨，便謂性不可改，則不發淨心，故說本淨」。</p></quote>
@@ -1202,7 +1202,7 @@
 <pb n="0074a" ed="Y" xml:id="Y39.0037.0074a"/>
 <lb n="0074a01" ed="Y"/>）的；在「原始佛教」中，常心是愚癡的邪見。對治常心的邪執，所以說心是可以成為不淨的。
 <lb n="0074a02" ed="Y"/>可以不淨，可見心是非常了。有些人自覺得心地不淨，煩惱重重，所以因循懈怠，不能勇猛的發
-<lb n="0074a03" ed="Y"/>心修行。為<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發這些懈怠人的善心，所以說：自心本來是清淨的，暫時為煩惱所染，為什麼不自
+<lb n="0074a03" ed="Y"/>心修行。為<note n="0074a0301" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0074a0301"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發這些懈怠人的善心，所以說：自心本來是清淨的，暫時為煩惱所染，為什麼不自
 <lb n="0074a04" ed="Y"/>勉而發淨心呢！為什麼為眾生說如來藏？<cit><bibl><title level="m">《寶性論》</title>舉出了五項理由，第一項就是</bibl><quote>「以有怯弱心
 <lb n="0074a05" ed="Y"/>」</quote><note n="0074013" resp="釋印順" type="orig"><bibl><title level="m">《究竟一乘寶性論》</title><biblScope n="4" type="卷">卷四</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p840c">三一．八四〇下</ref>）。<bibl><title level="m">《佛性論》</title><biblScope n="1" type="卷">卷一</biblScope></bibl>（大正<ref target="vol:31;page:p787a" type="taisho">三一．七八七上</ref>）。</note></cit>，與<cit><bibl><title level="m">《成實論》</title></bibl><quote>「為懈怠者」</quote></cit>說相合；也與<cit><bibl><title level="m">《增支部》</title>的</bibl><quote>「各各為人生善」</quote></cit>相合，這應該就
 <lb n="0074a06" ed="Y"/>是說「心性本淨」的根本意趣。</p>
@@ -1228,7 +1228,7 @@
 <lb n="0075a10" ed="Y"/>，始終以常識的譬喻為依據，是平易近人的，但決不是深徹的！這所以阿毘達磨論師要一再的說
 <lb n="0075a11" ed="Y"/>：<quote>「世俗法異，賢聖法異」</quote>。</p>
 <lb n="0075a12" ed="Y"/><p rend="text-indent:2em">心、意、識，一般是看作同名而異實的，所以綜合為「心意識」一詞。在經典的應用中，雖
-<lb n="0075a13" ed="Y"/>然並不嚴格，卻也表示出每一名字的特性；這在古代阿毘達磨論師，早就注意到了。<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>「心性
+<lb n="0075a13" ed="Y"/>然並不嚴格，卻也表示出每一名字的特性；這在古代阿毘達磨論師，早就注意到了。<note n="0075a1301" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0075a1301"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>「心性
 <lb n="0075a14" ed="Y"/>本淨」的心，有什麼特殊的意義呢？心（<foreign xml:lang="sa">citta</foreign>）的特義，如古師說<note n="0075018" resp="釋印順" type="orig">1.<bibl><title level="m">《阿毘達磨大毘婆沙論》</title><biblScope n="72" type="卷">卷七二</biblScope></bibl>（大正<ref type="taisho" target="vol:27;page:p371b">二七．三七一中</ref>）。2.<bibl><title level="m">《阿毘達磨俱舍論》</title><biblScope type="卷" n="4">卷四</biblScope></bibl>（大正<ref target="vol:29;page:p21c" type="taisho">二九．二一下</ref>）。</note>：</p>
 <lb n="0075a15" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「心是種族義。……彩畫是心業。……滋長是心業」</quote>。</p></item>
 <pb n="0076a" ed="Y" xml:id="Y39.0037.0076a"/>
@@ -1259,7 +1259,7 @@
 <lb n="0077a09" ed="Y"/>心（王）——六識。分離了「心所有法」的心，近於現代心理學上的統覺作用。從種種心所而論
 <lb n="0077a10" ed="Y"/>到所依的一心（六識中的一識），也會被誤解為心體與心用。好在阿毘達磨論者不這麼說、認為
 <lb n="0077a11" ed="Y"/>心與心所是同樣的，只是總相知（是心）與種種別相知（是心所）的差別。二、如一心論者，引
-<lb n="0077a12" ed="Y"/>用「心<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>行獨行」，而以為不同的六識，只是一心的差別。三、如心性本淨論者：經上說：<quote>「心
+<lb n="0077a12" ed="Y"/>用「心<note n="0077a1201" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0077a1201"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>行獨行」，而以為不同的六識，只是一心的差別。三、如心性本淨論者：經上說：<quote>「心
 <lb n="0077a13" ed="Y"/>極光淨，客塵所染」</quote>，依世俗的譬喻，而解說為<quote>「性淨而相染」</quote>。心是內在的一心，雜染或離染
 <lb n="0077a14" ed="Y"/>，而心體是清淨的。佛教界傾於內在的統一，是與世間心境相應的。一般人的見解，總是這樣的
 <lb n="0077a15" ed="Y"/>：說到死生相續，就想到有一貫通前死後生者的存在，否則就不能說前後延續。說到從雜染到清
@@ -1267,7 +1267,7 @@
 <lb n="0078a01" ed="Y"/>淨，從繫縛到解脫，就設想為必有一貫通染與淨，貫通縛與脫的存在。這是世間的知見，為成立
 <lb n="0078a02" ed="Y"/>一心，或神我的意識根源。心淨而有煩惱，煩惱除了而心還清淨，「心」就是貫通染淨的所依自
 <lb n="0078a03" ed="Y"/>體，正如洗衣的衣，磨鏡的鏡，鍊金的金一樣。以世俗譬喻而成立的「心性本淨」，確是適合於
-<lb n="0078a04" ed="Y"/>世間一般的見識，而富有<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發人心向善的作用。</p>
+<lb n="0078a04" ed="Y"/>世間一般的見識，而富有<note n="0078a0401" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0078a0401"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發人心向善的作用。</p>
 <lb n="0078a05" ed="Y"/>
 <lb n="0078a06" ed="Y"/>
 <lb n="0078a07" ed="Y"/>
@@ -1341,10 +1341,9 @@
 <lb n="0082a11" ed="Y"/>，菩薩心也就被轉化為菩提心了。如 6.是吳支謙（西元三世紀初）譯出的<cit><bibl><title level="m">《大明度經》</title>，作</bibl><quote>「不
 <lb n="0082a12" ed="Y"/>當念是我知道意」</quote></cit>，道意是菩提心的古譯。7.是玄奘所譯<title level="m">《大般若經》</title>的〈第四分〉，譯為「不
 <lb n="0082a13" ed="Y"/>執著大菩提心」。現在梵本的<title level="m">《八千頌般若經》</title>（<foreign xml:lang="sa"><note n="0082a1301" resp="CBETA" type="add">Aṣṭasāhasrikāprajñāpāramitā-sūtra【CB】，Aṣṭasāhasrikā-pra jñāpāramitā-sūtra【印順】</note><app n="0082a1301"><lem wit="【CB】" resp="正聞出版社">Aṣṭasāhasrikāprajñāpāramitā-sūtra</lem><rdg wit="【印順】">Aṣṭasāhasrikā-pra jñāpāramitā-sūtra</rdg></app></foreign>），也作
-<lb n="0082a14" ed="Y"/><quote>「菩提心不應著」</quote>（<foreign xml:lang="sa"><note n="0082a1401" resp="CBETA" type="add">bodhicittena namanyeta【CB】，bodhicittena na-manyeta【印順】</note><app n="0082a1401"><lem wit="【CB】" resp="正聞出版社">bodhicittena namanyeta</lem><rdg wit="【印順】">bodhicittena na-manyeta</rdg></app></foreign>）；<foreign xml:lang="sa">manyeta</foreign> 有高慢的意思。進一步，到了<title level="m">《<choice cb:type="規範字詞"><orig>大品<lb n="0082a15" ed="Y"/>般若</orig><reg>大品
-<lb n="0082a15" ed="Y"/>般若經</reg></choice>》</title>及<title level="m"><choice cb:type="規範字詞"><orig>《十萬頌般若》</orig><reg>《十萬頌般若經》</reg></choice></title>（與玄奘譯的前三分相當），就引申為「菩提心」（<foreign xml:lang="sa">bodhi-citta</foreign>），「
+<lb n="0082a14" ed="Y"/><quote>「菩提心不應著」</quote>（<foreign xml:lang="sa"><note n="0082a1401" resp="CBETA" type="add">bodhicittena namanyeta【CB】，bodhicittena na-manyeta【印順】</note><app n="0082a1401"><lem wit="【CB】" resp="正聞出版社">bodhicittena namanyeta</lem><rdg wit="【印順】">bodhicittena na-manyeta</rdg></app></foreign>）；<foreign xml:lang="sa">manyeta</foreign> 有高慢的意思。進一步，到了<title level="m">《<note n="0082a1501" resp="CBETA" type="add" subtype="規範字詞">大品<lb n="0082a15" ed="Y"/>般若經【CB】，大品<lb n="0082a15" ed="Y"/>般若【印順】</note><app n="0082a1501"><lem wit="【CB】" resp="CBETA">大品<lb n="0082a15" ed="Y"/>般若經</lem><rdg wit="【印順】">大品<lb n="0082a15" ed="Y"/>般若</rdg></app>》</title>及<title level="m"><note n="0082a1502" resp="CBETA" type="add" subtype="規範字詞">十萬頌般若經【CB】，十萬頌般若【印順】</note><app n="0082a1502"><lem wit="【CB】" resp="CBETA">《十萬頌般若經》</lem><rdg wit="【印順】">《十萬頌般若》</rdg></app></title>（與玄奘譯的前三分相當），就引申為「菩提心」（<foreign xml:lang="sa">bodhi-citta</foreign>），「
 <pb n="0083a" ed="Y" xml:id="Y39.0037.0083a"/>
-<lb n="0083a01" ed="Y"/>無等等心」（<foreign xml:lang="x-sa-pi"><choice cb:type="規範字詞"><orig>asamasama-c.</orig><reg>asamasama-citta</reg></choice></foreign>），「廣大心」（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>udāra-c.</orig><reg>udāra-citta</reg></choice></foreign>）——三心。羅什所譯的<title level="m">《大品般若經》</title>
+<lb n="0083a01" ed="Y"/>無等等心」（<foreign xml:lang="x-sa-pi"><note n="0083a0101" resp="CBETA" type="add" subtype="規範字詞">asamasama-citta【CB】，asamasama-c.【印順】</note><app n="0083a0101"><lem wit="【CB】" resp="CBETA">asamasama-citta</lem><rdg wit="【印順】">asamasama-c.</rdg></app></foreign>），「廣大心」（<foreign xml:lang="sa"><note n="0083a0102" resp="CBETA" type="add" subtype="規範字詞">udāra-citta【CB】，udāra-c.【印順】</note><app n="0083a0102"><lem wit="【CB】" resp="CBETA">udāra-citta</lem><rdg wit="【印順】">udāra-c.</rdg></app></foreign>）——三心。羅什所譯的<title level="m">《大品般若經》</title>
 <lb n="0083a02" ed="Y"/>，作「得是心」，「無等等心」，「大心」<note n="0083005" resp="釋印順" type="orig"><bibl><title level="m">《摩訶般若波羅蜜經》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref target="vol:8;page:p233c" type="taisho">八．二三三下</ref>）。</note>；「得是心」，一定是「菩提心」的訛寫。這樣，
 <lb n="0083a03" ed="Y"/>本是觀能觀心的本性清淨，演化為菩提心的本性清淨了。</p>
 <lb n="0083a04" ed="Y"/><p rend="text-indent:2em">心性本淨的「清淨」——<foreign xml:lang="sa">prabhāsvara</foreign> 有「明淨」的意思，是繼承<title level="m">《阿含經》</title>說而來的。
@@ -1353,7 +1352,7 @@
 <lb n="0083a07" ed="Y"/><biblScope n="7" type="卷">卷七</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:8;page:p566c">八．五六六下</ref></note>說：</p>
 <lb n="0083a08" ed="Y"/><quote><p rend="margin-left:3em">「如來所說無盡，無量，空，無相，無作，無起，無生無滅，無所有，無染，涅槃，但以
 <lb n="0083a09" ed="Y"/>名字方便故說」。</p></quote>
-<lb n="0083a10" ed="Y"/><p rend="text-indent:2em"><cit><bibl>《<title level="m"><choice cb:type="規範字詞"><orig>般若</orig><reg>大般若經</reg></choice></title>．第五分》說：</bibl><quote>「諸如是等無量法門，義實無異，皆是如來方便演說」</quote><note n="0083007" resp="釋印順" type="orig"><bibl><title level="m">《大般若波羅蜜多經》</title>（〈第五分〉）<biblScope type="卷" n="562">卷五六二</biblScope></bibl>（大正<ref target="vol:7;page:p904b" type="taisho">七．九〇四中</ref>）。</note></cit>。無染是
+<lb n="0083a10" ed="Y"/><p rend="text-indent:2em"><cit><bibl>《<title level="m"><note n="0083a1001" resp="CBETA" type="add" subtype="規範字詞">大般若經【CB】，般若【印順】</note><app n="0083a1001"><lem wit="【CB】" resp="CBETA">大般若經</lem><rdg wit="【印順】">般若</rdg></app></title>．第五分》說：</bibl><quote>「諸如是等無量法門，義實無異，皆是如來方便演說」</quote><note n="0083007" resp="釋印順" type="orig"><bibl><title level="m">《大般若波羅蜜多經》</title>（〈第五分〉）<biblScope type="卷" n="562">卷五六二</biblScope></bibl>（大正<ref target="vol:7;page:p904b" type="taisho">七．九〇四中</ref>）。</note></cit>。無染是
 <lb n="0083a11" ed="Y"/>清淨的異名，所以<bibl><title level="m">《大智度論》</title><biblScope type="卷" n="63">卷六三</biblScope></bibl><note place="inline">大正<ref target="vol:25;page:p507a" type="taisho">二五．五〇七上</ref></note>說：</p>
 <lb n="0083a12" ed="Y"/><quote><p rend="margin-left:3em">「諸法實相常淨。……是清淨有種種名字，或名如、法性<note place="inline">界</note>、實際，或名般若波羅蜜，或
 <lb n="0083a13" ed="Y"/>名道<note place="inline">菩提</note>，或名無生、無滅、空、無相、無作、無知、無得，或名畢竟空等，如是無量無
@@ -1382,8 +1381,8 @@
 <lb n="0085a04" ed="Y"/>法門，是實踐的，向上的。如來藏自性清淨，指出眾生本有如來性，為成佛淨因；或以如來藏為
 <lb n="0085a05" ed="Y"/>依止，建立凡聖、染淨一切法。這是重於心（或我）的，說明的，從上向下的（或稱之為「卻來
 <lb n="0085a06" ed="Y"/>門」）。所以<title level="m">《般若經》</title>的心性本淨說，可能引發如來藏說，卻不是如來藏說。</p>
-<lb n="0085a07" ed="Y"/><p rend="text-indent:2em"><title level="m">《般若經》</title>說一切法本性空（<foreign xml:lang="sa">prakṛti-śūnyatā</foreign>），又說一切法畢竟空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>atyanta-ś.</orig><reg>atyanta-śūnyatā</reg></choice></foreign>）；說本
-<lb n="0085a08" ed="Y"/>性淨（<foreign xml:lang="sa"><note n="0085a0801" resp="CBETA" type="add">prakṛti-viśuddha【CB】，prakṛti-viśuddhi【印順】</note><app n="0085a0801"><lem wit="【CB】" resp="正聞出版社">prakṛti-viśuddha</lem><rdg wit="【印順】">prakṛti-viśuddhi</rdg></app></foreign>），又說畢竟淨（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>atyanta-v.</orig><reg>atyanta-viśuddha</reg></choice></foreign>）。淨與空，有什麼不同意義呢？<bibl><title level="m">《大智度
+<lb n="0085a07" ed="Y"/><p rend="text-indent:2em"><title level="m">《般若經》</title>說一切法本性空（<foreign xml:lang="sa">prakṛti-śūnyatā</foreign>），又說一切法畢竟空（<foreign xml:lang="sa"><note n="0085a0701" resp="CBETA" type="add" subtype="規範字詞">atyanta-śūnyatā【CB】，atyanta-ś.【印順】</note><app n="0085a0701"><lem wit="【CB】" resp="CBETA">atyanta-śūnyatā</lem><rdg wit="【印順】">atyanta-ś.</rdg></app></foreign>）；說本
+<lb n="0085a08" ed="Y"/>性淨（<foreign xml:lang="sa"><note n="0085a0801" resp="CBETA" type="add">prakṛti-viśuddha【CB】，prakṛti-viśuddhi【印順】</note><app n="0085a0801"><lem wit="【CB】" resp="正聞出版社">prakṛti-viśuddha</lem><rdg wit="【印順】">prakṛti-viśuddhi</rdg></app></foreign>），又說畢竟淨（<foreign xml:lang="sa"><note n="0085a0802" resp="CBETA" type="add" subtype="規範字詞">atyanta-viśuddha【CB】，atyanta-v.【印順】</note><app n="0085a0802"><lem wit="【CB】" resp="CBETA">atyanta-viśuddha</lem><rdg wit="【印順】">atyanta-v.</rdg></app></foreign>）。淨與空，有什麼不同意義呢？<bibl><title level="m">《大智度
 <lb n="0085a09" ed="Y"/>論》</title><biblScope type="卷" n="63">卷六三</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:25;page:p508c">二五．五〇八下</ref></note>說：</p>
 <lb n="0085a10" ed="Y"/><quote><p rend="margin-left:3em">「畢竟空即是畢竟清淨，以人畏空，故言清淨」。</p></quote>
 <lb n="0085a11" ed="Y"/><p rend="text-indent:2em">空與淨，只是名字不同，而內容是一樣的。佛法所說的空，是「最甚深處」，而聽者容易想
@@ -1398,11 +1397,11 @@
 <lb n="0086a04" ed="Y"/>，是以說一切諸法性常清淨」。</p></quote>
 <lb n="0086a05" ed="Y"/><quote><p rend="margin-left:3em">「何謂諸法性淨？謂一切法空相，……無相相，……無作相，……是名性常清淨。以是常
 <lb n="0086a06" ed="Y"/>淨相，知生死性即是涅槃性，涅槃性即是一切法性，是故說心性常清淨」。</p></quote>
-<lb n="0086a07" ed="Y"/><quote><p rend="margin-left:3em">「譬如虛空，若受垢<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，無有是處；心性亦如是，若有垢<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，無有是處。……以心相實不
-<lb n="0086a08" ed="Y"/>垢<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，性常明淨，是故心得解脫」。</p></quote>
+<lb n="0086a07" ed="Y"/><quote><p rend="margin-left:3em">「譬如虛空，若受垢<note n="0086a0701" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0086a0701"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，無有是處；心性亦如是，若有垢<note n="0086a0702" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0086a0702"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，無有是處。……以心相實不
+<lb n="0086a08" ed="Y"/>垢<note n="0086a0801" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0086a0801"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，性常明淨，是故心得解脫」。</p></quote>
 <lb n="0086a09" ed="Y"/><p rend="text-indent:2em"><title level="m">《思益經》</title>從一切性——空、無相、無作的常清淨，說到心性常清淨。舉虛空為譬喻，比喻
 <lb n="0086a10" ed="Y"/>凡夫心從來不為客塵所染污。這是在法法性淨的理念中，闡明心解脫（<foreign xml:lang="sa">citta-vimukti</foreign>）的可能。
-<lb n="0086a11" ed="Y"/>因為<quote>「設垢<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>者，不可復淨」</quote>；修行而能達成心淨解脫，可見心性的本來清淨。</p>
+<lb n="0086a11" ed="Y"/>因為<quote>「設垢<note n="0086a1101" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0086a1101"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>者，不可復淨」</quote>；修行而能達成心淨解脫，可見心性的本來清淨。</p>
 <lb n="0086a12" ed="Y"/><p rend="text-indent:2em">大乘經採用「心性本淨」說，是應用到多方面的，如<title level="m">《持世經》</title>所說的心念處（<foreign xml:lang="sa"><note n="0086a1201" resp="CBETA" type="add">Citta-smṛtyupasthāna【CB】，citta-smṛty-upasthāna【印順】</note><app n="0086a1201"><lem wit="【CB】" resp="正聞出版社">Citta-smṛtyupasthāna</lem><rdg wit="【印順】">citta-smṛty-upasthāna</rdg></app></foreign>）
 <lb n="0086a13" ed="Y"/>。觀心的生滅，虛妄無實，<quote>「從本以來，不生、不起，性常清淨，客塵煩惱染故有
 <lb n="0086a14" ed="Y"/>分別」</quote>。從通達心無心相，<quote>「不分別是心是非心，但善知心無生相」</quote>。<quote>「不得心垢相，不得心淨
@@ -1411,7 +1410,7 @@
 <lb n="0087a01" ed="Y"/>常淨的意趣所在<note n="0087012" resp="釋印順" type="orig"><bibl><title level="m">《大智度論》</title><biblScope type="卷" n="19">卷一九</biblScope></bibl>（大正<ref target="vol:25;page:p203c" type="taisho">二五．二〇三下</ref>——<ref type="taisho" target="vol:25;page:p204a">二〇四上</ref>），觀心念處，就是引用<title level="m">《持世經》</title>的。</note>。<title level="m">《阿闍世王經》</title>，是以悟解罪性本空，而懺除罪業為主題的。懺罪的教授，
 <lb n="0087a02" ed="Y"/>是說明心不可得：不在內，不在外，不在中間；過去心已滅，未來心未至，現在心不住；心無形
 <lb n="0087a03" ed="Y"/>、無處，無來無去。心如虛空那樣，煙、霧等五事，不能使虛空有垢，所以說：<quote>「心者本淨故，
-<lb n="0087a04" ed="Y"/>亦無有沾<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，亦無有而淨者」</quote><note n="0087013" resp="釋印順" type="orig"><bibl><title level="m">《阿闍世王經》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref type="taisho" target="vol:15;page:p401c">一五．四〇一下</ref>、<ref target="vol:15;page:p403a" type="taisho">四〇三上</ref>——下）。<bibl><title level="m">《文殊支利普超三昧經》</title><biblScope type="卷" n="下">卷下</biblScope></bibl>（大正<ref target="vol:15;page:p421c" type="taisho">一五．四二一下</ref>——四二二上、<ref type="taisho" target="vol:15;page:p424b">四二四中</ref>——四二五上）。</note><note n="0087013" resp="正聞出版社" type="mod"><bibl><title level="m">《阿闍世王經》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref type="taisho" target="vol:15;page:p401c">一五．四〇一下</ref>、<ref target="vol:15;page:p403a" type="taisho">四〇三上</ref>——下）。<bibl><title level="m">《文殊師<note type="cf1">《文殊師利普超三昧經》卷1(CBETA, T15, no. 627, p. 406, b15-16)</note>利普超三昧經》</title><biblScope type="卷" n="下">卷下</biblScope></bibl>（大正<ref target="vol:15;page:p421c" type="taisho">一五．四二一下</ref>——四二二上、<ref type="taisho" target="vol:15;page:p424b">四二四中</ref>——四二五上）。</note>。如<title level="m">《大淨法門經》</title>，應用於煩惱即菩提的說明。一般以為心本
+<lb n="0087a04" ed="Y"/>亦無有沾<note n="0087a0401" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0087a0401"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，亦無有而淨者」</quote><note n="0087013" resp="釋印順" type="orig"><bibl><title level="m">《阿闍世王經》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref type="taisho" target="vol:15;page:p401c">一五．四〇一下</ref>、<ref target="vol:15;page:p403a" type="taisho">四〇三上</ref>——下）。<bibl><title level="m">《文殊支利普超三昧經》</title><biblScope type="卷" n="下">卷下</biblScope></bibl>（大正<ref target="vol:15;page:p421c" type="taisho">一五．四二一下</ref>——四二二上、<ref type="taisho" target="vol:15;page:p424b">四二四中</ref>——四二五上）。</note><note n="0087013" resp="正聞出版社" type="mod"><bibl><title level="m">《阿闍世王經》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref type="taisho" target="vol:15;page:p401c">一五．四〇一下</ref>、<ref target="vol:15;page:p403a" type="taisho">四〇三上</ref>——下）。<bibl><title level="m">《文殊師<note type="cf1">《文殊師利普超三昧經》卷1(CBETA, T15, no. 627, p. 406, b15-16)</note>利普超三昧經》</title><biblScope type="卷" n="下">卷下</biblScope></bibl>（大正<ref target="vol:15;page:p421c" type="taisho">一五．四二一下</ref>——四二二上、<ref type="taisho" target="vol:15;page:p424b">四二四中</ref>——四二五上）。</note>。如<title level="m">《大淨法門經》</title>，應用於煩惱即菩提的說明。一般以為心本
 <lb n="0087a05" ed="Y"/>清淨，而不知一切法本來清淨，貪、瞋、癡等煩惱也是本來清淨，所以說：<quote>「若能思惟分別貪欲
 <lb n="0087a06" ed="Y"/>、瞋怒、愚癡及諸塵勞，本悉清淨，是則菩薩求佛道也」</quote><note n="0087014" resp="釋印順" type="orig"><title level="m">《大淨法門經》</title>（大正<ref type="taisho" target="vol:17;page:p824a">一七．八二四上</ref>）。</note>。從這幾部大乘經來看，心性本淨，
 <lb n="0087a07" ed="Y"/>只是心空、不可得的別名，決不是說：心有清淨莊嚴的功德。</p>
@@ -1564,7 +1563,7 @@
 <lb n="0096a15" ed="Y"/>，眾生與如來無二無別，那就可以意解出：眾生不離如來，如來不離眾生；眾生即如來，如來即
 <pb n="0097a" ed="Y" xml:id="Y39.0037.0097a"/>
 <lb n="0097a01" ed="Y"/>眾生。大眾部說如來「色身無邊際」，也就是佛身遍滿而無所不在。這是信仰的事實，受到法法
-<lb n="0097a02" ed="Y"/>平等，相涉相入思想的<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發，那就佛與佛相即相入，平等無礙。也可以意解出：如來遍在眾生中
+<lb n="0097a02" ed="Y"/>平等，相涉相入思想的<note n="0097a0201" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0097a0201"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發，那就佛與佛相即相入，平等無礙。也可以意解出：如來遍在眾生中
 <lb n="0097a03" ed="Y"/>，（眾生遍在如來中），如來與眾生，也相即相入而平等無礙。這樣，眾生身中有如來的如來藏
 <lb n="0097a04" ed="Y"/>說，在華嚴的無礙法界中，以象徵的、譬喻的形式，漸漸的開展出來。</p>
 <lb n="0097a05" ed="Y"/>
@@ -1596,7 +1595,7 @@
 <pb n="0099a" ed="Y" xml:id="Y39.0037.0099a"/>
 <lb n="0099a01" ed="Y"/>來智慧在其身內，與佛無異」。</p></quote>
 <lb n="0099a02" ed="Y"/><p rend="text-indent:2em">三千大千世界經卷在一微塵內，譬如如來智慧在眾生身內；一切微塵都是這樣，就是一切眾
-<lb n="0099a03" ed="Y"/>生都有如來智慧。約佛說，佛的智慧，<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>入一切眾生身中；約眾生說，眾生具足如來智慧。「眾
+<lb n="0099a03" ed="Y"/>生都有如來智慧。約佛說，佛的智慧，<note n="0099a0301" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0099a0301"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>入一切眾生身中；約眾生說，眾生具足如來智慧。「眾
 <lb n="0099a04" ed="Y"/>生身」，依<title level="m">《寶性論》</title>所引，原文為 <foreign xml:lang="sa">sattva-citta-saṃtāna</foreign>，應譯作「眾生心相續」。這一段文
 <lb n="0099a05" ed="Y"/>，在<cit><bibl><title level="a">〈<note n="0099a0501" resp="CBETA" type="add">寶王【CB】，［－］【印順】</note><app n="0099a0501"><lem wit="【CB】" resp="正聞出版社">寶王</lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>如來性起品〉</title>的</bibl><quote>「如來應供等正覺心」</quote></cit>段中，表示了眾生具有如來智慧說，是眾生心的本
 <lb n="0099a06" ed="Y"/>具如來智德。這一經文，被看作如來藏說，為後代如來藏學者所一再引述。<title level="m">《如來藏經》</title>的譯者
@@ -1604,11 +1603,11 @@
 <lb n="0099a08" ed="Y"/>乃聞如來藏」</quote><note n="0099001" resp="釋印順" type="orig"><bibl><title level="m">《大方廣佛華嚴經》</title><biblScope n="36" type="卷">卷三六</biblScope></bibl>（大正<ref target="vol:9;page:p631a" type="taisho">九．六三一上</ref>）。</note>，明確的說到了<quote>「如來藏」</quote>。然唐譯與此相當的，作：<quote>「如是微密甚深法，百千
 <lb n="0099a09" ed="Y"/>萬劫難可聞；精進智慧調伏者，乃得聞此<note n="0099a0901" resp="CBETA" type="add">祕【CB】，秘【印順】</note><app n="0099a0901"><lem wit="【CB】" resp="正聞出版社">祕<note type="cf1">《大方廣佛華嚴經》卷52〈37 如來出現品〉(CBETA, T10, no. 279, p. 278, c17-18)</note></lem><rdg wit="【印順】">秘</rdg></app>奧義」</quote><note n="0099002" resp="釋印順" type="orig"><bibl><title level="m">《大方廣佛華嚴經》</title><biblScope type="卷" n="52">卷五二</biblScope></bibl>（大正<ref type="taisho" target="vol:10;page:p278c">一〇．二七八下</ref>）。</note>。晉譯的如來藏，是秘奧藏，可以從旁證而
 <lb n="0099a10" ed="Y"/>確定的，如<note n="0099003" resp="釋印順" type="orig">1.<bibl><title level="m">《如來興顯經》</title><biblScope n="4" type="卷">卷四</biblScope></bibl>（大正<ref target="vol:10;page:p613a" type="taisho">一〇．六一三上</ref>）。2.<bibl><title level="m">《大方廣佛華嚴經》</title><biblScope type="卷" n="36">卷三六</biblScope></bibl>（大正<ref target="vol:9;page:p629c" type="taisho">九．六二九下</ref>）。3.<bibl><title level="m">《大方廣佛華嚴經》</title><biblScope type="卷" n="52">卷五二</biblScope></bibl>（大正<ref target="vol:10;page:p277b" type="taisho">一〇．二七七中</ref>）。</note>說：</p>
-<lb n="0099a11" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote source="T10n0279_p0277b24">「如是洪範，則是如來<choice cb:type="規範字詞"><orig>秘</orig><reg>祕<note type="cf1">導師原書用字同《高麗藏》，今依《大正藏》改為「祕」。《大方廣佛華嚴經》卷52〈37 如來出現品〉：「此法門名為：如來祕密之處」(CBETA, T10, no. 279, p. 277, b24)</note></reg></choice>奧之藏」</quote>。</p></item>
+<lb n="0099a11" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote source="T10n0279_p0277b24">「如是洪範，則是如來<note n="0099a1101" resp="CBETA" type="add" subtype="規範字詞">祕【CB】，秘【印順】</note><app n="0099a1101"><lem wit="【CB】" resp="CBETA">祕<note type="cf1">導師原書用字同《高麗藏》，今依《大正藏》改為「祕」。《大方廣佛華嚴經》卷52〈37 如來出現品〉：「此法門名為：如來祕密之處」(CBETA, T10, no. 279, p. 277, b24)</note></lem><rdg wit="【印順】">秘</rdg></app>奧之藏」</quote>。</p></item>
 <lb n="0099a12" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">2.<quote>「此經名為一切諸佛微密法藏」</quote>。</p></item>
 <lb n="0099a13" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">3.<quote>「此法門名為如來<note n="0099a1301" resp="CBETA" type="add">祕【CB】，秘【印順】</note><app n="0099a1301"><lem wit="【CB】" resp="正聞出版社">祕<note type="cf1">《大方廣佛華嚴經》卷52〈37 如來出現品〉(CBETA, T10, no. 279, p. 277, b24)</note></lem><rdg wit="【印順】">秘</rdg></app>密之處」</quote>。</p></item></list>
-<lb n="0099a14" ed="Y"/><p rend="text-indent:2em">三種不同譯本，都稱這一法門為「如來<choice cb:type="規範字詞"><orig>秘</orig><reg>祕</reg></choice>密藏」，可見晉譯本的「如來藏」，是如來<choice cb:type="規範字詞"><orig>秘</orig><reg>祕</reg></choice>密藏
-<lb n="0099a15" ed="Y"/>——<choice cb:type="規範字詞"><orig>秘</orig><reg>祕</reg></choice>密處（<foreign xml:lang="sa">guhya-sthāna</foreign>），而不是胎藏的藏（<foreign xml:lang="sa">garbha</foreign>）。<title level="a">〈<note n="0099a1501" resp="CBETA" type="add">寶王【CB】，［－］【印順】</note><app n="0099a1501"><lem wit="【CB】" resp="正聞出版社">寶王</lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>如來性起品〉</title>傳出的時間遲一些
+<lb n="0099a14" ed="Y"/><p rend="text-indent:2em">三種不同譯本，都稱這一法門為「如來<note n="0099a1401" resp="CBETA" type="add" subtype="規範字詞">祕【CB】，秘【印順】</note><app n="0099a1401"><lem wit="【CB】" resp="CBETA">祕</lem><rdg wit="【印順】">秘</rdg></app>密藏」，可見晉譯本的「如來藏」，是如來<note n="0099a1402" resp="CBETA" type="add" subtype="規範字詞">祕【CB】，秘【印順】</note><app n="0099a1402"><lem wit="【CB】" resp="CBETA">祕</lem><rdg wit="【印順】">秘</rdg></app>密藏
+<lb n="0099a15" ed="Y"/>——<note n="0099a1501" resp="CBETA" type="add" subtype="規範字詞">祕【CB】，秘【印順】</note><app n="0099a1501"><lem wit="【CB】" resp="CBETA">祕</lem><rdg wit="【印順】">秘</rdg></app>密處（<foreign xml:lang="sa">guhya-sthāna</foreign>），而不是胎藏的藏（<foreign xml:lang="sa">garbha</foreign>）。<title level="a">〈<note n="0099a1502" resp="CBETA" type="add">寶王【CB】，［－］【印順】</note><app n="0099a1502"><lem wit="【CB】" resp="正聞出版社">寶王</lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>如來性起品〉</title>傳出的時間遲一些
 <pb n="0100a" ed="Y" xml:id="Y39.0037.0100a"/>
 <lb n="0100a01" ed="Y"/>，思想與如來藏說相近，但還沒有「如來（胎）藏」的名目。</p>
 <lb n="0100a02" ed="Y"/><p rend="text-indent:2em">二、<title level="a">〈十地品〉</title>：一般稱為<title level="m">《十地經》</title>；竺法護譯為<title level="m">《漸備一切智德經》</title>，鳩摩羅什
@@ -1647,7 +1646,7 @@
 <lb n="0102a03" ed="Y"/>上，佛菩薩坐蓮華上，都不過是「隨世俗法」，在印度神教文化區中，為了適應神教信仰的新適
 <lb n="0102a04" ed="Y"/>應。從蓮華的表徵來說，是有相當意義的。蓮華是深受人類推重的，<title level="m">《阿含經》</title>與<title level="m">《法句》</title>，已
 <lb n="0102a05" ed="Y"/>經用蓮華為譬喻。部派佛教中，塔（<foreign xml:lang="sa">stūpa</foreign>）與支提（<foreign xml:lang="sa">caitya</foreign>）的莊嚴，也有作蓮華形的。蓮華的
-<lb n="0102a06" ed="Y"/>受人重視，有兩點：一、蓮華生在淤泥<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，卻不受淤泥的污染，微妙香潔。<title level="m">《阿含》</title>與<title level="m">《法句》</title>
+<lb n="0102a06" ed="Y"/>受人重視，有兩點：一、蓮華生在淤泥<note n="0102a0601" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0102a0601"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，卻不受淤泥的污染，微妙香潔。<title level="m">《阿含》</title>與<title level="m">《法句》</title>
 <lb n="0102a07" ed="Y"/>，以蓮華為譬喻，象徵（共三乘）聖者的不染煩惱，品德的高尚與清淨。我國周敦頤的<title level="a">〈愛蓮說〉</title>，
 <lb n="0102a08" ed="Y"/>也只是這個意思。如約不離淤泥而生長來說，那就如不離生死與煩惱的菩薩，如<title level="m">《維摩詰經》</title>所
 <lb n="0102a09" ed="Y"/>說的<note n="0102006" resp="釋印順" type="orig"><bibl><title level="m">《維摩詰所說經》</title><biblScope type="卷" n="中">卷中</biblScope></bibl>（大正<ref target="vol:14;page:p549b" type="taisho">一四．五四九中</ref>）。</note>。二、蓮華從含苞到開放，蓮實已在華內生長。等到華瓣脫落，蓮實（蓮臺）就完全呈現
@@ -1701,7 +1700,7 @@
 <lb n="0105a10" ed="Y"/>的顯發，展轉明淨，所以用金與寶來譬說。直指眾生身中有佛性，是如來與如來藏說；菩薩位中
 <lb n="0105a11" ed="Y"/>本有菩提的顯發，是菩提與菩提心說。這二說有著共同的傾向，所以後代學者，作為同一法門來
 <lb n="0105a12" ed="Y"/>處理。</p>
-<lb n="0105a13" ed="Y"/><p rend="text-indent:2em">以菩提、菩提心為主的聖典，數目不少，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>只略舉為例。依<bibl>《<title level="m">華嚴經</title>．<title level="a">十地品</title>》</bibl>的內容
+<lb n="0105a13" ed="Y"/><p rend="text-indent:2em">以菩提、菩提心為主的聖典，數目不少，這<note n="0105a1301" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0105a1301"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>只略舉為例。依<bibl>《<title level="m">華嚴經</title>．<title level="a">十地品</title>》</bibl>的內容
 <lb n="0105a14" ed="Y"/>，增減而別為編集的，如姚秦鳩摩羅什（<foreign xml:lang="sa">Kumārajīva</foreign>）所譯的<title level="m">《莊嚴菩提心經》</title>，元魏吉迦夜
 <lb n="0105a15" ed="Y"/>（<foreign xml:lang="sa">Kiṅkara</foreign>）所譯的<title level="m">《大方廣菩薩十地經》</title>。唐菩提流志（<foreign xml:lang="sa">Bodhiruci</foreign>）所譯的，編入<title level="m">《大寶積經》</title>
 <pb n="0106a" ed="Y" xml:id="Y39.0037.0106a"/>
@@ -1802,13 +1801,13 @@
 <lb n="0111a15" ed="Y"/>真金；五、貧家寶藏；六、穀內果種；七、弊物裹金像；八、貧女懷輪王；九、鑄模內金像。九
 <pb n="0112a" ed="Y" xml:id="Y39.0037.0112a"/>
 <lb n="0112a01" ed="Y"/>種譬喻中，萎華有佛，是如來在「華藏」中，也就是名為「如來藏」的根本喻。其他，貧賤女懷
-<lb n="0112a02" ed="Y"/>輪王，出於<title level="m"><choice cb:type="規範字詞"><orig>《寶積經》</orig><reg>《大寶積經》</reg></choice></title><note n="0112002" resp="釋印順" type="orig"><bibl><title level="m">《大寶積經》</title><biblScope type="卷" n="112">卷一一二</biblScope><title level="a">〈普明菩薩會〉</title></bibl>（大正<ref type="taisho" target="vol:11;page:p634b">一一．六三四中</ref>——下）。</note>。<title level="m">《十地經》</title>的金喻與寶喻，本經共有四喻：不淨處真金，貧家寶藏，
+<lb n="0112a02" ed="Y"/>輪王，出於<title level="m"><note n="0112a0201" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0112a0201"><lem wit="【CB】" resp="CBETA">《大寶積經》</lem><rdg wit="【印順】">《寶積經》</rdg></app></title><note n="0112002" resp="釋印順" type="orig"><bibl><title level="m">《大寶積經》</title><biblScope type="卷" n="112">卷一一二</biblScope><title level="a">〈普明菩薩會〉</title></bibl>（大正<ref type="taisho" target="vol:11;page:p634b">一一．六三四中</ref>——下）。</note>。<title level="m">《十地經》</title>的金喻與寶喻，本經共有四喻：不淨處真金，貧家寶藏，
 <lb n="0112a03" ed="Y"/>弊物裹金像，鑄模內金像，都只表示如來本有，而沒有<title level="m">《十地經》</title>所說的治鍊意義。蜂蜜，糠粳
 <lb n="0112a04" ed="Y"/>，果種喻，為本經獨有的比喻。這九種譬喻，後代論師——<title level="m">《寶性論》</title>主解說為如來藏為九類煩
 <lb n="0112a05" ed="Y"/>惱所染，然九喻的共同意義，是在眾生煩惱身中，有清淨如來。到底眾生身中的如來（胎）藏，
 <lb n="0112a06" ed="Y"/>是怎樣的呢？如<title level="m">《大方等如來藏經》</title><note place="inline">大正<ref target="vol:16;page:p457b" type="taisho">一六．四五七中</ref>——下、<ref target="vol:16;page:p458b" type="taisho">四五八中</ref>、<ref type="taisho" target="vol:16;page:p458c">四五八下</ref>、<ref type="taisho" target="vol:16;page:p459a">四五九上</ref></note>說：</p>
 <lb n="0112a07" ed="Y"/><quote><p rend="margin-left:3em">「一切眾生，貪欲恚癡諸煩惱中，有如來智、如來眼、如來身，結加趺坐，儼然不動。…
-<lb n="0112a08" ed="Y"/>…有如來藏常無染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，德相備足，如我無異」。</p></quote>
+<lb n="0112a08" ed="Y"/>…有如來藏常無染<note n="0112a0801" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0112a0801"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，德相備足，如我無異」。</p></quote>
 <lb n="0112a09" ed="Y"/><quote><p rend="margin-left:3em">「如來知見、力、無所畏，大法寶藏、在其身內」。</p></quote>
 <lb n="0112a10" ed="Y"/><quote><p rend="margin-left:3em">「彼如來藏清涼無熱，大智慧聚，妙寂泥洹，名為如來應供等正覺」。</p></quote>
 <lb n="0112a11" ed="Y"/><quote><p rend="margin-left:3em">「佛藏在身，眾相具足」。</p></quote>
@@ -1824,9 +1823,9 @@
 <lb n="0113a05" ed="Y"/>佛教思想上，勝過聲聞的急求己利，有其不朽的價值！這樣功德圓滿的佛，雖多少適應印度的神
 <lb n="0113a06" ed="Y"/>教，但<quote>「無量劫海修功德」</quote>，雖欽仰信受，而終覺得不容易成就！如來藏法門，承<quote>「一切眾生同
 <lb n="0113a07" ed="Y"/>有如來智慧德相」</quote>，而更具體的通俗化，一連用九種譬喻來譬說，使人人覺得身相莊嚴的如來，
-<lb n="0113a08" ed="Y"/>就在自己身中，現現成成的不離自身，而容易激發願求修持的精進。西藏<choice cb:type="規範字詞"><orig>多拉那他</orig><reg>多羅那他</reg></choice>（<foreign xml:lang="sa">Tāranātha</foreign>）
+<lb n="0113a08" ed="Y"/>就在自己身中，現現成成的不離自身，而容易激發願求修持的精進。西藏<note n="0113a0801" resp="CBETA" type="add" subtype="規範字詞">多羅那他【CB】，多拉那他【印順】</note><app n="0113a0801"><lem wit="【CB】" resp="CBETA">多羅那他</lem><rdg wit="【印順】">多拉那他</rdg></app>（<foreign xml:lang="sa">Tāranātha</foreign>）
 <lb n="0113a09" ed="Y"/>的<title level="m">《印度佛教史》</title>說：南印度毘土耶那竭羅（<foreign xml:lang="sa"><note n="0113a0901" resp="CBETA" type="add">Vidyānagara【CB】，Vidyānāgara【印順】</note><app n="0113a0901"><lem wit="【CB】" resp="正聞出版社">Vidyānagara</lem><rdg wit="【印順】">Vidyānāgara</rdg></app></foreign>）地方，<title level="m">《如來藏經》</title>的偈頌，連童
-<lb n="0113a10" ed="Y"/>女們都會<choice cb:type="規範字詞"><orig>吟咏</orig><reg>吟詠</reg></choice>歌唱<note n="0113005" resp="釋印順" type="orig"><bibl>多拉那他<title level="m">《印度佛教史》</title>（寺本婉雅日譯本<biblScope type="pp" n="139">一三九</biblScope>）</bibl>。</note><note n="0113005" resp="正聞出版社" type="mod"><bibl>多羅那他<title level="m">《印度佛教史》</title>（寺本婉雅日譯本<biblScope type="pp" n="139">一三九</biblScope>）</bibl>。</note>。佛教的通俗化、大眾化，如來藏說的確有不容忽視的力量！</p>
+<lb n="0113a10" ed="Y"/>女們都會<note n="0113a1001" resp="CBETA" type="add" subtype="規範字詞">吟詠【CB】，吟咏【印順】</note><app n="0113a1001"><lem wit="【CB】" resp="CBETA">吟詠</lem><rdg wit="【印順】">吟咏</rdg></app>歌唱<note n="0113005" resp="釋印順" type="orig"><bibl>多拉那他<title level="m">《印度佛教史》</title>（寺本婉雅日譯本<biblScope type="pp" n="139">一三九</biblScope>）</bibl>。</note><note n="0113005" resp="正聞出版社" type="mod"><bibl>多羅那他<title level="m">《印度佛教史》</title>（寺本婉雅日譯本<biblScope type="pp" n="139">一三九</biblScope>）</bibl>。</note>。佛教的通俗化、大眾化，如來藏說的確有不容忽視的力量！</p>
 <lb n="0113a11" ed="Y"/>
 <lb n="0113a12" ed="Y"/>
 <lb n="0113a13" ed="Y"/>
@@ -1880,7 +1879,7 @@
 <lb n="0117a15" ed="Y"/><quote><p rend="margin-left:3em">「如來法身不離煩惱藏，名如來藏」。</p></quote>
 <pb n="0118a" ed="Y" xml:id="Y39.0037.0118a"/>
 <lb n="0118a01" ed="Y"/><quote><p rend="margin-left:3em">「如來藏者，是法界藏，法身藏，出世間上上藏，自性清淨藏」。</p></quote>
-<lb n="0118a02" ed="Y"/><p rend="text-indent:2em"><title level="m">《勝鬘經》</title>說到了心識與如來藏的關係。說到<quote>「自性清淨心而有染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>」</quote>，更明確的到達空如
+<lb n="0118a02" ed="Y"/><p rend="text-indent:2em"><title level="m">《勝鬘經》</title>說到了心識與如來藏的關係。說到<quote>「自性清淨心而有染<note n="0118a0201" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0118a0201"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>」</quote>，更明確的到達空如
 <lb n="0118a03" ed="Y"/>來藏（<foreign xml:lang="sa">śūnya-tathāgata-garbha</foreign>）、不空如來藏（<foreign xml:lang="sa">aśūnya-tathāgata-garbha</foreign>）的安立<note n="0118006" resp="釋印順" type="orig"><title level="m">《勝鬘師子吼一乘大方便方廣經》</title>（大正<ref type="taisho" target="vol:12;page:p222b">一二．二二二中</ref>、<ref type="taisho" target="vol:12;page:p222c">下</ref>、<ref target="vol:12;page:p221c" type="taisho">二二一下</ref>）。</note>。<title level="m">《不增
 <lb n="0118a04" ed="Y"/>不減經》</title>：從眾生的不增不減，說「一界」的甚深。<title level="m">《經》</title>上<note place="inline">大正<ref target="vol:16;page:p467a" type="taisho">一六．四六七上</ref></note>說：</p>
 <lb n="0118a05" ed="Y"/><quote><p rend="margin-left:3em">「甚深義者，即是第一義諦；第一義諦者，即是眾生界；眾生界者，即是如來藏；如來藏
@@ -1890,7 +1889,7 @@
 <lb n="0118a09" ed="Y"/><quote><p rend="margin-left:3em">「眾生界中示三種法，皆真實如不異不差。何謂三法？一者，如來藏本際相應體及清淨法
 <lb n="0118a10" ed="Y"/>；二者，如來藏本際不相應體及煩惱纏不清淨法；三者，如來藏未來際平等恒及有法」。</p></quote>
 <lb n="0118a11" ed="Y"/><p rend="text-indent:2em">眾生界所示的三法，第一是如來藏不空義，第二是如來藏空義，第三約如來藏的平等、恒、
-<lb n="0118a12" ed="Y"/>有法，也就是普<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>、永恒、真實有。經上解釋說：<quote>「如來藏未來際平等恒及有法者，即是一切諸
+<lb n="0118a12" ed="Y"/>有法，也就是普<note n="0118a1201" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0118a1201"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>、永恒、真實有。經上解釋說：<quote>「如來藏未來際平等恒及有法者，即是一切諸
 <lb n="0118a13" ed="Y"/>法根本，備一切法，具一切法，於世法中不離不脫真實一切法，住持一切法，攝一切法。舍利弗
 <lb n="0118a14" ed="Y"/>！我依此不生不滅、常恒清涼、不變歸依，不可思議清淨法界，說名眾生」</quote><note n="0118007" resp="釋印順" type="orig"><title level="m">《不增不減經》</title>（大正<ref type="taisho" target="vol:16;page:p467c">一六．四六七下</ref>）。</note>。<quote>「一切法根本，
 <lb n="0118a15" ed="Y"/>……住持一切法，攝一切法」</quote>，就是如來藏為依、為持，而有世間生死，及涅槃真實法。如來藏
@@ -1937,7 +1936,7 @@
 <lb n="0121a08" ed="Y"/>龍樹的梵語不合，應該是龍樹以外另一位大德比丘。藏譯本的<title level="m">《大雲經》</title>說：梨車童子，名一切
 <lb n="0121a09" ed="Y"/>世間樂見。在佛滅後四百年出家，名龍叫（<foreign xml:lang="sa">Nāgāhvaya</foreign>）比丘，盛大弘通我（佛）的教法；也說
 <lb n="0121a10" ed="Y"/>到得初（歡喜）地<note n="0121015" resp="釋印順" type="orig"><bibl>寺本婉雅<title level="m">《新龍樹傳之研究》</title>所引<biblScope n="64" type="pp">（六四）</biblScope></bibl>。</note>。月稱（<foreign xml:lang="sa">Candrakīrti</foreign>）造的<title level="m">《入中論》</title>（釋），也引<title level="m">《大雲經》</title>一切有情樂
-<lb n="0121a11" ed="Y"/>見童子，以龍名比丘，廣大佛的教法<note n="0121016" resp="釋印順" type="orig"><bibl><title level="m">《入中論》</title>（法尊譯漢藏教理院刊本卷二．二）</bibl>。</note>。月稱的引文，也以為就是龍樹的。<choice cb:type="規範字詞"><orig>多拉那他</orig><reg>多羅那他</reg></choice>（<foreign xml:lang="sa">Tāranātha</foreign>）
+<lb n="0121a11" ed="Y"/>見童子，以龍名比丘，廣大佛的教法<note n="0121016" resp="釋印順" type="orig"><bibl><title level="m">《入中論》</title>（法尊譯漢藏教理院刊本卷二．二）</bibl>。</note>。月稱的引文，也以為就是龍樹的。<note n="0121a1101" resp="CBETA" type="add" subtype="規範字詞">多羅那他【CB】，多拉那他【印順】</note><app n="0121a1101"><lem wit="【CB】" resp="CBETA">多羅那他</lem><rdg wit="【印順】">多拉那他</rdg></app>（<foreign xml:lang="sa">Tāranātha</foreign>）
 <lb n="0121a12" ed="Y"/><title level="m">《印度佛教史》</title>說：南方阿闍黎龍叫，真實名字是如來賢（<foreign xml:lang="sa">Tathāgata-bhadra</foreign>），與提婆同
 <lb n="0121a13" ed="Y"/>時，為「唯識中道義」的唱道者<note n="0121017" resp="釋印順" type="orig"><bibl>多拉那他<title level="m">《印度佛教史》</title><biblScope n="139" type="pp">（一三九）</biblScope></bibl>。</note><note n="0121017" resp="正聞出版社" type="mod"><bibl>多羅那他<title level="m">《印度佛教史》</title><biblScope n="139" type="pp">（一三九）</biblScope></bibl>。</note>。在佛法中，如來藏與唯識（唯心）論，確是一脈相通的。這
 <lb n="0121a14" ed="Y"/>位持法比丘——一切世間樂見，可能就是龍叫，而被集入<title level="m">《楞伽經》</title>中。「龍」，傳說中與龍樹
@@ -2060,7 +2059,7 @@
 <lb n="0129a04" ed="Y"/><p rend="text-indent:2em">佛所說法，除常住不變的如來與如來性（佛性），都是方便說。如來藏法門，貫徹了這一理
 <lb n="0129a05" ed="Y"/>念。如<cit><bibl><title level="m">《法華經》</title>說：</bibl><quote>「唯有一乘法」</quote></cit>；二乘的涅槃，<quote>「是滅非真滅」</quote>。這是從「三乘兼暢」（
 <lb n="0129a06" ed="Y"/>承認二乘的涅槃是真實），而進入「會歸一乘」的階段。如來藏法門，充分發展了這一傾向。佛
-<lb n="0129a07" ed="Y"/>所說的法，如「歸依三寶」，三寶中有二乘聖者；「知四諦」，一般以為<choice cb:type="規範字詞"><orig>前</orig><reg>苦、集、道</reg></choice>三諦是有為，四諦是
+<lb n="0129a07" ed="Y"/>所說的法，如「歸依三寶」，三寶中有二乘聖者；「知四諦」，一般以為<note n="0129a0701" resp="CBETA" type="add" subtype="規範字詞">苦集道【CB】，前【印順】</note><app n="0129a0701"><lem wit="【CB】" resp="CBETA">苦、集、道</lem><rdg wit="【印順】">前</rdg></app>三諦是有為，四諦是
 <lb n="0129a08" ed="Y"/>為聲聞說的；「三乘」，有二乘與二乘的涅槃。現在說：這都是方便說，真實是「一歸依」——
 <lb n="0129a09" ed="Y"/>歸依佛；「一諦」——滅諦；「一乘」——大乘；「一究竟涅槃」——如來涅槃。有論典風味的
 <lb n="0129a10" ed="Y"/><title level="m">《勝鬘經》</title>，說得最簡練而明白，如<note n="0129013" resp="釋印順" type="orig"><title level="m">《勝鬘師子吼一乘大方便方廣經》</title>1.（大正<ref target="vol:12;page:p221a" type="taisho">一二．二二一上</ref>）。2.（大正<ref type="taisho" target="vol:12;page:p221b">一二．二二一中</ref>——<ref target="vol:12;page:p222a" type="taisho">二二二上</ref>）。3.（大正<ref type="taisho" target="vol:12;page:p220c">一二．二二〇下</ref>——<ref target="vol:12;page:p221a" type="taisho">二二一上</ref>）。4.（大正<ref type="taisho" target="vol:12;page:p219c">一二．二一九下</ref>）。</note>說：</p>
@@ -2113,7 +2112,7 @@
 <lb n="0132a09" ed="Y"/>無我來印定為是佛法的（與外道說不同）。部派佛教中，犢子部（<foreign xml:lang="sa"><note n="0132a0901" resp="CBETA" type="add">Vātsīputrīya【CB】，Vātsīputrīyāḥ【印順】</note><app n="0132a0901"><lem wit="【CB】" resp="正聞出版社">Vātsīputrīya</lem><rdg wit="【印順】">Vātsīputrīyāḥ</rdg></app></foreign>）等立「我」
 <lb n="0132a10" ed="Y"/>。被稱為附佛法外道。然犢子部與說轉部（<foreign xml:lang="sa"><note n="0132a1001" resp="CBETA" type="add">Saṃkrāntivādin【CB】，Saṃkrāntivādāḥ【印順】</note><app n="0132a1001"><lem wit="【CB】" resp="正聞出版社">Saṃkrāntivādin</lem><rdg wit="【印順】">Saṃkrāntivādāḥ</rdg></app></foreign>），成立「我」論的目的，是為了成
 <lb n="0132a11" ed="Y"/>立生死流轉，從繫縛到解脫的聯繫，而不是以「我」為真理，為證悟的內容。所以初期大乘的<title level="m">《
-<lb n="0132a12" ed="Y"/><choice cb:type="規範字詞"><orig>寶積經</orig><reg>大寶積經</reg></choice>》</title>，雖說「聖性」是常、是樂、是淨，還是說無我，如<bibl><title level="m">《大寶積經》</title><biblScope type="卷" n="112">卷一一二</biblScope><title level="a">〈普明菩薩
+<lb n="0132a12" ed="Y"/><note n="0132a1201" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0132a1201"><lem wit="【CB】" resp="CBETA">大寶積經</lem><rdg wit="【印順】">寶積經</rdg></app>》</title>，雖說「聖性」是常、是樂、是淨，還是說無我，如<bibl><title level="m">《大寶積經》</title><biblScope type="卷" n="112">卷一一二</biblScope><title level="a">〈普明菩薩
 <lb n="0132a13" ed="Y"/>會〉</title></bibl><note place="inline">大正<ref type="taisho" target="vol:11;page:p635c">一一．六三五下</ref></note>說：</p>
 <lb n="0132a14" ed="Y"/><quote><p rend="margin-left:3em">「是性常住，諸法常如故。是性安樂，涅槃為第一故。是性清淨，離一切相故。是性無我
 <pb n="0133a" ed="Y" xml:id="Y39.0037.0133a"/>
@@ -2151,7 +2150,7 @@
 <pb n="0135a" ed="Y" xml:id="Y39.0037.0135a"/>
 <lb n="0135a01" ed="Y"/><quote><p rend="margin-left:3em">「不如實知一法界故，不如實見一法界故，起邪見心，謂眾生界增，眾生界減」。</p></quote>
 <lb n="0135a02" ed="Y"/><p rend="text-indent:2em"><quote>「一法界」</quote>，下文又作「一界」。在如來藏法門中，「界」（<foreign xml:lang="x-sa-pi">dhātu</foreign>）是普遍使用的術語，
-<lb n="0135a03" ed="Y"/>如眾生界，我界，如來界，佛界，法界。界是界藏（礦）、界性，如金<choice cb:type="規範字詞"><orig>鑛</orig><reg>礦</reg></choice>中有金性，銀<choice cb:type="規範字詞"><orig>鑛</orig><reg>礦</reg></choice>中有銀
+<lb n="0135a03" ed="Y"/>如眾生界，我界，如來界，佛界，法界。界是界藏（礦）、界性，如金<note n="0135a0301" resp="CBETA" type="add" subtype="規範字詞">礦【CB】，鑛【印順】</note><app n="0135a0301"><lem wit="【CB】" resp="CBETA">礦</lem><rdg wit="【印順】">鑛</rdg></app>中有金性，銀<note n="0135a0302" resp="CBETA" type="add" subtype="規範字詞">礦【CB】，鑛【印順】</note><app n="0135a0302"><lem wit="【CB】" resp="CBETA">礦</lem><rdg wit="【印順】">鑛</rdg></app>中有銀
 <lb n="0135a04" ed="Y"/>性，表示本來如此，只是隱藏而沒有顯現出來。等到經冶鍊而顯發出來，也還是那樣的界性。界
 <lb n="0135a05" ed="Y"/>是「不失自性」的，<cit><bibl><title level="m">《阿含經》</title>說：</bibl><quote>「法界常住」</quote></cit>，<quote>「善達法界」</quote>；在如來藏說中，界就是如來
 <lb n="0135a06" ed="Y"/>藏我的別名。<cit><bibl><title level="m">《華嚴經》</title>常說</bibl><quote>「諸法界」</quote></cit>，法界與法界，平等不二，所以是「一法界」，「一界
@@ -2334,7 +2333,7 @@
 <pb n="0147a" ed="Y" xml:id="Y39.0037.0147a"/>
 <lb n="0147a01" ed="Y"/><cb:div type="other"><cb:mulu level="1" type="其他">第六章　如來藏學之主流</cb:mulu><head>第六章　如來藏學之主流</head>
 <lb n="0147a02" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第一節　傳說中的如來藏法門</cb:mulu><head>第一節　傳說中的如來藏法門</head>
-<lb n="0147a03" ed="Y"/><p rend="text-indent:2em">有神我（<foreign xml:lang="sa">ātman</foreign>）<choice cb:type="規範字詞"><orig>色釆</orig><reg>色彩</reg></choice>的如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說，是從理想的如來常住、偏在信仰
+<lb n="0147a03" ed="Y"/><p rend="text-indent:2em">有神我（<foreign xml:lang="sa">ātman</foreign>）<note n="0147a0301" resp="CBETA" type="add" subtype="規範字詞">色彩【CB】，色釆【印順】</note><app n="0147a0301"><lem wit="【CB】" resp="CBETA">色彩</lem><rdg wit="【印順】">色釆</rdg></app>的如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說，是從理想的如來常住、偏在信仰
 <lb n="0147a04" ed="Y"/>而來的，通俗而能適合一般人心，所以迅速的傳布開來。對於初期大乘佛教界，多少會有些驚異
 <lb n="0147a05" ed="Y"/>的感覺。但這是一般所容易接受的，而大乘佛教界又一向以為：<quote>「所未聞經，聞便信受，如所說
 <lb n="0147a06" ed="Y"/>行；依止於法，不依言說」</quote>（文字）<note n="0147001" resp="釋印順" type="orig"><bibl><title level="m">《大寶積經》</title><biblScope n="112" type="卷">卷一一二</biblScope><title level="a">〈普明菩薩會〉</title></bibl>（大正<ref target="vol:11;page:p632b" type="taisho">一一．六三二中</ref>）。</note>。對從來沒有聽說過，新近傳出的經典，不可輕率的加以
@@ -2386,7 +2385,7 @@
 <lb n="0150a07" ed="Y"/>
 <lb n="0150a08" ed="Y"/></cb:div>
 <lb n="0150a09" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第二節　寶性論為主的如來藏論</cb:mulu><head>第二節　寶性論為主的如來藏論</head>
-<lb n="0150a10" ed="Y"/><p rend="text-indent:2em">論師們對如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說的條理、分別，都有淡化神我（<foreign xml:lang="sa">ātman</foreign>）<choice cb:type="規範字詞"><orig>色釆</orig><reg>色彩</reg></choice>的傾
+<lb n="0150a10" ed="Y"/><p rend="text-indent:2em">論師們對如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說的條理、分別，都有淡化神我（<foreign xml:lang="sa">ātman</foreign>）<note n="0150a1001" resp="CBETA" type="add" subtype="規範字詞">色彩【CB】，色釆【印順】</note><app n="0150a1001"><lem wit="【CB】" resp="CBETA">色彩</lem><rdg wit="【印順】">色釆</rdg></app>的傾
 <lb n="0150a11" ed="Y"/>向。傳說為堅慧（<foreign xml:lang="sa">Sāramati</foreign>）所造的<title level="m">《究竟一乘寶性論》</title>，<title level="m">《法界無差別論》</title>，及<title level="m">《無上依經》</title>
 <lb n="0150a12" ed="Y"/><note n="0150001" resp="釋印順" type="orig"><title level="m">《佛性論》</title>是<bibl>《<title level="m">寶性論</title>．<title level="a">如來界章</title>》</bibl>的解說，但內容更接近瑜伽學，所以留在下一章說。</note><note n="0150001" resp="正聞出版社" type="mod"><title level="m">《佛性論》</title>是<bibl>《<title level="m">寶性論</title>．<title level="a">如來藏章</title>》</bibl>的解說，但內容更接近瑜伽學，所以留在下一章說。</note>，比較接近如來藏說的本義，代表了如來藏論學的主流。</p>
 <lb n="0150a13" ed="Y"/><p rend="text-indent:2em">一、<title level="m">《究竟一乘寶性論》</title>：四卷（古代或作三卷，五卷），元魏勒那摩提（<foreign xml:lang="sa">Ratnamati</foreign>）譯
@@ -2441,7 +2440,7 @@
 <lb n="0153a15" ed="Y"/>由於<title level="m">《釋論》</title>重視「三寶性」，所以將全論科分為「七金剛句」；在<title level="m">《釋論》</title>中，引<title level="m">《陀羅尼自
 <pb n="0154a" ed="Y" xml:id="Y39.0037.0154a"/>
 <lb n="0154a01" ed="Y"/>在王經》</title>，以說明這七句次第的符合經說<note n="0154007" resp="釋印順" type="orig"><bibl><title level="m">《究竟一乘寶性論》</title><biblScope n="1" type="卷">卷一</biblScope></bibl>（大正<ref target="vol:31;page:p821b" type="taisho">三一．八二一中</ref>——<ref type="taisho" target="vol:31;page:p822b">八二二中</ref>）。</note>。其實，經說的並不明白。如以菩薩修行的六十種法
-<lb n="0154a02" ed="Y"/>，來比配佛性——如來藏，無論從「本論」頌，與本論有關的經論來看，都不免感到過分的勉<choice cb:type="規範字詞"><orig>强</orig><reg>強</reg></choice>
+<lb n="0154a02" ed="Y"/>，來比配佛性——如來藏，無論從「本論」頌，與本論有關的經論來看，都不免感到過分的勉<note n="0154a0201" resp="CBETA" type="add" subtype="規範字詞">強【CB】，强【印順】</note><app n="0154a0201"><lem wit="【CB】" resp="CBETA">強</lem><rdg wit="【印順】">强</rdg></app>
 <lb n="0154a03" ed="Y"/>！「本論」頌，先讚禮三寶；次論述四法；末了說這一法門的功德，而勸人信修，具備了序、正
 <lb n="0154a04" ed="Y"/>、流通的一般形式。這部論，或作<title level="m">《大乘最上秘論》</title>，或加「寶性分別」而成<title level="m">《大乘最上秘論（
 <lb n="0154a05" ed="Y"/>之）寶性分別》</title>，可能表示了這一意義。<title level="m">《大乘最上秘論》</title>，就是如來藏說，是「本論」的名字
@@ -2460,7 +2459,7 @@
 <lb n="0155a02" ed="Y"/>」、「佛菩提」的主要內容，大致相同。約轉依（<foreign xml:lang="sa">āśraya-parāvṛtti</foreign>）說明菩提自性，說<quote>「轉依
 <lb n="0155a03" ed="Y"/>法有四種相」</quote>；說如來無上的不可思議<note n="0155008" resp="釋印順" type="orig"><bibl><title level="m">《無上依經》</title><biblScope type="卷" n="上">卷上</biblScope></bibl>（大正<ref target="vol:16;page:p470c" type="taisho">一六．四七〇下</ref>——<ref type="taisho" target="vol:16;page:p471a">四七一上</ref>、<ref type="taisho" target="vol:16;page:p473b">四七三中</ref>——下）。</note>，都是出於<title level="m">《瑜伽師地論》</title>，<title level="m">《顯揚聖教論》</title>的<note n="0155009" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope type="卷" n="74">卷七四</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p707a">三〇．七〇七上</ref>、<ref target="vol:30;page:p707a" type="taisho">七〇七上</ref>——中）。<bibl><title level="m">《顯揚聖教論》</title><biblScope type="卷" n="8">卷八</biblScope></bibl>（大正<ref target="vol:31;page:p517a" type="taisho">三一．五一七上</ref>、<ref target="vol:31;page:p517a" type="taisho">五一七上</ref>——下）。</note>。<title level="m">《
 <lb n="0155a04" ed="Y"/>無上依經》</title>沒有說如來藏的九種譬喻，如來事業的九種譬喻，也沒有說到「三寶性」。在如來藏
-<lb n="0155a05" ed="Y"/>學中，這是重於義理分別的。參考了<title level="m">《寶性論》</title>，<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>等，但不只是集錄，而有獨自組織
+<lb n="0155a05" ed="Y"/>學中，這是重於義理分別的。參考了<title level="m">《寶性論》</title>，<title level="m"><note n="0155a0501" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0155a0501"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>等，但不只是集錄，而有獨自組織
 <lb n="0155a06" ed="Y"/>的一部（論）經。<title level="m">《勝天王般若經》</title>（與玄奘<bibl>《<title level="m">大般若經</title>．第六分》</bibl>同本），在次第與內容方面，
 <lb n="0155a07" ed="Y"/>一部分與<title level="m">《無上依經》</title>相合，如 5.<title level="a">〈法性品〉</title>，從品初到<quote>「行般若波羅蜜，如實通達甚深法性」</quote>
 <lb n="0155a08" ed="Y"/>，與<title level="m">《無上依經》</title>的<title level="a">〈如來界品〉</title>相合<note n="0155010" resp="釋印順" type="orig"><bibl><title level="m">《勝天王般若波羅蜜經》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref target="vol:8;page:p700c" type="taisho">八．七〇〇下</ref>——<ref type="taisho" target="vol:8;page:p702a">七〇二上</ref>）。</note>。14<title level="a">〈二行品〉</title>，與<title level="m">《無上依經》</title>的<title level="a">〈菩提品〉</title>十事的
@@ -2473,11 +2472,10 @@
 <lb n="0155a15" ed="Y"/>）經。<title level="m">《無上依經》</title>的成立，應該是參考了<title level="m">《寶性論》</title>「釋論」的。如來界等四品的組織，與<title level="m">《
 <pb n="0156a" ed="Y" xml:id="Y39.0037.0156a"/>
 <lb n="0156a01" ed="Y"/>寶性論》</title>一致，而內容卻有些出入。如關於「如來功德」，<title level="m">《寶性論》</title>依<title level="m">《寶女經》</title>，說六十四
-<lb n="0156a02" ed="Y"/>種功德，而<title level="m">《無上依經》</title>說百八十功德。<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>說百四十功德，<title level="m">《顯揚聖教論》</title>說百九十六
+<lb n="0156a02" ed="Y"/>種功德，而<title level="m">《無上依經》</title>說百八十功德。<title level="m"><note n="0156a0201" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0156a0201"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>說百四十功德，<title level="m">《顯揚聖教論》</title>說百九十六
 <lb n="0156a03" ed="Y"/>功德，<title level="m">《無上依經》</title>的功德增多，有採用瑜伽學的傾向。關於「如來事業」，<title level="m">《寶性論》</title>引用<title level="m">《
 <lb n="0156a04" ed="Y"/>如來莊嚴智慧光明入一切佛境界經》</title>的九種譬喻，著重在佛體的不生不滅，而<quote>「自然不休息常教
-<lb n="0156a05" ed="Y"/>化眾生事」</quote>。<title level="m">《無上依經》</title>卻別立十八事，就是依佛的百八十功德，所起不同的種種佛事。<title level="a"><choice cb:type="規範字詞"><orig>〈如<lb n="0156a06" ed="Y"/>來界〉</orig><reg>〈如
-<lb n="0156a06" ed="Y"/>來界品〉</reg></choice></title>與<title level="a"><choice cb:type="規範字詞"><orig>〈菩提〉</orig><reg>〈菩提品〉</reg></choice></title>二品，不妨說是彼此大體相同的。不過<title level="m">《寶性論》</title>的如來藏，包含了本性清淨
+<lb n="0156a05" ed="Y"/>化眾生事」</quote>。<title level="m">《無上依經》</title>卻別立十八事，就是依佛的百八十功德，所起不同的種種佛事。<title level="a"><note n="0156a0601" resp="CBETA" type="add" subtype="規範字詞">如<lb n="0156a06" ed="Y"/>來界品【CB】，如<lb n="0156a06" ed="Y"/>來界【印順】</note><app n="0156a0601"><lem wit="【CB】" resp="CBETA">〈如<lb n="0156a06" ed="Y"/>來界品〉</lem><rdg wit="【印順】">〈如<lb n="0156a06" ed="Y"/>來界〉</rdg></app></title>與<title level="a"><note n="0156a0602" resp="CBETA" type="add" subtype="規範字詞">菩提品【CB】，菩提【印順】</note><app n="0156a0602"><lem wit="【CB】" resp="CBETA">〈菩提品〉</lem><rdg wit="【印順】">〈菩提〉</rdg></app></title>二品，不妨說是彼此大體相同的。不過<title level="m">《寶性論》</title>的如來藏，包含了本性清淨
 <lb n="0156a07" ed="Y"/>的如來藏，與煩惱所覆的九種譬喻，而在<title level="m">《無上依經》</title>中，九種譬喻被刪略了。<title level="m">《無上依經》</title>的
 <lb n="0156a08" ed="Y"/><title level="a">〈如來界品〉</title>，雖然部分與<title level="m">《寶性論》</title>相同，但沒有分門解說，保持了契經的特性。「如來界」
 <lb n="0156a09" ed="Y"/>是眾生位中，本有的有垢真如（<foreign xml:lang="sa">samalā-tathatā</foreign>）；「菩提」是佛位中，修顯的離垢真如
@@ -2571,7 +2569,7 @@
 <lb n="0162a04" ed="Y"/>部（<foreign xml:lang="sa"><note n="0162a0401" resp="CBETA" type="add">Prajñaptivādin【CB】，Prajñaptivādināḥ【印順】</note><app n="0162a0401"><lem wit="【CB】" resp="正聞出版社">Prajñaptivādin</lem><rdg wit="【印順】">Prajñaptivādināḥ</rdg></app></foreign>），以空（性）為佛性的立場<note n="0162008" resp="釋印順" type="orig"><bibl><title level="m">《佛性論》</title><biblScope n="1" type="卷">卷一</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p787c">三一．七八七下</ref>）。</note>。總之，這是與瑜伽學有關，而不是屬於
 <lb n="0162a05" ed="Y"/>瑜伽派的。這樣，關於<title level="m">《寶性論》</title>的作者，不可能是彌勒、無著的。中國所傳的<title level="m">《入大乘論》</title>主
 <lb n="0162a06" ed="Y"/>堅慧，曾引用彌勒的<title level="m">《莊嚴經》</title>（論）<note n="0162009" resp="釋印順" type="orig"><bibl><title level="m">《入大乘論》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref target="vol:32;page:p49b" type="taisho">三二．四九中</ref>）。</note>。據真諦（<foreign xml:lang="sa">Paramârtha</foreign>）說：堅慧出於龍樹（<foreign xml:lang="sa">Nāgārjuna</foreign>）
-<lb n="0162a07" ed="Y"/>與世親之間。依<title level="m">《入大乘論》</title>，堅慧引用了如來藏說及<title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>，與<title level="m">《寶性論》</title>相近，所
+<lb n="0162a07" ed="Y"/>與世親之間。依<title level="m">《入大乘論》</title>，堅慧引用了如來藏說及<title level="m"><note n="0162a0701" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0162a0701"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>，與<title level="m">《寶性論》</title>相近，所
 <lb n="0162a08" ed="Y"/>以<title level="m">《寶性論》</title>的作者，極可能就是堅慧！</p>
 <lb n="0162a09" ed="Y"/><p rend="text-indent:2em"><title level="m">《寶性論》</title>立四章：佛界（<foreign xml:lang="sa">buddha-dhātu</foreign>），佛菩提（<foreign xml:lang="sa">buddha-bodhi</foreign>），佛德（<foreign xml:lang="sa">buddha-guṇa</foreign>）
 <lb n="0162a10" ed="Y"/>，佛業（<foreign xml:lang="sa"><note n="0162a1001" resp="CBETA" type="add">buddhakarman【CB】，buddha-karman【印順】</note><app n="0162a1001"><lem wit="【CB】" resp="正聞出版社">buddhakarman</lem><rdg wit="【印順】">buddha-karman</rdg></app></foreign>），可見是以佛果為主題的。佛菩提是佛的體性，從如來常住大般
@@ -2601,9 +2599,9 @@
 <lb n="0164a02" ed="Y"/>常、不思議。<cit><bibl><title level="m">《釋論》</title>說：</bibl><quote>「行、常、不思議者，謂三種佛法身，無始世來作眾生利益，常不休
 <lb n="0164a03" ed="Y"/>息，不可思議」</quote><note n="0164013" resp="釋印順" type="orig"><bibl><title level="m">《究竟一乘寶性論》</title><biblScope n="4" type="卷">卷四</biblScope></bibl>（大正<ref target="vol:31;page:p841a" type="taisho">三一．八四一上</ref>）。</note></cit>。行、常、不思議，同明佛的三身，所以與<bibl>《<title level="m">大乘莊嚴經論</title>．<title level="a">菩提品</title>》</bibl>，以
 <lb n="0164a04" ed="Y"/>性，因，果，業，相應，位（三身）——六義，說明<quote>「諸佛法界（最）清淨」</quote>，是完全一致的<note n="0164014" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p606a">三一．六〇六上</ref>——下）。</note>
-<lb n="0164a05" ed="Y"/>。「佛菩提」八義，與<title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>相同；而<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>的</bibl><quote>「生勝由四義」</quote></cit>（信、般若、禪定
+<lb n="0164a05" ed="Y"/>。「佛菩提」八義，與<title level="m"><note n="0164a0501" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0164a0501"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>相同；而<cit><bibl><title level="m"><note n="0164a0502" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0164a0502"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>的</bibl><quote>「生勝由四義」</quote></cit>（信、般若、禪定
 <lb n="0164a06" ed="Y"/>、大悲），及<quote>「一切無別故，……名為如來藏」</quote>偈<note n="0164015" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref target="vol:31;page:p596b" type="taisho">三一．五九六中</ref>）。又卷三（大正<ref target="vol:31;page:p604c" type="taisho">三一．六〇四下</ref>）。</note>，都被編入「佛界」：<title level="m">《寶性論》</title>確定是參
-<lb n="0164a07" ed="Y"/>考了<title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>的。<title level="m">《釋論》</title>的引經更廣，可以考見的，有：</p>
+<lb n="0164a07" ed="Y"/>考了<title level="m"><note n="0164a0701" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0164a0701"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>的。<title level="m">《釋論》</title>的引經更廣，可以考見的，有：</p>
 <lb n="0164a08" ed="Y"/><list rendition="simple"><item><p rend="margin-left:1em">《不增不減經》</p></item>
 <lb n="0164a09" ed="Y"/><item><p rend="margin-left:1em">《勝鬘經》</p></item>
 <lb n="0164a10" ed="Y"/><item><p rend="margin-left:1em">《如來藏經》</p></item>
@@ -2614,7 +2612,7 @@
 <lb n="0164a15" ed="Y"/><item><p rend="margin-left:1em">《如來莊嚴智慧光明入一切佛境界經》</p></item>
 <pb n="0165a" ed="Y" xml:id="Y39.0037.0165a"/>
 <lb n="0165a01" ed="Y"/><item><p rend="margin-left:1em">《法華經》</p></item>
-<lb n="0165a02" ed="Y"/><item><p rend="margin-left:1em">《<choice cb:type="規範字詞"><orig>寶積經</orig><reg>大寶積經</reg></choice>．普明菩薩會》</p></item>
+<lb n="0165a02" ed="Y"/><item><p rend="margin-left:1em">《<note n="0165a0201" resp="CBETA" type="add" subtype="規範字詞">大寶積經【CB】，寶積經【印順】</note><app n="0165a0201"><lem wit="【CB】" resp="CBETA">大寶積經</lem><rdg wit="【印順】">寶積經</rdg></app>．普明菩薩會》</p></item>
 <lb n="0165a03" ed="Y"/><item><p rend="margin-left:1em">《六根聚經》</p></item>
 <lb n="0165a04" ed="Y"/><item><p rend="margin-left:1em">《阿毘達磨大乘經》</p></item>
 <lb n="0165a05" ed="Y"/><item><p rend="margin-left:1em">《大方等大集經》——〈陀羅尼自在王品〉（〈瓔珞品〉在內）、〈海慧菩薩品〉、〈寶
@@ -2643,7 +2641,7 @@
 <lb n="0166a12" ed="Y"/></cb:div>
 <lb n="0166a13" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第四節　寶性論義的分別</cb:mulu><head>第四節　寶性論義的分別</head>
 <lb n="0166a14" ed="Y"/><p rend="text-indent:2em">以<title level="m">《寶性論》</title>為主的如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說，曾受到瑜伽（<foreign xml:lang="x-sa-pi">Yoga</foreign>）學派的影響，但
-<lb n="0166a15" ed="Y"/>不是屬於瑜伽學的。論中所表達的義理，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>略說重要的幾點。</p>
+<lb n="0166a15" ed="Y"/>不是屬於瑜伽學的。論中所表達的義理，這<note n="0166a1501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0166a1501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>略說重要的幾點。</p>
 <pb n="0167a" ed="Y" xml:id="Y39.0037.0167a"/>
 <lb n="0167a01" ed="Y"/><p rend="text-indent:2em">一、如來藏：如來藏，是這一學系的主題。<cit><bibl><title level="m">《寶性論》</title>說：</bibl><quote>「是故說眾生，常有如來藏」</quote></cit>；
 <lb n="0167a02" ed="Y"/><quote>「說一切眾生，皆有如來藏」</quote>。<quote>「說」</quote>，是值得注意的字樣！西元三世紀以來，佛教界不斷的傳
@@ -2668,11 +2666,11 @@
 <lb n="0168a05" ed="Y"/><quote><p rend="margin-left:3em">「法身及真如，如來性實體，三種及一種，五種喻示現」。</p></quote>
 <lb n="0168a06" ed="Y"/><p rend="text-indent:2em"><quote>「法身」</quote>、<quote>「真如」</quote>、<quote>「如來性」</quote>（<foreign xml:lang="sa"><note n="0168a0601" resp="CBETA" type="add">tathāgata-gotra【CB】，tathāgata-gotram【印順】</note><app n="0168a0601"><lem wit="【CB】" resp="正聞出版社">tathāgata-gotra</lem><rdg wit="【印順】">tathāgata-gotram</rdg></app></foreign>），用九種譬喻來表示。譬喻法身的
 <lb n="0168a07" ed="Y"/>有三喻：佛；蜂蜜；（糩內的）堅實。譬喻真如的有一喻：（糞內的）真金。譬喻佛種性的有五
-<lb n="0168a08" ed="Y"/>喻：地（中寶）藏；（果）樹（芽）；（弊衣內的）金像；（貧女懷<choice cb:type="規範字詞"><orig>姙</orig><reg>妊</reg></choice>）輪王；（泥模內的）寶
+<lb n="0168a08" ed="Y"/>喻：地（中寶）藏；（果）樹（芽）；（弊衣內的）金像；（貧女懷<note n="0168a0801" resp="CBETA" type="add" subtype="規範字詞">妊【CB】，姙【印順】</note><app n="0168a0801"><lem wit="【CB】" resp="CBETA">妊</lem><rdg wit="【印順】">姙</rdg></app>）輪王；（泥模內的）寶
 <lb n="0168a09" ed="Y"/>像。依據<title level="m">《如來藏經》</title>的九種譬喻，解說為法身遍滿，真如無別，佛性實有。依這三種意義，說
 <lb n="0168a10" ed="Y"/><quote>「一切眾生有如來藏」</quote>，這是<title level="m">《寶性論》</title>的如來藏說。</p>
 <lb n="0168a11" ed="Y"/><p rend="text-indent:2em">1.法身遍滿義：法身是究竟圓滿的佛果。大乘經中，主要是<title level="m">《華嚴經》</title>，充分表達了佛身的
-<lb n="0168a12" ed="Y"/>遍滿，沒有一處沒有法身的。法身無所不在，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>眾生的身心中，也不能說沒有佛身。「本論」
+<lb n="0168a12" ed="Y"/>遍滿，沒有一處沒有法身的。法身無所不在，<note n="0168a1201" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0168a1201"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>眾生的身心中，也不能說沒有佛身。「本論」
 <lb n="0168a13" ed="Y"/>頌說：<quote>「一切眾生界，不離諸佛智」</quote>，所以法身遍眾生，就是佛智遍眾生，如<title level="m">《論》</title>卷四<note place="inline">大正<ref target="vol:31;page:p838c" type="taisho">三
 <lb n="0168a14" ed="Y"/>一．八三八下</ref></note>說：</p>
 <lb n="0168a15" ed="Y"/><quote><p rend="margin-left:3em">「於眾生界中，無有一眾生離如來法身，在法身外；離於如來智，在如來智外。如種種色
@@ -2695,7 +2693,7 @@
 <pb n="0170a" ed="Y" xml:id="Y39.0037.0170a"/>
 <lb n="0170a01" ed="Y"/>如來藏」。</p></quote>
 <lb n="0170a02" ed="Y"/><p rend="text-indent:2em">清淨不二，就是清淨而沒有改變，本性是沒有垢穢與清淨的改變，而只是如此如此的清淨，
-<lb n="0170a03" ed="Y"/>所以用金性的不變作比喻。後一偈，<choice cb:type="規範字詞"><orig>華譯</orig><reg>漢譯</reg></choice>有點重複、不明顯。這一偈的梵文，是與<cit><bibl><title level="m">《大乘莊嚴經
+<lb n="0170a03" ed="Y"/>所以用金性的不變作比喻。後一偈，<note n="0170a0301" resp="CBETA" type="add" subtype="規範字詞">漢譯【CB】，華譯【印順】</note><app n="0170a0301"><lem wit="【CB】" resp="CBETA">漢譯</lem><rdg wit="【印順】">華譯</rdg></app>有點重複、不明顯。這一偈的梵文，是與<cit><bibl><title level="m">《大乘莊嚴經
 <lb n="0170a04" ed="Y"/>論》</title>所說：</bibl><quote>「一切無別故，得如清淨故，故說諸眾生，名為如來藏」</quote><note n="0170004" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref target="vol:31;page:p604c" type="taisho">三一．六〇四下</ref>）。</note></cit>，完全相同。本性無差別
 <lb n="0170a05" ed="Y"/>，指心的本性清淨說。本性清淨，為什麼可稱為如來藏？<foreign xml:lang="x-sa-pi">tathāgata</foreign>（如來）的 <foreign xml:lang="sa">gata</foreign> 或 <foreign xml:lang="x-sa-pi">āgata</foreign>，
 <lb n="0170a06" ed="Y"/>有來去（行）、到達、入的意義，如來是（真）如的契入、體得者，也就是真如離雜染而達最清
@@ -2721,14 +2719,14 @@
 <lb n="0171a10" ed="Y"/><p rend="text-indent:2em"><title level="m">《寶性論》</title>是以三義來說明如來藏的，如說明如來藏「自體」，<title level="m">《論》</title>卷三<note place="inline">大正<ref target="vol:31;page:p828b" type="taisho">三一．八二八
 <lb n="0171a11" ed="Y"/>中</ref></note>說：</p>
 <lb n="0171a12" ed="Y"/><quote><p rend="margin-left:3em">「自性常不染，如寶、空、淨水」。</p></quote>
-<lb n="0171a13" ed="Y"/><p rend="text-indent:2em">三種譬喻，<choice cb:type="規範字詞"><orig>華譯</orig><reg>漢譯</reg></choice>本所說缺略。依梵本及藏文本，顯然也是約三義說的。如來法身的威神力，
+<lb n="0171a13" ed="Y"/><p rend="text-indent:2em">三種譬喻，<note n="0171a1301" resp="CBETA" type="add" subtype="規範字詞">漢譯【CB】，華譯【印順】</note><app n="0171a1301"><lem wit="【CB】" resp="CBETA">漢譯</lem><rdg wit="【印順】">華譯</rdg></app>本所說缺略。依梵本及藏文本，顯然也是約三義說的。如來法身的威神力，
 <lb n="0171a14" ed="Y"/>能成就眾生，如摩尼寶珠，能隨眾生的意樂而成就。真如不變異，如虛空一樣。如來種性對眾生
 <lb n="0171a15" ed="Y"/>而起慈悲柔和心，與淨水的潤澤一樣。雖有三種譬喻，同樣的比喻了「自性常不染」，本性清淨
 <pb n="0172a" ed="Y" xml:id="Y39.0037.0172a"/>
 <lb n="0172a01" ed="Y"/>，這就是如來藏自體<note n="0172007" resp="釋印順" type="orig"><bibl>中村瑞隆<title level="m">《梵漢對照究竟一乘寶性論研究》</title><biblScope from="51" type="pp" to="52">（五一——五二）</biblScope></bibl>。<bibl><title level="m">《藏和對譯究竟一乘寶性論研究》</title><biblScope from="73" type="pp" to="74">（七三——七四）</biblScope></bibl>。</note>。不同的說明，其實是相通的。如四大章中，說明如來藏的，是「界」。
 <lb n="0172a02" ed="Y"/>如來藏的九種譬喻，漢譯本說：<quote>「諸佛者，喻如來藏」</quote>；一直到<quote>「摸像喻者，如來藏相似」</quote>，梵
 <lb n="0172a03" ed="Y"/>文本都是如來界。又如<quote>「真如有雜垢，及遠離諸垢」</quote>，就是佛界（<foreign xml:lang="sa">buddha-dhātu</foreign>）與佛菩提
-<lb n="0172a04" ed="Y"/>（<foreign xml:lang="sa">buddha-bodhi</foreign>）二章，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>佛界與如來藏，都就是有垢真如（<foreign xml:lang="sa">samalā-tathatā</foreign>）了。總之，依<title level="m">《
+<lb n="0172a04" ed="Y"/>（<foreign xml:lang="sa">buddha-bodhi</foreign>）二章，<note n="0172a0401" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0172a0401"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>佛界與如來藏，都就是有垢真如（<foreign xml:lang="sa">samalā-tathatā</foreign>）了。總之，依<title level="m">《
 <lb n="0172a05" ed="Y"/>寶性論》</title>所說，法身（遍入眾生），真如（清淨不二），（眾生有）如來界——種性，是一體三
 <lb n="0172a06" ed="Y"/>義，如來藏是依此而立名的。如來藏本性清淨（<foreign xml:lang="sa"><note n="0172a0601" resp="CBETA" type="add">prakṛti-pariśuddha【CB】，prakṛiti-pariśuddha【印順】</note><app n="0172a0601"><lem wit="【CB】" resp="正聞出版社">prakṛti-pariśuddha</lem><rdg wit="【印順】">prakṛiti-pariśuddha</rdg></app></foreign>），在煩惱所藏（<foreign xml:lang="sa">kleśa-kośa</foreign>）
 <lb n="0172a07" ed="Y"/>中，還是本淨的。本性淨而還在煩惱藏中，所以說<quote>「一切眾生有如來藏」</quote>，約眾生位說。點出
@@ -2992,12 +2990,12 @@
 <lb n="0188a12" ed="Y"/>》</title>的<title level="a">〈一切法相品〉</title>、<title level="a">〈無自性相品〉</title>所說<note n="0188003" resp="釋印順" type="orig"><bibl><title level="m">《解深密經》</title><biblScope type="卷" n="2">卷二</biblScope></bibl>（大正<ref type="taisho" target="vol:16;page:p693a">一六．六九三上</ref>——<ref target="vol:16;page:p697b" type="taisho">六九七中</ref>）。</note>。對於後期大乘，眾生本有如來藏、佛性說，也給
 <lb n="0188a13" ed="Y"/>以善巧的再解說，如依<title level="m">《阿毘達磨大乘經》</title>而造的<cit><bibl><title level="m">《攝大乘論》</title>，引述<title level="m">《阿毘達磨大乘經》</title>說：</bibl>
 <lb n="0188a14" ed="Y"/><quote>「法有三種：一、雜染分，二、清淨分，三、彼二分」</quote></cit>，引<quote>「金、土、（礦）藏為喻」</quote>，來說明
-<lb n="0188a15" ed="Y"/>遍計所執性（<foreign xml:lang="sa">parikalpita-svabhāva</foreign>）、圓成實性（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>pariniṣpanna-s.</orig><reg>pariniṣpanna-svabhāva</reg></choice></foreign>），依他起性（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>para-tantra-s.</orig><reg>para-tantra-svabhāva</reg></choice></foreign>）
+<lb n="0188a15" ed="Y"/>遍計所執性（<foreign xml:lang="sa">parikalpita-svabhāva</foreign>）、圓成實性（<foreign xml:lang="sa"><note n="0188a1501" resp="CBETA" type="add" subtype="規範字詞">pariniṣpanna-svabhāva【CB】，pariniṣpanna-s.【印順】</note><app n="0188a1501"><lem wit="【CB】" resp="CBETA">pariniṣpanna-svabhāva</lem><rdg wit="【印順】">pariniṣpanna-s.</rdg></app></foreign>），依他起性（<foreign xml:lang="sa"><note n="0188a1502" resp="CBETA" type="add" subtype="規範字詞">para-tantra-svabhāva【CB】，para-tantra-s.【印順】</note><app n="0188a1502"><lem wit="【CB】" resp="CBETA">para-tantra-svabhāva</lem><rdg wit="【印順】">para-tantra-s.</rdg></app></foreign>）
 <pb n="0189a" ed="Y" xml:id="Y39.0037.0189a"/>
 <lb n="0189a01" ed="Y"/>——三性<note n="0189004" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論本》</title><biblScope n="中" type="卷">卷中</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p140c">三一．一四〇下</ref>）。</note>。因此，依他起性的定義，除了一般的<quote>「依他熏習種子而生起」</quote>以外，又有<quote>「雜
 <lb n="0189a02" ed="Y"/>染清淨性不成故」</quote><note n="0189005" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論本》</title><biblScope n="中" type="卷">卷中</biblScope></bibl>（大正<ref target="vol:31;page:p139c" type="taisho">三一．一三九下</ref>）。</note>，作為眾生與佛的共同依止性。<title level="m">《解深密經》</title>是繼承經部的<title level="m">《瑜伽師地論》</title>
 <lb n="0189a03" ed="Y"/>所宗；<title level="m">《阿毘達磨大乘經》</title>中圓熟的唯識思想，代表了大乘不共的唯識學，是<title level="m">《攝大乘論》</title>所宗
-<lb n="0189a04" ed="Y"/>依的。<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>說：阿賴耶（<foreign xml:lang="x-sa-pi">ālaya</foreign>）是</bibl><quote>「一切種子所隨依止性，所隨依附依止性，體能執受，
+<lb n="0189a04" ed="Y"/>依的。<cit><bibl><title level="m"><note n="0189a0401" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0189a0401"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>說：阿賴耶（<foreign xml:lang="x-sa-pi">ālaya</foreign>）是</bibl><quote>「一切種子所隨依止性，所隨依附依止性，體能執受，
 <lb n="0189a05" ed="Y"/>異熟所攝阿賴耶識」</quote><note n="0189006" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="1" type="卷">卷一</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p280b">三〇．二八〇中</ref>）。</note></cit>；<quote>「由八種相，證阿賴耶識決定是有」</quote>，說<quote>「諸識俱轉」</quote>，是重於阿賴耶
 <lb n="0189a06" ed="Y"/>現行識的<note n="0189007" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="51" type="卷">卷五一</biblScope></bibl>（大正<ref target="vol:30;page:p579a" type="taisho">三〇．五七九上</ref>——中）。</note>。<title level="m">《唯識三十論》</title>也是這樣，所以說三種（能）變。<title level="m">《攝大乘論》</title>重於阿賴耶識為種
 <lb n="0189a07" ed="Y"/>子性；依阿賴耶為種子而現似一切，所以有「一能變」說。瑜伽唯識學系，對廣義的說一切有，
@@ -3023,7 +3021,7 @@
 <lb n="0190a11" ed="Y"/>（<foreign xml:lang="sa">Vasubandhu</foreign>）的<cit><bibl><title level="m">《攝大乘論釋》</title>也說：</bibl><quote>「自性本來清淨，即是真如，自性實有，一切有情平等共相
 <lb n="0190a12" ed="Y"/>；由有此故，說一切法有如來藏」</quote><note n="0190001" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論釋》</title><biblScope n="5" type="卷">卷五</biblScope></bibl>（大正<ref target="vol:31;page:p344a" type="taisho">三一．三四四上</ref>）。</note></cit>。真如是圓成實自性（<foreign xml:lang="sa">pariniṣpanna-svabhāva</foreign>）的別名。
 <lb n="0190a13" ed="Y"/>真如是實有自性的；本來清淨的；是一切有情的平等共相（無差別相），也就是生佛不二的。無
-<lb n="0190a14" ed="Y"/>差別的真如性，<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>於一切眾生，所以說<quote>「一切眾生有如來藏」</quote>，這是如來藏說的本義。真如是<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>
+<lb n="0190a14" ed="Y"/>差別的真如性，<note n="0190a1401" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0190a1401"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>於一切眾生，所以說<quote>「一切眾生有如來藏」</quote>，這是如來藏說的本義。真如是<note n="0190a1402" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0190a1402"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>
 <pb n="0191a" ed="Y" xml:id="Y39.0037.0191a"/>
 <lb n="0191a01" ed="Y"/>於一切法的，所以說<quote>「一切法有如來藏」</quote>，這應該是唯識學者的新義。也許「眾生有如來藏」，
 <lb n="0191a02" ed="Y"/>無論怎樣解說，總不免帶點神我（<foreign xml:lang="sa">ātman</foreign>）的意味，所以雖然真如是「一切有情平等共相」，卻
@@ -3031,7 +3029,7 @@
 <lb n="0191a04" ed="Y"/>，或譯如來、如去，是契入如、<note n="0191a0401" resp="CBETA" type="add">［－］【CB】，如【印順】</note><app n="0191a0401"><lem wit="【CB】" resp="正聞出版社"><space quantity="0"/></lem><rdg wit="【印順】">如</rdg></app>顯現<note n="0191a0402" resp="CBETA" type="add">如【CB】，［－］【印順】</note><app n="0191a0402"><lem wit="【CB】" resp="正聞出版社">如</lem><rdg wit="【印順】"><space quantity="0"/></rdg></app>的意義。契入如或顯現如，約究竟說，就是如來——佛的
 <lb n="0191a05" ed="Y"/>異名。佛是如性究竟顯現清淨的，眾生是沒有清淨顯現的，這就是真如（圓成實性）的離垢清淨
 <lb n="0191a06" ed="Y"/>與自性清淨。然而這到底是約世俗安立說的，如約真如自性（勝義），那是無所謂契入不契入，
-<lb n="0191a07" ed="Y"/>顯現不顯現的。真如離能所，所以約真如自性說，眾生如與如來如，沒有任何差別可說。<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>，
+<lb n="0191a07" ed="Y"/>顯現不顯現的。真如離能所，所以約真如自性說，眾生如與如來如，沒有任何差別可說。<note n="0191a0701" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0191a0701"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>，
 <lb n="0191a08" ed="Y"/>一切眾生有「如」性，一切法有「如」性，也就可說有「如來」了。依世俗安立說，眾生雖可說
 <lb n="0191a09" ed="Y"/>有「如來」，而還沒有能離障清淨，隱而未顯，如胎兒在胎藏（<foreign xml:lang="sa">garbha</foreign>）中一樣；依於這一意義
 <lb n="0191a10" ed="Y"/>，所以說為「如來藏」。</p>
@@ -3075,12 +3073,12 @@
 <pb n="0194a" ed="Y" xml:id="Y39.0037.0194a"/>
 <lb n="0194a01" ed="Y"/>大我阿世耶，及廣大阿世耶。於遍計所執自性無所得故；於有漏無漏二性，過失功德亦無
 <lb n="0194a02" ed="Y"/>所得，由無分別故」</quote>。</p></item></list>
-<lb n="0194a03" ed="Y"/><p rend="text-indent:2em">阿世耶（<foreign xml:lang="sa">āśaya</foreign>）譯為「意樂」，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>的二種意樂，就是「清淨信欲」。依第一則，理解有
+<lb n="0194a03" ed="Y"/><p rend="text-indent:2em">阿世耶（<foreign xml:lang="sa">āśaya</foreign>）譯為「意樂」，這<note n="0194a0301" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0194a0301"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>的二種意樂，就是「清淨信欲」。依第一則，理解有
 <lb n="0194a04" ed="Y"/>情的自他平等，發起一切有情同得解脫的意樂（與「同體大悲」的意義相同），名為大我阿世耶
 <lb n="0194a05" ed="Y"/>，大我約一切有情的「自他平等」說。依第二則，（唯識宗依心立我）「平等心性」是通達遍計
 <lb n="0194a06" ed="Y"/>所執自性（<foreign xml:lang="sa">parikalpita-svabhāva</foreign>）無所得，也就是心空性。每一有情的「我自性」，是平等無差
 <lb n="0194a07" ed="Y"/>別的，但有情不能通達，迷著虛妄的神我。菩薩能通達自他平等，起大我意樂。佛能圓滿證得法
-<lb n="0194a08" ed="Y"/>界（我）平等，<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>法界身以法界為自體，就是佛的「大我相」。<bibl><title level="m">《顯揚聖教論》</title><biblScope type="卷" n="12">卷一二</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p539a">三一
+<lb n="0194a08" ed="Y"/>界（我）平等，<note n="0194a0801" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0194a0801"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>法界身以法界為自體，就是佛的「大我相」。<bibl><title level="m">《顯揚聖教論》</title><biblScope type="卷" n="12">卷一二</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p539a">三一
 <lb n="0194a09" ed="Y"/>．五三九上</ref>——中</note>又說：</p>
 <lb n="0194a10" ed="Y"/><quote><p rend="margin-left:3em">「五、究竟不可見故，如言內我之體，有何相貌而常恒不變自性正住？……如於語相違難
 <lb n="0194a11" ed="Y"/>，隨順會通，如是於不定顯示難，究竟不可見難，亦爾」。</p></quote>
@@ -3115,9 +3113,9 @@
 <lb n="0196a08" ed="Y"/><p rend="text-indent:2em">對於心性本淨，<title level="m">《成唯識論》</title>有二說：一、約心空理所顯真如說，與<title level="m">《莊嚴論》</title>所說的相同
 <lb n="0196a09" ed="Y"/>。二、約心體非煩惱說，是採取了說一切有（<foreign xml:lang="sa"><note n="0196a0901" resp="CBETA" type="add">Sarvāstivāda【CB】，Sarvāstivādināḥ【印順】</note><app n="0196a0901"><lem wit="【CB】" resp="正聞出版社">Sarvāstivāda</lem><rdg wit="【印順】">Sarvāstivādināḥ</rdg></app></foreign>）系的見解，如<bibl><title level="m">《阿毘達磨順正理
 <lb n="0196a10" ed="Y"/>論》</title><biblScope type="卷" n="72">卷七二</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:29;page:p733b">二九．七三三中</ref>——下</note>說：</p>
-<lb n="0196a11" ed="Y"/><quote><p rend="margin-left:3em">「此經依何密意？依本客性，密作是說：謂本性心必是清淨，若客性心容有染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>。本性心
+<lb n="0196a11" ed="Y"/><quote><p rend="margin-left:3em">「此經依何密意？依本客性，密作是說：謂本性心必是清淨，若客性心容有染<note n="0196a1101" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0196a1101"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>。本性心
 <lb n="0196a12" ed="Y"/>者，謂無記心，非慼非欣任運轉位，諸有情類多住此心，一切位中皆容有故。此心必淨，
-<lb n="0196a13" ed="Y"/>非染<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>故。客性心者，謂所餘心，非諸有情多分安住，亦有諸位非皆容有，斷善根者必無
+<lb n="0196a13" ed="Y"/>非染<note n="0196a1301" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0196a1301"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>故。客性心者，謂所餘心，非諸有情多分安住，亦有諸位非皆容有，斷善根者必無
 <lb n="0196a14" ed="Y"/>善心，無學位中必無染故。……如是但約心相續中，住本性時說名為淨，住客性位容暫有
 <lb n="0196a15" ed="Y"/>染」。</p></quote>
 <pb n="0197a" ed="Y" xml:id="Y39.0037.0197a"/>
@@ -3130,8 +3128,7 @@
 <lb n="0197a07" ed="Y"/>過失，猶如貪等一切煩惱。亦不獨為煩惱因緣，如色受等，所以者何？以必無有獨於識性
 <lb n="0197a08" ed="Y"/>而起染愛，如於色等」。</p></quote>
 <lb n="0197a09" ed="Y"/><p rend="text-indent:2em">一切識自性非染污，不是煩惱。如識不與煩惱相應，識不能獨為煩惱的因緣；如於識而起染
-<lb n="0197a10" ed="Y"/>愛，那是識與煩惱俱起的關係。約識自性非染污來解說心性本淨，正合於識本性無記的意義。<title level="m"><choice cb:type="規範字詞"><orig>《<lb n="0197a11" ed="Y"/>瑜伽論》</orig><reg>《
-<lb n="0197a11" ed="Y"/>瑜伽師地論》</reg></choice></title>說「淨識」，都指無漏識，與心性本淨不合。<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>的漢譯本說：</bibl><quote>「此心（真如
+<lb n="0197a10" ed="Y"/>愛，那是識與煩惱俱起的關係。約識自性非染污來解說心性本淨，正合於識本性無記的意義。<title level="m"><note n="0197a1101" resp="CBETA" type="add" subtype="規範字詞"><lb n="0197a11" ed="Y"/>瑜伽師地論【CB】，<lb n="0197a11" ed="Y"/>瑜伽論【印順】</note><app n="0197a1101"><lem wit="【CB】" resp="CBETA">《<lb n="0197a11" ed="Y"/>瑜伽師地論》</lem><rdg wit="【印順】">《<lb n="0197a11" ed="Y"/>瑜伽論》</rdg></app></title>說「淨識」，都指無漏識，與心性本淨不合。<cit><bibl><title level="m"><note n="0197a1102" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0197a1102"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>的漢譯本說：</bibl><quote>「此心（真如
 <lb n="0197a12" ed="Y"/>）即是阿摩羅識」</quote></cit>，梵文本沒有這一句。阿摩羅識（<foreign xml:lang="sa">amala-vijñāna</foreign>）譯義為無垢識，是真諦所傳
 <lb n="0197a13" ed="Y"/>唯識學所一再提到的，可能是傳譯時，綴文、證義者，受到真諦學影響而附加進去的！</p>
 <lb n="0197a14" ed="Y"/><p rend="text-indent:2em">心性是依心真如性說的。心性本淨，是與客塵煩惱相對稱的。在大乘法中，心性依心真如說
@@ -3169,11 +3166,11 @@
 <lb n="0199a14" ed="Y"/><quote><p rend="margin-left:3em">「又此種性，亦名種子，亦名為界，亦名為性」。</p></quote>
 <lb n="0199a15" ed="Y"/><p rend="text-indent:2em">依<title level="m">《論》</title>說，種子（<foreign xml:lang="x-sa-pi">bīja</foreign>），界（<foreign xml:lang="x-sa-pi">dhātu</foreign>），性（<foreign xml:lang="sa"><note n="0199a1501" resp="CBETA" type="add">prakṛti【CB】，prakṛiti【印順】</note><app n="0199a1501"><lem wit="【CB】" resp="正聞出版社">prakṛti</lem><rdg wit="【印順】">prakṛiti</rdg></app></foreign>），都是種性（<foreign xml:lang="sa">gotra</foreign>）的名字差別
 <pb n="0200a" ed="Y" xml:id="Y39.0037.0200a"/>
-<lb n="0200a01" ed="Y"/>。不同的名字，解說為同一內容，都是種子的別名。<bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">聲聞地</title>》</bibl>也這樣說<note n="0200012" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="21" type="卷">卷二一</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p395c">三〇．三九五下</ref>）。</note>。<cit><bibl><title level="m">《大乘
+<lb n="0200a01" ed="Y"/>。不同的名字，解說為同一內容，都是種子的別名。<bibl>《<title level="m"><note n="0200a0101" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0200a0101"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">聲聞地</title>》</bibl>也這樣說<note n="0200012" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="21" type="卷">卷二一</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p395c">三〇．三九五下</ref>）。</note>。<cit><bibl><title level="m">《大乘
 <lb n="0200a02" ed="Y"/>莊嚴經論》</title>也說：</bibl><quote>「性種及習種，所依及能依，應知有非有，功德度義故」</quote><note n="0200013" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope type="卷" n="1">卷一</biblScope></bibl>（大正<ref target="vol:31;page:p594b" type="taisho">三一．五九四中</ref>——下）。</note></cit>。菩薩種性，有性
 <lb n="0200a03" ed="Y"/>種性——本性住種性（<foreign xml:lang="sa"><note n="0200a0301" resp="CBETA" type="add">prakṛti-stha-gotra【CB】，prakṛiti-stha-gotra【印順】</note><app n="0200a0301"><lem wit="【CB】" resp="正聞出版社">prakṛti-stha-gotra</lem><rdg wit="【印順】">prakṛiti-stha-gotra</rdg></app></foreign>），習（所成）種性（<foreign xml:lang="sa">samudānīta-gotra</foreign>）。本性住種
 <lb n="0200a04" ed="Y"/>性，是無始以來法爾而有的；習所成種性，是經過不斷的熏習而成就的。這二類，是本有的，及
-<lb n="0200a05" ed="Y"/>經不斷熏習而功能增勝的種子。<title level="m">《莊嚴論》</title>所說，與<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>所說相同。種性、種子是什麼意
+<lb n="0200a05" ed="Y"/>經不斷熏習而功能增勝的種子。<title level="m">《莊嚴論》</title>所說，與<title level="m"><note n="0200a0501" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0200a0501"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>所說相同。種性、種子是什麼意
 <lb n="0200a06" ed="Y"/>義？種子是有因體而還沒有果體——「有非有」，所以是可能性，可能生起果法的潛能。因為能
 <lb n="0200a07" ed="Y"/>出生菩薩功德，所以名為菩薩種性。種性是<quote>「功德度義」</quote>，能出生功德的意義；種性雖是種子的
 <lb n="0200a08" ed="Y"/>異名，但種性專約能生無漏功德說。無漏功德有三乘差別，不同的無漏功德，從不同的種子生，
@@ -3181,7 +3178,7 @@
 <lb n="0200a10" ed="Y"/>如來（<foreign xml:lang="x-sa-pi">tathāgata</foreign>）種性；四、不定（<foreign xml:lang="x-sa-pi">aniyata</foreign>）種性，有多種無漏種子，雖隨緣修證二乘聖果，而
 <lb n="0200a11" ed="Y"/>可以迴小入大；五、無種性（<foreign xml:lang="sa">a-gotra</foreign>），沒有三乘無漏種子，怎麼也不能發生無漏功德，證入聖
 <lb n="0200a12" ed="Y"/>果。種子是多種差別的，所以唯識學立「五性各別」，「三乘究竟」而不是唯一佛乘的。</p>
-<lb n="0200a13" ed="Y"/><p rend="text-indent:2em"><bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">本地分</title>》</bibl>，<title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>，立本有的本性住種性，而<title level="m">《攝大乘論》</title>，立種子從
+<lb n="0200a13" ed="Y"/><p rend="text-indent:2em"><bibl>《<title level="m"><note n="0200a1301" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0200a1301"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">本地分</title>》</bibl>，<title level="m"><note n="0200a1302" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0200a1302"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>，立本有的本性住種性，而<title level="m">《攝大乘論》</title>，立種子從
 <lb n="0200a14" ed="Y"/>熏習（<foreign xml:lang="x-sa-pi">vāsanā</foreign>）而有的新熏說，如<bibl><title level="m">《攝大乘論本》</title><biblScope n="上" type="卷">卷上</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p136b">三一．一三六中</ref>——下</note>說：</p>
 <lb n="0200a15" ed="Y"/><quote><p rend="margin-left:3em">「云何一切種子異熟果識為雜染因，復為出世能對治彼淨心種子？又出世心，昔未曾習，
 <pb n="0201a" ed="Y" xml:id="Y39.0037.0201a"/>
@@ -3191,7 +3188,7 @@
 <lb n="0201a04" ed="Y"/><p rend="text-indent:2em">依<title level="m">《攝論》</title>說，依止阿賴耶（<foreign xml:lang="x-sa-pi">ālaya</foreign>）識的內種子，一定是從熏習而有的，所以說：<quote>「外（種
 <lb n="0201a05" ed="Y"/>子）或無熏習，非內種應知」</quote><note n="0201014" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論本》</title><biblScope type="卷" n="上">卷上</biblScope></bibl>（大正<ref target="vol:31;page:p135b" type="taisho">三一．一三五中</ref>）。</note>。佛菩薩的無漏功德，是出世心，一定是從種子生的。眾生從無
 <lb n="0201a06" ed="Y"/>始以來，不曾有過無漏清淨法現行，也就不可能有熏習所成的無漏種子；沒有無漏種子，最初的
-<lb n="0201a07" ed="Y"/>出世無漏清淨心，從那<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>生起呢？<cit><bibl><title level="m">《攝論》</title>說：是從</bibl><quote>「最清淨法界等流，正聞熏習種子所生」</quote></cit>的
+<lb n="0201a07" ed="Y"/>出世無漏清淨心，從那<note n="0201a0701" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0201a0701"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>生起呢？<cit><bibl><title level="m">《攝論》</title>說：是從</bibl><quote>「最清淨法界等流，正聞熏習種子所生」</quote></cit>的
 <lb n="0201a08" ed="Y"/>。佛盡離一切障，所以佛證無漏法界，是最清淨的。從佛自證的最清淨法界，應機而流出的<quote>「經
 <lb n="0201a09" ed="Y"/>等教法」</quote>，在四種圓成實自性（<foreign xml:lang="sa">pariniṣpanna-svabhāva</foreign>）中，名為<quote>「生此境清淨，謂諸大乘妙正
 <lb n="0201a10" ed="Y"/>法教。由此法教清淨緣故，非遍計所執自性；最淨法界等流性故，非依他起自性」</quote><note n="0201015" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論本》</title><biblScope n="中" type="卷">卷中</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p140b">三一．一四〇中</ref>）。</note>。佛的教法
@@ -3212,7 +3209,7 @@
 <lb n="0202a09" ed="Y"/>特伽羅」。</p></quote>
 <lb n="0202a10" ed="Y"/><quote><p rend="margin-left:3em">「若出世間諸法生已，即便隨轉，當知由轉依力所任持故。然此轉依與阿賴耶識，互相違
 <lb n="0202a11" ed="Y"/>反，對治阿賴耶識，名無漏界，離諸戲論」。</p></quote>
-<lb n="0202a12" ed="Y"/><p rend="text-indent:2em">種子與種性，<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>是作為同一內容的，但種性約能生無漏功德法說。能生無漏出世間
+<lb n="0202a12" ed="Y"/><p rend="text-indent:2em">種子與種性，<title level="m"><note n="0202a1201" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0202a1201"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>是作為同一內容的，但種性約能生無漏功德法說。能生無漏出世間
 <lb n="0202a13" ed="Y"/>法的，是般涅槃法種性（<foreign xml:lang="sa"><note n="0202a1301" resp="CBETA" type="add">parinirvāṇa-dharma-gotra【CB】，pari-nirvāṇa-dharma-gotra【印順】</note><app n="0202a1301"><lem wit="【CB】" resp="正聞出版社">parinirvāṇa-dharma-gotra</lem><rdg wit="【印順】">pari-nirvāṇa-dharma-gotra</rdg></app></foreign>），就是三乘聖種性；不能生起無漏出世法
 <lb n="0202a14" ed="Y"/>的，是不般涅槃種性（<foreign xml:lang="sa">a-pari-nirvāṇa-gotra</foreign>），也就是無種性人。出世間法從什麼種子生起呢
 <lb n="0202a15" ed="Y"/>？<quote>「從真如所緣緣種子生」</quote>，與<cit><bibl><title level="m">《攝論》</title>的</bibl><quote>「從最清淨法界等流正聞熏習種子所生」</quote></cit>，意義是相
@@ -3225,7 +3222,7 @@
 <lb n="0203a06" ed="Y"/><quote><p rend="margin-left:3em">「諸阿羅漢實有轉依，而此轉依與其六處，異不異性俱不可說。何以故？由此轉依，真如
 <lb n="0203a07" ed="Y"/>清淨所顯，真如種性，真如種子，真如集成，而彼真如與其六處，異不異性俱不可說」。</p></quote>
 <lb n="0203a08" ed="Y"/><p rend="text-indent:2em">三乘聖者的般涅槃，是以轉依（<foreign xml:lang="sa">āśraya-parāvṛtti</foreign>）為體的。捨雜染分而轉化為清淨分；離
-<lb n="0203a09" ed="Y"/><choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>計所執性，捨雜染依他起性，體悟圓成實性而得依他起性清淨分，名為轉依。從法界等流而起
+<lb n="0203a09" ed="Y"/><note n="0203a0901" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0203a0901"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>計所執性，捨雜染依他起性，體悟圓成實性而得依他起性清淨分，名為轉依。從法界等流而起
 <lb n="0203a10" ed="Y"/>的聞熏習，使雜染力減而清淨功能增長，也可以名為轉依——「損力益能轉」，但主要是體悟真
 <lb n="0203a11" ed="Y"/>如，出世無漏心現前，到達究竟清淨。所以<title level="m">《論》</title>上說：轉依是<quote>「真如清淨所顯」</quote>
 <lb n="0203a12" ed="Y"/>（<foreign xml:lang="sa"><note n="0203a1201" resp="CBETA" type="add">tathatāviśuddhi-prabhāvita【CB】，tathatā-vi-śuddhi-prabhāvita【印順】</note><app n="0203a1201"><lem wit="【CB】" resp="正聞出版社">tathatāviśuddhi-prabhāvita</lem><rdg wit="【印順】">tathatā-vi-śuddhi-prabhāvita</rdg></app></foreign>），以離垢真如為體的；「真如種性」（<foreign xml:lang="sa">tathatā-gotraka</foreign>）、「真如種子」
@@ -3233,7 +3230,7 @@
 <lb n="0203a14" ed="Y"/>真如而集成一切功德的。轉依是離一切戲論的，不離有情自體——六處，也不就是六處，所以不
 <lb n="0203a15" ed="Y"/>是名相分別所能擬議的。</p>
 <pb n="0204a" ed="Y" xml:id="Y39.0037.0204a"/>
-<lb n="0204a01" ed="Y"/><p rend="text-indent:2em">瑜伽唯識學者，以種子來解說種性，與如來藏學不同。然推究起來，<bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">本地分</title>》</bibl>
+<lb n="0204a01" ed="Y"/><p rend="text-indent:2em">瑜伽唯識學者，以種子來解說種性，與如來藏學不同。然推究起來，<bibl>《<title level="m"><note n="0204a0101" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0204a0101"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">本地分</title>》</bibl>
 <lb n="0204a02" ed="Y"/>的本性住種——本有無漏種子，實在就是<quote>「一切眾生有如來藏」</quote>；對當時大乘經的如來藏說，從
 <lb n="0204a03" ed="Y"/>緣起論的立場，給以善巧的解說，以種子來解說種性。如<title level="m">《瑜伽師地論》</title><note n="0204017" resp="釋印順" type="orig">1.<bibl><title level="m">《瑜伽師地論》</title><biblScope n="21" type="卷">卷二一</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p395c">三〇．三九五下</ref>）。2.<bibl><title level="m">《瑜伽師地論》</title><biblScope n="35" type="卷">卷三五</biblScope></bibl>（大正<ref target="vol:30;page:p478c" type="taisho">三〇．四七八下</ref>）。</note>說：</p>
 <lb n="0204a04" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<cit><bibl><title level="a">〈聲聞地〉</title>：</bibl><quote>「今此種姓以何為體？答：附在所依有如是相，六處所攝，從無始世展轉
@@ -3263,9 +3260,9 @@
 <lb n="0205a12" ed="Y"/>一切眾生身中」</quote>嗎<note n="0205022" resp="釋印順" type="orig"><bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref target="vol:16;page:p489a" type="taisho">一六．四八九上</ref>）。</note>？如來藏我，是深受印度神學影響的。唯識學者沒有忘卻佛法的根本立場，
 <lb n="0205a13" ed="Y"/>所以以生滅相續的種子，說本有的無漏功能，以阿賴耶妄識，說識與根身藏隱同安危，巧妙的解
 <lb n="0205a14" ed="Y"/>說了如來藏我，而脫卻了如來藏我的神學色采，這就是唯識學的種性說。</p>
-<lb n="0205a15" ed="Y"/><p rend="text-indent:2em">一切眾生本有無漏種子，而無漏種子非虛妄分別識自性，多少還有本有如來藏的形<choice cb:type="規範字詞"><orig>迹</orig><reg>跡</reg></choice>。也許
+<lb n="0205a15" ed="Y"/><p rend="text-indent:2em">一切眾生本有無漏種子，而無漏種子非虛妄分別識自性，多少還有本有如來藏的形<note n="0205a1501" resp="CBETA" type="add" subtype="規範字詞">跡【CB】，迹【印順】</note><app n="0205a1501"><lem wit="【CB】" resp="CBETA">跡</lem><rdg wit="【印順】">迹</rdg></app>。也許
 <pb n="0206a" ed="Y" xml:id="Y39.0037.0206a"/>
-<lb n="0206a01" ed="Y"/>為了這樣，<bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">攝決擇分</title>》</bibl>，<title level="m">《攝大乘論》</title>改取了新熏說。但新熏無漏種，是<quote>「法界等
+<lb n="0206a01" ed="Y"/>為了這樣，<bibl>《<title level="m"><note n="0206a0101" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0206a0101"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">攝決擇分</title>》</bibl>，<title level="m">《攝大乘論》</title>改取了新熏說。但新熏無漏種，是<quote>「法界等
 <lb n="0206a02" ed="Y"/>流聞熏習」</quote>，<quote>「真如所緣緣種子」</quote>，<quote>「真如種子」</quote>，與法界及真如，有了不可離的關係。在唯識
 <lb n="0206a03" ed="Y"/>學中，真如是有情、菩薩、如來的真實我體，那新熏的無漏法種，又有了依「我」而現起的意義
 <lb n="0206a04" ed="Y"/>。在後期大乘時代，唯心論而要泯絕梵我論的影響，也真還不容易呢！</p>
@@ -3304,7 +3301,7 @@
 <lb n="0208a05" ed="Y"/>。真諦所傳的，以<title level="m">《攝大乘論釋》</title>為主，與印度後期完成的，玄奘所宗的<title level="m">《成唯識論》</title>，見解上
 <lb n="0208a06" ed="Y"/>應有多少不同，但真諦的譯典，如<title level="m">《攝大乘論釋》</title>（簡稱陳譯），與隋達摩笈多（<foreign xml:lang="sa">Dharmagupta</foreign>）
 <lb n="0208a07" ed="Y"/>、唐玄奘所譯的<title level="m">《攝大乘論釋》</title>（簡稱隋譯、唐譯），互相比對起來，顯然有了增飾的成分。
-<lb n="0208a08" ed="Y"/>從翻譯來說，真諦譯是不夠忠實的，然在思想上，確有獨到處，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>擇要的加以論述。</p>
+<lb n="0208a08" ed="Y"/>從翻譯來說，真諦譯是不夠忠實的，然在思想上，確有獨到處，這<note n="0208a0801" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0208a0801"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>擇要的加以論述。</p>
 <lb n="0208a09" ed="Y"/><p rend="text-indent:2em">一、如來藏學與瑜伽學的糅合：真諦學的主要特色，是將<title level="m">《寶性論》</title>的如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）
 <lb n="0208a10" ed="Y"/>說，與瑜伽（<foreign xml:lang="x-sa-pi">yoga</foreign>）學的阿賴耶（<foreign xml:lang="x-sa-pi">ālaya</foreign>）說，結合起來，在真諦譯書中，是可以充分證
 <lb n="0208a11" ed="Y"/>明的。如<title level="m">《佛性論》</title>四分中，前二分是<title level="a">〈緣起分〉</title>與<title level="a">〈破執分〉</title>；後二分是<title level="a">〈顯體分〉</title>與<title level="a">〈辯相
@@ -3316,13 +3313,13 @@
 <lb n="0209a01" ed="Y"/>，應得菩提心及加行等，乃至道後法身，故稱應得。加行因者，謂菩提心；由此心故，能
 <lb n="0209a02" ed="Y"/>得三十七品、十地、十波羅蜜助道之法，乃至道後法身，是名加行因。圓滿因者，即是加
 <lb n="0209a03" ed="Y"/>行；由加行故，得因圓滿及果圓滿」。</p></quote>
-<lb n="0209a04" ed="Y"/><p rend="text-indent:2em"><title level="m">《佛性論》</title>的三因說，是參照<bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">菩薩地</title>》</bibl>的三持而改寫的，如<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>說：</bibl><quote>「
+<lb n="0209a04" ed="Y"/><p rend="text-indent:2em"><title level="m">《佛性論》</title>的三因說，是參照<bibl>《<title level="m"><note n="0209a0401" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0209a0401"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">菩薩地</title>》</bibl>的三持而改寫的，如<cit><bibl><title level="m"><note n="0209a0402" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0209a0402"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>說：</bibl><quote>「
 <lb n="0209a05" ed="Y"/>云何名持？謂諸菩薩自乘種性，最初發心，及以一切菩提分法，是名為持」</quote></cit>。持（<foreign xml:lang="x-sa-pi">ādhāra</foreign>）是所
 <lb n="0209a06" ed="Y"/>依止、所建立的意義，也就是因（<foreign xml:lang="x-sa-pi">hetu</foreign>）。菩薩的自乘種性，是菩薩的堪任性持；初發菩提心，
 <lb n="0209a07" ed="Y"/>是菩薩行加行持；一切所行菩提分法，是菩薩所圓滿的大菩提持<note n="0209004" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope type="卷" n="35">卷三五</biblScope></bibl>（大正<ref target="vol:30;page:p478b" type="taisho">三〇．四七八中</ref>）。</note>。三持與<title level="m">《佛性論》</title>的三因，
-<lb n="0209a08" ed="Y"/>次第相同，但<title level="m">《佛性論》</title>改<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>的種性（<foreign xml:lang="sa">gotra</foreign>）——種子（<foreign xml:lang="x-sa-pi">bīja</foreign>）為真如（<foreign xml:lang="x-sa-pi">tathatā</foreign>），真
+<lb n="0209a08" ed="Y"/>次第相同，但<title level="m">《佛性論》</title>改<title level="m"><note n="0209a0801" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0209a0801"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>的種性（<foreign xml:lang="sa">gotra</foreign>）——種子（<foreign xml:lang="x-sa-pi">bīja</foreign>）為真如（<foreign xml:lang="x-sa-pi">tathatā</foreign>），真
 <lb n="0209a09" ed="Y"/>如為如來藏別名。由於以真如性為應得因，所以說：<quote>「應得因中具有三性：一、住自性性（不淨
-<lb n="0209a10" ed="Y"/>位），二、引出性（淨不淨位），三、至得性」</quote>（清淨位）<note n="0209005" resp="釋印順" type="orig"><bibl><title level="m">《佛性論》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p794a">三一．七九四上</ref>）。</note>。這樣，<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>的三持說，成
+<lb n="0209a10" ed="Y"/>位），二、引出性（淨不淨位），三、至得性」</quote>（清淨位）<note n="0209005" resp="釋印順" type="orig"><bibl><title level="m">《佛性論》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p794a">三一．七九四上</ref>）。</note>。這樣，<title level="m"><note n="0209a1001" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0209a1001"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>的三持說，成
 <lb n="0209a11" ed="Y"/>為如來藏說的三因三佛性了。</p>
 <lb n="0209a12" ed="Y"/><p rend="text-indent:2em"><title level="m">《佛性論》</title>次立<title level="a">〈三性品〉</title>，是瑜伽學所立的三自性（<foreign xml:lang="sa"><note n="0209a1201" resp="CBETA" type="add">trisvabhāva【CB】，tra-svabhāva【印順】</note><app n="0209a1201"><lem wit="【CB】" resp="正聞出版社">trisvabhāva</lem><rdg wit="【印順】">tra-svabhāva</rdg></app></foreign>）與三無性（<foreign xml:lang="sa"><note n="0209a1202" resp="CBETA" type="add">trinihsvabhāva【CB】，tra-nihs-vabhāva【印順】</note><app n="0209a1202"><lem wit="【CB】" resp="正聞出版社">trinihsvabhāva</lem><rdg wit="【印順】">tra-nihs-vabhāva</rdg></app></foreign>）
 <lb n="0209a13" ed="Y"/>，引此以作融會如來藏學的理論依據。</p>
@@ -3365,7 +3362,7 @@
 <lb n="0212a02" ed="Y"/><p rend="text-indent:2em"><quote>「界有五義」</quote>，真諦譯引<title level="m">《勝鬘經》</title>說，而給以一一的解說，這是如來藏為依止說。這樣，
 <lb n="0212a03" ed="Y"/>阿梨耶識有二分：與「有生不淨（即雜染）品法」互為因果的「果報（<foreign xml:lang="x-sa-pi">vipāka</foreign>）種子」性，及清
 <lb n="0212a04" ed="Y"/>淨的「解性」。<quote>「此界無始時」</quote>的<quote>「界」</quote>，是「因義」，是一切法的所依止。在大乘佛法中，有
-<lb n="0212a05" ed="Y"/>二類不同的所依說，如<cit><bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">本地分</title>》說：</bibl><quote>「心，謂一切種子所隨依止性，所隨依附依止
+<lb n="0212a05" ed="Y"/>二類不同的所依說，如<cit><bibl>《<title level="m"><note n="0212a0501" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0212a0501"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">本地分</title>》說：</bibl><quote>「心，謂一切種子所隨依止性，所隨依附依止
 <lb n="0212a06" ed="Y"/>性，體能執受，異熟所攝阿賴耶識」</quote><note n="0212009" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope type="卷" n="1">卷一</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p280b">三〇．二八〇中</ref>）。</note></cit>。有漏的雜染種，依附的無漏清淨種，都以阿賴耶識——
 <lb n="0212a07" ed="Y"/>心（<foreign xml:lang="sa">citta</foreign>）為所依止。異熟一切種的阿賴耶識，為一切法依止，是瑜伽學系的根本立場：這是興
 <lb n="0212a08" ed="Y"/>起於印度北方的阿賴耶識為依說。還有，如<title level="m">《勝鬘經》</title>、<title level="m">《不增不減經》</title>等，說如來藏為依止而
@@ -3382,7 +3379,7 @@
 <lb n="0213a03" ed="Y"/><p rend="text-indent:2em">這也是阿梨耶識二分說。第八阿梨耶識，重在「異熟」性，所以到了阿羅漢位，就捨去阿梨
 <lb n="0213a04" ed="Y"/>耶的名稱。也許為了這點，真諦多用<quote>「本識」</quote>一詞，代表第八識。本識有不淨（雜染）品一分，
 <lb n="0213a05" ed="Y"/>清淨品一分，雖與前一說不完全相同，但都是本識有二分。真諦的第八識通二分說，應該是受到
-<lb n="0213a06" ed="Y"/><title level="m">《攝大乘論》</title>的<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>發。如<bibl><title level="m">《攝大乘論本》</title><biblScope type="卷" n="中">卷中</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p139c">三一．一三九下</ref></note>說：</p>
+<lb n="0213a06" ed="Y"/><title level="m">《攝大乘論》</title>的<note n="0213a0601" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0213a0601"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>發。如<bibl><title level="m">《攝大乘論本》</title><biblScope type="卷" n="中">卷中</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p139c">三一．一三九下</ref></note>說：</p>
 <lb n="0213a07" ed="Y"/><quote><p rend="margin-left:3em">「依他起略有二種：一者，依他熏習種子而生起故；二者，依他雜染清淨性不成故。由此
 <lb n="0213a08" ed="Y"/>二種依他別故，名依他起」。</p></quote>
 <lb n="0213a09" ed="Y"/><p rend="text-indent:2em"><quote>「依他熏習種子而生起」</quote>，是一般常說的依他起（<foreign xml:lang="sa">para-tantra</foreign>），阿賴耶識為種子而生起的
@@ -3417,7 +3414,7 @@
 <lb n="0215a06" ed="Y"/>依他起自性，是<quote>「三界心心所，是虛妄分別」</quote><note n="0215013" resp="釋印順" type="orig"><bibl><title level="m">《辯中邊論》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p465a">三一．四六五上</ref>）。</note>。心所是依心識所生的；一切識中，一切種子阿
 <lb n="0215a07" ed="Y"/>賴耶識，為一切法所依。所以，世親<cit><bibl><title level="m">《釋論》</title>解說依他起為：</bibl><quote>「虛妄分別識依他起自性」</quote></cit>。識等
 <lb n="0215a08" ed="Y"/>於依他起自性，是各種譯本所一致的。在土、金、藏譬喻中，玄奘所譯的「此識」，陳譯作「本
-<lb n="0215a09" ed="Y"/>識」，指阿梨耶識。以阿梨耶識來解說「界藏」，至少是可以這樣說的。<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>虛妄分別的種子識
+<lb n="0215a09" ed="Y"/>識」，指阿梨耶識。以阿梨耶識來解說「界藏」，至少是可以這樣說的。<note n="0215a0901" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0215a0901"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>虛妄分別的種子識
 <lb n="0215a10" ed="Y"/>，在眾生位，雖現起雜染生死而不見清淨真實，而種子識的本性，是有清淨真實分的。真諦的別
 <lb n="0215a11" ed="Y"/>立「解性梨耶」，不正是說明這通二分的意義嗎？「解性梨耶」是解說如來藏的，應該是解脫
 <lb n="0215a12" ed="Y"/>（<foreign xml:lang="sa">vimokṣa</foreign>）性，也就是心真如性（<foreign xml:lang="sa">citta-tathatā</foreign>），合於無著、世親的論義。如解說為知解、勝
@@ -3478,7 +3475,7 @@
 <lb n="0219a03" ed="Y"/><quote><p rend="margin-left:3em">「與一切依不相應，違背一切煩惱諸苦流轉生起，轉依所顯真無漏界。……由此清淨真如
 <lb n="0219a04" ed="Y"/>所顯，一向無垢，是名無損惱寂滅」。</p></quote>
 <lb n="0219a05" ed="Y"/><p rend="text-indent:2em"><title level="m">《論》</title>說無餘依涅槃界（<foreign xml:lang="sa"><note n="0219a0501" resp="CBETA" type="add">nirupadhi-śeṣa-nirvāṇa-dhātu【CB】，nir-upadhi-śeṣa-nirvāṇa-dhātu【印順】</note><app n="0219a0501"><lem wit="【CB】" resp="正聞出版社">nirupadhi-śeṣa-nirvāṇa-dhātu</lem><rdg wit="【印順】">nir-upadhi-śeṣa-nirvāṇa-dhātu</rdg></app></foreign>），是<quote>「轉依所顯」</quote>，<quote>「清淨真如
-<lb n="0219a06" ed="Y"/>所顯」</quote>，所以無餘依涅槃界，<quote>「唯餘清淨無為離垢真法界在」</quote><note n="0219022" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="80" type="卷">卷八〇</biblScope></bibl>（大正<ref target="vol:30;page:p748a" type="taisho">三〇．七四八上</ref>）。</note>。<bibl>《<title level="m"><choice cb:type="規範字詞"><orig>瑜伽論</orig><reg>瑜伽師地論</reg></choice></title>．<title level="a">攝決擇分</title>》</bibl>中，
+<lb n="0219a06" ed="Y"/>所顯」</quote>，所以無餘依涅槃界，<quote>「唯餘清淨無為離垢真法界在」</quote><note n="0219022" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="80" type="卷">卷八〇</biblScope></bibl>（大正<ref target="vol:30;page:p748a" type="taisho">三〇．七四八上</ref>）。</note>。<bibl>《<title level="m"><note n="0219a0601" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0219a0601"><lem wit="【CB】" resp="CBETA">瑜伽師地論</lem><rdg wit="【印順】">瑜伽論</rdg></app></title>．<title level="a">攝決擇分</title>》</bibl>中，
 <lb n="0219a07" ed="Y"/>說得更為明顯，如<title level="m">《論》</title>卷八〇<note place="inline">大正<ref target="vol:30;page:p747c" type="taisho">三〇．七四七下</ref>——<ref type="taisho" target="vol:30;page:p748a">七四八上</ref></note>說：</p>
 <lb n="0219a08" ed="Y"/><quote><p rend="margin-left:3em">「阿羅漢實有轉依（體），而此轉依與其六處，異不異性俱不可說。何以故？由此轉依，
 <lb n="0219a09" ed="Y"/>真如清淨所顯，真如種性，真如種子，真如集成，而彼真如與其六處，異不異性俱不可說
@@ -3494,24 +3491,23 @@
 <lb n="0220a03" ed="Y"/>（<foreign xml:lang="sa">pariniṣpanna-svabhāva</foreign>）。阿賴耶為雜染種子依，是有漏界；離垢真如——法界為清淨種子依，就
 <lb n="0220a04" ed="Y"/>是無漏界（<foreign xml:lang="sa">anāsrava-dhātu</foreign>）<note n="0220023" resp="釋印順" type="orig"><title level="m">《瑜伽師地論》</title>所引經偈，也見於<bibl><title level="m">《顯揚聖教論》</title><biblScope type="卷" n="16">卷一六</biblScope></bibl>，並有解說（大正<ref type="taisho" target="vol:31;page:p559c">三一．五五九下</ref>）。<bibl><title level="m">《三無性論》</title><biblScope n="下" type="卷">卷下</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p874b">三一．八七四中</ref>——下）。</note>。偈頌所說轉依，似乎是轉雜染種子依為清淨種子依，而佛意在
 <lb n="0220a05" ed="Y"/>以真如離垢清淨為轉依體。轉依是常，是有，是樂，無戲論相，善清淨法界為相<note n="0220024" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope type="卷" n="80">卷八〇</biblScope></bibl>（大正<ref target="vol:30;page:p748b" type="taisho">三〇．七四八中</ref>）。</note>。</p>
-<lb n="0220a06" ed="Y"/><p rend="text-indent:2em"><title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>所說的<title level="a">〈菩薩地〉</title>與轉依，是普為三乘的。所說的菩薩法，是初期大乘的，後期
+<lb n="0220a06" ed="Y"/><p rend="text-indent:2em"><title level="m"><note n="0220a0601" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0220a0601"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>所說的<title level="a">〈菩薩地〉</title>與轉依，是普為三乘的。所說的菩薩法，是初期大乘的，後期
 <lb n="0220a07" ed="Y"/>的如來藏思想，還沒有被注意。依<title level="a">〈菩薩地〉</title>品目次第而造的<title level="m">《大乘莊嚴經論》</title>，已接觸到如來
-<lb n="0220a08" ed="Y"/>藏說，並在<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論》</orig><reg>《瑜伽師地論》</reg></choice></title>的思想體系上，方便的給予會通了。<title level="m">《大乘莊嚴經論》</title>的內容，極為廣大
+<lb n="0220a08" ed="Y"/>藏說，並在<title level="m"><note n="0220a0801" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論【CB】，瑜伽論【印順】</note><app n="0220a0801"><lem wit="【CB】" resp="CBETA">《瑜伽師地論》</lem><rdg wit="【印順】">《瑜伽論》</rdg></app></title>的思想體系上，方便的給予會通了。<title level="m">《大乘莊嚴經論》</title>的內容，極為廣大
 <lb n="0220a09" ed="Y"/>！廣說唯識所現，觀唯識現而證入的次第以外，融會了如來藏說。<cit><bibl><title level="a">〈菩提品〉</title>說到轉依相：</bibl><quote>「二
 <lb n="0220a10" ed="Y"/>障種恒隨，彼滅極廣斷；白法圓滿故，依轉二道成」</quote><note n="0220025" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope n="3" type="卷">卷三</biblScope></bibl>（大正<ref target="vol:31;page:p602c" type="taisho">三一．六〇二下</ref>）。</note></cit>。<title level="m">《論》</title>以為：轉依是永滅二障種子，最
 <lb n="0220a11" ed="Y"/>上的白法圓滿。這是以菩提（<foreign xml:lang="x-sa-pi">bodhi</foreign>）為轉依體，從轉捨二障種子，成就二種出世智道而轉得的
 <lb n="0220a12" ed="Y"/>。又在<quote>「諸佛法界清淨」</quote>性說：<quote>「二障已永除，法如得清淨，諸物及緣智，自在亦無盡」</quote><note n="0220026" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p606a">三一．六〇六上</ref>）。</note>。離
 <lb n="0220a13" ed="Y"/>二障所顯的清淨真如，就是無漏（法）界。不只是離障清淨，也是事物與所緣、智慧，都是無窮
-<lb n="0220a14" ed="Y"/>無盡，自由自在的。<title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>所說，顯然與<title level="m">《寶性論》</title>有關的，如<bibl><title level="m">《究竟一乘寶性論》</title>（<title level="a">〈
+<lb n="0220a14" ed="Y"/>無盡，自由自在的。<title level="m"><note n="0220a1401" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0220a1401"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>所說，顯然與<title level="m">《寶性論》</title>有關的，如<bibl><title level="m">《究竟一乘寶性論》</title>（<title level="a">〈
 <lb n="0220a15" ed="Y"/>菩提品〉</title>）<biblScope n="4" type="卷">卷四</biblScope></bibl><note place="inline">大正<ref target="vol:31;page:p841a" type="taisho">三一．八四一上</ref>、中</note>說：</p>
 <pb n="0221a" ed="Y" xml:id="Y39.0037.0221a"/>
 <lb n="0221a01" ed="Y"/><quote><p rend="margin-left:3em">「實體者，向說如來藏不離煩惱障所纏，以遠離諸煩惱，轉身得清淨。……因者，有二種
 <lb n="0221a02" ed="Y"/>無分別智，……偈言得故。果者，即依此得得證智果，是名為果，偈言遠離故」。</p></quote>
 <lb n="0221a03" ed="Y"/><quote><p rend="margin-left:3em">「佛功德無垢，常恒及不變，不分別諸法，得無漏真智」。</p></quote>
 <lb n="0221a04" ed="Y"/><p rend="text-indent:2em">菩提的自性（實體），是如來藏的轉依而得清淨，這由於遠離二障，得二智而成就。這與<bibl>《<title level="m">
-<lb n="0221a05" ed="Y"/><choice cb:type="規範字詞"><orig>莊嚴經論</orig><reg>大乘莊嚴經論</reg></choice></title>．<title level="a">菩提品</title>》</bibl>，以「得」及「捨」來說明，是一致的。然如來藏學，如來藏有三義，而
-<lb n="0221a06" ed="Y"/>瑜伽學但約真如無差別說。種性約如來藏本有功德說，而瑜伽學約種子說。如說遠離二障，<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《莊<lb n="0221a07" ed="Y"/>嚴經論》</orig><reg>《大乘莊
-<lb n="0221a07" ed="Y"/>嚴經論》</reg></choice></title>說</bibl><quote>「二障種恒隨，彼滅極廣斷」</quote></cit>，<title level="m">《寶性論》</title>與<title level="m">《佛性論》</title>，卻都沒有說種子。依如來
+<lb n="0221a05" ed="Y"/><note n="0221a0501" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0221a0501"><lem wit="【CB】" resp="CBETA">大乘莊嚴經論</lem><rdg wit="【印順】">莊嚴經論</rdg></app></title>．<title level="a">菩提品</title>》</bibl>，以「得」及「捨」來說明，是一致的。然如來藏學，如來藏有三義，而
+<lb n="0221a06" ed="Y"/>瑜伽學但約真如無差別說。種性約如來藏本有功德說，而瑜伽學約種子說。如說遠離二障，<cit><bibl><title level="m"><note n="0221a0701" resp="CBETA" type="add" subtype="規範字詞">大乘莊<lb n="0221a07" ed="Y"/>嚴經論【CB】，莊<lb n="0221a07" ed="Y"/>嚴經論【印順】</note><app n="0221a0701"><lem wit="【CB】" resp="CBETA">《大乘莊<lb n="0221a07" ed="Y"/>嚴經論》</lem><rdg wit="【印順】">《莊<lb n="0221a07" ed="Y"/>嚴經論》</rdg></app></title>說</bibl><quote>「二障種恒隨，彼滅極廣斷」</quote></cit>，<title level="m">《寶性論》</title>與<title level="m">《佛性論》</title>，卻都沒有說種子。依如來
 <lb n="0221a08" ed="Y"/>藏學，轉依成佛，只是具足一切功德的如來藏，離煩惱而圓滿顯現，所以佛德是常住無為
 <lb n="0221a09" ed="Y"/>（<foreign xml:lang="sa">asaṃskṛta</foreign>）的；如<title level="m">《勝鬘經》</title>說是滅諦（<foreign xml:lang="x-sa-pi">nirodha</foreign>）。真諦在如來藏學中，也是這樣，如<bibl><title level="m">《佛性論
 <lb n="0221a10" ed="Y"/>》</title><biblScope n="3" type="卷">卷三</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:31;page:p802c">三一．八〇二下</ref>——<ref type="taisho" target="vol:31;page:p803a">八〇三上</ref></note>說：</p>
@@ -3532,8 +3528,7 @@
 <lb n="0222a09" ed="Y"/><p rend="margin-left:3em">「又阿賴耶識是煩惱轉因，聖道不轉因；轉依是煩惱不轉因，聖道轉因。應知但是建立因
 <lb n="0222a10" ed="Y"/>性，非生因性」。</p></quote>
 <lb n="0222a11" ed="Y"/><p rend="text-indent:2em">真諦異譯的<title level="m">《決定藏論》</title>，也是這樣說，不過將轉依譯作阿摩羅識<note n="0222028" resp="釋印順" type="orig"><bibl><title level="m">《決定藏論》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p1020b">三〇．一〇二〇中</ref>）。</note>。轉依，是經修行，使
-<lb n="0222a12" ed="Y"/>依阿賴耶識的雜習種子滅；雜染種子滅，一切業、苦也滅，雜染依止的阿賴耶識也滅。<title level="m"><choice cb:type="規範字詞"><orig>《瑜伽論<lb n="0222a13" ed="Y"/>》</orig><reg>《瑜伽師地論
-<lb n="0222a13" ed="Y"/>》</reg></choice></title>普為三乘，所以阿賴耶識滅，是二乘的阿羅漢，不退菩薩及如來。<note n="0222029" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="51" type="卷">卷五一</biblScope></bibl>（大正<ref target="vol:30;page:p582a" type="taisho">三〇．五八二上</ref>）。<bibl><title level="m">《決定藏論》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p1020c">三〇．一〇二〇下</ref>）。</note>這是轉捨轉滅阿賴耶識依
+<lb n="0222a12" ed="Y"/>依阿賴耶識的雜習種子滅；雜染種子滅，一切業、苦也滅，雜染依止的阿賴耶識也滅。<title level="m"><note n="0222a1301" resp="CBETA" type="add" subtype="規範字詞">瑜伽師地論<lb n="0222a13" ed="Y"/>【CB】，瑜伽論<lb n="0222a13" ed="Y"/>【印順】</note><app n="0222a1301"><lem wit="【CB】" resp="CBETA">《瑜伽師地論<lb n="0222a13" ed="Y"/>》</lem><rdg wit="【印順】">《瑜伽論<lb n="0222a13" ed="Y"/>》</rdg></app></title>普為三乘，所以阿賴耶識滅，是二乘的阿羅漢，不退菩薩及如來。<note n="0222029" resp="釋印順" type="orig"><bibl><title level="m">《瑜伽師地論》</title><biblScope n="51" type="卷">卷五一</biblScope></bibl>（大正<ref target="vol:30;page:p582a" type="taisho">三〇．五八二上</ref>）。<bibl><title level="m">《決定藏論》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref type="taisho" target="vol:30;page:p1020c">三〇．一〇二〇下</ref>）。</note>這是轉捨轉滅阿賴耶識依
 <lb n="0222a14" ed="Y"/>，而轉得的轉依，是離垢真如，所以說：<quote>「轉依究竟遠離一切所有<note n="0222a1401" resp="CBETA" type="add">麁【CB】，麤【印順】</note><app n="0222a1401"><lem wit="【CB】" resp="正聞出版社">麁<note type="cf1">《瑜伽師地論》卷51(CBETA, T30, no. 1579, p. 581, c12)</note></lem><rdg wit="【印順】">麤</rdg></app>重。……轉依是聖道轉因」</quote>
 <lb n="0222a15" ed="Y"/>。聖道因，就是真如異名的法界（<foreign xml:lang="sa">dharma-dhātu</foreign>）。法界的意義，正是：<quote>「由聖法因義，說為
 <pb n="0223a" ed="Y" xml:id="Y39.0037.0223a"/>
@@ -3663,15 +3658,15 @@
 <lb n="0230a12" ed="Y"/>若入見道，以真如為體」</quote><note n="0230044" resp="釋印順" type="orig"><bibl><title level="m">《攝大乘論釋》</title><biblScope n="7" type="卷">卷七</biblScope></bibl>（大正<ref type="taisho" target="vol:31;page:p200a">三一．二〇〇上</ref>）。</note></cit>。以方便道、見道來分別解說，與<title level="m">《三無性論》</title>等相同，只是稱為真
 <lb n="0230a13" ed="Y"/>如，而沒有稱為阿摩羅識而已。</p>
 <lb n="0230a14" ed="Y"/><p rend="text-indent:2em">阿摩羅識是真如的異名，是無可懷疑的，如<title level="m">《十八空論》</title><note place="inline">大正<ref target="vol:31;page:p863b" type="taisho">三一．八六三中</ref></note>說：</p>
-<lb n="0230a15" ed="Y"/><quote><p rend="margin-left:3em">「云何分判法界非淨非不淨？答：阿摩羅識是自性清淨心，但為客塵所<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>，故名不淨；為
+<lb n="0230a15" ed="Y"/><quote><p rend="margin-left:3em">「云何分判法界非淨非不淨？答：阿摩羅識是自性清淨心，但為客塵所<note n="0230a1501" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0230a1501"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>，故名不淨；為
 <pb n="0231a" ed="Y" xml:id="Y39.0037.0231a"/>
 <lb n="0231a01" ed="Y"/>客塵盡故，故立為淨」。</p></quote>
 <lb n="0231a02" ed="Y"/><p rend="text-indent:2em"><title level="m">《十八空論》</title>是<title level="m">《中邊分別論》</title>的部分解釋。<cit><bibl>《<title level="m">中邊分別論</title>．<title level="a">相品</title>》末，「空成立義」說
 <lb n="0231a03" ed="Y"/>：</bibl><quote>「不染非不染，非淨非不淨，心本清淨故，煩惱客塵故」</quote><note n="0231045" resp="釋印順" type="orig"><bibl><title level="m">《中邊分別論》</title><biblScope n="上" type="卷">卷上</biblScope></bibl>（大正<ref target="vol:31;page:p453a" type="taisho">三一．四五三上</ref>）。</note></cit>。真如、法界等，是空（<foreign xml:lang="sa"><note n="0231a0301" resp="CBETA" type="add">śūnyatā【CB】，śūnyata【印順】</note><app n="0231a0301"><lem wit="【CB】" resp="正聞出版社">śūnyatā</lem><rdg wit="【印順】">śūnyata</rdg></app></foreign>）
 <lb n="0231a04" ed="Y"/>的異名，在說明真如有雜垢與離垢時，不說真如或法界本淨，而說「心本清淨」（<foreign xml:lang="sa">prabhāsvaratva-citta</foreign>）
 <lb n="0231a05" ed="Y"/>。心本明淨，約心真如說。<cit><bibl><title level="m">《十八空論》</title>說：</bibl><quote>「阿摩羅識是自性清淨心」</quote></cit>，與上來所說
-<lb n="0231a06" ed="Y"/>，阿摩羅識是真如，意義是相合的。不過上來所說的阿摩羅識，約離垢清淨說，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>約本性清淨
-<lb n="0231a07" ed="Y"/>說。心自性清淨，或譯為自性清淨心，如<cit><bibl><title level="m"><choice cb:type="規範字詞"><orig>《莊嚴經論》</orig><reg>《大乘莊嚴經論》</reg></choice></title>說：</bibl><quote>「不離心之真如，別有異心，謂依他
+<lb n="0231a06" ed="Y"/>，阿摩羅識是真如，意義是相合的。不過上來所說的阿摩羅識，約離垢清淨說，這<note n="0231a0601" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0231a0601"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>約本性清淨
+<lb n="0231a07" ed="Y"/>說。心自性清淨，或譯為自性清淨心，如<cit><bibl><title level="m"><note n="0231a0701" resp="CBETA" type="add" subtype="規範字詞">大乘莊嚴經論【CB】，莊嚴經論【印順】</note><app n="0231a0701"><lem wit="【CB】" resp="CBETA">《大乘莊嚴經論》</lem><rdg wit="【印順】">《莊嚴經論》</rdg></app></title>說：</bibl><quote>「不離心之真如，別有異心，謂依他
 <lb n="0231a08" ed="Y"/>相，說為自性清淨。此中應知說心真如，名之為（自性清淨的）心」</quote><note n="0231046" resp="釋印順" type="orig"><bibl><title level="m">《大乘莊嚴經論》</title><biblScope type="卷" n="6">卷六</biblScope></bibl>（大正<ref target="vol:31;page:p623a" type="taisho">三一．六二三上</ref>）。</note></cit>。可以說心真如（<foreign xml:lang="sa">tathatā-citta</foreign>）
 <lb n="0231a09" ed="Y"/>為「心」，當然也可以稱識真如為「識」了。在這樣的意義下，真諦學立識的體性為阿
 <lb n="0231a10" ed="Y"/>摩羅識。在解說<quote>「此界無始時」</quote>的<quote>「界」</quote>時，是<quote>「此識為一切法因」</quote>，又說<quote>「阿梨耶識界以解為
@@ -3739,14 +3734,14 @@
 <lb n="0237a01" ed="Y"/><cb:div type="other"><cb:mulu level="1" type="其他">第八章　如來藏佛性之抉擇</cb:mulu><head>第八章　如來藏佛性之抉擇</head>
 <lb n="0237a02" ed="Y"/><cb:div type="other"><cb:mulu level="2" type="其他">第一節　楞伽經的如來藏說</cb:mulu><head>第一節　楞伽經的如來藏說</head>
 <lb n="0237a03" ed="Y"/><p rend="text-indent:2em"><title level="m">《楞伽經》</title>共有三譯，求那跋陀羅（<foreign xml:lang="sa">Guṇabhadra</foreign>）在宋元嘉年間（約西元四四〇頃）初譯，
-<lb n="0237a04" ed="Y"/>名<title level="m">《楞伽阿跋多羅寶經》</title>，四卷。在無著（<foreign xml:lang="sa">Asaṅga</foreign>）、世親（<foreign xml:lang="sa">Vasubandhu</foreign>）的論書<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，還沒有
+<lb n="0237a04" ed="Y"/>名<title level="m">《楞伽阿跋多羅寶經》</title>，四卷。在無著（<foreign xml:lang="sa">Asaṅga</foreign>）、世親（<foreign xml:lang="sa">Vasubandhu</foreign>）的論書<note n="0237a0401" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0237a0401"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，還沒有
 <lb n="0237a05" ed="Y"/>引用這部經，所以這部經的集成，約在西元四世紀末。</p>
 <lb n="0237a06" ed="Y"/><p rend="text-indent:2em">一、如來藏與我：<title level="m">《楞伽經》</title>與瑜伽（<foreign xml:lang="x-sa-pi">Yoga</foreign>）學派，有非常親密的關係，如有些差別，那就
 <lb n="0237a07" ed="Y"/>是會通如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>）說。瑜伽學者約清淨真如（<foreign xml:lang="x-sa-pi">tathatā</foreign>）無差別，解說經中的如
 <lb n="0237a08" ed="Y"/>來藏；<title level="m">《楞伽經》</title>也這樣說，但有更進一步的說明如來藏的本義。如<bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>
 <lb n="0237a09" ed="Y"/><note place="inline">大正<ref target="vol:16;page:p489a" type="taisho">一六．四八九上</ref>——中</note>說：</p>
 <lb n="0237a10" ed="Y"/><quote><p rend="margin-left:3em">「世尊修多羅說：如來藏自性清淨，轉三十二相，入於一切眾生身中。如大價寶，垢衣所
-<lb n="0237a11" ed="Y"/>纏，如來之藏常住不變，亦復如是，而陰界入垢衣所纏，貪欲恚癡不實妄想塵勞所<choice cb:type="規範字詞"><orig>汚</orig><reg>污</reg></choice>。…
+<lb n="0237a11" ed="Y"/>纏，如來之藏常住不變，亦復如是，而陰界入垢衣所纏，貪欲恚癡不實妄想塵勞所<note n="0237a1101" resp="CBETA" type="add" subtype="規範字詞">污【CB】，汚【印順】</note><app n="0237a1101"><lem wit="【CB】" resp="CBETA">污</lem><rdg wit="【印順】">汚</rdg></app>。…
 <lb n="0237a12" ed="Y"/>…云何世尊同外道說我，言有如來藏耶？世尊！外道亦說有常作者，離於求那，周遍不滅
 <pb n="0238a" ed="Y" xml:id="Y39.0037.0238a"/>
 <lb n="0238a01" ed="Y"/>」。</p></quote>
@@ -3814,7 +3809,7 @@
 <lb n="0241a15" ed="Y"/>始世來，虛妄執著種種戲論諸熏習故。大慧！阿梨耶識者，名如來藏，而與無明、七識共俱。如
 <pb n="0242a" ed="Y" xml:id="Y39.0037.0242a"/>
 <lb n="0242a01" ed="Y"/>大海波，常不斷絕，身俱生故，離無常過，離於我過，自性清淨」</quote><note n="0242011" resp="釋印順" type="orig"><bibl><title level="m">《入楞伽經》</title><biblScope type="卷" n="7">卷七</biblScope></bibl>（大正<ref type="taisho" target="vol:16;page:p556b">一六．五五六中</ref>——下）。</note>。依經所說：稱為阿賴耶識
-<lb n="0242a02" ed="Y"/>，是由於如來藏為無始虛偽惡習——虛妄執著種種戲論所熏習。所受的熏習，瑜伽學名為「<choice cb:type="規範字詞"><orig>徧</orig><reg>遍</reg></choice>計
+<lb n="0242a02" ed="Y"/>，是由於如來藏為無始虛偽惡習——虛妄執著種種戲論所熏習。所受的熏習，瑜伽學名為「<note n="0242a0201" resp="CBETA" type="add" subtype="規範字詞">遍【CB】，徧【印順】</note><app n="0242a0201"><lem wit="【CB】" resp="CBETA">遍</lem><rdg wit="【印順】">徧</rdg></app>計
 <lb n="0242a03" ed="Y"/>所執種子」，或說阿賴耶是「過患之聚」。<title level="m">《楞伽經》</title>雖採用種子（<foreign xml:lang="x-sa-pi">bīja</foreign>）、熏習（<foreign xml:lang="x-sa-pi">vāsanā</foreign>）說
 <lb n="0242a04" ed="Y"/>，而阿賴耶顯然就是：自性清淨而為煩惱所覆染。依<title level="m">《大乘莊嚴經論》</title>來解說：如來藏與阿賴耶
 <lb n="0242a05" ed="Y"/>識，有同一義，那是心真如（<foreign xml:lang="sa">tathatā-citta</foreign>）是自性清淨的。也有差別義，阿賴耶識雖不離真如
@@ -3874,7 +3869,7 @@
 <lb n="0245a11" ed="Y"/>佛說生死流轉，在生死流轉中的，只是五陰、六界、六入（處），並沒有我。在一般人看來，如
 <lb n="0245a12" ed="Y"/>沒有我，那誰在生，誰在滅？也就是誰在生死？這是以「無我」為不能成立生死的。還有，如<title level="m">《
 <lb n="0245a13" ed="Y"/>經》</title>說：<quote>「譬如破瓶不作瓶事，亦如焦種不作芽事。如是大慧！若陰界入性，已滅、今滅、當滅
-<lb n="0245a14" ed="Y"/>，自心妄想見，無因故，彼無次第生」</quote><note n="0245019" resp="釋印順" type="orig"><bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope type="卷" n="1">卷一</biblScope></bibl>（大正<ref target="vol:16;page:p483c" type="taisho">一六．四八三下</ref>）。</note>。滅（<foreign xml:lang="x-sa-pi">nirodha</foreign>），被解說為什麼都沒有了，<choice cb:type="規範字詞"><orig>那末</orig><reg>那麼</reg></choice>前一剎
+<lb n="0245a14" ed="Y"/>，自心妄想見，無因故，彼無次第生」</quote><note n="0245019" resp="釋印順" type="orig"><bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope type="卷" n="1">卷一</biblScope></bibl>（大正<ref target="vol:16;page:p483c" type="taisho">一六．四八三下</ref>）。</note>。滅（<foreign xml:lang="x-sa-pi">nirodha</foreign>），被解說為什麼都沒有了，<note n="0245a1401" resp="CBETA" type="add" subtype="規範字詞">那麼【CB】，那末【印順】</note><app n="0245a1401"><lem wit="【CB】" resp="CBETA">那麼</lem><rdg wit="【印順】">那末</rdg></app>前一剎
 <lb n="0245a15" ed="Y"/>那滅，第二剎那就「無因」而不可能生起了。這是說：生滅無常是不能成立生死流轉的，如經說
 <pb n="0246a" ed="Y" xml:id="Y39.0037.0246a"/>
 <lb n="0246a01" ed="Y"/>：<quote>「其餘諸識有生有滅，意意識等念念有七」</quote>；<quote>「七識不流轉，不受苦樂」</quote><note n="0246020" resp="釋印順" type="orig"><bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope n="4" type="卷">卷四</biblScope></bibl>（大正<ref type="taisho" target="vol:16;page:p510b">一六．五一〇中</ref>、<ref target="vol:16;page:p512b" type="taisho">五一二中</ref>）。</note>，與<cit><bibl><title level="m">《勝鬘經》</title>的
@@ -3907,7 +3902,7 @@
 <lb n="0247a12" ed="Y"/><quote><p rend="margin-left:3em">「大慧！剎那者，名識藏如來藏，意俱生識習氣剎那，無漏習氣非剎那，非凡愚所覺。計
 <lb n="0247a13" ed="Y"/>著剎那論故，不覺一切法剎那（與）非剎那，以斷見壞無為法」。</p></quote>
 <lb n="0247a14" ed="Y"/><p rend="text-indent:2em">如來藏名藏識中，生七識的習氣，是剎那（<foreign xml:lang="sa"><note n="0247a1401" resp="CBETA" type="add">kṣaṇa【CB】，kṣaṇika【印順】</note><app n="0247a1401"><lem wit="【CB】" resp="正聞出版社">kṣaṇa</lem><rdg wit="【印順】">kṣaṇika</rdg></app></foreign>），是有為生滅法；另有無漏習氣，是非
-<lb n="0247a15" ed="Y"/>剎那，也就是不生滅的無為法。這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，顯然與瑜伽學不同。瑜伽學以為：無漏習氣也是剎那生滅
+<lb n="0247a15" ed="Y"/>剎那，也就是不生滅的無為法。這<note n="0247a1501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0247a1501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，顯然與瑜伽學不同。瑜伽學以為：無漏習氣也是剎那生滅
 <pb n="0248a" ed="Y" xml:id="Y39.0037.0248a"/>
 <lb n="0248a01" ed="Y"/>的，所以佛果的四智菩提，也還是有為生滅的。<cit><bibl><title level="m">《楞伽經》</title>批評說：</bibl><quote>「若得無間有剎那者，聖應
 <lb n="0248a02" ed="Y"/>非聖」</quote><note n="0248024" resp="釋印順" type="orig"><bibl><title level="m">《楞伽阿跋多羅寶經》</title><biblScope type="卷" n="4">卷四</biblScope></bibl>（大正<ref type="taisho" target="vol:16;page:p512b">一六．五一二中</ref>）。</note></cit>！宋譯的得「無間」，就是「無間等」（<foreign xml:lang="x-sa-pi">abhisamaya</foreign>），為「現觀」或「現證」的異譯
@@ -3979,8 +3974,8 @@
 <lb n="0252a05" ed="Y"/>所有的共同傾向，就是淡化了眾生有真我的色采。<title level="m">《涅槃經》</title>後續的三十卷，也不是同時集出的
 <lb n="0252a06" ed="Y"/>。如<title level="a">〈<note n="0252a0601" resp="CBETA" type="add">現病【CB】，病行【印順】</note><app n="0252a0601"><lem wit="【CB】" resp="正聞出版社">現病<note type="cf1">(1)《大般涅槃經》卷11〈6 現病品〉(CBETA, T12, no. 374, p. 428, b19)；(2)《大般涅槃經》卷11〈7 聖行品〉：「菩薩摩訶薩應當於是大般涅槃經。專心思惟五種之行。何等為五。一者聖行。二者梵行。三者天行。四者嬰兒行。五者病行。善男子。菩薩摩訶薩常當修習是五種行。復有一行是如來行。所謂大乘大涅槃經。」(CBETA, T12, no. 374, p. 432, a8-13)</note></lem><rdg wit="【印順】">病行</rdg></app>品〉</title>等五品、<title level="a">〈師子吼菩薩品〉</title>、<title level="a">〈迦葉菩薩品〉</title>，在佛性的解說上，也是對前說加
 <lb n="0252a07" ed="Y"/>以多少不同的解說。在續出部分集出（或譯出）時，對於初出部分，也可能多少修正補充的。如
-<lb n="0252a08" ed="Y"/>「三德秘藏」，法顯譯本是沒有的。迦葉菩薩的<choice cb:type="規範字詞"><orig>啓</orig><reg>啟</reg></choice>問，法顯譯本也簡略得多<note n="0252003" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref type="taisho" target="vol:12;page:p379c">一二．三七九下</ref>——<ref type="taisho" target="vol:12;page:p380a">三八〇上</ref>）。<bibl><title level="m">《大般泥洹經》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref target="vol:12;page:p863c" type="taisho">一二．八六三下</ref>）。</note>。<title level="m">《大般涅槃經》</title>
-<lb n="0252a09" ed="Y"/>續譯部分，思想極為博雜，不是這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>所能充分討論的，這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>只略論續譯部分，是怎樣的解說<quote>「一
+<lb n="0252a08" ed="Y"/>「三德秘藏」，法顯譯本是沒有的。迦葉菩薩的<note n="0252a0801" resp="CBETA" type="add" subtype="規範字詞">啟【CB】，啓【印順】</note><app n="0252a0801"><lem wit="【CB】" resp="CBETA">啟</lem><rdg wit="【印順】">啓</rdg></app>問，法顯譯本也簡略得多<note n="0252003" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="3">卷三</biblScope></bibl>（大正<ref type="taisho" target="vol:12;page:p379c">一二．三七九下</ref>——<ref type="taisho" target="vol:12;page:p380a">三八〇上</ref>）。<bibl><title level="m">《大般泥洹經》</title><biblScope n="2" type="卷">卷二</biblScope></bibl>（大正<ref target="vol:12;page:p863c" type="taisho">一二．八六三下</ref>）。</note>。<title level="m">《大般涅槃經》</title>
+<lb n="0252a09" ed="Y"/>續譯部分，思想極為博雜，不是這<note n="0252a0901" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0252a0901"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>所能充分討論的，這<note n="0252a0902" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0252a0902"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>只略論續譯部分，是怎樣的解說<quote>「一
 <lb n="0252a10" ed="Y"/>切眾生悉有佛性」</quote>。</p>
 <lb n="0252a11" ed="Y"/><p rend="text-indent:2em">如來藏，我，佛性，是異名而同一意義。在後三十卷中，值得我們注意的，是不再提到如來
 <lb n="0252a12" ed="Y"/>藏一詞了！<cit><bibl><title level="a">〈師子吼菩薩品〉</title>說：五百梵志難佛說無我：</bibl><quote>「若無我者，持戒者誰？破戒者誰」</quote></cit>？
@@ -3997,8 +3992,7 @@
 <lb n="0253a07" ed="Y"/>三十二相、八十種好」。</p></quote>
 <lb n="0253a08" ed="Y"/><p rend="text-indent:2em"><quote>「一切眾生悉有佛性」</quote>，不是說眾生現在身內，有如來那樣的三十二相好。<quote>「若諸眾生（身
 <lb n="0253a09" ed="Y"/>）內有佛性者，一切眾生應有佛身，如我今也」</quote><note n="0253006" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="28">卷二八</biblScope></bibl>（大正<ref type="taisho" target="vol:12;page:p531b">一二．五三一中</ref>）。</note>。這樣，眾生身中有如來藏，具足三十二相，
-<lb n="0253a10" ed="Y"/>是密意的方便說了！無我而說有我，依<title level="m">《涅槃經》</title>續譯部分，無疑是適應當時神教學的方便。<choice cb:type="規範字詞"><orig>那<lb n="0253a11" ed="Y"/>末</orig><reg>那
-<lb n="0253a11" ed="Y"/>麼</reg></choice>，如來常樂我淨的我，真意何在呢？如<title level="m">《大般涅槃經》</title><note n="0253007" resp="釋印順" type="orig"><title level="m">《大般涅槃經》</title>：1.卷二三（大正<ref type="taisho" target="vol:12;page:p502c">一二．五〇二下</ref>）。2.卷三二（大正<ref type="taisho" target="vol:12;page:p556c">一二．五五六下</ref>）。3.卷一三（大正<ref type="taisho" target="vol:12;page:p441a">一二．四四一上</ref>）。4.卷三九（大正<ref type="taisho" target="vol:12;page:p596a">一二．五九六上</ref>）。5.卷三八（大正<ref type="taisho" target="vol:12;page:p590a">一二．五九〇上</ref>）。</note>說：</p>
+<lb n="0253a10" ed="Y"/>是密意的方便說了！無我而說有我，依<title level="m">《涅槃經》</title>續譯部分，無疑是適應當時神教學的方便。<note n="0253a1101" resp="CBETA" type="add" subtype="規範字詞">那<lb n="0253a11" ed="Y"/>麼【CB】，那<lb n="0253a11" ed="Y"/>末【印順】</note><app n="0253a1101"><lem wit="【CB】" resp="CBETA">那<lb n="0253a11" ed="Y"/>麼</lem><rdg wit="【印順】">那<lb n="0253a11" ed="Y"/>末</rdg></app>，如來常樂我淨的我，真意何在呢？如<title level="m">《大般涅槃經》</title><note n="0253007" resp="釋印順" type="orig"><title level="m">《大般涅槃經》</title>：1.卷二三（大正<ref type="taisho" target="vol:12;page:p502c">一二．五〇二下</ref>）。2.卷三二（大正<ref type="taisho" target="vol:12;page:p556c">一二．五五六下</ref>）。3.卷一三（大正<ref type="taisho" target="vol:12;page:p441a">一二．四四一上</ref>）。4.卷三九（大正<ref type="taisho" target="vol:12;page:p596a">一二．五九六上</ref>）。5.卷三八（大正<ref type="taisho" target="vol:12;page:p590a">一二．五九〇上</ref>）。</note>說：</p>
 <lb n="0253a12" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「有大我故，名大涅槃。涅槃無我，大自在故，名為大我。云何名為大自在耶？有八自
 <lb n="0253a13" ed="Y"/>在，則名為我」</quote>。</p></item>
 <lb n="0253a14" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">2.<quote>「如來法身無邊無礙，不生不滅，得八自在，是名為我」</quote>。</p></item>
@@ -4013,10 +4007,10 @@
 <lb n="0254a07" ed="Y"/>上，是不能作為準量的！</p>
 <lb n="0254a08" ed="Y"/><p rend="text-indent:2em">續譯部分，可分為四部分。「第一部分」：明「五行」、「十德」的，是<title level="a">〈<note n="0254a0801" resp="CBETA" type="add">現病【CB】，病行【印順】</note><app n="0254a0801"><lem wit="【CB】" resp="正聞出版社">現病</lem><rdg wit="【印順】">病行</rdg></app>品〉</title>……<title level="a">〈
 <lb n="0254a09" ed="Y"/>光明遍照高貴德王菩薩品〉</title>，這五品，是以大乘空義來說明一切。如<title level="a">〈梵行品〉</title>明十一空：內空
-<lb n="0254a10" ed="Y"/>（<foreign xml:lang="sa">adhyātma-śūnyatā</foreign>），外空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>bahirdhā-ś.</orig><reg>bahirdhā-śūnyatā</reg></choice></foreign>），內外空（<foreign xml:lang="sa">adhyātma-bahirdhā-śūnyata</foreign>），有為空
-<lb n="0254a11" ed="Y"/>（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>saṃskṛta-ś.</orig><reg>saṃskṛta-śūnyatā</reg></choice></foreign>），無為空（<foreign xml:lang="sa"><note n="0254a1101" resp="CBETA" type="add">asaṃskṛta-śūnyatā【CB】，asaṁskṛta-ś.【印順】</note><app n="0254a1101"><lem wit="【CB】" resp="正聞出版社">asaṃskṛta-śūnyatā</lem><rdg wit="【印順】">asaṁskṛta-ś.</rdg></app></foreign>），無始（終）空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>anavarāgra-ś.</orig><reg>anavarāgra-śūnyatā</reg></choice></foreign>），性空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>prakṛti-ś.</orig><reg>prakṛti-śūnyatā</reg></choice></foreign>）
-<lb n="0254a12" ed="Y"/>，無所有空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>abhāva-ś.</orig><reg>abhāva-śūnyatā</reg></choice></foreign>），第一義空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>paramârtha-ś.</orig><reg>paramârtha-śūnyatā</reg></choice></foreign>），空空（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>śūnyatā-ś.</orig><reg>śūnyatā-śūnyatā</reg></choice></foreign>），大空
-<lb n="0254a13" ed="Y"/>（<foreign xml:lang="sa"><choice cb:type="規範字詞"><orig>mahā-ś.</orig><reg>mahā-śūnyatā</reg></choice></foreign>）<note n="0254008" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope n="16" type="卷">卷一六</biblScope></bibl>（大正<ref target="vol:12;page:p461b" type="taisho">一二．四六一中</ref>——下）。</note>。<quote>「諸佛世尊從六波羅蜜，三十七品，十一空，來至大涅槃」</quote><note n="0254009" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="18">卷一八</biblScope></bibl>（大正<ref target="vol:12;page:p468b" type="taisho">一二．四六八中</ref>）。</note>。<title level="m">《經》</title>中也說到
+<lb n="0254a10" ed="Y"/>（<foreign xml:lang="sa">adhyātma-śūnyatā</foreign>），外空（<foreign xml:lang="sa"><note n="0254a1001" resp="CBETA" type="add" subtype="規範字詞">bahirdhā-śūnyatā【CB】，bahirdhā-ś.【印順】</note><app n="0254a1001"><lem wit="【CB】" resp="CBETA">bahirdhā-śūnyatā</lem><rdg wit="【印順】">bahirdhā-ś.</rdg></app></foreign>），內外空（<foreign xml:lang="sa">adhyātma-bahirdhā-śūnyata</foreign>），有為空
+<lb n="0254a11" ed="Y"/>（<foreign xml:lang="sa"><note n="0254a1101" resp="CBETA" type="add" subtype="規範字詞">saṃskṛta-śūnyatā【CB】，saṃskṛta-ś.【印順】</note><app n="0254a1101"><lem wit="【CB】" resp="CBETA">saṃskṛta-śūnyatā</lem><rdg wit="【印順】">saṃskṛta-ś.</rdg></app></foreign>），無為空（<foreign xml:lang="sa"><note n="0254a1102" resp="CBETA" type="add">asaṃskṛta-śūnyatā【CB】，asaṁskṛta-ś.【印順】</note><app n="0254a1102"><lem wit="【CB】" resp="正聞出版社">asaṃskṛta-śūnyatā</lem><rdg wit="【印順】">asaṁskṛta-ś.</rdg></app></foreign>），無始（終）空（<foreign xml:lang="sa"><note n="0254a1103" resp="CBETA" type="add" subtype="規範字詞">anavarāgra-śūnyatā【CB】，anavarāgra-ś.【印順】</note><app n="0254a1103"><lem wit="【CB】" resp="CBETA">anavarāgra-śūnyatā</lem><rdg wit="【印順】">anavarāgra-ś.</rdg></app></foreign>），性空（<foreign xml:lang="sa"><note n="0254a1104" resp="CBETA" type="add" subtype="規範字詞">prakṛti-śūnyatā【CB】，prakṛti-ś.【印順】</note><app n="0254a1104"><lem wit="【CB】" resp="CBETA">prakṛti-śūnyatā</lem><rdg wit="【印順】">prakṛti-ś.</rdg></app></foreign>）
+<lb n="0254a12" ed="Y"/>，無所有空（<foreign xml:lang="sa"><note n="0254a1201" resp="CBETA" type="add" subtype="規範字詞">abhāva-śūnyatā【CB】，abhāva-ś.【印順】</note><app n="0254a1201"><lem wit="【CB】" resp="CBETA">abhāva-śūnyatā</lem><rdg wit="【印順】">abhāva-ś.</rdg></app></foreign>），第一義空（<foreign xml:lang="sa"><note n="0254a1202" resp="CBETA" type="add" subtype="規範字詞">paramârtha-śūnyatā【CB】，paramârtha-ś.【印順】</note><app n="0254a1202"><lem wit="【CB】" resp="CBETA">paramârtha-śūnyatā</lem><rdg wit="【印順】">paramârtha-ś.</rdg></app></foreign>），空空（<foreign xml:lang="sa"><note n="0254a1203" resp="CBETA" type="add" subtype="規範字詞">śūnyatā-śūnyatā【CB】，śūnyatā-ś.【印順】</note><app n="0254a1203"><lem wit="【CB】" resp="CBETA">śūnyatā-śūnyatā</lem><rdg wit="【印順】">śūnyatā-ś.</rdg></app></foreign>），大空
+<lb n="0254a13" ed="Y"/>（<foreign xml:lang="sa"><note n="0254a1301" resp="CBETA" type="add" subtype="規範字詞">mahā-śūnyatā【CB】，mahā-ś.【印順】</note><app n="0254a1301"><lem wit="【CB】" resp="CBETA">mahā-śūnyatā</lem><rdg wit="【印順】">mahā-ś.</rdg></app></foreign>）<note n="0254008" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope n="16" type="卷">卷一六</biblScope></bibl>（大正<ref target="vol:12;page:p461b" type="taisho">一二．四六一中</ref>——下）。</note>。<quote>「諸佛世尊從六波羅蜜，三十七品，十一空，來至大涅槃」</quote><note n="0254009" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="18">卷一八</biblScope></bibl>（大正<ref target="vol:12;page:p468b" type="taisho">一二．四六八中</ref>）。</note>。<title level="m">《經》</title>中也說到
 <lb n="0254a14" ed="Y"/>了：<quote>「如來常修十八空義」</quote><note n="0254010" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope n="22" type="卷">卷二二</biblScope></bibl>（大正<ref type="taisho" target="vol:12;page:p494c">一二．四九四下</ref>）。</note>。如<title level="m">《經》</title>上<note n="0254011" resp="釋印順" type="orig"><title level="m">《大般涅槃經》</title>：1.卷一八（大正<ref target="vol:12;page:p468c" type="taisho">一二．四六八下</ref>）。2.卷二一（大正<ref target="vol:12;page:p747b" type="taisho">一二．七四七中</ref>——下）。3.卷二六（大正<ref target="vol:12;page:p521b" type="taisho">一二．五二一中</ref>）。4.卷二六（大正<ref type="taisho" target="vol:12;page:p519b">一二．五一九中</ref>——下）。</note>說：</p>
 <lb n="0254a15" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「涅槃之性，實非有也，諸佛世尊因世間故，說言是有」</quote>。</p></item>
 <pb n="0255a" ed="Y" xml:id="Y39.0037.0255a"/>
@@ -4097,10 +4091,10 @@
 <lb n="0259a11" ed="Y"/><p rend="text-indent:2em">為什麼名為佛性？佛性是阿耨多羅三藐三菩提（<foreign xml:lang="sa">anuttara-samyak-saṃbodhi</foreign>）的種子。種子
 <lb n="0259a12" ed="Y"/>是比喻因緣，與瑜伽學者的種子說不同。依此而能成佛，所以名為佛性，與佛種性（<foreign xml:lang="sa">gotra</foreign>）的意
 <lb n="0259a13" ed="Y"/>義相近。<quote>「觀十二因緣智慧，即是阿耨多羅三藐三菩提種子」</quote>，可見這是以第一義空智為佛性的
-<lb n="0259a14" ed="Y"/>。第一義空智，依十二因緣的觀照而來，所以又說<quote>「十二因緣名為佛性」</quote>。到這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，可以稱為佛
+<lb n="0259a14" ed="Y"/>。第一義空智，依十二因緣的觀照而來，所以又說<quote>「十二因緣名為佛性」</quote>。到這<note n="0259a1401" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0259a1401"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，可以稱為佛
 <lb n="0259a15" ed="Y"/>性的，有三：一、十二因緣；二、十二因緣空——中道；三、觀十二因緣智。十二因緣被名為佛
 <pb n="0260a" ed="Y" xml:id="Y39.0037.0260a"/>
-<lb n="0260a01" ed="Y"/>性，是因中說果，經舉胡瓜名為熱病來喻說。十二因緣為佛性所依，也就名為佛性了。到了這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>
+<lb n="0260a01" ed="Y"/>性，是因中說果，經舉胡瓜名為熱病來喻說。十二因緣為佛性所依，也就名為佛性了。到了這<note n="0260a0101" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0260a0101"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>
 <lb n="0260a02" ed="Y"/>，經上舉出了佛性的因果說，如：</p>
 <lb n="0260a03" ed="Y"/><p cb:type="pre">　　　　　┌十二因緣………………………………………………………因
 <lb n="0260a04" ed="Y"/>　　　　　├觀十二因緣智慧………………………………………………因因
@@ -4232,16 +4226,16 @@
 <lb n="0268a02" ed="Y"/>為如來<note n="0268039" resp="釋印順" type="orig"><title level="m">《不增不減經》</title>（大正<ref type="taisho" target="vol:16;page:p467b">一六．四六七中</ref>）。</note>：有相近的意義。<title level="m">《寶性論》</title>也約如來界（<foreign xml:lang="sa">tathāgata-dhātu</foreign>）——如來性，說不淨、
 <lb n="0268a03" ed="Y"/>淨不淨、淨三位<note n="0268040" resp="釋印順" type="orig"><bibl><title level="m">《究竟一乘寶性論》</title><biblScope type="卷" n="31">卷三一</biblScope></bibl>（大正<ref target="vol:31;page:p832a" type="taisho">三一．八三二上</ref>——中）。</note>。眾生佛性，本品提出的中道說，也就是可以說有、說無、說亦有亦無、非有
 <lb n="0268a04" ed="Y"/>非無的。如<title level="m">《經》</title><note n="0268041" resp="釋印順" type="orig"><title level="m">《大般涅槃經》</title>：1.卷三五（大正<ref target="vol:12;page:p572b" type="taisho">一二．五七二中</ref>）。2.卷三六（大正<ref target="vol:12;page:p580c" type="taisho">一二．五八〇下</ref>）。</note>說：</p>
-<lb n="0268a05" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「眾生佛性，非有非無。所以者何？佛性雖有，非如虛空。……佛性雖無，不同<choice cb:type="規範字詞"><orig>兎</orig><reg>兔</reg></choice>角。
+<lb n="0268a05" ed="Y"/><list rendition="simple"><item><p rend="margin-left:2em;text-indent:-1em">1.<quote>「眾生佛性，非有非無。所以者何？佛性雖有，非如虛空。……佛性雖無，不同<note n="0268a0501" resp="CBETA" type="add" subtype="規範字詞">兔【CB】，兎【印順】</note><app n="0268a0501"><lem wit="【CB】" resp="CBETA">兔</lem><rdg wit="【印順】">兎</rdg></app>角。
 <lb n="0268a06" ed="Y"/>……是故佛性非有非無，亦有亦無。云何名有？一切（眾生）悉有，是諸眾生不斷不滅
 <lb n="0268a07" ed="Y"/>，猶如燈焰，乃至得阿耨多羅三藐三菩提，是故名有。云何名無？一切眾生現在未有一
 <lb n="0268a08" ed="Y"/>切佛法，常樂我淨，是故名無。有無合故，即是中道，是故佛說眾生佛性非有非無。…
 <lb n="0268a09" ed="Y"/>…是故如來於是經中說如是言：一切眾生定有佛性，是名為著；若無佛性，是名虛妄：
 <lb n="0268a10" ed="Y"/>智者應說眾生佛性亦有亦無」</quote>。</p></item>
 <lb n="0268a11" ed="Y"/><item><p rend="margin-left:2em;text-indent:-1em">2.<quote>「善男子！若有人言：一切眾生定有佛性，常樂我淨，不作不生，煩惱因緣故不可見，
-<lb n="0268a12" ed="Y"/>當知是人謗佛法僧。若有說言：一切眾生都無佛性，猶如<choice cb:type="規範字詞"><orig>兎</orig><reg>兔</reg></choice>角，從方便生，本無今有，
-<lb n="0268a13" ed="Y"/>已有還無，當知是人謗佛法僧。若有說言：眾生佛性，非有如虛空，非無如<choice cb:type="規範字詞"><orig>兎</orig><reg>兔</reg></choice>角，……
-<lb n="0268a14" ed="Y"/>是故得言亦有亦無。有故破<choice cb:type="規範字詞"><orig>兎</orig><reg>兔</reg></choice>角，無故破虛空，如是說者，不謗三寶」</quote>。</p></item></list>
+<lb n="0268a12" ed="Y"/>當知是人謗佛法僧。若有說言：一切眾生都無佛性，猶如<note n="0268a1201" resp="CBETA" type="add" subtype="規範字詞">兔【CB】，兎【印順】</note><app n="0268a1201"><lem wit="【CB】" resp="CBETA">兔</lem><rdg wit="【印順】">兎</rdg></app>角，從方便生，本無今有，
+<lb n="0268a13" ed="Y"/>已有還無，當知是人謗佛法僧。若有說言：眾生佛性，非有如虛空，非無如<note n="0268a1301" resp="CBETA" type="add" subtype="規範字詞">兔【CB】，兎【印順】</note><app n="0268a1301"><lem wit="【CB】" resp="CBETA">兔</lem><rdg wit="【印順】">兎</rdg></app>角，……
+<lb n="0268a14" ed="Y"/>是故得言亦有亦無。有故破<note n="0268a1401" resp="CBETA" type="add" subtype="規範字詞">兔【CB】，兎【印順】</note><app n="0268a1401"><lem wit="【CB】" resp="CBETA">兔</lem><rdg wit="【印順】">兎</rdg></app>角，無故破虛空，如是說者，不謗三寶」</quote>。</p></item></list>
 <lb n="0268a15" ed="Y"/><p rend="text-indent:2em"><quote>「眾生定有佛性」</quote>，如一般所說的，一切眾生有如來藏，如佛那樣的具足智慧莊嚴，是本品
 <pb n="0269a" ed="Y" xml:id="Y39.0037.0269a"/>
 <lb n="0269a01" ed="Y"/>所不能同意的！但也可以說眾生有佛性，如<title level="m">《經》</title>上<note n="0269042" resp="釋印順" type="orig"><title level="m">《大般涅槃經》</title>：1.卷三五（大正<ref type="taisho" target="vol:12;page:p573c">一二．五七三下</ref>）。2.卷三五（大正<ref target="vol:12;page:p572b" type="taisho">一二．五七二中</ref>）。3.卷三五（大正<ref type="taisho" target="vol:12;page:p571b">一二．五七一中</ref>——下）。</note>說：</p>
@@ -4255,7 +4249,7 @@
 <lb n="0269a09" ed="Y"/>無始以來，因緣不斷不滅的延續去了解。即使是煩惱，煩惱也能感得人天善報——「善五陰」。
 <lb n="0269a10" ed="Y"/>依善五陰，可以親近善友，聽聞正法，一直到圓滿佛性。眾生在十二因緣河中，生死流轉，始終
 <lb n="0269a11" ed="Y"/>是不斷不滅的相似相續。猶如燈燄，前後有不即不離，不一不異的關係。沒有無明、行等，就沒
-<lb n="0269a12" ed="Y"/>有生死眾生；沒有眾生就沒有佛，沒有生死又那<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>有涅槃！所以，不但是善法，煩惱等也是佛性
+<lb n="0269a12" ed="Y"/>有生死眾生；沒有眾生就沒有佛，沒有生死又那<note n="0269a1201" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0269a1201"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>有涅槃！所以，不但是善法，煩惱等也是佛性
 <lb n="0269a13" ed="Y"/>，是佛性所因依的。依據這一見地，<bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="36">卷三六</biblScope></bibl><note place="inline">大正<ref type="taisho" target="vol:12;page:p579b">一二．五七九中</ref>、<ref type="taisho" target="vol:12;page:p580c">五八〇下</ref></note>說：</p>
 <lb n="0269a14" ed="Y"/><quote><p rend="margin-left:3em">「如是微妙大涅槃中，從一闡提上至諸佛，雖有異名，然亦不離於佛性水。善男子！是七
 <lb n="0269a15" ed="Y"/>眾生，若善法，若不善法；若方便道，若解脫道，若次第道，若因若果，悉是佛性，是名
@@ -4264,7 +4258,7 @@
 <lb n="0270a02" ed="Y"/><quote><p rend="margin-left:3em">「未得阿耨多羅三藐三菩提時，一切善、不善、無記，盡名佛性」。</p></quote>
 <lb n="0270a03" ed="Y"/><p rend="text-indent:2em"><title level="m">《涅槃經》</title>續譯部分，對「如來常住」，「常樂我淨」，「一切眾生悉有佛性」等根本論題
 <lb n="0270a04" ed="Y"/>，都給以善巧的解說。前五品多用<title level="m">《般若經》</title>意；<title level="a">〈師子吼菩薩品〉</title>，參考了<title level="m">《中論》</title>的八不說
-<lb n="0270a05" ed="Y"/>；<title level="a">〈迦葉菩薩品〉</title>依因緣說。眾生有如來藏的本有論，到這<choice cb:type="規範字詞"><orig>裏</orig><reg>裡</reg></choice>，淡化得簡直不見了。反而明白的
+<lb n="0270a05" ed="Y"/>；<title level="a">〈迦葉菩薩品〉</title>依因緣說。眾生有如來藏的本有論，到這<note n="0270a0501" resp="CBETA" type="add" subtype="規範字詞">裡【CB】，裏【印順】</note><app n="0270a0501"><lem wit="【CB】" resp="CBETA">裡</lem><rdg wit="【印順】">裏</rdg></app>，淡化得簡直不見了。反而明白的
 <lb n="0270a06" ed="Y"/>指責：<quote>「若有人言：一切眾生定有佛性，常樂我淨，不作不生，煩惱因緣故不可見，當知是人謗
 <lb n="0270a07" ed="Y"/>佛法僧」</quote><note n="0270043" resp="釋印順" type="orig"><bibl><title level="m">《大般涅槃經》</title><biblScope type="卷" n="36">卷三六</biblScope></bibl>（大正<ref type="taisho" target="vol:12;page:p580c">一二．五八〇下</ref>）。</note>。古人說：<title level="m">《涅槃經》</title>「扶律談常」，扶律與聲聞律制有關。<title level="m">《涅槃經》</title>也廣引經說
 <lb n="0270a08" ed="Y"/>，主要是<title level="m">《阿含經》</title>，而給以獨到的解說。續譯部分，多用說一切有部（<foreign xml:lang="sa"><note n="0270a0801" resp="CBETA" type="add">Sarvāstivāda【CB】，Sarvāstivādināḥ【印順】</note><app n="0270a0801"><lem wit="【CB】" resp="正聞出版社">Sarvāstivāda</lem><rdg wit="【印順】">Sarvāstivādināḥ</rdg></app></foreign>）的「
