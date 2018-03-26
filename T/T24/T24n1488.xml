@@ -593,7 +593,7 @@ Added comment  for Emacs
 <lb ed="T" n="1038c23"/>薩分別如是三種菩提，是不為難；在家分別，
 <lb n="1038c24" ed="T"/>是乃為難。何以故？在家之人多惡因緣所纏
 <lb ed="T" n="1038c25"/>遶故。」</p></cb:div>
-<lb n="1038c26" ed="T"/><cb:div type="pin"><cb:mulu n="6" level="1" type="品">6 修三十二相業品</cb:mulu><anchor type="circle"/><head><note resp="Taisho" type="orig" place="foot text" n="1038013">卷第二首【聖】，聖本譯號缺，〔優婆塞戒經〕－【明】</note><note type="mod" resp="CBETA" n="1038013"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->卷第二首【聖】，聖本譯號缺，〔優婆塞戒經〕－【明】</note><title>優婆塞戒<app type="star" corresp="#1035008"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app></title>修三十二相業品第六</head>
+<lb n="1038c26" ed="T"/><cb:div type="pin"><cb:mulu n="6" level="1" type="品">6 修三十二相業品</cb:mulu><anchor type="circle"/><head><note resp="Taisho" type="orig" place="foot text" n="1038013">卷第二首【聖】，聖本譯號缺，〔優婆塞戒經〕－【明】</note><note type="mod" resp="CBETA" n="1038013"><!--CBETA todo type: a-->優婆塞戒經【大】，〔－〕【明】，<!--CBETA todo type: newmod-->卷第二首【聖】，聖本譯號缺</note><title>優婆塞戒<app type="star" corresp="#1035008"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宮】"><space quantity="0"/></rdg></app></title>修三十二相業品第六</head>
 <lb n="1038c27" ed="T"/><p xml:id="pT24p1038c2701">善生言：「世尊！如佛所說菩薩身力，何時成就？」</p>
 <lb ed="T" n="1038c28"/><p xml:id="pT24p1038c2801">佛言：「善男子！初修三十二相業時。善男子！菩
 <lb ed="T" n="1038c29"/>薩修集如是業時，得名菩薩，兼得二定：<note type="orig" resp="Taisho" place="foot text" n="1038014">一＋（者）【三】【宮】</note><note type="mod" resp="CBETA" n="1038014">一【大】，一者【宋】【元】【明】【宮】</note><app n="1038014"><lem wit="【大】">一</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">一者</rdg></app>、菩
@@ -708,7 +708,7 @@ Added comment  for Emacs
 <lb ed="T" n="1040a18"/>獲得無見頂相。」</p><p xml:id="pT24p1040a1807" rend="inline">「善男子！菩薩二種：一者、在家，
 <lb ed="T" n="1040a19"/>二者、出家。出家菩薩修如是業，是不為難；在
 <lb n="1040a20" ed="T"/>家<note n="1040008" place="foot text" resp="Taisho" type="orig">之人＝菩薩修是業者【三】【宮】【聖】</note><note type="mod" resp="CBETA" n="1040008">之人【大】，菩薩修是業者【宋】【元】【明】【宮】【聖】</note><app n="1040008"><lem wit="【大】">之人</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】【聖】">菩薩修是業者</rdg></app>，是乃為難。何以故？在家之人多惡
-<lb n="1040a21" ed="T"/>因緣所纏遶故。」<note place="foot text" n="1040009" type="orig" resp="Taisho">不分卷【聖】，（優婆塞戒經）＋發願【聖】</note><note type="mod" resp="CBETA" n="1040009"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【聖】，（優婆塞戒經）＋發願【聖】</note><anchor type="circle"/></p></cb:div>
+<lb n="1040a21" ed="T"/>因緣所纏遶故。」<note place="foot text" n="1040009" type="orig" resp="Taisho">不分卷【聖】，（優婆塞戒經）＋發願【聖】</note><note type="mod" resp="CBETA" n="1040009"><!--CBETA todo type: a-->發願【大】，優婆塞戒經發願【聖】，<!--CBETA todo type: newmod-->不分卷【聖】</note><anchor type="circle"/></p></cb:div>
 <lb n="1040a22" ed="T"/><cb:juan fun="close" n="001"><cb:jhead><title>優婆塞戒經</title>卷第一</cb:jhead></cb:juan>
 <lb n="1040a23" ed="T"/>
 <milestone unit="juan" n="2"/>
@@ -716,7 +716,7 @@ Added comment  for Emacs
 <lb ed="T" n="1040a25"/><cb:juan n="002" fun="open"><cb:mulu type="卷" n="002"/><cb:jhead><title>優婆塞戒經</title>卷第二</cb:jhead></cb:juan>
 <lb n="1040a26" ed="T"/>
 <lb n="1040a27" ed="T"/><byline cb:type="Translator">北涼<anchor xml:id="fxT24p1040a01"/>中印度三藏曇無讖<anchor xml:id="fxT24p1040a02"/>譯</byline>
-<lb ed="T" n="1040a28"/><cb:div type="pin"><cb:mulu n="7" type="品" level="1">7 發願品</cb:mulu><anchor type="circle"/><head><note type="orig" resp="Taisho" n="1040010" place="foot text">不分卷【聖】，（優婆塞戒經）＋發願【聖】</note><note type="mod" resp="CBETA" n="1040010"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【聖】，（優婆塞戒經）＋發願【聖】</note>發願品第七</head>
+<lb ed="T" n="1040a28"/><cb:div type="pin"><cb:mulu n="7" type="品" level="1">7 發願品</cb:mulu><anchor type="circle"/><head><note type="orig" resp="Taisho" n="1040010" place="foot text">不分卷【聖】，（優婆塞戒經）＋發願【聖】</note><note type="mod" resp="CBETA" n="1040010"><!--CBETA todo type: a-->發願【大】，優婆塞戒經發願【聖】，<!--CBETA todo type: newmod-->不分卷【聖】</note>發願品第七</head>
 <lb ed="T" n="1040a29"/><p xml:id="pT24p1040a2901">善生言：「世尊！是三十二相業誰能作耶？」佛言：
 <pb n="1040b" xml:id="T24.1488.1040b" ed="T"/>
 <lb n="1040b01" ed="T"/>「善男子！智者能作。」</p><p xml:id="pT24p1040b0108" rend="inline">「世尊！云何名智者？」</p><p rend="inline" xml:id="pT24p1040b0115">「善男子！

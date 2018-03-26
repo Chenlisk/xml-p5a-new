@@ -266,7 +266,7 @@ no message
 <lb ed="X" n="0601c21"/><lb ed="R016" n="0276b06"/>桃核於土核內外。理窮思惟棄栽種之事。彌勒問
 <lb ed="X" n="0601c22"/><lb ed="R016" n="0276b07"/>斷修之性。則示無破核出仁以俟芽生。及去蝕芽
 <lb ed="X" n="0601c23"/><lb ed="R016" n="0276b08"/>之蝤。與桃芳之候。清淨慧請證得之差別。則示紅
-<lb ed="X" n="0601c24"/><lb ed="R016" n="0276b09"/>熟之桃實裹根苗之桃核。威德自在請方便之非<choice cb:type="shift" cb:resp="CBETA.maha"><corr>一</corr><sic><space quantity="0"/></sic></choice>。</p>
+<lb ed="X" n="0601c24"/><lb ed="R016" n="0276b09"/>熟之桃實裹根苗之桃核。威德自在請方便之非<note n="0601c2401" resp="CBETA" type="add" subtype="shift">一【CB】，［－］【卍續】</note><app n="0601c2401"><lem wit="【CB】" resp="CBETA.maha">一</lem><rdg wit="【卍續】"><space quantity="0"/></rdg></app>。</p>
 <pb ed="X" xml:id="X10.0262.0602a" n="0602a"/>
 <lb ed="X" n="0602a01"/><lb ed="R016" n="0277a02"/><p xml:id="pX10p0602a0101" rend="margin-left:1em">章次圖</p>
 <lb ed="X" n="0602a02"/><lb ed="R016" n="0277a03"/><p xml:id="pX10p0602a0201" rend="margin-left:1em"><figure><graphic url="../figures/X/X10p0602_01.gif"/></figure></p>
@@ -293,7 +293,7 @@ no message
 <lb ed="X" n="0602a23"/>
 <lb ed="X" n="0602a24"/>
 <pb ed="X" xml:id="X10.0262.0603a" n="0603a"/>
-<lb ed="X" n="0603a01"/><lb ed="R016" n="0276b10"/><p xml:id="pX10p0603a0101" rend="margin-left:1em"><choice cb:type="shift" cb:resp="CBETA.maha"><corr><space quantity="0"/></corr><sic>一</sic></choice>則示華開與華落總垂實之緣因。辨音問修習
+<lb ed="X" n="0603a01"/><lb ed="R016" n="0276b10"/><p xml:id="pX10p0603a0101" rend="margin-left:1em"><note n="0603a0101" resp="CBETA" type="add" subtype="shift">［－］【CB】，一【卍續】</note><app n="0603a0101"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【卍續】">一</rdg></app>則示華開與華落總垂實之緣因。辨音問修習
 <lb ed="X" n="0603a02"/><lb ed="R016" n="0276b11"/>之有幾。則示飄風與濕雨總開落於桃華。淨諸業
 <lb ed="X" n="0603a03"/><lb ed="R016" n="0276b12"/>障問染污之不入。則示毋觀華貪桃實折向瓶中
 <lb ed="X" n="0603a04"/><lb ed="R016" n="0276b13"/>求老熟普覺。辨人法之正覺。則示老熟垂垂。曾不

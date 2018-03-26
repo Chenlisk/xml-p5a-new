@@ -3684,14 +3684,14 @@ Added comment  for Emacs
 <lb n="0272b10" ed="T"/>足已，叉手合掌，以偈讚曰：</p>
 <lb n="0272b11" ed="T"/><lg xml:id="lgT03p0272b1101" rend="margin-left:2em;text-indent:-2em"><l>「『妙哉智明士，</l><l>除諸結病穢；</l>
 <lb n="0272b12" ed="T"/><l>積德行如海，</l><l>脫斯眾生苦。』</l></lg></cb:div>
-<lb n="0272b13" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0272006" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋感【宋】【明】</note><note n="0272006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】，（大乘大悲分陀利經）＋感【宋】【明】</note>大乘悲分陀利經</title>卷第五</cb:jhead></cb:juan>
+<lb n="0272b13" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0272006" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋感【宋】【明】</note><note n="0272006" resp="CBETA" type="mod"><!--CBETA todo type: a-->感【大】，大乘大悲分陀利經感【宋】【明】，<!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】</note>大乘悲分陀利經</title>卷第五</cb:jhead></cb:juan>
 <lb n="0272b14" ed="T"/>
 <milestone n="6" unit="juan"/>
 <lb n="0272b15" ed="T"/>
 <lb n="0272b16" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="006" type="卷"/><cb:jhead><title>大乘悲分陀利經</title>卷第六</cb:jhead></cb:juan>
 <lb n="0272b17" ed="T"/>
 <lb n="0272b18" ed="T"/><byline cb:type="Translator">失三藏名今附秦錄</byline>
-<lb n="0272b19" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="20" type="品">19 感應品</cb:mulu><head><anchor type="circle"/><note n="0272007" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋感【宋】【明】</note><note n="0272007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】，（大乘大悲分陀利經）＋感【宋】【明】</note>感應品第十九</head>
+<lb n="0272b19" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="20" type="品">19 感應品</cb:mulu><head><anchor type="circle"/><note n="0272007" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋感【宋】【明】</note><note n="0272007" resp="CBETA" type="mod"><!--CBETA todo type: a-->感【大】，大乘大悲分陀利經感【宋】【明】，<!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】</note>感應品第十九</head>
 <lb n="0272b20" ed="T"/><p xml:id="pT03p0272b2001">「善男子！時大眾天乾闥婆及世人，五體禮婆
 <lb n="0272b21" ed="T"/>羅門足，叉手合掌種種句義偈讚歎已。善男
 <lb n="0272b22" ed="T"/>子！時海濟婆羅門，於寶藏如來前，右膝著
@@ -4830,14 +4830,14 @@ Added comment  for Emacs
 <lb n="0285a14" ed="T"/>供養父母、五通仙人。如我先行菩薩行憐愍
 <lb n="0285a15" ed="T"/>眾生，以身肉血而充足之。彼時憐愍，今阿羅
 <lb n="0285a16" ed="T"/>漢所無有也。</p></cb:div>
-<lb n="0285a17" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><title><note n="0285002" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋菩【宋】【元】</note><note n="0285002" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】，（大乘大悲分陀利經）＋菩【宋】【元】</note>大乘悲分陀利經</title>卷第七</cb:jhead></cb:juan>
+<lb n="0285a17" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><title><note n="0285002" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋菩【宋】【元】</note><note n="0285002" resp="CBETA" type="mod"><!--CBETA todo type: a-->菩【大】，大乘大悲分陀利經菩【宋】【元】，<!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】</note>大乘悲分陀利經</title>卷第七</cb:jhead></cb:juan>
 <lb n="0285a18" ed="T"/>
 <milestone n="8" unit="juan"/>
 <lb n="0285a19" ed="T"/>
 <lb n="0285a20" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="008" type="卷"/><cb:jhead><title>大乘悲分陀利經</title>卷第八</cb:jhead></cb:juan>
 <lb n="0285a21" ed="T"/>
 <lb n="0285a22" ed="T"/><byline cb:type="Translator">失三藏名今附秦錄</byline>
-<lb n="0285a23" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="29" type="品">28 菩薩集品</cb:mulu><head><note n="0285003" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋菩【宋】【元】</note><note n="0285003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】，（大乘大悲分陀利經）＋菩【宋】【元】</note>菩薩集品第二十八</head>
+<lb n="0285a23" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="29" type="品">28 菩薩集品</cb:mulu><head><note n="0285003" resp="Taisho" type="orig" place="foot text">不分卷〔大乘…錄〕二十八字－【三】，（大乘大悲分陀利經）＋菩【宋】【元】</note><note n="0285003" resp="CBETA" type="mod"><!--CBETA todo type: a-->菩【大】，大乘大悲分陀利經菩【宋】【元】，<!--CBETA todo type: newmod-->不分卷〔大乘…錄〕二十八字－【宋】【元】【明】</note>菩薩集品第二十八</head>
 <lb n="0285a24" ed="T"/><p xml:id="pT03p0285a2401">「善男子！如我以佛眼觀見十方佛剎微塵數
 <lb n="0285a25" ed="T"/>諸佛世尊已般涅槃，彼皆是我勸化阿耨多
 <lb n="0285a26" ed="T"/>羅三藐三菩提令住中者，亦是我初勸檀波

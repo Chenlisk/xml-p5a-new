@@ -1864,7 +1864,7 @@ Added comment  for Emacs
 <lb n="0492a28" ed="T"/>得菩提。」</p><p xml:id="pT13p0492a2804" rend="inline">當佛說是過去所行精進法時，會中
 <lb n="0492a29" ed="T"/>有五千菩薩得無生法忍，七千天人發阿耨
 <pb n="0492b" ed="T" xml:id="T13.0400.0492b"/>
-<lb n="0492b01" ed="T"/>多羅三藐三菩提心。<note n="0492001" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note><note n="0492001" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note><anchor type="circle"/></p>
+<lb n="0492b01" ed="T"/>多羅三藐三菩提心。<note n="0492001" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note><note n="0492001" resp="CBETA" type="mod"><!--CBETA todo type: a-->心【大】，心(上下卷中)【元】，<!--CBETA todo type: newmod-->不分卷【元】【明】</note><anchor type="circle"/></p>
 <lb n="0492b02" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><title>佛說海意菩薩所問淨印法門經</title>卷第七</cb:jhead></cb:juan>
 <lb n="0492b03" ed="T"/>
 <milestone n="8" unit="juan"/>
@@ -1874,7 +1874,7 @@ Added comment  for Emacs
 <lb n="0492b07" ed="T"/>
 <lb n="0492b08" ed="T"/><byline cb:type="Translator">譯經三藏朝散大夫試鴻臚卿光梵大師
 <lb n="0492b09" ed="T"/>賜紫沙門臣惟淨等奉　詔譯</byline>
-<lb n="0492b10" ed="T"/><p xml:id="pT13p0492b1001"><anchor type="circle"/><note n="0492002" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note><note n="0492002" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note>爾時，世尊重說頌曰：</p>
+<lb n="0492b10" ed="T"/><p xml:id="pT13p0492b1001"><anchor type="circle"/><note n="0492002" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，心＋（上下卷中）四字細註【元】</note><note n="0492002" resp="CBETA" type="mod"><!--CBETA todo type: a-->心【大】，心(上下卷中)【元】，<!--CBETA todo type: newmod-->不分卷【元】【明】</note>爾時，世尊重說頌曰：</p>
 <lb n="0492b11" ed="T"/><lg xml:id="lgT13p0492b1101" rend="margin-left:0em;text-indent:0em"><l>「我念過去佛出世，</l><l>號曰勇猛精進尊；</l>
 <lb n="0492b12" ed="T"/><l rend="text-indent:1em">劫名花積妙可觀，</l><l>最上世界名善見。</l>
 <lb n="0492b13" ed="T"/><l rend="text-indent:1em">八萬四千蓮花出，</l><l>有佛出現彼劫中；</l>
@@ -2728,7 +2728,7 @@ Added comment  for Emacs
 <lb n="0501c18" ed="T"/>
 <lb n="0501c19" ed="T"/><byline cb:type="Translator"><anchor xml:id="fxT13p0501c01"/>西天譯經三藏朝散大夫試鴻臚卿傳梵
 <lb n="0501c20" ed="T"/>大師賜紫<anchor xml:id="fxT13p0501c02"/>沙門臣法護等奉　詔<anchor xml:id="fxT13p0501c03"/>譯</byline>
-<lb n="0501c21" ed="T"/><p xml:id="pT13p0501c2101">「<note n="0501003" resp="Taisho" type="orig" place="foot text">不分卷【明】，〔復次海意〕－【元】【明】</note><note n="0501003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【明】，〔復次海意〕－【元】【明】</note>復次，海意！復有二法，<note n="0501004" resp="Taisho" type="orig" place="foot text">於＝于【明】下同</note><note n="0501004" resp="CBETA" type="mod">於【大】下同，于【明】下同</note><app n="0501004"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【明】">于</rdg></app>大乘中而能多作：
+<lb n="0501c21" ed="T"/><p xml:id="pT13p0501c2101">「<note n="0501003" resp="Taisho" type="orig" place="foot text">不分卷【明】，〔復次海意〕－【元】【明】</note><note n="0501003" resp="CBETA" type="mod"><!--CBETA todo type: a-->復次海意【大】，〔－〕【元】【明】，<!--CBETA todo type: newmod-->不分卷【明】</note>復次，海意！復有二法，<note n="0501004" resp="Taisho" type="orig" place="foot text">於＝于【明】下同</note><note n="0501004" resp="CBETA" type="mod">於【大】下同，于【明】下同</note><app n="0501004"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【明】">于</rdg></app>大乘中而能多作：
 <lb n="0501c22" ed="T"/>一者、精進修七覺支；二者、深心說覺支法。復
 <lb n="0501c23" ed="T"/>有二法難作：一者、不住盡智；二者、無生智忍。
 <lb n="0501c24" ed="T"/>復有二法多作：一者、善行正道；二者、善知非
@@ -3893,7 +3893,7 @@ Added comment  for Emacs
 <lb n="0514c09" ed="T"/>千苾芻者，豈異人乎？即此會中隨汝海意同
 <lb n="0514c10" ed="T"/>來聽法菩薩眾是。」</p><p xml:id="pT13p0514c1008" rend="inline">當佛世尊說是往昔因緣
 <lb n="0514c11" ed="T"/>時，此大會中有一萬八千人，發阿耨多羅三
-<lb n="0514c12" ed="T"/>藐三菩提心；八千菩薩得無生法忍。<note n="0514004" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，忍＋（上下卷中）細註【元】</note><note n="0514004" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】，忍＋（上下卷中）細註【元】</note><anchor type="circle"/></p>
+<lb n="0514c12" ed="T"/>藐三菩提心；八千菩薩得無生法忍。<note n="0514004" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，忍＋（上下卷中）細註【元】</note><note n="0514004" resp="CBETA" type="mod"><!--CBETA todo type: a-->忍【大】，忍(上下卷中)【元】，<!--CBETA todo type: newmod-->不分卷【元】【明】</note><anchor type="circle"/></p>
 <lb n="0514c13" ed="T"/><note n="0514005" resp="Taisho" type="orig" place="foot text">〔佛說…譯〕五十三字－【元】【明】</note><note n="0514005" resp="CBETA" type="mod"><!--CBETA todo type: a-->（佛說…譯）六十三字【大】，〔－〕【元】【明】</note><cb:juan n="015" fun="close"><cb:jhead><title>佛說海意菩薩所問淨印法門經</title>卷第十五</cb:jhead></cb:juan>
 <lb n="0514c14" ed="T"/>
 <milestone n="16" unit="juan"/>
@@ -3903,7 +3903,7 @@ Added comment  for Emacs
 <lb n="0514c18" ed="T"/>
 <lb n="0514c19" ed="T"/><byline cb:type="Translator">西天譯經三藏朝散大夫試鴻臚卿傳
 <lb n="0514c20" ed="T"/>梵大師賜紫沙門臣法護等奉　詔譯</byline>
-<lb n="0514c21" ed="T"/><p xml:id="pT13p0514c2101"><anchor type="circle"/><note n="0514006" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，忍＋（上下卷中）細註【元】</note><note n="0514006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】，忍＋（上下卷中）細註【元】</note>爾時，世尊告海意菩薩言：「海意！若諸菩薩
+<lb n="0514c21" ed="T"/><p xml:id="pT13p0514c2101"><anchor type="circle"/><note n="0514006" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，忍＋（上下卷中）細註【元】</note><note n="0514006" resp="CBETA" type="mod"><!--CBETA todo type: a-->忍【大】，忍(上下卷中)【元】，<!--CBETA todo type: newmod-->不分卷【元】【明】</note>爾時，世尊告海意菩薩言：「海意！若諸菩薩
 <lb n="0514c22" ed="T"/>欲證阿耨多羅三藐三菩提者，應當修學汝
 <lb n="0514c23" ed="T"/>等大士諸所施作。菩薩不應但修捷語利辯，
 <lb n="0514c24" ed="T"/>應當如說亦然能行。云何是菩薩如說不能
@@ -4353,7 +4353,7 @@ Added comment  for Emacs
 <lb n="0519c17" ed="T"/>此最上甚深正法，真實了知，而能為他如理
 <lb n="0519c18" ed="T"/>宣說者，我等四王并諸眷屬，常來營衛護持
 <lb n="0519c19" ed="T"/>正法，復當攝護其說法師，令無障難及無衰
-<lb n="0519c20" ed="T"/>惱。」<note n="0519003" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，惱＋（上下卷中）細註【元】</note><note n="0519003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷【元】【明】，惱＋（上下卷中）細註【元】</note><anchor type="circle"/></p>
+<lb n="0519c20" ed="T"/>惱。」<note n="0519003" resp="Taisho" type="orig" place="foot text">不分卷【元】【明】，惱＋（上下卷中）細註【元】</note><note n="0519003" resp="CBETA" type="mod"><!--CBETA todo type: a-->惱【大】，惱(上下卷中)【元】，<!--CBETA todo type: newmod-->不分卷【元】【明】</note><anchor type="circle"/></p>
 <lb n="0519c21" ed="T"/><note n="0519004" resp="Taisho" type="orig" place="foot text">〔佛說…譯〕六十三－【元】【明】</note><note n="0519004" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->〔佛說…譯〕六十三－【元】【明】</note><cb:juan n="017" fun="close"><cb:jhead><title>佛說海意菩薩所問淨印法門經</title>卷第十七</cb:jhead></cb:juan>
 <lb n="0519c22" ed="T"/>
 <milestone n="18" unit="juan"/>

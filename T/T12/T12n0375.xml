@@ -4723,7 +4723,7 @@ add cvs log
 <lb n="0655c04" ed="T"/>切契經諸定，乃至未聞大般涅槃，皆言一
 <lb n="0655c05" ed="T"/>切悉是無常。聞是經已，雖有煩惱如無煩
 <lb n="0655c06" ed="T"/>惱，即能利益一切人天。何以故？曉了己身
-<lb n="0655c07" ed="T"/>有佛性故，是名為常。</p><p xml:id="pT12p0655c0709" rend="inline">「復次，善男子！<note n="0655008" resp="Taisho" type="orig" place="foot text">〔譬〕－【三】【三】</note><note n="0655008" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔譬〕－<space quantity="0"/>【宋】【元】【明】</note><app n="0655008"><lem wit="【大】">譬</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>如
+<lb n="0655c07" ed="T"/>有佛性故，是名為常。</p><p xml:id="pT12p0655c0709" rend="inline">「復次，善男子！<note n="0655008" resp="Taisho" type="orig" place="foot text">〔譬〕－【三】【三】</note><note n="0655008" resp="CBETA" type="mod">譬【大】，〔－〕【宋】【元】【明】</note><app n="0655008"><lem wit="【大】">譬</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>如
 <lb n="0655c08" ed="T"/>菴羅樹，其花始敷，名無常相；若成<app type="star" corresp="#0655007"><lem wit="【大】">菓</lem><rdg resp="Taisho" wit="【宋】【元】【明】">果</rdg></app>實，多
 <lb n="0655c09" ed="T"/>所利益，乃名為常。如是，善男子！雖修一
 <lb n="0655c10" ed="T"/>切契經諸定，未聞如是大涅槃時，咸言一
@@ -6329,7 +6329,7 @@ add cvs log
 <lb n="0673b17" ed="T"/>
 <lb n="0673b18" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="11" type="卷"/><cb:jhead><title><note n="0673010" resp="Taisho" type="orig" place="foot text">（南本）＋大【明】＊</note><note n="0673010" resp="CBETA" type="mod">大【大】＊，南本大【明】＊</note><app n="0673010"><lem wit="【大】">大</lem><rdg resp="Taisho" wit="【明】">南本大</rdg></app>般涅槃經</title>卷第十一</cb:jhead></cb:juan>
 <lb n="0673b19" ed="T"/>
-<lb n="0673b20" ed="T"/><byline cb:type="Translator"><note n="0673011" resp="Taisho" type="orig" place="foot text">（（宋代…之））十三字＝（（三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治））十九字【宋】【元】＊，（（北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治））二十四字【明】＊</note><note n="0673011" resp="CBETA" type="mod">（宋代…之）十三字【大】＊，三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治【宋】【元】＊，<!--CBETA todo type: newmod-->（（北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治））二十四字【明】＊</note><app n="0673011" cb:word-count="13"><lem wit="【大】">宋代沙門慧嚴等依泥洹經加之</lem><rdg resp="Taisho" wit="【宋】【元】">三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治</rdg><rdg resp="Taisho" wit="【明】">北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治</rdg></app></byline>
+<lb n="0673b20" ed="T"/><byline cb:type="Translator"><note n="0673011" resp="Taisho" type="orig" place="foot text">（（宋代…之））十三字＝（（三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治））十九字【宋】【元】＊，（（北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治））二十四字【明】＊</note><note n="0673011" resp="CBETA" type="mod">（宋代…之）十三字【大】＊，三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治【宋】【元】＊，北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治【明】＊</note><app n="0673011" cb:word-count="13"><lem wit="【大】">宋代沙門慧嚴等依泥洹經加之</lem><rdg resp="Taisho" wit="【宋】【元】">三藏曇無讖譯梵沙門慧嚴慧觀同謝靈運再治</rdg><rdg resp="Taisho" wit="【明】">北涼天竺三藏曇無讖譯梵宋沙門慧嚴慧觀同謝靈運再治</rdg></app></byline>
 <lb n="0673b21" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="19" type="品">19 聖行品</cb:mulu><cb:mulu level="2">1</cb:mulu><head>
 <note n="0673012" resp="Taisho" type="orig" place="foot text">品目在經題經之字下【宋】【元】＊</note><note n="0673012" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->品目在經題經之字下【宋】【元】＊</note>聖行品<note n="0673013" resp="Taisho" type="orig" place="foot text">第十九之一＝上第十九【宋】【元】</note><note n="0673013" resp="CBETA" type="mod">第十九之一【大】，上第十九【宋】【元】</note><app n="0673013"><lem wit="【大】">第十九之一</lem><rdg resp="Taisho" wit="【宋】【元】">上第十九</rdg></app></head>
 <lb n="0673b22" ed="T"/><p xml:id="pT12p0673b2201">爾時，佛告迦葉菩薩：「善男子！菩薩摩訶薩應
@@ -7766,7 +7766,7 @@ add cvs log
 <lb n="0689b12" ed="T"/>『我能自出。』眾緣和合，故得出酥。如來亦爾，
 <lb n="0689b13" ed="T"/>終不念言：『我轉法輪。』善男子！若不出者，是
 <lb n="0689b14" ed="T"/>則名為轉正法輪；是轉法輪即是如來。</p><p xml:id="pT12p0689b1416" rend="inline">「善男
-<lb n="0689b15" ed="T"/>子！譬如因子、<note n="0689010" resp="Taisho" type="orig" place="foot text">（（因地…時））十二字＝（（及地水火風沃壤時節））【三】</note><note n="0689010" resp="CBETA" type="mod">（因地…時）十二字【大】，（（及地水火風沃壤時節））【宋】【元】【明】</note><app n="0689010" cb:word-count="12"><lem wit="【大】">因地、因水、因火、因風、因糞、因時</lem><rdg resp="Taisho" wit="【宋】【元】【明】">及地水火風沃壤時節</rdg></app>、
+<lb n="0689b15" ed="T"/>子！譬如因子、<note n="0689010" resp="Taisho" type="orig" place="foot text">（（因地…時））十二字＝（（及地水火風沃壤時節））【三】</note><note n="0689010" resp="CBETA" type="mod">（因地…時）十二字【大】，及地水火風沃壤時節【宋】【元】【明】</note><app n="0689010" cb:word-count="12"><lem wit="【大】">因地、因水、因火、因風、因糞、因時</lem><rdg resp="Taisho" wit="【宋】【元】【明】">及地水火風沃壤時節</rdg></app>、
 <lb n="0689b16" ed="T"/>因人作業而<note n="0689011" resp="Taisho" type="orig" place="foot text">芽＝牙【三】</note><note n="0689011" resp="CBETA" type="mod">芽【大】，牙【宋】【元】【明】</note><app n="0689011"><lem wit="【大】">芽</lem><rdg resp="Taisho" wit="【宋】【元】【明】">牙</rdg></app>得生。善男子！子亦不言：『我
 <lb n="0689b17" ed="T"/>能生牙。』乃至作業亦不念言：『我能生牙。』牙
 <lb n="0689b18" ed="T"/>亦不言：『我能自生。』如來亦爾，終不念言：『我
@@ -8311,7 +8311,7 @@ add cvs log
 <lb n="0695b16" ed="T"/>斷瞋眾生；修悲心者，斷瞋非眾生。</p><p xml:id="pT12p0695b1614" rend="inline">「復次，瞋
 <lb n="0695b17" ed="T"/>有二種：一、有因緣，二、無因緣。修慈心者，斷
 <lb n="0695b18" ed="T"/>有因緣；修悲心者，斷無因緣。</p><p xml:id="pT12p0695b1812" rend="inline">「復次，瞋有二
-<lb n="0695b19" ed="T"/>種：一<note n="0695009" resp="Taisho" type="orig" place="foot text">（（者久…修））十四字＝（（於過去久已積習二於現在今始積））【三】</note><note n="0695009" resp="CBETA" type="mod">（者久…修）十四字【大】，（（於過去久已積習二於現在今始積））【宋】【元】【明】</note><app n="0695009" cb:word-count="14"><lem wit="【大】">者、久於過去修習，二者、於今現在修</lem><rdg resp="Taisho" wit="【宋】【元】【明】">於過去久已積習二於現在今始積</rdg></app>
+<lb n="0695b19" ed="T"/>種：一<note n="0695009" resp="Taisho" type="orig" place="foot text">（（者久…修））十四字＝（（於過去久已積習二於現在今始積））【三】</note><note n="0695009" resp="CBETA" type="mod">（者久…修）十四字【大】，於過去久已積習二於現在今始積【宋】【元】【明】</note><app n="0695009" cb:word-count="14"><lem wit="【大】">者、久於過去修習，二者、於今現在修</lem><rdg resp="Taisho" wit="【宋】【元】【明】">於過去久已積習二於現在今始積</rdg></app>
 <lb n="0695b20" ed="T"/>習。修慈心者能斷過去；修悲心者，斷於現
 <lb n="0695b21" ed="T"/>在。</p><p xml:id="pT12p0695b2102" rend="inline">「復次，瞋有二種：一、瞋聖人，二、瞋凡夫。修
 <lb n="0695b22" ed="T"/>慈心者，斷瞋聖人；修悲心者，斷瞋凡夫。</p>
@@ -8362,7 +8362,7 @@ add cvs log
 <lb n="0696a07" ed="T"/>守家狗、慈心易失如彼野鹿，是故，此心難
 <lb n="0696a08" ed="T"/>可調伏。以是義故，不名大慈。</p><p xml:id="pT12p0696a0812" rend="inline">「復次，善男
 <lb n="0696a09" ed="T"/>子！譬如畫石，其文常在；畫水速滅，勢不久
-<lb n="0696a10" ed="T"/>住。瞋<note n="0696003" resp="Taisho" type="orig" place="foot text">（（如畫…彼））九字＝（（恚難除譬如畫石善根易滅猶如））【三】</note><note n="0696003" resp="CBETA" type="mod">（如畫…彼）九字【大】，（（恚難除譬如畫石善根易滅猶如））【宋】【元】【明】</note><app n="0696003" cb:word-count="9"><lem wit="【大】">如畫石、諸善根本如彼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">恚難除譬如畫石善根易滅猶如</rdg></app>畫水，是故
+<lb n="0696a10" ed="T"/>住。瞋<note n="0696003" resp="Taisho" type="orig" place="foot text">（（如畫…彼））九字＝（（恚難除譬如畫石善根易滅猶如））【三】</note><note n="0696003" resp="CBETA" type="mod">（如畫…彼）九字【大】，恚難除譬如畫石善根易滅猶如【宋】【元】【明】</note><app n="0696003" cb:word-count="9"><lem wit="【大】">如畫石、諸善根本如彼</lem><rdg resp="Taisho" wit="【宋】【元】【明】">恚難除譬如畫石善根易滅猶如</rdg></app>畫水，是故
 <lb n="0696a11" ed="T"/>此心難<note n="0696004" resp="Taisho" type="orig" place="foot text">得＝可【元】【明】</note><note n="0696004" resp="CBETA" type="mod">得【大】，可【元】【明】</note><app n="0696004"><lem wit="【大】">得</lem><rdg resp="Taisho" wit="【元】【明】">可</rdg></app>調伏。如大火聚，其明久住；電光
 <lb n="0696a12" ed="T"/>之明不得暫停。瞋如火聚、慈如電明，是故
 <lb n="0696a13" ed="T"/>此心難得調伏。以是義故，不名大慈。</p><p xml:id="pT12p0696a1315" rend="inline">「善男
@@ -8719,7 +8719,7 @@ add cvs log
 <lb n="0700a04" ed="T"/>『大師！我等今者當設何計？』尼<app type="star" corresp="#0699020"><lem wit="【大】">犍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">揵</rdg></app>答言：『沙
 <lb n="0700a05" ed="T"/>門瞿曇性好叢林、流泉、清水，外設有者宜應
 <lb n="0700a06" ed="T"/><note n="0700002" resp="Taisho" type="orig" place="foot text">破＝毀【三】</note><note n="0700002" resp="CBETA" type="mod">破【大】，毀【宋】【元】【明】</note><app n="0700002"><lem wit="【大】">破</lem><rdg resp="Taisho" wit="【宋】【元】【明】">毀</rdg></app>壞。汝等便可相與出城，
-<note n="0700003" resp="Taisho" type="orig" place="foot text">（（諸有…使））十字＝（（斬伐林木勿令））【三】</note><note n="0700003" resp="CBETA" type="mod">（諸有…使）十字【大】，（（斬伐林木勿令））【宋】【元】【明】</note><app n="0700003" cb:word-count="10"><lem wit="【大】">諸有之處斫伐
+<note n="0700003" resp="Taisho" type="orig" place="foot text">（（諸有…使））十字＝（（斬伐林木勿令））【三】</note><note n="0700003" resp="CBETA" type="mod">（諸有…使）十字【大】，斬伐林木勿令【宋】【元】【明】</note><app n="0700003" cb:word-count="10"><lem wit="【大】">諸有之處斫伐
 <lb n="0700a07" ed="T"/>令盡，莫使</lem><rdg resp="Taisho" wit="【宋】【元】【明】">斬伐林木勿令</rdg></app>有遺，流泉、井、池<note n="0700004" resp="Taisho" type="orig" place="foot text">悉置糞屍＝填以臭穢【三】</note><note n="0700004" resp="CBETA" type="mod">悉置糞屍【大】，填以臭穢【宋】【元】【明】</note><app n="0700004"><lem wit="【大】">悉置糞屍</lem><rdg resp="Taisho" wit="【宋】【元】【明】">填以臭穢</rdg></app>。堅
 <lb n="0700a08" ed="T"/>閉城門，各嚴器仗，當壁防護，勤自固守。彼
 <lb n="0700a09" ed="T"/>設來者，莫令得前。若不前者，汝當安隱。我
@@ -10878,7 +10878,7 @@ add cvs log
 <lb n="0723c26" ed="T"/>生故，不見佛性。以不生煩惱故，則見佛
 <lb n="0723c27" ed="T"/>性；以見佛性<note n="0723017" resp="Taisho" type="orig" place="foot text">〔故〕－【三】</note><note n="0723017" resp="CBETA" type="mod">故【大】，〔－〕【宋】【元】【明】</note><app n="0723017"><lem wit="【大】">故</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>，則得安住大般涅槃，是
 <lb n="0723c28" ed="T"/>名不生。是故，
-<note n="0723018" resp="Taisho" type="orig" place="foot text">名為作本文【三】</note><note n="0723018" resp="CBETA" type="mod">(名為)【大】，（名為）本文【宋】【元】【明】</note><app n="0723018"><lem wit="【大】"><note place="inline">名為</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">名為</rdg></app>為阿闍世。善男子！阿闍者，
+<note n="0723018" resp="Taisho" type="orig" place="foot text">名為作本文【三】</note><note n="0723018" resp="CBETA" type="mod">(名為)【大】，名為【宋】【元】【明】</note><app n="0723018"><lem wit="【大】"><note place="inline">名為</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">名為</rdg></app>為阿闍世。善男子！阿闍者，
 <lb n="0723c29" ed="T"/>名不生；不生者，名涅槃。世，名世法；為者，名
 <pb n="0724a" xml:id="T12.0375.0724a" ed="T"/>
 <lb n="0724a01" ed="T"/>不污；以世八法所不污故，無量無邊阿僧
@@ -11219,7 +11219,7 @@ add cvs log
 <lb n="0727c06" ed="T"/>者不得為無。何以故？常常見者有惡業果
 <lb n="0727c07" ed="T"/>故，是故常常見者不得為無。以是義故，雖
 <lb n="0727c08" ed="T"/><note n="0727024" resp="Taisho" type="orig" place="foot text">非有＋（非）【三】</note><note n="0727024" resp="CBETA" type="mod">非有【大】，非有非【宋】【元】【明】</note><app n="0727024"><lem wit="【大】">非有</lem><rdg resp="Taisho" wit="【宋】【元】【明】">非有非</rdg></app>、無，而亦是有。</p><p xml:id="pT12p0727c0808" rend="inline">「大王！夫眾生者，名出入
-<lb n="0727c09" ed="T"/>息。<note n="0727025" resp="Taisho" type="orig" place="foot text">斷出乃至殺之八字作夾註【明】</note><note n="0727025" resp="CBETA" type="mod">（斷出入息故名為殺）八字本文【大】，（斷出入息故名為殺）八字夾註【明】</note><app n="0727025"><lem wit="【大】">斷出入息，故名為殺</lem><rdg resp="Taisho" wit="【明】"><note place="inline">斷出入息故名為殺</note></rdg></app>，諸佛隨俗亦說為
+<lb n="0727c09" ed="T"/>息。<note n="0727025" resp="Taisho" type="orig" place="foot text">斷出乃至殺之八字作夾註【明】</note><note n="0727025" resp="CBETA" type="mod">斷出入息故名為殺【大】，(斷出入息故名為殺)【明】</note><app n="0727025"><lem wit="【大】">斷出入息，故名為殺</lem><rdg resp="Taisho" wit="【明】"><note place="inline">斷出入息故名為殺</note></rdg></app>，諸佛隨俗亦說為
 <lb n="0727c10" ed="T"/>殺。</p><p xml:id="pT12p0727c1002" rend="inline">「大王！色是無常，色之因緣亦是無常。從
 <lb n="0727c11" ed="T"/>無常因生，色云何常？乃至識<note n="0727026" resp="Taisho" type="orig" place="foot text">〔是〕－【三】</note><note n="0727026" resp="CBETA" type="mod">是【大】，〔－〕【宋】【元】【明】</note><app n="0727026"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>無常，識之
 <lb n="0727c12" ed="T"/>因緣亦是無常。從無常因生，識云何常？以

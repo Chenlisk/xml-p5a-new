@@ -176,7 +176,7 @@ Added comment  for Emacs
 <lb n="0929b03" ed="T"/><l>觀妙菩提心</l><l>身同於薩埵</l>
 <lb n="0929b04" ed="T"/><l>色如碧頗梨</l><l>住於羯<note n="0929005" resp="Taisho" place="foot text" type="orig">磨＝摩【乙】</note><note n="0929005" resp="CBETA" type="mod">磨【大】，摩【乙】</note><app n="0929005"><lem wit="【大】">磨</lem><rdg resp="Taisho" wit="【乙】">摩</rdg></app>輪</l>
 <lb n="0929b05" ed="T"/><l>以大真言王</l><l>遍滿身支分</l>
-<lb n="0929b06" ed="T"/><note n="0929006" resp="Taisho" place="foot text" type="orig">自暗字至壇四十字甲本作夾註</note><note n="0929006" resp="CBETA" type="mod">（暗字在於頂欠暗左右耳在額名為惡糝索在兩肩唅鶴作咽心㘕𡀩為臍腰鑁嚩為髀足三處弟師壇）四十字本文【大】，（暗字在於頂欠暗左右耳在額名為惡糝索在兩肩唅鶴作咽心㘕𡀩為臍腰鑁嚩為髀足三處弟師壇）四十字夾註【甲】</note><app n="0929006"><lem wit="【大】"><l>暗字在於頂</l><l>欠暗左右耳</l>
+<lb n="0929b06" ed="T"/><note n="0929006" resp="Taisho" place="foot text" type="orig">自暗字至壇四十字甲本作夾註</note><note n="0929006" resp="CBETA" type="mod">暗字在於頂欠暗左右耳在額名為惡糝索在兩肩唅鶴作咽心㘕𡀩為臍腰鑁嚩為髀足三處弟師壇【大】，(暗字在於頂欠暗左右耳在額名為惡糝索在兩肩唅鶴作咽心㘕𡀩為臍腰鑁嚩為髀足三處弟師壇)【甲】</note><app n="0929006"><lem wit="【大】"><l>暗字在於頂</l><l>欠暗左右耳</l>
 <lb n="0929b07" ed="T"/><l>在額名為惡</l><l>糝索在兩肩</l>
 <lb n="0929b08" ed="T"/><l>唅鶴作咽心</l><l>㘕𡀩為臍腰</l>
 <lb n="0929b09" ed="T"/><l>鑁嚩為髀足</l><l>三處<note n="0929007" resp="Taisho" place="foot text" type="orig">弟＋（子）【甲】</note><note n="0929007" resp="CBETA" type="mod">弟【大】，弟子【甲】</note><app n="0929007"><lem wit="【大】">弟</lem><rdg resp="Taisho" wit="【甲】">弟子</rdg></app><note n="0929008" resp="Taisho" place="foot text" type="orig">師壇＝壇師【乙】</note><note n="0929008" resp="CBETA" type="mod">師壇【大】，壇師【乙】</note><app n="0929008"><lem wit="【大】">師壇</lem><rdg resp="Taisho" wit="【乙】">壇師</rdg></app></l></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">暗字在於頂欠暗左右耳在額名為惡糝索在兩肩唅鶴作咽心㘕𡀩為臍腰鑁嚩為髀足三處弟師壇</note></rdg></app>
@@ -488,7 +488,7 @@ Added comment  for Emacs
 <lb n="0932c15" ed="T"/><l>及命業胎宿</l><l>拳印風火鉤</l>
 <lb n="0932c16" ed="T"/><l>供以歸本位</l><l>次請於本尊</l>
 <lb n="0932c17" ed="T"/><l>兩手捧時華</l><l>去垢及光澤</l>
-<lb n="0932c18" ed="T"/><note n="0932027" resp="Taisho" place="foot text" type="orig">或部主加持五字乙本作本文</note><note n="0932027" resp="CBETA" type="mod">（或部主加持）五字夾註【大】，（或部主加持）五字本文【乙】</note><app n="0932027"><lem wit="【大】"><note place="inline">或部主加持</note></lem><rdg resp="Taisho" wit="【乙】">或部主加持</rdg></app><l>即當隔爐擲</l>
+<lb n="0932c18" ed="T"/><note n="0932027" resp="Taisho" place="foot text" type="orig">或部主加持五字乙本作本文</note><note n="0932027" resp="CBETA" type="mod">(或部主加持)【大】，或部主加持【乙】</note><app n="0932027"><lem wit="【大】"><note place="inline">或部主加持</note></lem><rdg resp="Taisho" wit="【乙】">或部主加持</rdg></app><l>即當隔爐擲</l>
 <lb n="0932c19" ed="T"/><l>想華遍諸座</l><l>如前再淨火</l>
 <lb n="0932c20" ed="T"/><l>請尊入爐中</l><note place="inline">各以本真言請一一供養或堂部并眷屬</note>
 <lb n="0932c21" ed="T"/><l><note n="0932028" resp="Taisho" place="foot text" type="orig">誠＝成【甲】</note><note n="0932028" resp="CBETA" type="mod">誠【大】，成【甲】</note><app n="0932028"><lem wit="【大】">誠</lem><rdg resp="Taisho" wit="【甲】">成</rdg></app>心而供養</l><l>專注於聖眾</l>

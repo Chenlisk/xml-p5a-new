@@ -1249,7 +1249,7 @@
 <lb n="0088a05" ed="Y"/><lb n="0088a07" ed="Y" type="old"/>或神會門下所造的。</p>
 <lb n="0088a06" ed="Y"/><lb n="0088a08" ed="Y" type="old"/><p rend="text-indent:2em">二、有關神會的：1.神會的原籍：<title level="m">《壇經》</title>說：</p>
 <lb n="0088a07" ed="Y"/><lb n="0088a09" ed="Y" type="old"/><quote type="嚴謹引文"><p rend="margin-left:3em">「神會，南陽人也。」</p></quote>
-<lb n="0088a08" ed="Y"/><lb n="0088a10" ed="Y" type="old"/><p rend="text-indent:2em">神會於開元八年（七二〇），奉<choice cb:type="規範字詞"><orig>勅</orig><reg>敕</reg></choice>配住南陽的龍興寺，被尊稱為「南陽和上
+<lb n="0088a08" ed="Y"/><lb n="0088a10" ed="Y" type="old"/><p rend="text-indent:2em">神會於開元八年（七二〇），奉<note n="0088a0801" resp="CBETA" type="add" subtype="規範字詞">敕【CB】，勅【印順】</note><app n="0088a0801"><lem wit="【CB】" resp="CBETA">敕</lem><rdg wit="【印順】">勅</rdg></app>配住南陽的龍興寺，被尊稱為「南陽和上
 <lb n="0088a09" ed="Y"/><lb n="0088a11" ed="Y" type="old"/>」。其實，神會（門下一致的傳說）是襄州（今湖北襄陽縣）人。<title level="m">《壇經》</title>的集
 <lb n="0088a10" ed="Y"/><lb n="0088a12" ed="Y" type="old"/>成者，不知神會的原籍，因長住南陽而就說是南陽人。這最足以證明<title level="m">《壇經》</title>不
 <lb n="0088a11" ed="Y"/><lb n="0088a13" ed="Y" type="old"/>是神會及神會門下所造的了。</p><pb n="0089a" ed="Y" xml:id="Y20.0020.0089a.old" type="old"/>
@@ -1385,7 +1385,7 @@
 <lb n="0098a02" ed="Y"/><lb n="0098a07" ed="Y" type="old"/>們是自身的經驗，聽人的傳說。慧能住在廣果寺，是沒有問題的。問題在當時的
 <lb n="0098a03" ed="Y"/><lb n="0098a08" ed="Y" type="old"/>韶州，只有一個廣果寺嗎？慧能一生只住在廣果寺嗎？我敢斷定：胡適也是用不
 <lb n="0098a04" ed="Y"/><lb n="0098a09" ed="Y" type="old"/>著考據的。別的我不知道，寶林寺是慧能住過的地方。寶林寺是古名，中宗初改
-<lb n="0098a05" ed="Y"/><lb n="0098a10" ed="Y" type="old"/>為中興寺；神龍三年（七〇七），下<choice cb:type="規範字詞"><orig>勅</orig><reg>敕</reg></choice>要當地為慧能修造寺院，並賜額「法泉寺
+<lb n="0098a05" ed="Y"/><lb n="0098a10" ed="Y" type="old"/>為中興寺；神龍三年（七〇七），下<note n="0098a0501" resp="CBETA" type="add" subtype="規範字詞">敕【CB】，勅【印順】</note><app n="0098a0501"><lem wit="【CB】" resp="CBETA">敕</lem><rdg wit="【印順】">勅</rdg></app>要當地為慧能修造寺院，並賜額「法泉寺
 <lb n="0098a06" ed="Y"/><lb n="0098a11" ed="Y" type="old"/>」。這是傳說極為紛亂的<title level="m">《曹溪別傳》</title>的傳說。傳說雖然紛亂，而慧能住寶林寺
 <lb n="0098a07" ed="Y"/><lb n="0098a12" ed="Y" type="old"/>也就是法泉寺，卻非常確實。現存<title level="a">〈唐大和上東征傳〉<note n="0098001" resp="厚觀法師" type="add">《遊方記抄》卷1(CBETA, T51, no. 2089, p. 975, a17)</note></title>，是鑒真東渡日本的行程
 <lb n="0098a08" ed="Y"/><lb n="0098a13" ed="Y" type="old"/>實錄。如<title level="m">《傳》</title>（大正<ref target="vol:51;page:p991c" type="taisho">五一．九九一下</ref>）說：</p><pb n="0099a" ed="Y" xml:id="Y20.0020.0099a.old" type="old"/>
@@ -1460,10 +1460,9 @@
 <lb n="0104a12" ed="Y"/><lb n="0104a12" ed="Y" type="old"/>十論》</title>，不聞再出。安慧、護法所依之本頌多不同，立說亦異，歐陽老何以判其
 <lb n="0104a13" ed="Y"/><lb n="0104a13" ed="Y" type="old"/>真偽？又經論立說不必同，二也。聞<title level="m">《楞伽》</title>與無著唯識學異，歐陽老欲創唯智<pb n="0105a" ed="Y" xml:id="Y20.0020.0105a.old" type="old"/>
 <pb n="0105a" ed="Y" xml:id="Y20.0020.0105a"/>
-<lb n="0105a01" ed="Y"/><lb n="0105a01" ed="Y" type="old"/>學，呂澂則以無著為善說，判<title level="m"><choice cb:type="規範字詞"><orig>《楞伽》</orig><reg>《楞伽經》</reg></choice></title>體用未明。吾不知宗<title level="m"><choice cb:type="規範字詞"><orig>《楞伽》</orig><reg>《楞伽經》</reg></choice></title>者，亦得判
-<lb n="0105a02" ed="Y"/><lb n="0105a02" ed="Y" type="old"/>無著謬傳賴耶唯妄，偏執體用差別否？又思想演變，前後容有異說，三也。<title level="m"><choice cb:type="規範字詞"><orig>《十<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地論》</orig><reg>《十
-<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地經論》</reg></choice></title>係世親入大之作，殊難強以必合後期之學。一真七妄之談，猶滯七心論，
-<lb n="0105a04" ed="Y"/><lb n="0105a04" ed="Y" type="old"/>與<title level="m"><choice cb:type="規範字詞"><orig>《勝鬘》</orig><reg>《勝鬘經》</reg></choice></title>大同，唯識初創義應爾。呂澂引留支譯<title level="m">《唯識論》</title>之不相應心，以證
+<lb n="0105a01" ed="Y"/><lb n="0105a01" ed="Y" type="old"/>學，呂澂則以無著為善說，判<title level="m"><note n="0105a0101" resp="CBETA" type="add" subtype="規範字詞">楞伽經【CB】，楞伽【印順】</note><app n="0105a0101"><lem wit="【CB】" resp="CBETA">《楞伽經》</lem><rdg wit="【印順】">《楞伽》</rdg></app></title>體用未明。吾不知宗<title level="m"><note n="0105a0102" resp="CBETA" type="add" subtype="規範字詞">楞伽經【CB】，楞伽【印順】</note><app n="0105a0102"><lem wit="【CB】" resp="CBETA">《楞伽經》</lem><rdg wit="【印順】">《楞伽》</rdg></app></title>者，亦得判
+<lb n="0105a02" ed="Y"/><lb n="0105a02" ed="Y" type="old"/>無著謬傳賴耶唯妄，偏執體用差別否？又思想演變，前後容有異說，三也。<title level="m"><note n="0105a0301" resp="CBETA" type="add" subtype="規範字詞">十<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地經論【CB】，十<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地論【印順】</note><app n="0105a0301"><lem wit="【CB】" resp="CBETA">《十<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地經論》</lem><rdg wit="【印順】">《十<lb n="0105a03" ed="Y"/><lb n="0105a03" ed="Y" type="old"/>地論》</rdg></app></title>係世親入大之作，殊難強以必合後期之學。一真七妄之談，猶滯七心論，
+<lb n="0105a04" ed="Y"/><lb n="0105a04" ed="Y" type="old"/>與<title level="m"><note n="0105a0401" resp="CBETA" type="add" subtype="規範字詞">勝鬘經【CB】，勝鬘【印順】</note><app n="0105a0401"><lem wit="【CB】" resp="CBETA">《勝鬘經》</lem><rdg wit="【印順】">《勝鬘》</rdg></app></title>大同，唯識初創義應爾。呂澂引留支譯<title level="m">《唯識論》</title>之不相應心，以證
 <lb n="0105a05" ed="Y"/><lb n="0105a05" ed="Y" type="old"/>法性心，亦謂是非未可言也。又傳者譯者之見解不同，四也。以取解不同，傳譯
 <lb n="0105a06" ed="Y"/><lb n="0105a06" ed="Y" type="old"/>之學說乃有演變。但可於演變中諒其用意，察其體系，取適於己機者而說之、行
 <lb n="0105a07" ed="Y"/><lb n="0105a07" ed="Y" type="old"/>之。直謂謬妄，何其大膽！愚者不知佛法理論之體系非一，前後多所演變，偏執
@@ -1949,7 +1948,7 @@
 <lb n="0144a04" ed="Y"/>同時共存（如說染識內有淨識，就變成真常唯心了），也沒有一個染淨不變<lb n="0144a05" ed="Y" type="old"/>，漏
 <lb n="0144a05" ed="Y"/>無漏不變的前後共通法體。那麼，在作為成立一切法，成立轉染成淨的所依<lb n="0144a06" ed="Y" type="old"/>，不
 <lb n="0144a06" ed="Y"/>能不是虛妄雜染的，決不能推論出一個抽象的「第八識」為依。關於成立一<lb n="0144a07" ed="Y" type="old"/>切法
-<lb n="0144a07" ed="Y"/>的第八識——賴耶識，不是真常心（如<title level="m"><choice cb:type="規範字詞"><orig>《地論》</orig><reg>《十地經論》</reg></choice></title>），便是真妄和合（如<title level="m">《<choice cb:type="規範字詞"><orig>起信論</orig><reg>大乘起信論</reg></choice>
+<lb n="0144a07" ed="Y"/>的第八識——賴耶識，不是真常心（如<title level="m"><note n="0144a0701" resp="CBETA" type="add" subtype="規範字詞">十地經論【CB】，地論【印順】</note><app n="0144a0701"><lem wit="【CB】" resp="CBETA">《十地經論》</lem><rdg wit="【印順】">《地論》</rdg></app></title>），便是真妄和合（如<title level="m">《<note n="0144a0702" resp="CBETA" type="add" subtype="規範字詞">大乘起信論【CB】，起信論【印順】</note><app n="0144a0702"><lem wit="【CB】" resp="CBETA">大乘起信論</lem><rdg wit="【印順】">起信論</rdg></app>
 <lb n="0144a08" ed="Y"/>》</title>）<lb n="0144a08" ed="Y" type="old"/>，再不然便是虛妄雜染。從默師的字裡行間，對於真心及真妄和合，並無興
 <lb n="0144a09" ed="Y"/>趣，<lb n="0144a09" ed="Y" type="old"/>那麼只有虛妄雜染了！不能因為名稱的不大順眼，而動搖於妄染真淨之間！</p>
 <lb n="0144a10" ed="Y"/><lb n="0144a10" ed="Y" type="old"/><p rend="text-indent:2em">默師說：<quote>「如護法和奘師在，當面去請問他，保險他是要允可的。」</quote>這種論
@@ -2843,7 +2842,7 @@
 <lb n="0212a13" ed="Y"/><lb n="0212a11" ed="Y" type="old"/>，有條有理，使人了解。而乙型的佛學，是藝術化的，使人啟發，使人感動，使
 <pb n="0213a" ed="Y" xml:id="Y20.0020.0213a"/>
 <lb n="0213a01" ed="Y"/><lb n="0212a12" ed="Y" type="old"/>人忘我。</p>
-<lb n="0213a02" ed="Y"/><lb n="0212a13" ed="Y" type="old"/><p rend="text-indent:2em">北朝盛行的，是毘曇、<title level="m">《攝大乘論》</title>、<title level="m"><choice cb:type="規範字詞"><orig>《十地論》</orig><reg>《十地經論》</reg></choice></title>、唯識論；北朝的佛學，
+<lb n="0213a02" ed="Y"/><lb n="0212a13" ed="Y" type="old"/><p rend="text-indent:2em">北朝盛行的，是毘曇、<title level="m">《攝大乘論》</title>、<title level="m"><note n="0213a0201" resp="CBETA" type="add" subtype="規範字詞">十地經論【CB】，十地論【印順】</note><app n="0213a0201"><lem wit="【CB】" resp="CBETA">《十地經論》</lem><rdg wit="【印順】">《十地論》</rdg></app></title>、唯識論；北朝的佛學，
 <lb n="0213a03" ed="Y"/>可說是重<pb n="0213a" ed="Y" xml:id="Y20.0020.0213a.old" type="old"/><lb n="0213a01" ed="Y" type="old"/>於印度所傳的甲型的佛學。但中唐以後，經五代的衰亂，北方衰落而漸
 <lb n="0213a04" ed="Y"/>為異族所<lb n="0213a02" ed="Y" type="old"/>統治，北統的佛學也衰落了！宋、明以來，這一系統的佛學，可說早已
 <lb n="0213a05" ed="Y"/>中斷（明<lb n="0213a03" ed="Y" type="old"/>末蕅益大師，涉獵論書，但也不是論師的立場）。如無人不知的唐僧玄

@@ -3071,7 +3071,7 @@ Added comment  for Emacs
 <lb n="0685b23" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="6" type="品">6 樹下誕生品</cb:mulu><head><title><note n="0685008" resp="Taisho" type="orig" place="foot text">〔佛本行集經〕－【明】</note><note n="0685008" resp="CBETA" type="mod">佛本行集經【大】，〔－〕【明】</note><app n="0685008"><lem wit="【大】">佛本行集經</lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></title>樹下誕生品第六<note n="0685009" resp="Taisho" type="orig" place="foot text">上＝之一【明】</note><note n="0685009" resp="CBETA" type="mod">上【大】，之一【明】</note><app n="0685009"><lem wit="【大】">上</lem><rdg resp="Taisho" wit="【明】">之一</rdg></app></head>
 <lb n="0685b24" ed="T"/><p xml:id="pT03p0685b2401">「爾時，菩薩聖母摩耶，懷孕菩薩，將滿十月，垂
 <lb n="0685b25" ed="T"/>欲生時，時彼摩耶大夫人父，善覺長者，即遣
-<lb n="0685b26" ed="T"/>使人，詣迦毘羅淨飯王所<note n="0685010" resp="Taisho" type="orig" place="foot text">（摩訶…善覺）十四字作本文【三】</note><note n="0685010" resp="CBETA" type="mod">（摩訶僧祇師云摩耶夫人父名善覺）十四字夾註【大】，（摩訶僧祇師云摩耶夫人父名善覺）十四字本文【宋】【元】【明】</note><app n="0685010"><lem wit="【大】"><note place="inline">摩訶僧祇師云，摩耶夫人父名善覺</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">摩訶僧祇師云摩耶夫人父名善覺</rdg></app>，奏
+<lb n="0685b26" ed="T"/>使人，詣迦毘羅淨飯王所<note n="0685010" resp="Taisho" type="orig" place="foot text">（摩訶…善覺）十四字作本文【三】</note><note n="0685010" resp="CBETA" type="mod">(摩訶僧祇師云摩耶夫人父名善覺)【大】，摩訶僧祇師云摩耶夫人父名善覺【宋】【元】【明】</note><app n="0685010"><lem wit="【大】"><note place="inline">摩訶僧祇師云，摩耶夫人父名善覺</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">摩訶僧祇師云摩耶夫人父名善覺</rdg></app>，奏
 <lb n="0685b27" ed="T"/>大王言：『如我所知，我女摩耶，王大夫人，懷藏
 <lb n="0685b28" ed="T"/>聖胎，威德既大，若彼產出，我女命短，不久必
 <lb n="0685b29" ed="T"/>終。我意欲迎我女摩耶還來我家，安止住於
@@ -14735,7 +14735,7 @@ Added comment  for Emacs
 <lb n="0815a02" ed="T"/><cb:juan n="035" fun="open"><cb:mulu n="035" type="卷"/><cb:mulu level="2">2</cb:mulu><cb:jhead><title>佛本行集經</title>卷第三十五</cb:jhead>
 <lb n="0815a03" ed="T"/>
 <lb n="0815a04" ed="T"/><byline cb:type="Translator"><note n="0815001" resp="Taisho" type="orig" place="foot text">〔隋天竺〕－【聖】＊</note><note n="0815001" resp="CBETA" type="mod"><!--CBETA todo type: ＊-->隋天竺【大】＊，〔－〕【聖】＊</note><app n="0815001"><lem wit="【大】">隋天竺</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>三藏<note n="0815002" resp="Taisho" type="orig" place="foot text">（法師）＋闍【三】【聖】</note><note n="0815002" resp="CBETA" type="mod">闍【大】，法師闍【宋】【元】【明】【聖】</note><app n="0815002"><lem wit="【大】">闍</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">法師闍</rdg></app>那崛多譯</byline>
-<lb n="0815a05" ed="T"/><cb:jhead type="pin">耶輸陀因緣品<note n="0815003" resp="Taisho" type="orig" place="foot text">下引＝第三十八之二【明】</note><note n="0815003" resp="CBETA" type="mod">下<space quantity="0"/>【大】，第三十八之二【明】</note><app n="0815003"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【明】">第三十八之二</rdg></app></cb:jhead></cb:juan>
+<lb n="0815a05" ed="T"/><cb:jhead type="pin">耶輸陀因緣品<note n="0815003" resp="Taisho" type="orig" place="foot text">下引＝第三十八之二【明】</note><note n="0815003" resp="CBETA" type="mod">下【大】，第三十八之二【明】</note><app n="0815003"><lem wit="【大】">下</lem><rdg resp="Taisho" wit="【明】">第三十八之二</rdg></app></cb:jhead></cb:juan>
 <lb n="0815a06" ed="T"/><p xml:id="pT03p0815a0601">「爾時善覺大富長者，以諸親族數數慇懃共
 <lb n="0815a07" ed="T"/>相曉喻，乃至第三，苦切勸諫，而彼長者意中
 <lb n="0815a08" ed="T"/>不已，即將家僮，齎持大斧、簸箕杴鋤，及諸鍬
@@ -18017,7 +18017,7 @@ Added comment  for Emacs
 <lb n="0851c26" ed="T"/>神，辦具船舫，其外倍價更<note n="0851010" resp="Taisho" type="orig" place="foot text">雇＝顧【明】</note><note n="0851010" resp="CBETA" type="mod">雇【大】，顧【明】</note><app n="0851010"><lem wit="【大】">雇</lem><rdg resp="Taisho" wit="【明】">顧</rdg></app>五人，所謂
 <lb n="0851c27" ed="T"/>善解調治船者、觀四方者、泝水入者、善浮
 <lb n="0851c28" ed="T"/>水者、張施帆者。既如是得彼五人已，其三
-<lb n="0851c29" ed="T"/>商主，大聲唱言：『誰能入海？<note n="0851011" resp="Taisho" type="orig" place="foot text">夾註三稱作本文【明】【聖】</note><note n="0851011" resp="CBETA" type="mod">(三稱)【大】，（三稱）本文【明】【聖】</note><app n="0851011"><lem wit="【大】"><note place="inline">三稱</note></lem><rdg resp="Taisho" wit="【明】【聖】">三稱</rdg></app>』如是三聲大
+<lb n="0851c29" ed="T"/>商主，大聲唱言：『誰能入海？<note n="0851011" resp="Taisho" type="orig" place="foot text">夾註三稱作本文【明】【聖】</note><note n="0851011" resp="CBETA" type="mod">(三稱)【大】，三稱【明】【聖】</note><app n="0851011"><lem wit="【大】"><note place="inline">三稱</note></lem><rdg resp="Taisho" wit="【明】【聖】">三稱</rdg></app>』如是三聲大
 <pb n="0852a" ed="T" xml:id="T03.0190.0852a"/>
 <lb n="0852a01" ed="T"/>唱告已，即坐舶上，相共入海，為求財故。彼
 <lb n="0852a02" ed="T"/>等既至大海之中，忽遇黑風，彼風吹船，擲
@@ -20770,7 +20770,7 @@ Added comment  for Emacs
 <lb n="0882b16" ed="T"/><p xml:id="pT03p0882b1601">爾時，婆伽婆度長老舍利弗及目揵連五百人
 <lb n="0882b17" ed="T"/>等，得出家已，具足眾戒，從摩伽陀國，次第遊
 <lb n="0882b18" ed="T"/>行，從一聚落，至一聚落，歷諸村邑隨意而行，
-<lb n="0882b19" ed="T"/>漸漸歸還到王舍城<note n="0882007" resp="Taisho" type="orig" place="foot text">夾註（摩訶…說）九字作本文【明】</note><note n="0882007" resp="CBETA" type="mod">（摩訶僧祇師作如是說）九字夾註【大】，（摩訶僧祇師作如是說）九字本文【明】</note><app n="0882007"><lem wit="【大】"><note place="inline">摩訶僧祇師作如是說</note></lem><rdg resp="Taisho" wit="【明】">摩訶僧祇師作如是說</rdg></app>。（其迦葉惟師
+<lb n="0882b19" ed="T"/>漸漸歸還到王舍城<note n="0882007" resp="Taisho" type="orig" place="foot text">夾註（摩訶…說）九字作本文【明】</note><note n="0882007" resp="CBETA" type="mod">(摩訶僧祇師作如是說)【大】，摩訶僧祇師作如是說【明】</note><app n="0882007"><lem wit="【大】"><note place="inline">摩訶僧祇師作如是說</note></lem><rdg resp="Taisho" wit="【明】">摩訶僧祇師作如是說</rdg></app>。（其迦葉惟師
 <lb n="0882b20" ed="T"/>復作異說，乃言：「如來至南方山處處遊行，而
 <lb n="0882b21" ed="T"/>復迴還至王舍城。」）於時多有大威神者，有大
 <lb n="0882b22" ed="T"/>威力，諸善男子，於如來所行於梵行。於時多
@@ -21948,7 +21948,7 @@ Added comment  for Emacs
 <lb n="0895b21" ed="T"/>豈得安然不生恭敬？我等但護大王心意，未
 <lb n="0895b22" ed="T"/>至彼耳。」爾時，輸頭檀王勅令振鐸普告城內，
 <lb n="0895b23" ed="T"/>悉使知聞：「我今欲至悉達太子往觀彼處，汝
-<lb n="0895b24" ed="T"/>等各各備辦莊嚴，隨從於我<note n="0895007" resp="Taisho" type="orig" place="foot text">（迦葉…說）夾註作本文【明】</note><note n="0895007" resp="CBETA" type="mod">(迦葉遺師作如是說)【大】，（迦葉遺師作如是說）本文【明】</note><app n="0895007"><lem wit="【大】"><note place="inline">迦葉遺師作如是說</note></lem><rdg resp="Taisho" wit="【明】">迦葉遺師作如是說</rdg></app>。」</p>
+<lb n="0895b24" ed="T"/>等各各備辦莊嚴，隨從於我<note n="0895007" resp="Taisho" type="orig" place="foot text">（迦葉…說）夾註作本文【明】</note><note n="0895007" resp="CBETA" type="mod">(迦葉遺師作如是說)【大】，迦葉遺師作如是說【明】</note><app n="0895007"><lem wit="【大】"><note place="inline">迦葉遺師作如是說</note></lem><rdg resp="Taisho" wit="【明】">迦葉遺師作如是說</rdg></app>。」</p>
 <lb n="0895b25" ed="T"/><p xml:id="pT03p0895b2501">（其摩訶僧祇師復作是說，乃言：「爾時，輸頭檀
 <lb n="0895b26" ed="T"/>王白優陀夷，作如是言：『如比丘意！欲為太子
 <lb n="0895b27" ed="T"/>作何等食？』時優陀夷而白王言：『如是大王！若
@@ -23130,7 +23130,7 @@ Added comment  for Emacs
 <pb n="0908c" ed="T" xml:id="T03.0190.0908c"/>
 <lb n="0908c01" ed="T"/>羅，亦復如是，自證其心，得正解脫。世尊即
 <lb n="0908c02" ed="T"/>記，告諸比丘：「當知我之聲聞弟子持戒之中，
-<lb n="0908c03" ed="T"/>其羅睺羅，最為第一<note n="0908004" resp="Taisho" type="orig" place="foot text">（此摩…說）作本文【明】</note><note n="0908004" resp="CBETA" type="mod">(此摩訶僧祇師作如是說)【大】，（此摩訶僧祇師作如是說）本文【明】</note><app n="0908004"><lem wit="【大】"><note place="inline">此摩訶僧祇師作如是說</note></lem><rdg resp="Taisho" wit="【明】">此摩訶僧祇師作如是說</rdg></app>。」</p><p xml:id="pT03p0908c0319" rend="inline">（其迦葉維
+<lb n="0908c03" ed="T"/>其羅睺羅，最為第一<note n="0908004" resp="Taisho" type="orig" place="foot text">（此摩…說）作本文【明】</note><note n="0908004" resp="CBETA" type="mod">(此摩訶僧祇師作如是說)【大】，此摩訶僧祇師作如是說【明】</note><app n="0908004"><lem wit="【大】"><note place="inline">此摩訶僧祇師作如是說</note></lem><rdg resp="Taisho" wit="【明】">此摩訶僧祇師作如是說</rdg></app>。」</p><p xml:id="pT03p0908c0319" rend="inline">（其迦葉維
 <lb n="0908c04" ed="T"/>復有別說：「當爾之時，輸頭檀王辦諸食已，即
 <lb n="0908c05" ed="T"/>喚宮內諸眷屬等，勅告之言：『汝等今者勿令
 <lb n="0908c06" ed="T"/>一人，示羅睺羅，言悉達多是汝之父。何以故？
@@ -24597,7 +24597,7 @@ Added comment  for Emacs
 <lb n="0924c23" ed="T"/>念此故，或在樹下，或在閑房，或在露處，知足
 <lb n="0924c24" ed="T"/>少欲，從他乞食，身毛不竪，猶如山鹿，心得自
 <lb n="0924c25" ed="T"/>在，坐臥去住，無有障礙。三時唱言：『嗚呼快
-<lb n="0924c26" ed="T"/>樂！』<note n="0924007" resp="Taisho" type="orig" place="foot text">（如是三稱）作夾註【明】</note><note n="0924007" resp="CBETA" type="mod">（如是三稱）本文【大】，（如是三稱）夾註【明】</note><app n="0924007"><lem wit="【大】">如是三稱</lem><rdg resp="Taisho" wit="【明】"><note place="inline">如是三稱</note></rdg></app>。」</p>
+<lb n="0924c26" ed="T"/>樂！』<note n="0924007" resp="Taisho" type="orig" place="foot text">（如是三稱）作夾註【明】</note><note n="0924007" resp="CBETA" type="mod">如是三稱【大】，(如是三稱)【明】</note><app n="0924007"><lem wit="【大】">如是三稱</lem><rdg resp="Taisho" wit="【明】"><note place="inline">如是三稱</note></rdg></app>。」</p>
 <lb n="0924c27" ed="T"/><p xml:id="pT03p0924c2701">爾時，長老婆提唎迦在於佛前，對諸大眾，而
 <lb n="0924c28" ed="T"/>說偈言：</p>
 <lb n="0924c29" ed="T"/><lg xml:id="lgT03p0924c2901" rend="margin-left:1em;text-indent:-1em"><l>「我昔在於深宮裏，</l><l>七重牆壁甚高峻，</l>

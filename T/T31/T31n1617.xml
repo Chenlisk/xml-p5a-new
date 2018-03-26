@@ -140,7 +140,7 @@ Added comment  for Emacs
 <lb n="0867b02" ed="T"/><cb:docNumber>No. 1617</cb:docNumber>
 <lb n="0867b03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>三無性論</title>卷上<note resp="Taisho" n="0867006" place="foot text" type="orig">〔出無相論〕－【明】</note><note resp="CBETA" n="0867006" type="mod">出無相論【大】，〔－〕【明】</note><app n="0867006"><lem wit="【大】"><note place="inline">出《無相論》</note></lem><rdg resp="Taisho" wit="【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0867b04" ed="T"/>
-<lb n="0867b05" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0867007" place="foot text" type="orig">（（真諦…譯））十二字＝（（陳世三藏真諦於廣州制旨寺譯））十三字【宋】【元】【宮】，（（陳三藏真諦譯））六字【明】</note><note resp="CBETA" n="0867007" type="mod">（真諦…譯）十二字【大】，陳世三藏真諦於廣州制旨寺譯【宋】【元】【宮】，<!--CBETA todo type: newmod-->（（陳三藏真諦譯））六字【明】</note><app n="0867007" cb:word-count="12"><lem wit="【大】">真諦三藏於廣州制旨寺翻譯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">陳世三藏真諦於廣州制旨寺譯</rdg><rdg resp="Taisho" wit="【明】">陳三藏真諦譯</rdg></app></byline>
+<lb n="0867b05" ed="T"/><byline cb:type="Translator"><note resp="Taisho" n="0867007" place="foot text" type="orig">（（真諦…譯））十二字＝（（陳世三藏真諦於廣州制旨寺譯））十三字【宋】【元】【宮】，（（陳三藏真諦譯））六字【明】</note><note resp="CBETA" n="0867007" type="mod">（真諦…譯）十二字【大】，陳世三藏真諦於廣州制旨寺譯【宋】【元】【宮】，陳三藏真諦譯【明】</note><app n="0867007" cb:word-count="12"><lem wit="【大】">真諦三藏於廣州制旨寺翻譯</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">陳世三藏真諦於廣州制旨寺譯</rdg><rdg resp="Taisho" wit="【明】">陳三藏真諦譯</rdg></app></byline>
 <lb n="0867b06" ed="T"/><cb:div type="jing"><p xml:id="pT31p0867b0601">論曰：立空品中人空已成、未立法空，為顯法
 <lb n="0867b07" ed="T"/>空，故說諸法無自性品。釋曰：前說空品，後說
 <lb n="0867b08" ed="T"/>無性品，欲何所為？答曰：前說空品為顯

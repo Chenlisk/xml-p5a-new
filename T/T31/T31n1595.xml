@@ -188,7 +188,7 @@ Added comment  for Emacs
 <lb n="0152c01" ed="T"/>
 <lb n="0152c02" ed="T"/>
 <lb n="0152c03" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">攝大乘論釋序</cb:mulu><head>攝大乘論<note n="0152002" resp="Taisho" place="foot text" type="orig">〔釋〕－【宋】【元】【宮】【聖】</note><note n="0152002" resp="CBETA" type="mod">釋【大】，〔－〕【宋】【元】【宮】【聖】</note><app n="0152002"><lem wit="【大】">釋</lem><rdg resp="Taisho" wit="【宋】【元】【宮】【聖】"><space quantity="0"/></rdg></app><note n="0152003" resp="Taisho" place="foot text" type="orig">序＋（卷第一）【聖】</note><note n="0152003" resp="CBETA" type="mod">序【大】，序卷第一【聖】</note><app n="0152003"><lem wit="【大】">序</lem><rdg resp="Taisho" wit="【聖】">序卷第一</rdg></app></head>
-<lb n="0152c04" ed="T"/><byline cb:type="author"><note n="0152004" resp="Taisho" place="foot text" type="orig">（（遷禪師…講唱））十一字＝（（沙門慧愷述））五字【三】【宮】，（（陳世真諦譯））五字【聖】</note><note n="0152004" resp="CBETA" type="mod">（遷禪師…講唱）十一字【大】，沙門慧愷述【宋】【元】【明】【宮】，<!--CBETA todo type: newmod-->（（陳世真諦譯））五字【聖】</note><app cb:word-count="11" n="0152004"><lem wit="【大】">遷禪師江南將至徐州講唱</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">沙門慧愷述</rdg><rdg resp="Taisho" wit="【聖】">陳世真諦譯</rdg></app></byline>
+<lb n="0152c04" ed="T"/><byline cb:type="author"><note n="0152004" resp="Taisho" place="foot text" type="orig">（（遷禪師…講唱））十一字＝（（沙門慧愷述））五字【三】【宮】，（（陳世真諦譯））五字【聖】</note><note n="0152004" resp="CBETA" type="mod">（遷禪師…講唱）十一字【大】，沙門慧愷述【宋】【元】【明】【宮】，陳世真諦譯【聖】</note><app cb:word-count="11" n="0152004"><lem wit="【大】">遷禪師江南將至徐州講唱</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">沙門慧愷述</rdg><rdg resp="Taisho" wit="【聖】">陳世真諦譯</rdg></app></byline>
 <lb n="0152c05" ed="T"/><p xml:id="pT31p0152c0501">夫至道弘曠。無思不洽。大悲平等。誘進靡窮。
 <lb n="0152c06" ed="T"/>德被含生。理非偏漏。但迷塗易久。淪惑難
 <lb n="0152c07" ed="T"/>息。若先談出世。則疑<note n="0152005" resp="Taisho" place="foot text" type="orig">性＝怪【聖】</note><note n="0152005" resp="CBETA" type="mod">性【大】，怪【聖】</note><app n="0152005"><lem wit="【大】">性</lem><rdg resp="Taisho" wit="【聖】">怪</rdg></app>莫啟。故設教立方。
@@ -1048,7 +1048,7 @@ Added comment  for Emacs
 <lb n="0162a23" ed="T"/>一。名義相稱。故引彼所立名。成立本識則
 <lb n="0162a24" ed="T"/>為最勝。此品中總攝諸名引道理顯本識故。
 <lb n="0162a25" ed="T"/>稱眾名品<note n="0162003" resp="Taisho" place="foot text" type="orig">次行宋元宮三本俱有釋第三章竟五字</note>。</p></cb:div></cb:div>
-<lb n="0162a26" ed="T"/><cb:div type="pin"><cb:div type="other"><cb:mulu level="2" n="1" type="其他">2 相品</cb:mulu><cb:mulu level="3" n="1" type="其他">1 相章</cb:mulu><head><note n="0162004" resp="Taisho" place="foot text" type="orig">（（相品…一））八字＝（（攝大乘論釋相品第一））【宋】【元】【宮】，（（釋相品第二））【明】</note><note n="0162004" resp="CBETA" type="mod">（相品…一）八字【大】，（（攝大乘論釋相品第一））【宋】【元】【宮】，<!--CBETA todo type: newmod-->（（釋相品第二））【明】</note><app cb:word-count="8" n="0162004"><lem wit="【大】">相品第二<note n="0162005" resp="Taisho" place="foot text" type="orig">〔相〕－【聖】</note><note n="0162005" resp="CBETA" type="mod">相【大】，〔－〕【聖】</note><app n="0162005"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>章第一</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">攝大乘論釋相品第一</rdg><rdg resp="Taisho" wit="【明】">釋相品第二</rdg></app></head>
+<lb n="0162a26" ed="T"/><cb:div type="pin"><cb:div type="other"><cb:mulu level="2" n="1" type="其他">2 相品</cb:mulu><cb:mulu level="3" n="1" type="其他">1 相章</cb:mulu><head><note n="0162004" resp="Taisho" place="foot text" type="orig">（（相品…一））八字＝（（攝大乘論釋相品第一））【宋】【元】【宮】，（（釋相品第二））【明】</note><note n="0162004" resp="CBETA" type="mod">（相品…一）八字【大】，攝大乘論釋相品第一【宋】【元】【宮】，（（釋相品第二））【明】</note><app cb:word-count="8" n="0162004"><lem wit="【大】">相品第二<note n="0162005" resp="Taisho" place="foot text" type="orig">〔相〕－【聖】</note><note n="0162005" resp="CBETA" type="mod">相【大】，〔－〕【聖】</note><app n="0162005"><lem wit="【大】">相</lem><rdg resp="Taisho" wit="【聖】"><space quantity="0"/></rdg></app>章第一</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">攝大乘論釋相品第一</rdg><rdg resp="Taisho" wit="【明】">釋相品第二</rdg></app></head>
 <lb n="0162a27" ed="T"/><p xml:id="pT31p0162a2701">釋曰。此品有七章。一相。二熏習。三不一異。四
 <lb n="0162a28" ed="T"/>更互為因果。五因果別不別。六緣生。七四緣。</p>
 <lb n="0162a29" ed="T"/><p xml:id="pT31p0162a2901"><note n="0162006" resp="Taisho" place="foot text" type="orig">前行宋元明宮四本俱有相章第一四字</note>論曰。復次成立此識相。云何可見。</p><p xml:id="pT31p0162a2914" rend="inline">釋曰。
@@ -2288,7 +2288,7 @@ Added comment  for Emacs
 <lb n="0176a03" ed="T"/>則無此過。何故餘識皆滅此識獨不滅。修滅
 <lb n="0176a04" ed="T"/>心定者。求得寂靜住。為對治能障寂靜住心
 <lb n="0176a05" ed="T"/>及心法故。滅心定生。不為對治不明了本識
-<lb n="0176a06" ed="T"/>修滅心定故。餘識滅此識。<note n="0176001" resp="Taisho" place="foot text" type="orig">不滅乃至成十五字明本作夾註</note><note n="0176001" resp="CBETA" type="mod">（不滅復次此定中若離本識餘識不成）十五字本文【大】，（不滅復次此定中若離本識餘識不成）十五字夾註【明】</note><app n="0176001"><lem wit="【大】">不滅。復次此定
+<lb n="0176a06" ed="T"/>修滅心定故。餘識滅此識。<note n="0176001" resp="Taisho" place="foot text" type="orig">不滅乃至成十五字明本作夾註</note><note n="0176001" resp="CBETA" type="mod">不滅復次此定中若離本識餘識不成【大】，(不滅復次此定中若離本識餘識不成)【明】</note><app n="0176001"><lem wit="【大】">不滅。復次此定
 <lb n="0176a07" ed="T"/>中若離本識。餘識不成</lem><rdg resp="Taisho" wit="【明】"><note place="inline">不滅復次此定中若離本識餘識不成</note></rdg></app>。</p>
 <lb n="0176a08" ed="T"/><p xml:id="pT31p0176a0801">論曰。解相及境不可得故。</p><p xml:id="pT31p0176a0811" rend="inline">釋曰。此第二過
 <lb n="0176a09" ed="T"/>失。<note n="0176002" resp="Taisho" place="foot text" type="orig">若＋（人）【三】【宮】</note><note n="0176002" resp="CBETA" type="mod">若【大】，若人【宋】【元】【明】【宮】</note><app n="0176002"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">若人</rdg></app>執心及心法是有。此有必有解相及境

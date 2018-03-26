@@ -1562,7 +1562,7 @@ Revision 1.1  2006/09/29 03:42:52  duncan
 <lb ed="X" n="0273c21"/><lb ed="R055" n="0483b15"/>有。佛地無生。到自覺聖趣。又云。此則是我地。自在
 <lb ed="X" n="0273c22"/><lb ed="R055" n="0483b16"/>最勝處。故知此即是佛智地。然入此智地。善知一
 <lb ed="X" n="0273c23"/><lb ed="R055" n="0483b17"/>切世間出世諸法。從本不自生。既知本不自生。又
-<lb ed="X" n="0273c24"/><lb ed="R055" n="0483b18"/>何有於妄想耶。此章總結無相中。無生。覺利。實際<choice cb:type="shift" cb:resp="CBETA.maha"><corr>性空。如來藏。總持品之義也</corr><sic><space quantity="0"/></sic></choice>。</p>
+<lb ed="X" n="0273c24"/><lb ed="R055" n="0483b18"/>何有於妄想耶。此章總結無相中。無生。覺利。實際<note n="0273c2401" resp="CBETA" type="add" subtype="shift">性空如來藏總持品之義也【CB】，［－］【卍續】</note><app n="0273c2401"><lem wit="【CB】" resp="CBETA.maha">性空。如來藏。總持品之義也</lem><rdg wit="【卍續】"><space quantity="0"/></rdg></app>。</p>
 <pb ed="X" xml:id="X35.0652.0274a" n="0274a"/>
 <lb ed="X" n="0274a01"/><lb ed="R055" n="0484a01"/><p xml:id="pX35p0274a0101" rend="margin-left:1em"><figure><graphic url="../figures/X/X35p0274_01.gif"/></figure></p>
 <lb ed="X" n="0274a02"/>
@@ -1614,7 +1614,7 @@ Revision 1.1  2006/09/29 03:42:52  duncan
 <lb ed="X" n="0275a23"/>
 <lb ed="X" n="0275a24"/>
 <pb ed="X" xml:id="X35.0652.0276a" n="0276a"/>
-<lb ed="X" n="0276a01"/><lb ed="R055" n="0486a01"/><p xml:id="pX35p0276a0101" rend="margin-left:1em"><choice cb:type="shift" cb:resp="CBETA.maha"><corr><space quantity="0"/></corr><sic>性空。如來藏。總持品之義也</sic></choice>○楞伽中。佛嘗示七
+<lb ed="X" n="0276a01"/><lb ed="R055" n="0486a01"/><p xml:id="pX35p0276a0101" rend="margin-left:1em"><note n="0276a0101" resp="CBETA" type="add" subtype="shift">［－］【CB】，性空如來藏總持品之義也【卍續】</note><app n="0276a0101"><lem wit="【CB】" resp="CBETA.maha"><space quantity="0"/></lem><rdg wit="【卍續】">性空。如來藏。總持品之義也</rdg></app>○楞伽中。佛嘗示七
 <lb ed="X" n="0276a02"/><lb ed="R055" n="0486a02"/>種第一義。即是此七品法。一謂心境界第一義。即
 <lb ed="X" n="0276a03"/><lb ed="R055" n="0486a03"/>心自性。更無分別。即是無相。二謂慧境界第一義。
 <lb ed="X" n="0276a04"/><lb ed="R055" n="0486a04"/>觀一切法。無不通達。而實無所有。即是無生。三謂

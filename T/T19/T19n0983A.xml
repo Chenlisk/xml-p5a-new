@@ -223,7 +223,7 @@ Added comment  for Emacs
 <app n="0440069b"><lem wit="【大】"><space quantity="0"/></lem><rdg resp="Taisho" wit="【明】【乙】"><note place="inline">三</note></rdg></app>微
 <lb n="0440c12" ed="T"/>羯<app type="star" corresp="#0440069"><lem wit="【大】">茶</lem>
 <rdg resp="Taisho" wit="【明】【聖】【乙】">荼</rdg></app>娑嚩<note place="inline"><app type="star" corresp="#0440066"><lem wit="【大】">二合引</lem><rdg resp="Taisho" wit="【聖】">引二合</rdg></app></note>
-<note n="0440070" resp="Taisho" place="foot text" type="orig">訶＋（引四）細註【明】【乙】，（引）細註【聖】，訶＝賀【聖】【甲】＊</note><note n="0440070" resp="CBETA" type="mod">訶【大】＊，訶(引四)【明】【乙】，<!--CBETA todo type: newmod-->訶(引)【聖】，賀【聖】【甲】＊</note>
+<note n="0440070" resp="Taisho" place="foot text" type="orig">訶＋（引四）細註【明】【乙】，（引）細註【聖】，訶＝賀【聖】【甲】＊</note><note n="0440070" resp="CBETA" type="mod">訶【大】＊，訶(引四)【明】【乙】，<!--CBETA todo type: newmod-->訶(引)【聖】，<!--CBETA todo type: newmod-->賀【聖】【甲】＊</note>
 <app n="0440070"><lem wit="【大】">訶</lem>
 <rdg resp="Taisho" wit="【明】【乙】">訶<note place="inline">引四</note></rdg>
 <rdg resp="Taisho" wit="【聖】">賀<note place="inline">引</note></rdg>
@@ -245,7 +245,7 @@ Added comment  for Emacs
 <lb n="0441a09" ed="T"/>嗢娜<note n="0441014" resp="Taisho" place="foot text" type="orig"><g ref="#CB00754"/>＝𦾨【明】【乙】</note><note n="0441014" resp="CBETA" type="mod"><g ref="#CB00754"/>【大】，𦾨【明】【乙】</note><app n="0441014"><lem wit="【大】"><g ref="#CB00754"/></lem><rdg resp="Taisho" wit="【明】【乙】">𦾨</rdg></app><note place="inline">二合</note>帝<note place="inline">四</note>娑<note n="0441015" resp="Taisho" place="foot text" type="orig">𩑼＝頗【明】【聖】【甲】【乙】</note><note n="0441015" resp="CBETA" type="mod">𩑼【大】，頗【明】【聖】【甲】【乙】</note><app n="0441015"><lem wit="【大】">𩑼</lem><rdg resp="Taisho" wit="【明】【聖】【甲】【乙】">頗</rdg></app><note place="inline">二合</note>囉呬<note place="inline">馨異<note n="0441016" resp="Taisho" place="foot text" type="orig">反＝切【明】【乙】</note><note n="0441016" resp="CBETA" type="mod">反【大】，切【明】【乙】</note><app n="0441016"><lem wit="【大】">反</lem><rdg resp="Taisho" wit="【明】【乙】">切</rdg></app>引</note>𤚥<note place="inline">五</note>誐
 <lb n="0441a10" ed="T"/>誐曩劍<note n="0441017" resp="Taisho" place="foot text" type="orig">〔六〕－【甲】</note><note n="0441017" resp="CBETA" type="mod">六【大】，〔－〕【甲】</note><app n="0441017"><lem wit="【大】"><note place="inline">六</note></lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app>娑嚩<note place="inline">二合引</note><note n="0441018" resp="Taisho" place="foot text" type="orig">訶＋（引七）細註【明】【乙】，訶＝賀【聖】【甲】</note><note n="0441018" resp="CBETA" type="mod">訶【大】，訶(引七)【明】【乙】，賀【聖】【甲】</note><app n="0441018"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【明】【乙】">訶<note place="inline">引七</note></rdg><rdg resp="Taisho" wit="【聖】【甲】">賀</rdg></app></p>
 <lb n="0441a11" ed="T"/><p xml:id="pT19p0441a1101">由結此印及誦真言。能於一一佛菩薩諸聖
-<lb n="0441a12" ed="T"/>眾前及於無量諸佛剎土。<note n="0441019" resp="Taisho" place="foot text" type="orig">自成辦至養八字聖本作夾註</note><note n="0441019" resp="CBETA" type="mod">（成辦一切廣大供養）八字本文【大】，（成辦一切廣大供養）八字夾註【聖】</note><app n="0441019"><lem wit="【大】">成辦一切廣大供
+<lb n="0441a12" ed="T"/>眾前及於無量諸佛剎土。<note n="0441019" resp="Taisho" place="foot text" type="orig">自成辦至養八字聖本作夾註</note><note n="0441019" resp="CBETA" type="mod">成辦一切廣大供養【大】，(成辦一切廣大供養)【聖】</note><app n="0441019"><lem wit="【大】">成辦一切廣大供
 <lb n="0441a13" ed="T"/>養</lem><rdg resp="Taisho" wit="【聖】"><note place="inline">成辦一切廣大供養</note></rdg></app>。</p>
 <lb n="0441a14" ed="T"/><p xml:id="pT19p0441a1401">次結佛母大孔雀明王印。</p>
 <lb n="0441a15" ed="T"/><p xml:id="pT19p0441a1501">二手右押左內相叉。二大指二小指。各直竪

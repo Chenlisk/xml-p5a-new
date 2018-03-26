@@ -9723,7 +9723,7 @@ Added comment  for Emacs
 <lb n="0916b09" ed="T"/>
 <lb n="0916b10" ed="T"/><cb:juan n="025" fun="open"><cb:mulu n="25" type="卷"/><cb:jhead>大慧普覺禪師書<note n="0916001" resp="Taisho" place="foot text" type="orig">〔卷第二十五〕－【甲】</note><note n="0916001" resp="CBETA" type="mod">卷第二十五【大】，〔－〕【甲】</note><app n="0916001"><lem wit="【大】">卷第二十五</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0916b11" ed="T"/>
-<lb n="0916b12" ed="T"/><byline cb:type="Other"><note n="0916002" resp="Taisho" place="foot text" type="orig">〔宋〕－【宮】，（（宋徑…進））二十字＝（（參學慧然錄淨智居士黃文昌重編））十四字【甲】</note><note n="0916002" resp="CBETA" type="mod">宋徑山能仁禪院住持嗣法慧日禪師臣蘊聞上進【大】，參學慧然錄淨智居士黃文昌重編【甲】，徑山能仁禪院住持嗣法慧日禪師臣蘊聞上進【宮】</note><app n="0916002"><lem wit="【大】">宋徑山能仁禪院住持嗣法
+<lb n="0916b12" ed="T"/><byline cb:type="Other"><note n="0916002" resp="Taisho" place="foot text" type="orig">〔宋〕－【宮】，（（宋徑…進））二十字＝（（參學慧然錄淨智居士黃文昌重編））十四字【甲】</note><note n="0916002" resp="CBETA" type="mod">宋徑山能仁禪院住持嗣法慧日禪師臣蘊聞上進【大】，參學慧然錄淨智居士黃文昌重編【甲】，<!--CBETA todo type: newmod-->〔宋〕－【宮】</note><app n="0916002"><lem wit="【大】">宋徑山能仁禪院住持嗣法
 <lb n="0916b13" ed="T"/>慧日禪師臣蘊聞　上進</lem><rdg resp="Taisho" wit="【甲】">參學慧然錄淨智居士黃文昌重編</rdg><rdg resp="Taisho" wit="【宮】">徑山能仁禪院住持嗣法慧日禪師臣蘊聞上進</rdg></app></byline>
 <lb n="0916b14" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">答曾侍郎</cb:mulu><head>答曾侍郎<note place="inline">天游</note>○<note place="inline">問書附</note></head>
 <lb n="0916b15" ed="T"/><p xml:id="pT47p0916b1501" rend="margin-left:1em">開頃在長沙。得圜悟老師書。稱公晚歲相
@@ -12133,7 +12133,7 @@ Added comment  for Emacs
 <lb n="0943a18" ed="T"/>得。自是學者根性遲鈍。不干老僧事。思之思
 <lb n="0943a19" ed="T"/>之。</p></cb:div>
 <lb n="0943a20" ed="T"/><cb:juan n="030" fun="close"><cb:jhead>大慧普覺禪師書<note n="0943001" resp="Taisho" place="foot text" type="orig">〔卷第三十〕－【甲】</note><note n="0943001" resp="CBETA" type="mod">卷第三十【大】，〔－〕【甲】</note><app n="0943001"><lem wit="【大】">卷第三十</lem><rdg resp="Taisho" wit="【甲】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
-<lb n="0943a21" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">謝降賜大慧禪師語錄入藏奏劄</cb:mulu><note n="0943002" resp="Taisho" place="foot text" type="orig">〔謝降…聞奏劄〕二百五字－【宮】，（（謝降…聞奏劄））二百五字＝（（大慧禪師說法四十餘年言句滿天下平時不許參徒編錄而衲子私自傳寫遂成卷帙晚年因眾力請乃許流通然在會有先後見聞有詳略又賢士大夫所得法語各自寶藏無緣盡覩今之所收殊為未盡俟更採集別為後錄文昌謹白））九十二字【甲】</note><note n="0943002" resp="CBETA" type="mod">（謝降…聞奏劄）二百五字【大】，〔－〕【宮】，大慧禪師說法四十餘年言句滿天下平時不許參徒編錄而衲子私自傳寫遂成卷帙晚年因眾力請乃許流通然在會有先後見聞有詳略又賢士大夫所得法語各自寶藏無緣盡覩今之所收殊為未盡俟更採集別為後錄文昌謹白【甲】</note><app cb:word-count="205" n="0943002"><lem wit="【大】"><head>謝降賜大慧禪師語錄入藏奏劄</head>
+<lb n="0943a21" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">謝降賜大慧禪師語錄入藏奏劄</cb:mulu><note n="0943002" resp="Taisho" place="foot text" type="orig">〔謝降…聞奏劄〕二百五字－【宮】，（（謝降…聞奏劄））二百五字＝（（大慧禪師說法四十餘年言句滿天下平時不許參徒編錄而衲子私自傳寫遂成卷帙晚年因眾力請乃許流通然在會有先後見聞有詳略又賢士大夫所得法語各自寶藏無緣盡覩今之所收殊為未盡俟更採集別為後錄文昌謹白））九十二字【甲】</note><note n="0943002" resp="CBETA" type="mod">（謝降…聞奏劄）二百五字【大】，〔－〕【宮】，<!--CBETA todo type: newmod-->（（謝降…聞奏劄））二百五字＝（（大慧禪師說法四十餘年言句滿天下平時不許參徒編錄而衲子私自傳寫遂成卷帙晚年因眾力請乃許流通然在會有先後見聞有詳略又賢士大夫所得法語各自寶藏無緣盡覩今之所收殊為未盡俟更採集別為後錄文昌謹白））九十二字【甲】</note><app cb:word-count="205" n="0943002"><lem wit="【大】"><head>謝降賜大慧禪師語錄入藏奏劄</head>
 <lb n="0943a22" ed="T"/><p xml:id="pT47p0943a2201">臣僧蘊聞。昨於乾道七年三月中。不懼天
 <lb n="0943a23" ed="T"/>誅。以先師大慧禪師臣宗杲語錄投進。仍
 <lb n="0943a24" ed="T"/>乞特旨。送福州入藏。伏准。五月十九日。聖
