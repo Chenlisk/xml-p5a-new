@@ -937,14 +937,14 @@ Added comment  for Emacs
 <lb n="0078a25" ed="T"/>身是；四仙人者——拘留秦佛、拘那含文尼佛、
 <lb n="0078a26" ed="T"/>迦葉佛、彌勒佛是也；其梵志者，調達是也。」</p>
 <lb n="0078a27" ed="T"/><p xml:id="pT03p0078a2701">佛說爾時，莫不歡喜。</p></cb:div>
-<lb n="0078a28" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0078007" resp="Taisho" type="orig" place="foot text">不分卷〔生經…譯〕十八字－【三】</note><note n="0078007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔生經…譯〕十八字－【宋】【元】【明】</note>生經</title>卷第一</cb:jhead></cb:juan>
+<lb n="0078a28" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0078007" resp="Taisho" type="orig" place="foot text">不分卷〔生經…譯〕十八字－【三】</note><note n="0078007" resp="CBETA" type="mod"><!--CBETA todo type: a-->（生經…譯）十八字【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷</note>生經</title>卷第一</cb:jhead></cb:juan>
 <pb n="0078b" ed="T" xml:id="T03.0154.0078b"/>
 <lb n="0078b01" ed="T"/>
 <milestone n="2" unit="juan"/>
 <lb n="0078b02" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"/><cb:jhead><title>生經</title>卷第二</cb:jhead></cb:juan>
 <lb n="0078b03" ed="T"/>
 <lb n="0078b04" ed="T"/><byline cb:type="Translator">西晉三藏竺法護譯</byline>
-<lb n="0078b05" ed="T"/><cb:div type="jing"><cb:mulu level="1" n="12" type="經">12 佛說舅甥經</cb:mulu><anchor type="circle"/><head><note n="0078008" resp="Taisho" type="orig" place="foot text">不分卷〔生經…譯〕十八字－【三】</note><note n="0078008" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔生經…譯〕十八字－【宋】【元】【明】</note>佛說舅甥經第十二</head>
+<lb n="0078b05" ed="T"/><cb:div type="jing"><cb:mulu level="1" n="12" type="經">12 佛說舅甥經</cb:mulu><anchor type="circle"/><head><note n="0078008" resp="Taisho" type="orig" place="foot text">不分卷〔生經…譯〕十八字－【三】</note><note n="0078008" resp="CBETA" type="mod"><!--CBETA todo type: a-->（生經…譯）十八字【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷</note>佛說舅甥經第十二</head>
 <lb n="0078b06" ed="T"/><p xml:id="pT03p0078b0601">聞如是：</p><p xml:id="pT03p0078b0604" rend="inline">一時佛遊舍衛國祇樹給孤獨園，
 <lb n="0078b07" ed="T"/>與大比丘眾俱。佛告諸比丘：「乃昔過去無
 <lb n="0078b08" ed="T"/>數劫時，姉弟二人。姉有一子，與舅俱給

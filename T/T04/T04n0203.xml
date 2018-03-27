@@ -184,7 +184,7 @@ Added comment  for Emacs
 <lb n="0447a04" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title>雜寶藏經</title>卷第一<note n="0447001" resp="Taisho" type="orig" place="foot text">〔有九緣〕－【三】</note><note n="0447001" resp="CBETA" type="mod">有九緣【大】，〔－〕【宋】【元】【明】</note><app n="0447001"><lem wit="【大】"><note place="inline">有九緣</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0447a05" ed="T"/>
 <lb n="0447a06" ed="T"/><byline cb:type="Translator">元魏<note n="0447002" resp="Taisho" type="orig" place="foot text">西域三藏＝沙門【三】＊</note><note n="0447002" resp="CBETA" type="mod">西域三藏【大】＊，沙門【宋】＊【元】＊【明】＊</note><app n="0447002"><lem wit="【大】">西域三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">沙門</rdg></app>吉迦夜共曇曜譯</byline>
-<lb n="0447a07" ed="T"/><note n="0447003" resp="Taisho" type="orig" place="foot text">〔十奢…夫人緣〕目錄－【三】</note><note n="0447003" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔十奢…夫人緣〕目錄－【宋】【元】【明】</note><app n="0447003"><lem wit="【大】"><p xml:id="pT04p0447a0701">十奢王緣</p>
+<lb n="0447a07" ed="T"/><note n="0447003" resp="Taisho" type="orig" place="foot text">〔十奢…夫人緣〕目錄－【三】</note><note n="0447003" resp="CBETA" type="mod">（十奢…夫人緣）目錄【大】，〔－〕【宋】【元】【明】</note><app n="0447003"><lem wit="【大】"><p xml:id="pT04p0447a0701">十奢王緣</p>
 <lb n="0447a08" ed="T"/><p xml:id="pT04p0447a0801">王子以肉濟父母緣</p>
 <lb n="0447a09" ed="T"/><p xml:id="pT04p0447a0901">鸚鵡子供養盲父母緣</p>
 <lb n="0447a10" ed="T"/><p xml:id="pT04p0447a1001">棄老國緣</p>
@@ -779,7 +779,7 @@ Added comment  for Emacs
 <lb n="0453c03" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"/><cb:jhead><title>雜寶藏經</title>卷第二</cb:jhead></cb:juan>
 <lb n="0453c04" ed="T"/>
 <lb n="0453c05" ed="T"/><byline cb:type="Translator">元魏<anchor xml:id="fxT04p0453c01"/>西域三藏吉迦夜共曇曜譯</byline>
-<lb n="0453c06" ed="T"/><note n="0453011" resp="Taisho" type="orig" place="foot text">〔六牙…理緣〕目錄－【三】</note><note n="0453011" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔六牙…理緣〕目錄－【宋】【元】【明】</note><app n="0453011"><lem wit="【大】"><p xml:id="pT04p0453c0601">六牙白象緣</p>
+<lb n="0453c06" ed="T"/><note n="0453011" resp="Taisho" type="orig" place="foot text">〔六牙…理緣〕目錄－【三】</note><note n="0453011" resp="CBETA" type="mod">（六牙…理緣）目錄【大】，〔－〕【宋】【元】【明】</note><app n="0453011"><lem wit="【大】"><p xml:id="pT04p0453c0601">六牙白象緣</p>
 <lb n="0453c07" ed="T"/><p xml:id="pT04p0453c0701">兔自燒身供養大仙緣</p>
 <lb n="0453c08" ed="T"/><p xml:id="pT04p0453c0801">善惡獼猴緣</p>
 <lb n="0453c09" ed="T"/><p xml:id="pT04p0453c0901">佛以智水滅<note n="0453c0901" resp="CBETA" type="add">三【CB】【麗-CB】，四【大】</note><app n="0453c0901"><lem resp="CBETA.maha CBETA.say" wit="【CB】【麗-CB】">三<note type="cf1">K30n1001_p0179c06</note><note type="cf2">T04n0203_p0455a03Q</note></lem><rdg wit="【大】">四</rdg></app>火緣</p>
@@ -1366,7 +1366,7 @@ Added comment  for Emacs
 <lb n="0460a20" ed="T"/>王時歎言：「我今乃知佛語為實，自作其業，
 <lb n="0460a21" ed="T"/>自受其報，不可奪也。」由是觀之，善惡報
 <lb n="0460a22" ed="T"/>應，行業所致，非天非王之所能與。</p>
-<lb n="0460a23" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0460007" resp="Taisho" type="orig" place="foot text">不分卷〔雜寶…法緣〕－【三】</note><note n="0460007" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔雜寶…法緣〕－【宋】【元】【明】</note>雜寶藏經</title>卷第二</cb:jhead></cb:juan>
+<lb n="0460a23" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0460007" resp="Taisho" type="orig" place="foot text">不分卷〔雜寶…法緣〕－【三】</note><note n="0460007" resp="CBETA" type="mod"><!--CBETA todo type: a-->雜寶…法緣【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷</note>雜寶藏經</title>卷第二</cb:jhead></cb:juan>
 <lb n="0460a24" ed="T"/>
 <milestone n="3" unit="juan"/>
 <lb n="0460a25" ed="T"/>
@@ -1952,7 +1952,7 @@ Added comment  for Emacs
 <lb n="0466c05" ed="T"/>此行故，得果滿足；以滿足故，得最勝果
 <lb n="0466c06" ed="T"/><note n="0466015" resp="Taisho" type="orig" place="foot text">報＝得【三】</note><note n="0466015" resp="CBETA" type="mod">報【大】，得【宋】【元】【明】</note><app n="0466015"><lem wit="【大】">報</lem><rdg resp="Taisho" wit="【宋】【元】【明】">得</rdg></app>；勝果<note n="0466016" resp="Taisho" type="orig" place="foot text">〔報〕－【三】</note><note n="0466016" resp="CBETA" type="mod">報【大】，〔－〕【宋】【元】【明】</note><app n="0466016"><lem wit="【大】">報</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>故，一切諸天，無有及者；以無
 <lb n="0466c07" ed="T"/>及者，心得快樂<note n="0466017" resp="Taisho" type="orig" place="foot text">〔也〕－【三】</note><note n="0466017" resp="CBETA" type="mod">也【大】，〔－〕【宋】【元】【明】</note><app n="0466017"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>。」</p>
-<lb n="0466c08" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0466018" resp="Taisho" type="orig" place="foot text">不分卷〔雜寶…師緣〕－【三】</note><note n="0466018" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔雜寶…師緣〕－【宋】【元】【明】</note>雜寶藏經</title>卷第三</cb:jhead></cb:juan>
+<lb n="0466c08" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0466018" resp="Taisho" type="orig" place="foot text">不分卷〔雜寶…師緣〕－【三】</note><note n="0466018" resp="CBETA" type="mod"><!--CBETA todo type: a-->雜寶…師緣【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷</note>雜寶藏經</title>卷第三</cb:jhead></cb:juan>
 <lb n="0466c09" ed="T"/>
 <milestone n="4" unit="juan"/>
 <lb n="0466c10" ed="T"/>
@@ -2361,7 +2361,7 @@ Added comment  for Emacs
 <lb n="0471a23" ed="T"/>食，適由先身施此一鉢之食，今得此報，上
 <lb n="0471a24" ed="T"/>至諸佛，下至梵天，淨持戒者，皆名持戒。」時
 <lb n="0471a25" ed="T"/>穿珠師，聞是語已，心大歡喜。</p>
-<lb n="0471a26" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0471004" resp="Taisho" type="orig" place="foot text">不分卷，〔雜寶…天緣〕題號目錄－【三】，（雜寶藏經）＋天【宋】</note><note n="0471004" resp="CBETA" type="mod"><!--CBETA todo type: a-->天【大】，雜寶藏經天【宋】，不分卷，<!--CBETA todo type: newmod-->〔雜寶…天緣〕題號目錄－【宋】【元】【明】</note>雜寶藏經</title>卷第四</cb:jhead></cb:juan>
+<lb n="0471a26" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0471004" resp="Taisho" type="orig" place="foot text">不分卷，〔雜寶…天緣〕題號目錄－【三】，（雜寶藏經）＋天【宋】</note><note n="0471004" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->（雜寶…天緣）題號目錄【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷</note>雜寶藏經</title>卷第四</cb:jhead></cb:juan>
 <pb n="0471b" ed="T" xml:id="T04.0203.0471b"/>
 <lb n="0471b01" ed="T"/>
 <milestone n="5" unit="juan"/>
@@ -2391,7 +2391,7 @@ Added comment  for Emacs
 <lb n="0471b25" ed="T"/><p xml:id="pT04p0471b2501">長者為佛造作講堂生天緣</p>
 <lb n="0471b26" ed="T"/><p xml:id="pT04p0471b2601">長者見王造塔亦復造塔獲報生天緣</p>
 <lb n="0471b27" ed="T"/><p xml:id="pT04p0471b2701">賈客造舍供養佛生天緣</p></cb:div>
-<lb n="0471b28" ed="T"/><cb:div type="other"><cb:mulu level="1" n="52" type="其他">51 天女本以華鬘供養迦葉佛塔緣</cb:mulu><head>（五一）<anchor type="circle"/><note n="0471005" resp="Taisho" type="orig" place="foot text">不分卷，〔雜寶…天緣〕題號目錄－【三】，（雜寶藏經）＋天【宋】</note><note n="0471005" resp="CBETA" type="mod"><!--CBETA todo type: a-->天【大】，雜寶藏經天【宋】，不分卷，<!--CBETA todo type: newmod-->〔雜寶…天緣〕題號目錄－【宋】【元】【明】</note>天女<note n="0471006" resp="Taisho" type="orig" place="foot text">〔本〕－【三】</note><note n="0471006" resp="CBETA" type="mod">本【大】，〔－〕【宋】【元】【明】</note><app n="0471006"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>以華鬘供養迦葉佛塔緣</head>
+<lb n="0471b28" ed="T"/><cb:div type="other"><cb:mulu level="1" n="52" type="其他">51 天女本以華鬘供養迦葉佛塔緣</cb:mulu><head>（五一）<anchor type="circle"/><note n="0471005" resp="Taisho" type="orig" place="foot text">不分卷，〔雜寶…天緣〕題號目錄－【三】，（雜寶藏經）＋天【宋】</note><note n="0471005" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->天【大】，雜寶藏經天【宋】，【宋】【元】【明】不分卷</note>天女<note n="0471006" resp="Taisho" type="orig" place="foot text">〔本〕－【三】</note><note n="0471006" resp="CBETA" type="mod">本【大】，〔－〕【宋】【元】【明】</note><app n="0471006"><lem wit="【大】">本</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>以華鬘供養迦葉佛塔緣</head>
 <lb n="0471b29" ed="T"/><p xml:id="pT04p0471b2901">爾時釋提桓因，從佛聞法，得須陀洹，即還
 <pb n="0471c" ed="T" xml:id="T04.0203.0471c"/>
 <lb n="0471c01" ed="T"/>天上，集諸天眾，讚佛法僧。時有天女，頭戴
@@ -3208,7 +3208,7 @@ Added comment  for Emacs
 <lb n="0480c02" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"/><cb:jhead><title>雜寶藏經</title>卷第<note n="0480011" resp="Taisho" type="orig" place="foot text">七＝六【三】</note><note n="0480011" resp="CBETA" type="mod">七【大】，六【宋】【元】【明】</note><app n="0480011"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【宋】【元】【明】">六</rdg></app></cb:jhead></cb:juan>
 <lb n="0480c03" ed="T"/>
 <lb n="0480c04" ed="T"/><byline cb:type="Translator">元魏<note n="0480012" resp="Taisho" type="orig" place="foot text">西域三藏＝沙門【三】</note><note n="0480012" resp="CBETA" type="mod">西域三藏【大】，沙門【宋】【元】【明】</note><app n="0480012"><lem wit="【大】">西域三藏</lem><rdg resp="Taisho" wit="【宋】【元】【明】">沙門</rdg></app>吉迦夜共曇曜譯</byline>
-<lb n="0480c05" ed="T"/><p xml:id="pT04p0480c0501"><note n="0480013" resp="Taisho" type="orig" place="foot text">〔婆羅…友緣〕目錄－【三】</note><note n="0480013" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->〔婆羅…友緣〕目錄－【宋】【元】【明】</note>婆羅門以如意珠施佛出家得道緣</p>
+<lb n="0480c05" ed="T"/><p xml:id="pT04p0480c0501"><note n="0480013" resp="Taisho" type="orig" place="foot text">〔婆羅…友緣〕目錄－【三】</note><note n="0480013" resp="CBETA" type="mod"><!--CBETA todo type: a-->（婆羅…友緣）目錄【大】，〔－〕【宋】【元】【明】</note>婆羅門以如意珠施佛出家得道緣</p>
 <lb n="0480c06" ed="T"/><p xml:id="pT04p0480c0601">十力迦葉以實言止佛足血緣</p>
 <lb n="0480c07" ed="T"/><p xml:id="pT04p0480c0701">佛在菩提樹下魔王波旬欲來惱佛緣</p>
 <lb n="0480c08" ed="T"/><p xml:id="pT04p0480c0801">佛為諸比丘說利養災患緣</p>
@@ -4002,7 +4002,7 @@ Added comment  for Emacs
 <lb n="0489b14" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="009" type="卷"/><cb:jhead><title>雜寶藏經</title>卷第九</cb:jhead></cb:juan>
 <lb n="0489b15" ed="T"/>
 <lb n="0489b16" ed="T"/><byline cb:type="Translator">元魏西域三藏吉迦夜共曇曜譯</byline>
-<lb n="0489b17" ed="T"/><p xml:id="pT04p0489b1701"><note n="0489008" resp="Taisho" type="orig" place="foot text">〔迦栴…三緣〕目錄及夾註－【三】</note><note n="0489008" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->〔迦栴…三緣〕目錄及夾註－【宋】【元】【明】</note>迦栴延為惡生王解八夢緣</p>
+<lb n="0489b17" ed="T"/><p xml:id="pT04p0489b1701"><note n="0489008" resp="Taisho" type="orig" place="foot text">〔迦栴…三緣〕目錄及夾註－【三】</note><note n="0489008" resp="CBETA" type="mod"><!--CBETA todo type: a-->（迦栴…三緣）目錄及夾註【大】，〔－〕【宋】【元】【明】</note>迦栴延為惡生王解八夢緣</p>
 <lb n="0489b18" ed="T"/><p xml:id="pT04p0489b1801">金猫因緣</p>
 <lb n="0489b19" ed="T"/><p xml:id="pT04p0489b1901">惡生王得五百鉢緣<note place="inline">卷內下文更有八緣三緣</note></p></cb:div>
 <lb n="0489b20" ed="T"/><cb:div type="other"><cb:mulu level="1" n="103" type="其他">102 迦栴延為惡生王解八夢緣</cb:mulu><head>（一〇二）<anchor type="circle"/><note n="0489009" resp="Taisho" type="orig" place="foot text">（雜寶藏經）＋迦【宋】</note><note n="0489009" resp="CBETA" type="mod">迦【大】，雜寶藏經迦【宋】</note><app n="0489009"><lem wit="【大】">迦</lem><rdg resp="Taisho" wit="【宋】">雜寶藏經迦</rdg></app><note n="0489010" resp="Taisho" type="orig" place="foot text">栴＝旃【三】＊</note><note n="0489010" resp="CBETA" type="mod">栴【大】＊，旃【宋】＊【元】＊【明】＊</note><app n="0489010"><lem wit="【大】">栴</lem><rdg resp="Taisho" wit="【宋】【元】【明】">旃</rdg></app>延為惡生王解八夢<note n="0489011" resp="Taisho" type="orig" place="foot text">緣＋（第百二）【三】</note><note n="0489011" resp="CBETA" type="mod">緣【大】，緣第百二【宋】【元】【明】</note><app n="0489011"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">緣第百二</rdg></app></head>
@@ -4206,7 +4206,7 @@ Added comment  for Emacs
 <lb n="0491c08" ed="T"/>天帝知王往<note n="0491015" resp="Taisho" type="orig" place="foot text">昔＝日【三】</note><note n="0491015" resp="CBETA" type="mod">昔【大】，日【宋】【元】【明】</note><app n="0491015"><lem wit="【大】">昔</lem><rdg resp="Taisho" wit="【宋】【元】【明】">日</rdg></app>施鉢因緣，故用遺王。」王聞
 <lb n="0491c09" ed="T"/>是語，尋取寶鉢，以用作福，廣修布施，供養
 <lb n="0491c10" ed="T"/>三寶，從此因緣，後生善處。</p>
-<lb n="0491c11" ed="T"/><p xml:id="pT04p0491c1101"><note n="0491016" resp="Taisho" type="orig" place="foot text">〔求毘…夫緣〕目錄－【三】</note><note n="0491016" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->〔求毘…夫緣〕目錄－【宋】【元】【明】</note>求毘摩天望得大富緣</p>
+<lb n="0491c11" ed="T"/><p xml:id="pT04p0491c1101"><note n="0491016" resp="Taisho" type="orig" place="foot text">〔求毘…夫緣〕目錄－【三】</note><note n="0491016" resp="CBETA" type="mod"><!--CBETA todo type: a-->（求毘…夫緣）目錄【大】，〔－〕【宋】【元】【明】</note>求毘摩天望得大富緣</p>
 <lb n="0491c12" ed="T"/><p xml:id="pT04p0491c1201">鬼子母失子緣</p>
 <lb n="0491c13" ed="T"/><p xml:id="pT04p0491c1301">天祀主緣</p>
 <lb n="0491c14" ed="T"/><p xml:id="pT04p0491c1401">祠樹神緣</p>
@@ -4377,7 +4377,7 @@ Added comment  for Emacs
 <lb n="0493b29" ed="T"/>姑答：「已殺。」至於明日，方知夫死。不孝之罪，
 <pb n="0493c" ed="T" xml:id="T04.0203.0493c"/>
 <lb n="0493c01" ed="T"/>現報如是，後入地獄，受苦無量。</p>
-<lb n="0493c02" ed="T"/><p xml:id="pT04p0493c0201"><note n="0493016" resp="Taisho" type="orig" place="foot text">〔波羅…果緣〕目錄－【三】</note><note n="0493016" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->〔波羅…果緣〕目錄－【宋】【元】【明】</note>波羅奈王聞塚間喚緣</p>
+<lb n="0493c02" ed="T"/><p xml:id="pT04p0493c0201"><note n="0493016" resp="Taisho" type="orig" place="foot text">〔波羅…果緣〕目錄－【三】</note><note n="0493016" resp="CBETA" type="mod"><!--CBETA todo type: a-->（波羅…果緣）目錄【大】，〔－〕【宋】【元】【明】</note>波羅奈王聞塚間喚緣</p>
 <lb n="0493c03" ed="T"/><p xml:id="pT04p0493c0301">老比丘得四果緣</p>
 <lb n="0493c04" ed="T"/><p xml:id="pT04p0493c0401">女人至誠得道果緣</p></cb:div>
 <lb n="0493c05" ed="T"/><cb:div type="other"><cb:mulu level="1" n="114" type="其他">113 波羅奈王聞塚間喚緣</cb:mulu><head>（一一三）<note n="0493017" resp="Taisho" type="orig" place="foot text">（雜寶藏經）＋波【宋】</note><note n="0493017" resp="CBETA" type="mod">波【大】，雜寶藏經波【宋】</note><app n="0493017"><lem wit="【大】">波</lem><rdg resp="Taisho" wit="【宋】">雜寶藏經波</rdg></app>羅奈王聞塚間喚<note n="0493018" resp="Taisho" type="orig" place="foot text">緣＋（第百十三）【三】</note><note n="0493018" resp="CBETA" type="mod">緣【大】，緣第百十三【宋】【元】【明】</note><app n="0493018"><lem wit="【大】">緣</lem><rdg resp="Taisho" wit="【宋】【元】【明】">緣第百十三</rdg></app></head>

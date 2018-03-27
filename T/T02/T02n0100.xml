@@ -257,7 +257,7 @@ Added comment  for Emacs
 <lb n="0374a02" ed="T"/><cb:docNumber>No. 100</cb:docNumber>
 <lb n="0374a03" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"/><cb:jhead><title><note n="0374001" resp="Taisho" type="orig" place="foot text">此經十六卷宋元明俱作二十卷</note>別譯雜阿含</title><note n="0374002" resp="Taisho" type="orig" place="foot text">經＋（初誦）【三】【聖】</note><note n="0374002" resp="CBETA" type="mod">經【大】，經初誦【宋】【元】【明】【聖】</note><app n="0374002"><lem wit="【大】">經</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">經初誦</rdg></app>卷第一</cb:jhead></cb:juan>
 <lb n="0374a04" ed="T"/>
-<lb n="0374a05" ed="T"/><byline cb:type="Translator"><note n="0374003" resp="Taisho" type="orig" place="foot text">失譯等八字宋元俱至其卷第十悉作失譯二字其卷第十一以下悉作失譯今附秦錄六字明作失譯人名附秦錄七字下皆同，－【聖】</note><note n="0374003" resp="CBETA" type="mod"><!--CBETA todo type: a-->失譯等八字宋元俱至其卷第十悉作失譯二字其卷第十一以下悉作失譯今附秦錄六字明作失譯人名附秦錄七字下皆同，<!--CBETA todo type: newmod-->－【聖】</note>失譯人名今附秦錄</byline>
+<lb n="0374a05" ed="T"/><byline cb:type="Translator"><note n="0374003" resp="Taisho" type="orig" place="foot text">失譯等八字宋元俱至其卷第十悉作失譯二字其卷第十一以下悉作失譯今附秦錄六字明作失譯人名附秦錄七字下皆同，－【聖】</note><note n="0374003" resp="CBETA" type="mod"><!--CBETA todo type: a-->失譯人名今附秦錄【大】，〔－〕【聖】，失譯等八字宋元俱至其卷第十悉作失譯二字其卷第十一以下悉作失譯今附秦錄六字明作失譯人名附秦錄七字下皆同</note>失譯人名今附秦錄</byline>
 <lb n="0374a06" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">1 初誦</cb:mulu><note n="0374004" resp="Taisho" type="orig" place="foot text">〔初誦第一〕－【三】【聖】</note><note n="0374004" resp="CBETA" type="mod">初誦第一【大】，〔－〕【宋】【元】【明】【聖】</note><app n="0374004"><lem wit="【大】"><head>初誦第一</head></lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】"><space quantity="0"/></rdg></app>
 <lb n="0374a07" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">1</cb:mulu><head><note n="0374005" resp="Taisho" type="orig" place="foot text">[No. 99(1062)]</note><note n="0374005" place="foot" type="cf.">[No. 99(1062)]</note>（一）</head><p xml:id="pT02p0374a0702" rend="inline">如是我聞：</p><p xml:id="pT02p0374a0706" rend="inline">一時，佛在彌絺羅國菴婆羅
 <lb n="0374a08" ed="T"/>園。爾時，尊者善生初始出家，剃除鬚髮，來詣
@@ -3494,7 +3494,7 @@ Added comment  for Emacs
 <lb n="0409c29" ed="T"/><l>旃陀、婆私吒</l><l>失牛、講集處</l>
 <pb n="0410a" ed="T" xml:id="T02.0100.0410a"/>
 <lb n="0410a01" ed="T"/><l>天敬娑羅林</l><l>聚薪、二孫陀</l>
-<lb n="0410a02" ed="T"/><l>一髻髮<note n="0410001" resp="Taisho" type="orig" place="foot text">以十＋為卷第五終【三】</note><note n="0410001" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->以十＋為卷第五終【宋】【元】【明】</note>為十</l></lg></cb:div>
+<lb n="0410a02" ed="T"/><l>一髻髮<note n="0410001" resp="Taisho" type="orig" place="foot text">以十＋為卷第五終【三】</note><note n="0410001" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->為十【大】，為十卷第五終【宋】【元】【明】</note>為十</l></lg></cb:div>
 <lb n="0410a03" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">101</cb:mulu><head><note n="0410002" resp="Taisho" type="orig" place="foot text">[No. 99(1188)]</note><note n="0410002" place="foot" type="cf.">[No. 99(1188)]</note>（一〇一）</head><p xml:id="pT02p0410a0304" rend="inline"><note n="0410003" resp="Taisho" type="orig" place="foot text">如是以下為卷第六【三】【聖】</note><note n="0410003" resp="CBETA" type="mod"><!--CBETA todo type: a-->如是以下為卷第六【宋】【元】【明】【聖】</note>如是我聞：</p><p xml:id="pT02p0410a0308" rend="inline">一時，佛在優樓頻螺聚落，
 <lb n="0410a04" ed="T"/><note n="0410004" resp="Taisho" type="orig" place="foot text">泥＝尼【三】【聖】＊</note><note n="0410004" resp="CBETA" type="mod">泥【大】＊，尼【宋】【元】【明】【聖】＊</note><app n="0410004"><lem wit="【大】">泥</lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">尼</rdg></app>連河岸菩提樹下，成佛未久。爾時，世尊獨
 <lb n="0410a05" ed="T"/>坐思惟，而作是念：「夫人無敬心，不能恭順於
@@ -3664,7 +3664,7 @@ Added comment  for Emacs
 <lb n="0411c19" ed="T"/><l>入此地獄。」</l></lg>
 <lb n="0411c20" ed="T"/><p xml:id="pT02p0411c2001">時，梵主天聞是偈已，禮佛而退。</p></cb:div>
 <lb n="0411c21" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title><note n="0411009" resp="Taisho" type="orig" place="foot text">不分卷於此【三】【聖】</note><note n="0411009" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷於此【宋】【元】【明】【聖】</note>別譯雜阿含</title>經卷第五</cb:jhead></cb:juan>
-<lb n="0411c22" ed="T"/><cb:div type="w"><p xml:id="pT02p0411c2201"><note n="0411010" resp="Taisho" type="orig" place="foot text">〔此卷末…二卷焉〕百〇六字－【三】【聖】</note><note n="0411010" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔此卷末…二卷焉〕百〇六字－【宋】【元】【明】【聖】</note><app n="0411010" cb:word-count="106"><lem wit="【大】">此卷末五經及第六卷初五經，皆國、宋本
+<lb n="0411c22" ed="T"/><cb:div type="w"><p xml:id="pT02p0411c2201"><note n="0411010" resp="Taisho" type="orig" place="foot text">〔此卷末…二卷焉〕百〇六字－【三】【聖】</note><note n="0411010" resp="CBETA" type="mod">（此卷末…二卷焉）百〇六字【大】，〔－〕【宋】【元】【明】【聖】</note><app n="0411010" cb:word-count="106"><lem wit="【大】">此卷末五經及第六卷初五經，皆國、宋本
 <lb n="0411c23" ed="T"/>所無而丹本獨有者。第九是《梵問經》，第十
 <lb n="0411c24" ed="T"/>是《度須跋經》。今撿《梵問經》者，與彼大本《雜
 <lb n="0411c25" ed="T"/>阿含經》第四十四卷之初，同本異譯。《度須
@@ -8153,7 +8153,7 @@ Added comment  for Emacs
 <lb n="0461c09" ed="T"/>
 <lb n="0461c10" ed="T"/><cb:juan n="013" fun="open"><cb:mulu n="013" type="卷"/><cb:jhead><note n="0461012" resp="Taisho" type="orig" place="foot text">〔別譯…准〕經題並夾註二十字－【三】</note><note n="0461012" resp="CBETA" type="mod">（別譯雜阿含經卷第十三(丹本第七卷六張已後准)）二十字【大】，〔－〕【宋】【元】【明】</note><app n="0461012"><lem wit="【大】"><title>別譯雜阿含</title>經卷第十三<note place="inline">丹本第七卷六張已後准</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0461c11" ed="T"/>
-<lb n="0461c12" ed="T"/><byline cb:type="Translator"><note n="0461013" resp="Taisho" type="orig" place="foot text">〔失譯…錄〕譯號－【三】</note><note n="0461013" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->〔失譯人名今附秦錄〕譯號－【宋】【元】【明】</note><app n="0461013"><lem wit="【大】">失譯人名今附秦錄</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></byline>
+<lb n="0461c12" ed="T"/><byline cb:type="Translator"><note n="0461013" resp="Taisho" type="orig" place="foot text">〔失譯…錄〕譯號－【三】</note><note n="0461013" resp="CBETA" type="mod">失譯人名今附秦錄【大】，〔－〕【宋】【元】【明】</note><app n="0461013"><lem wit="【大】">失譯人名今附秦錄</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></byline>
 <lb n="0461c13" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">250</cb:mulu><head><note n="0461014" resp="Taisho" type="orig" place="foot text">[No. 99(1215)]如是以下八經連續卷第十二第十七經終苦則有邊際次行【三】</note><note n="0461014" resp="CBETA" type="mod">[No. 99(1215)]，<!--CBETA todo type: newmod-->如是以下八經連續卷第十二第十七經終苦則有邊際次行【宋】【元】【明】</note><note n="0461014" place="foot" type="cf.">[No. 99(1215)]</note><note n="0461014" place="foot" type="rest">如是以下八經連續卷第十二第十七經終苦則有邊際次行【宋】【元】【明】</note>（二五〇）</head><p xml:id="pT02p0461c1304" rend="inline">如是我聞：</p><p xml:id="pT02p0461c1308" rend="inline">一時，佛在舍衛國祇樹給孤
 <lb n="0461c14" ed="T"/>獨園。時有長者，請佛及僧施設大會。爾時，世
 <lb n="0461c15" ed="T"/>尊與諸大眾圍遶，至彼大長者家。時彼尊者
@@ -9462,7 +9462,7 @@ Added comment  for Emacs
 <milestone n="15" unit="juan"/>
 <lb n="0476b02" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="015" type="卷"/><cb:jhead><title><note n="0476007" resp="Taisho" type="orig" place="foot text">不分卷於此【三】</note><note n="0476007" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷於此【宋】【元】【明】</note>別譯雜阿含</title>經卷第十五<note n="0476008" resp="Taisho" type="orig" place="foot text">夾註〔丹本…准〕－【三】</note><note n="0476008" resp="CBETA" type="mod">(丹本第十一卷第五張准)【大】，〔－〕【宋】【元】【明】</note><app n="0476008"><lem wit="【大】"><note place="inline">丹本第十一卷第五張准</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></cb:jhead></cb:juan>
 <lb n="0476b03" ed="T"/>
-<lb n="0476b04" ed="T"/><byline cb:type="Translator"><note n="0476009" resp="Taisho" type="orig" place="foot text">譯號〔失譯…錄〕－【三】</note><note n="0476009" resp="CBETA" type="mod"><!--CBETA todo type: newmod-->譯號〔失譯人名今附秦錄〕－【宋】【元】【明】</note><app n="0476009"><lem wit="【大】">失譯人名今附秦錄</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></byline>
+<lb n="0476b04" ed="T"/><byline cb:type="Translator"><note n="0476009" resp="Taisho" type="orig" place="foot text">譯號〔失譯…錄〕－【三】</note><note n="0476009" resp="CBETA" type="mod">失譯人名今附秦錄【大】，〔－〕【宋】【元】【明】</note><app n="0476009"><lem wit="【大】">失譯人名今附秦錄</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app></byline>
 <lb n="0476b05" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">298</cb:mulu><head><note n="0476010" resp="Taisho" type="orig" place="foot text">[No. 99(1300)]</note><note n="0476010" place="foot" type="cf.">[No. 99(1300)]</note>（二九八）</head><p xml:id="pT02p0476b0504" rend="inline">如是我聞：</p><p xml:id="pT02p0476b0508" rend="inline">一時，佛在舍衛國祇樹給孤
 <lb n="0476b06" ed="T"/>獨園。爾時，有一天子名曰因陀羅，光色倍常，
 <lb n="0476b07" ed="T"/>於其夜中，來詣佛所，身光暉曜，遍照祇洹，赫

@@ -858,7 +858,7 @@ Added comment  for Emacs
 <lb n="0628a22" ed="T"/>歡喜，歎未曾有，即厚供養彼婆羅門，隨意
 <lb n="0628a23" ed="T"/>所<note n="0628002" resp="Taisho" type="orig" place="foot text">之＝須【三】</note><note n="0628002" resp="CBETA" type="mod">之【大】，須【宋】【元】【明】</note><app n="0628002"><lem wit="【大】">之</lem><rdg resp="Taisho" wit="【宋】【元】【明】">須</rdg></app>。凡諸<app type="star" corresp="#0627008"><lem wit="【大】">技</lem><rdg resp="Taisho" wit="【宋】【聖】">伎</rdg></app>藝典籍議論，天文地理，算數
 <lb n="0628a24" ed="T"/>射御，太子皆悉自然知之。</p>
-<lb n="0628a25" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0628003" resp="Taisho" type="orig" place="foot text">不分卷〔過去…譯〕三十一字－【聖】</note><note n="0628003" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->不分卷〔過去…譯〕三十一字－【聖】</note>過去現在因果經</title>卷第一</cb:jhead></cb:juan>
+<lb n="0628a25" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0628003" resp="Taisho" type="orig" place="foot text">不分卷〔過去…譯〕三十一字－【聖】</note><note n="0628003" resp="CBETA" type="mod"><!--CBETA todo type: a-->（過去…譯）三十一字【大】，〔－〕【聖】，【聖】不分卷</note>過去現在因果經</title>卷第一</cb:jhead></cb:juan>
 <pb n="0628b" ed="T" xml:id="T03.0189.0628b"/>
 <lb n="0628b01" ed="T"/>
 <milestone n="2" unit="juan"/>

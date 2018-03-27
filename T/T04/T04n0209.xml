@@ -447,7 +447,7 @@ Added comment  for Emacs
 <lb n="0546a12" ed="T"/>無智乃至如此。未生子者竟可得不？而殺
 <lb n="0546a13" ed="T"/>現子。」愚人亦爾，為<note n="0546004" resp="Taisho" type="orig" place="foot text">未生樂＝生天故【三】</note><note n="0546004" resp="CBETA" type="mod">未生樂【大】，生天故【宋】【元】【明】</note><app n="0546004"><lem wit="【大】">未生樂</lem><rdg resp="Taisho" wit="【宋】【元】【明】">生天故</rdg></app>自投火坑，種種
 <lb n="0546a14" ed="T"/>害身為得生天。</p>
-<lb n="0546a15" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0546005" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…鬼喻〕－，但目錄在卷上初【三】</note><note n="0546005" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷，〔百喻…鬼喻〕－，<!--CBETA todo type: newmod-->但目錄在卷上初【宋】【元】【明】</note>百喻經</title>卷第一</cb:jhead></cb:juan></cb:div>
+<lb n="0546a15" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0546005" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…鬼喻〕－，但目錄在卷上初【三】</note><note n="0546005" resp="CBETA" type="mod"><!--CBETA todo type: a-->百喻…鬼喻【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷但目錄在卷上初</note>百喻經</title>卷第一</cb:jhead></cb:juan></cb:div>
 <lb n="0546a16" ed="T"/><cb:div type="w"><p xml:id="pT04p0546a1601"><note n="0546006" resp="Taisho" type="orig" place="foot text">（聞如是乃至廣說眾喻）三百七十四字在卷首【三】, (P. 543) 麗本闕</note><note n="0546006" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->（聞如是乃至廣說眾喻）三百七十四字在卷首【宋】【元】【明】，(P. 543)，麗本闕</note>聞如是：</p><p xml:id="pT04p0546a1604" rend="inline">一時佛在王舍城，在鵲封竹園，
 <lb n="0546a17" ed="T"/>與諸大比丘菩薩摩訶薩及諸八部三萬六
 <lb n="0546a18" ed="T"/>千人俱。是時會中有異學梵志五百人俱，
@@ -488,7 +488,8 @@ Added comment  for Emacs
 <lb n="0546b22" ed="T"/>　斫樹取果喻　送美水喻　寶篋鏡喻　破
 <lb n="0546b23" ed="T"/>五通仙眼喻　殺群牛喻　飲木筩水喻　見
 <lb n="0546b24" ed="T"/>他<note n="0546012" resp="Taisho" type="orig" place="foot text">〔人〕－【三】</note><note n="0546012" resp="CBETA" type="mod">人【大】，〔－〕【宋】【元】【明】</note><app n="0546012"><lem wit="【大】">人</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>塗舍喻　治禿喻　毘舍闍鬼喻</p>
-<lb n="0546b25" ed="T"/><cb:mulu level="1" n="22" type="其他">22 入海取沈水喻</cb:mulu><head><anchor type="circle"/><note n="0546013" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…鬼喻〕－，但目錄在卷上初【三】</note><note n="0546013" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷，〔百喻…鬼喻〕－，<!--CBETA todo type: newmod-->但目錄在卷上初【宋】【元】【明】</note><note n="0546b2501" resp="CBETA" type="add"><!-- check:檢查括號是否保留 -->（二二）【CB】，［－］【大】</note><app n="0546b2501"><lem wit="【CB】" resp="CBETA">（二二）</lem><rdg wit="【大】"><space quantity="0"/></rdg></app>入海取沈水<note n="0546014" resp="Taisho" type="orig" place="foot text">目錄喻下有二十二乃至四十一記數下准之【元】【明】</note><note n="0546014" resp="CBETA" type="mod"><!--CBETA todo type: a-->目錄喻下有二十二乃至四十一記數下准之【元】【明】</note>喻</head>
+<lb n="0546b25" ed="T"/><cb:mulu level="1" n="22" type="其他">22 入海取沈水喻</cb:mulu><head><anchor type="circle"/><note n="0546013" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…鬼喻〕－，但目錄在卷上初【三】</note><note n="0546013" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->【宋】【元】【明】不分卷，但目錄在卷上初
+</note><note n="0546b2501" resp="CBETA" type="add"><!-- check:檢查括號是否保留 -->（二二）【CB】，［－］【大】</note><app n="0546b2501"><lem wit="【CB】" resp="CBETA">（二二）</lem><rdg wit="【大】"><space quantity="0"/></rdg></app>入海取沈水<note n="0546014" resp="Taisho" type="orig" place="foot text">目錄喻下有二十二乃至四十一記數下准之【元】【明】</note><note n="0546014" resp="CBETA" type="mod"><!--CBETA todo type: a-->目錄喻下有二十二乃至四十一記數下准之【元】【明】</note>喻</head>
 <lb n="0546b26" ed="T"/><p xml:id="pT04p0546b2601"><note n="0546b2601" resp="CBETA" type="add">［－］【CB】，<!-- check:檢查括號是否保留 -->（二二）【大】</note><app n="0546b2601"><lem wit="【CB】" resp="CBETA"><space quantity="0"/></lem><rdg wit="【大】">（二二）</rdg></app>昔有長者子，入海取沈水積有年載，
 <lb n="0546b27" ed="T"/>方得一車持來歸家。詣市賣之，以其貴故
 <lb n="0546b28" ed="T"/>卒無買者，經歷多日不能得售，心生疲
@@ -749,7 +750,8 @@ Added comment  for Emacs
 <lb n="0549b13" ed="T"/>昇人天。諸魔外道諍篋者，喻於有漏中強
 <lb n="0549b14" ed="T"/>求果報，空無所得。若能修行善行及以布
 <lb n="0549b15" ed="T"/>施持戒禪定，便得離苦獲得道果。</p>
-<lb n="0549b16" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0549012" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－，目錄中估客駝死喻已下九頂上卷初，五人買婢共使作喻已下十五頂在下卷初【三】</note><note n="0549012" resp="CBETA" type="mod"><!--CBETA todo type: a-->不分卷，〔百喻…譯〕－，目錄中估客駝死喻已下九頂上卷初，<!--CBETA todo type: newmod-->五人買婢共使作喻已下十五頂在下卷初【宋】【元】【明】</note>百喻經</title>卷第二</cb:jhead></cb:juan>
+<lb n="0549b16" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0549012" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－，目錄中估客駝死喻已下九頂上卷初，五人買婢共使作喻已下十五頂在下卷初【三】</note><note n="0549012" resp="CBETA" type="mod"><!--CBETA todo type: a-->百喻…譯【大】，〔－〕【宋】【元】【明】，<!--CBETA todo type: newmod-->【宋】【元】【明】不分卷，目錄中估客駝死喻已下九頂上卷初，五人買婢共使作喻已下十五頂在下卷初
+</note>百喻經</title>卷第二</cb:jhead></cb:juan>
 <lb n="0549b17" ed="T"/>
 <milestone n="3" unit="juan"/>
 <lb n="0549b18" ed="T"/>
@@ -772,7 +774,7 @@ Added comment  for Emacs
 <lb n="0549c05" ed="T"/><cb:div type="other"><cb:mulu level="1" n="42" type="其他">42 估客駝死喻</cb:mulu><head>（四二）<anchor type="circle"/><note n="0549018" resp="Taisho" type="orig" place="foot text">估客駝死喻乃至醫治脊僂喻等喻下有四十二乃至五十記數下准之【元】【明】</note><note n="0549018" resp="CBETA" type="mod"><!--CBETA todo type: a-->估客駝死喻乃至醫治脊僂喻等喻下有四十二乃至五十記數下准之【元】【明】</note>估客駝死喻</head>
 <lb n="0549c06" ed="T"/><p xml:id="pT04p0549c0601">譬如估客遊行商賈，會於路中而駝卒死，
 <lb n="0549c07" ed="T"/>駝上所載多有珍寶，細軟上㲲種種雜物。駝
-<lb n="0549c08" ed="T"/>既死已即剝其皮，商主捨行坐二<note n="0549019" resp="Taisho" type="orig" place="foot text">不分卷，弟子＝子弟【三】</note><note n="0549019" resp="CBETA" type="mod"><!--CBETA todo type: a-->弟子【大】，子弟【宋】【元】【明】，不分卷</note>弟子而語
+<lb n="0549c08" ed="T"/>既死已即剝其皮，商主捨行坐二<note n="0549019" resp="Taisho" type="orig" place="foot text">不分卷，弟子＝子弟【三】</note><note n="0549019" resp="CBETA" type="mod"><!--CBETA todo type: a-->弟子【大】，子弟【宋】【元】【明】，【宋】【元】【明】不分卷</note>弟子而語
 <lb n="0549c09" ed="T"/>之言：「好看駝皮莫使濕爛。」其後天雨，二人
 <lb n="0549c10" ed="T"/>頑<note n="0549020" resp="Taisho" type="orig" place="foot text">嚚＝癡【三】</note><note n="0549020" resp="CBETA" type="mod">嚚【大】，癡【宋】【元】【明】</note><app n="0549020"><lem wit="【大】">嚚</lem><rdg resp="Taisho" wit="【宋】【元】【明】">癡</rdg></app>盡以好㲲覆此皮上，㲲盡<note n="0549021" resp="Taisho" type="orig" place="foot text">爛壞＝圻爛【三】</note><note n="0549021" resp="CBETA" type="mod">爛壞【大】，圻爛【宋】【元】【明】</note><app n="0549021"><lem wit="【大】">爛壞</lem><rdg resp="Taisho" wit="【宋】【元】【明】">圻爛</rdg></app>，皮㲲
 <lb n="0549c11" ed="T"/>之價理自懸殊，以愚癡故以㲲覆皮。世間
@@ -1100,7 +1102,7 @@ Added comment  for Emacs
 <lb n="0553b03" ed="T"/>施遇善知識便獲勝報，不淨之施猶尚如
 <lb n="0553b04" ed="T"/>此，況復善心歡喜布施？是故應當於福田
 <lb n="0553b05" ed="T"/>所勤心修施。</p>
-<lb n="0553b06" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0553006" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－【三】，目錄在三本下卷首【三】</note><note n="0553006" resp="CBETA" type="mod"><!--CBETA todo type: a-->百喻…譯【大】，〔－〕【宋】【元】【明】，不分卷，<!--CBETA todo type: newmod-->目錄在三本下卷首【宋】【元】【明】</note>百喻經</title>卷第三</cb:jhead></cb:juan>
+<lb n="0553b06" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><note n="0553006" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－【三】，目錄在三本下卷首【三】</note><note n="0553006" resp="CBETA" type="mod"><!--CBETA todo type: a-->百喻…譯【大】，〔－〕【宋】【元】【明】，【宋】【元】【明】不分卷，<!--CBETA todo type: newmod-->目錄在三本下卷首</note>百喻經</title>卷第三</cb:jhead></cb:juan>
 <lb n="0553b07" ed="T"/>
 <milestone n="4" unit="juan"/>
 <lb n="0553b08" ed="T"/>
@@ -1121,7 +1123,7 @@ Added comment  for Emacs
 <lb n="0553b23" ed="T"/>喻　小兒得歡喜丸喻　老母捉熊喻　摩尼
 <lb n="0553b24" ed="T"/>水竇喻　二鴿喻　詐稱眼盲喻　<note n="0553015" resp="Taisho" type="orig" place="foot text">〔為〕－【三】</note><note n="0553015" resp="CBETA" type="mod">為【大】，〔－〕【宋】【元】【明】</note><app n="0553015"><lem wit="【大】">為</lem><rdg resp="Taisho" wit="【宋】【元】【明】"><space quantity="0"/></rdg></app>惡賊
 <lb n="0553b25" ed="T"/>所劫失<note n="0553016" resp="Taisho" type="orig" place="foot text">疊＝㲲【三】</note><note n="0553016" resp="CBETA" type="mod">疊【大】，㲲【宋】【元】【明】</note><app n="0553016"><lem wit="【大】">疊</lem><rdg resp="Taisho" wit="【宋】【元】【明】">㲲</rdg></app>喻　小兒得大龜喻</p></cb:div>
-<lb n="0553b26" ed="T"/><cb:div type="other"><cb:mulu level="1" n="66" type="其他">66 口誦乘船法而不解用喻</cb:mulu><head>（六六）<anchor type="circle"/><note n="0553017" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－【三】，目錄在三本下卷首【三】</note><note n="0553017" resp="CBETA" type="mod"><!--CBETA todo type: a-->百喻…譯【大】，〔－〕【宋】【元】【明】，不分卷，<!--CBETA todo type: newmod-->目錄在三本下卷首【宋】【元】【明】</note>口誦乘船法而不解用<note n="0553018" resp="Taisho" type="orig" place="foot text">喻下有十六十七等記數下准之【元】【明】</note><note n="0553018" resp="CBETA" type="mod"><!--CBETA todo type: a-->喻下有十六十七等記數下准之【元】【明】</note>喻</head>
+<lb n="0553b26" ed="T"/><cb:div type="other"><cb:mulu level="1" n="66" type="其他">66 口誦乘船法而不解用喻</cb:mulu><head>（六六）<anchor type="circle"/><note n="0553017" resp="Taisho" type="orig" place="foot text">不分卷，〔百喻…譯〕－【三】，目錄在三本下卷首【三】</note><note n="0553017" resp="CBETA" type="mod"><!--CBETA todo type: a--><!--CBETA todo type: newmod-->【宋】【元】【明】不分卷，目錄在三本下卷首</note>口誦乘船法而不解用<note n="0553018" resp="Taisho" type="orig" place="foot text">喻下有十六十七等記數下准之【元】【明】</note><note n="0553018" resp="CBETA" type="mod"><!--CBETA todo type: a-->喻下有十六十七等記數下准之【元】【明】</note>喻</head>
 <lb n="0553b27" ed="T"/><p xml:id="pT04p0553b2701">昔有大長者子，共諸商人入海採寶。此長
 <lb n="0553b28" ed="T"/>者子善誦入海捉船方法，若入海水<note n="0553019" resp="Taisho" type="orig" place="foot text">漩＝旋【宋】【元】</note><note n="0553019" resp="CBETA" type="mod">漩【大】，旋【宋】【元】</note><app n="0553019"><lem wit="【大】">漩</lem><rdg resp="Taisho" wit="【宋】【元】">旋</rdg></app><note n="0553b2801" resp="CBETA" type="add">澓【CB】【麗-CB】，洑【大】</note><app n="0553b2801"><lem wit="【CB】【麗-CB】" resp="CBETA.maha">澓<note type="cf1">K30n0987_p0016a08</note></lem><rdg wit="【大】">洑</rdg></app>
 <lb n="0553b29" ed="T"/>洄流磯激之處，當如是捉、如是正、如是住，
